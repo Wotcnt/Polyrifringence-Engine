@@ -23,7 +23,7 @@
 ---
 
 <details>
-<summary>📜Click here for the Overview </summary>
+<summary>📜Click here for the Summary Overview </summary>
 
 ### 🧬 Overview
 **Polyrifringence Engine** is a GPU-accelerated recursive interferometer framework  
