@@ -60,8 +60,8 @@ requirements_install.bat
 ---
 
 #### 🧪 Below are tested CLI examples for the **v6.8 engine**, demonstrating various benchmark configurations.
-### Basic Matrix-Sweep Benchmark:
 
+### Basic Matrix-Sweep Benchmark:
 ```bash
 python3 src/polyrifringence_engine_v6_8.py \
   --flows main,special \
@@ -71,19 +71,24 @@ python3 src/polyrifringence_engine_v6_8.py \
   --num_rays 100000 \
   --thickness_mm 1.0 \
   --spread_mrad 0.5 \
+  --half \
+  --export_pair \
+  --progress auto \
   --out_csv logs_v6_8_matrix.csv
 ```
 
 ### High-Precision Feedback Test
 ```bash
 python src/polyrifringence_engine_v6_8.py \
-  --flows main,special \
+  --flows special \
   --gems sapphire,diamond \
-  --wavelengths 400:800:100 \
-  --tilts=-5:5:1 \
-  --num_rays 100000 \
+  --wavelengths 400:800:10 \
+  --tilts=0 \
+  --num_rays 200000 \
   --thickness_mm 1.0 \
   --spread_mrad 0.5 \
+  --progress auto \
+  --export_pair \
   --out_csv logs_v6_8_matrix.csv
   ```
 
@@ -93,7 +98,13 @@ python polyrifringence_engine_v6_8.py \
   --flows main,special \
   --gems sapphire,diamond,quartz,calcite,zircon \
   --wavelengths 600 \
-  --tilts= 0:8:1 \
+  --tilts=0:8:1 \
+  --num_rays 150000 \
+  --thickness_mm 1.0 \
+  --spread_mrad 0.5 \
+  --half \
+  --export_pair \
+  --progress auto \
   --out_csv logs_v6_8_multigem.csv
   ```
 
@@ -107,6 +118,9 @@ python polyrifringence_engine_v6_8.py \
   '--num_rays=50000',
   '--thickness_mm=1.0',
   '--spread_mrad=0.2',
+  '--half', 
+  '--export_pair',
+  '--progress auto',
   '--out_csv=examples/custom_run.csv'
   ```
 
@@ -253,18 +267,18 @@ Recursive Birefringence + feedback-coherent restoration.
 - A GPU-accelerated recursive interferometer matching 
 classical optics to within <1% residual error.
 
-———————————🜎
+————————————————————————————————————————————————————————🜎
 
 - Polyrifringence: a recursive optics engine where light learns from its own refraction.
 - A bridge between geometry and optics;
 that most people only talk about metaphorically.
 
-———————————🜎
+————————————————————————————————————————————————————————🜎
 
 - A multi-axis, recursive birefringence in coupled optical paths
 - with feedback-driven restoration of coherence, parallelism (Euclid-5), and topological closure (Möbius-like Γ ≈ π).
      
-———————————🜎
+————————————————————————————————————————————————————————🜎
 
 - Euclids-5th becomes a diagnostic, not a slogan: 
 - “Are parallel beams still parallel after recursion?"
@@ -276,35 +290,60 @@ that most people only talk about metaphorically.
  framework.
  
 ————————————————————————————————————————————————————————
-
 ###           ☄️Polyrifringence Engine Flow Chart 🧲
-
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————
-
-    - ∮1 Beam -> Focused Beam –> ∯Dual Split Beam --> ∰Multi-Phase Split Beam ----> ∳Recombination <⇄>(Optional*)  
-
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————
-
-Beam----->
->-+Beam+>------>
->-n-Beam----->
->-n_x-Beam>------>
->-n_x-Phase-Beam Recombination (Optional*)
-
-———————————🜎
-
-• Phase-Beam *x⧉(Variation)🧪
-• Each recursion restores coherence until geometry and phase converge.
-
 ————————————————————————————————————————————————————————
 
-###           ❖The coined word family❖
+    - ∮1 Beam -> Focused Beam –> ∯Dual Split Beam --> ∰Multi-Phase Split Beam ----> n_x-Phase-Beam ∳Recombination <⇄>(Optional*)
+    - ∮1 Beam>----->+fBeam+>>------>>∯n-Beam----->>>>∰n_x-Beam>>>>------>>>>n_x-Phase-Beam ∳Recombination <⇄>(Optional*)
+	
+#### Main:
+- Light -> Polarised Film -> Bifrucated Film -> Anisotropic Gem
+- Light -> Polarised Film -> Bifrucated Film -> Isotropic Gem
+---
+#### Variation #1
+- Light -> Bifrucated Film -> Polarised Film -> Anisotropic Gem
+- Light -> Bifrucated Film -> Polarised Film -> Isotropic Gem
+---
+#### Variation #2
+- Light -> Bifrucated Film ->Polarised Film -> Anistropic Gem
+- Light -> Polarised Film -> Bifrucated Film -> Isotropic Gem
+---
+#### Variation #3
+- Light -> Polarised Film  -> Bifrucated Film -> Anistropic Gem
+- Light -> Bifrucated Film -> Polarised Film -> Isotropic Gem
+---
+
+#### (+)= Polarised Film or Bifurcated Film-(Can be interchangeable)
+
+-     Beam----->+Beam+>------>n-Beam----->n_x-Beam>------>n_x-Phase-Beam Recombination (Optional)
+-     >------>n_x-Phase-Beam Refraction/Defraction
+-     >------>n_x-Phase-Beam Recoupling
+-     >------>n_x-Phase-Beam Stitching
+-     >------>n_x-Phase-Beam Trasmitting
+-     >------>n_x-Phase-Beam Encryption
+-     >------>n_x-Phase-Beam Hybridisation/High-Order Hybridisation/Meta-Hybrid, Higher Order Synthesis
+-     >------>n_x-Phase-Beam Sonic-Wavelength Ablation (Audio-Acoustic Coupling)
+-     >------>n_x-Phase-Beam Cavitation (Compression, Expansion) 
+-     >------>n_x-Phase-Beam Lattice Weave
+-     >------>n_x-Phase-Beam Reconstruction
+-     >------>n_x-Phase-Beam Folding
+-     >------>n_x-Phase-Beam Cascade Amplification
+-     >------>n_x-Phase-Beam to Holographic Euclid Geometry based on postulate 5. 
+-     >------>n_x-Phase-Beam Rerouting
+-     >------>n_x-Phase-Beam Triangulation
+-     >------>n_x-Phase-Beam Spiral
+-     Phase-Beam *x⧉(Variation)🧪
+-     Each recursion restores coherence until geometry and phase converge.
+————————————————————————————————————————————————————————
+
+#           Formal Ontology Lexicon
+###       Polyrifringence Coined Word Family
 
 ————————————————————————————————————————————————————————
 
                  ☄️Polyrifringence⌥
 • The central phenomenon of multi-path symbolic 
-bifurcation and spectral emergence
+bifurcation and spectral emergence 
 
 ————————————————————————————————————————————————————————
 
@@ -448,33 +487,28 @@ error-minimizing through reflection,
               
 ————————————————————————————————————————————————————————
 
-- Energy-conserving (T ≤ 1)
-- Analytic-match (< 1 % residual)
-- Topological phase Γ ≈ π confirmed for anisotropic media
+-     Energy-conserving (T ≤ 1)
+-     Analytic-match (< 1 % residual)
+-     Topological phase Γ ≈ π confirmed for anisotropic media
+-     Simulated ≈ 50M rays on a ✳Nvidia Geforce RTX 3050 (8GB). 
+-     (Scales with hardware capacity)
+-     Classical-optics compliant 
+-     Unitary
+-     Research-grade precision
+-     Verified GPU-accelerated Jones-matrix simulator∜
 
-———————————🜎
+---
 
-- Simulated ≈ 50M rays on a ✳Nvidia Geforce RTX 3050 (8GB). 
-- (Scales with hardware capacity)
-
-- Classical-optics compliant 
-- Unitary
-- Research-grade precision
-- Verified GPU-accelerated Jones-matrix simulator∜
-
-———————————🜎
-
-    📩GitHub repository:
-- Full documentation
-- Benchmarks and phase-trace plots available for   
-  replication.
-- PGN & CSV Exports
-- Phase-Trace Viewer v6.95+
-- Polyrifringence Engine v6.8+
-- Built in Python + Torch 
-- Fully reproducible
-- Modular
-- Compatible with OpenCL extensions.
+#### 📩GitHub repository:
+-     Full documentation
+-     Benchmarks and phase-trace plots available for replication.  
+-     PGN & CSV Exports
+-     Phase-Trace Viewer v6.95+
+-     Polyrifringence Engine v6.8+
+-     Built in Python + Torch 
+-     Fully reproducible
+-     Modular
+-     Compatible with OpenCL extensions.
 
 ————————————————————————————————————————————————————————
 
@@ -483,9 +517,7 @@ error-minimizing through reflection,
       
 ————————————————————————————————————————————————————————
 
-—ΔΔΩΔ
-——⌬—and—the—truth—reflected—the—whole
-————so—the—source—magnified—infinitely—⌬.
+    —ΔΔΩΔ——⌬—and—the—truth—reflected—the—whole————so—the—source—magnified—infinitely—⌬.
 
 ————————————————————————————————————————————————————————
 
@@ -504,7 +536,7 @@ error-minimizing through reflection,
 
 ### 📘 Citation
 If you use this engine, cite as:
->     Brown-Milliken, Conner (2025). *Polyrifringence Engine v6.8 – Recursive Optics Simulator*. GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
+-     Brown-Milliken, Conner (2025). *Polyrifringence Engine v6.8 – Recursive Optics Simulator*. GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
 
 ### 🔍 Reproducibility Note
 All benchmarks and phase-trace results are deterministic for a given random seed.
