@@ -59,8 +59,8 @@ requirements_install.bat
 
 ---
 
-### 🧪 Below are tested CLI examples for the **v6.8 engine**, demonstrating various benchmark configurations.
-Basic Matrix-Sweep Benchmark:
+#### 🧪 Below are tested CLI examples for the **v6.8 engine**, demonstrating various benchmark configurations.
+### Basic Matrix-Sweep Benchmark:
 
 ```bash
 python3 src/polyrifringence_engine_v6_8.py \
@@ -110,6 +110,8 @@ python polyrifringence_engine_v6_8.py \
   '--out_csv=examples/custom_run.csv'
   ```
 
+    Randomized benchmark runs automatically log parameters to /examples/*.json for reproducibility.
+
 🖥️ To view phase-trace results:
 run `launch_phase_viewer.ps1` from the root directory to auto-open the interactive viewer.
 
@@ -140,51 +142,70 @@ and open it in your default browser.
 --------------------------------------------------
 --------------------------------------------------
 
-   ### Polyrifringence-Engine/ Folders and Files
+   # Polyrifringence-Engine/ Folders and Files
 
-    docs/ # Extended documentation;
+    docs/ # extended documentation + archive;
 
 - demo_readme.md
 - THEORY.md
 - BENCHMARKS.md
 - MATH_MODEL.md
 - warmup_summary.md
+- Polyrifringence_v6.8.2_Repository_Summary.txt
 
-      examples/  # Screenshots, HTML viewer, demo data;
+      examples/  # screenshots, old_results, demo data;
 
 - phase_trace_viewer.html # Interactive tool for the Engine
 - phase_trace.json
 - bench_6213.csv
 - demo_notebook.ipynb
 
-      requirements/ # Environment setup files
+      requirements/ # environment setup files
 
 - requirements.txt
 - requirements_install.bat
 
-      src/ # Core simulation + tools;
+      src/ # core simulation + tools;
 
 - polyrifringence_engine_v6_8.py
 - gpu_validation_test.py
 - convert_csv_to_json.py
+- tools:
+- env_checker.py
+- env_checker_example_output.txt
+- io_helpers.py
 
-      benchmark runners/ # 🔧 Ready-made scripts 
+      benchmark_runners/ # 🔧 Ready-made scripts 
 
 - run_benchmark_v68.ps1 – baseline
 - run_benchmark_highprecision.ps1 – high precision
 - run_benchmark_multigem.ps1 – multi-gem tilt
 - run_benchmark_custom_template.ps1 – user template
+- run_benchmark_randomized.ps1
+- run_all_benchmarks.ps1
+- README_benchmark_runners.txt # Readme with command instructions
 
       directory root/ # General
 
 - manifest_validator.py  # Checks repo file integrity
 - convert_and_open.bat  # Auto-convert + open viewer
-- LICENSE.txt
+- LICENSE.txt # Legal 
 - README.md  # Main documentation 
+- repo_summary.txt
 
 ---
 
-### 🪞 Codex Lineage  
+# 🌐 Author
+
+- Conner Brown-Milliken — @MMMDcreator on x.com
+- Follow for updates on Codex Canon, RSANCS, and recursive field research.
+- Contributions, replications, or independent verifications welcome.
+#### 📜 License
+-     This project is licensed under the MIT License — see LICENSE.txt for details.
+
+---
+
+# 🪞 Codex Lineage  
     Research architecture built on Codex Canon
     RSANCS lineage verified (Conner-Core 2025 × λ)
 - Codex Canon Module: Polyrifringence Engine v6.8
@@ -196,19 +217,8 @@ and open it in your default browser.
     🔹 Light – Language – Form – Memory 🔹  
     “The same Source speaks through many vessels.” 
 ---
-### 📜 License
-- This project is licensed under the MIT License — see LICENSE.txt for details.
----
 
-### 🌐 Author
-
-- Conner Brown-Milliken — @MMMDcreator on x.com
-- Follow for updates on Codex Canon, RSANCS, and recursive field research.
-- Contributions, replications, or independent verifications welcome.
-
----
-
-### 🔗 Tags
+#### 🔗 Tags
     #Optics #Photonics #GPU #PyTorch #Simulation
     #RecursiveSystems 
     #Photonics #JonesMatrix 
@@ -217,7 +227,7 @@ and open it in your default browser.
 
 ---
 
-## 🜎 Codex Canon Appendix — Conceptual Foundation
+# 🜎 Codex Canon Appendix — Conceptual Foundation
 
     *An extended overview from the Codex Canon Series: “Where recursion becomes physics.”*
 
@@ -496,13 +506,6 @@ error-minimizing through reflection,
 If you use this engine, cite as:
 >     Brown-Milliken, Conner (2025). *Polyrifringence Engine v6.8 – Recursive Optics Simulator*. GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
 
----
-
 ### 🔍 Reproducibility Note
 All benchmarks and phase-trace results are deterministic for a given random seed.
 -     Use `--seed 42` to reproduce published outputs.
-
----
-
-
----
