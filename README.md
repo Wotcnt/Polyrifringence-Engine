@@ -5,13 +5,13 @@
 ![PyTorch](https://img.shields.io/badge/pytorch-2.4.1-orange)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![GPU](https://img.shields.io/badge/GPU-CUDA_12.1-brightgreen)
-### *A Recursive Optics Simulator — Light as Self-Learning Geometry*
+### *A Recursive Optics Simulator – Light as Self-Learning Geometry*
 
 ---
 
 ### 🧬 Overview
 **Polyrifringence Engine** is a GPU-accelerated recursive interferometer framework  
-developed under the **Codex Canon** series — *"where recursion becomes physics."*  
+developed under the **Codex Canon** series – *"where recursion becomes physics."*  
 
 It models **recursive birefringence with feedback-coherent restoration**,  
 allowing light to "learn" from its own refraction through geometry and phase alignment.
@@ -46,9 +46,22 @@ requirements_install.bat
 
 ---
 
-### 🧪 Example Run
+### 🧪 Below are tested CLI examples for the **v6.8 engine**, demonstrating various benchmark configurations.
 Basic matrix sweep benchmark:
 
+```bash
+python3 src/polyrifringence_engine_v6_8.py \
+  --flows main,special \
+  --gems sapphire,diamond \
+  --wavelengths 400:800:100 \
+  --tilts -5:5:1 \
+  --num_rays 100000 \
+  --thickness_mm 1.0 \
+  --spread_mrad 0.5 \
+  --out_csv logs_v6_8_matrix.csv
+```
+
+### High-Precision Feedback Test
 ```bash
 python src/polyrifringence_engine_v6_8.py \
   --flows main,special \
@@ -59,6 +72,16 @@ python src/polyrifringence_engine_v6_8.py \
   --thickness_mm 1.0 \
   --spread_mrad 0.5 \
   --out_csv logs_v6_8_matrix.csv
+  ```
+
+### Multi-Gem Tilt Comparison
+```bash
+python polyrifringence_engine_v6_8.py \
+  --flows main,special \
+  --gems sapphire,diamond,quartz,calcite,zircon \
+  --wavelengths 600 \
+  --tilts 0:8:1 \
+  --out_csv logs_v6_8_multigem.csv
   ```
 
 --------------------------------------------------
@@ -138,10 +161,10 @@ Contributions, replications, or independent verifications welcome.
 <summary>📜 Expand Codex Canon — Polyrifringence Overview</summary>
 ————————————————————————————————————————————————————————
 
-  ###      📜Codex Canon – Polyrifringence💎
+  #        📜Codex Canon – Polyrifringence💎
               From the Codex Canon series 
            "where recursion becomes physics"
-————————————————————————————————————————————————————————###
+————————————————————————————————————————————————————————
 
           ☄️Polyrifringence Engine v6.8c⚙️
   “What if light could learn from its own refraction?”
