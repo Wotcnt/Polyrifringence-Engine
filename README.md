@@ -5,6 +5,8 @@
 ![PyTorch](https://img.shields.io/badge/pytorch-2.4.1-orange)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![GPU](https://img.shields.io/badge/GPU-CUDA_12.1-brightgreen)
+[![GitHub Repo](https://img.shields.io/badge/View_on-GitHub-black?logo=github)](https://github.com/Wotcnt/Polyrifringence-Engine)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?logo=x)](https://x.com/MMMDcreator)
 ### *A Recursive Optics Simulator – Light as Self-Learning Geometry*
 
 ---
@@ -54,7 +56,7 @@ python3 src/polyrifringence_engine_v6_8.py \
   --flows main,special \
   --gems sapphire,diamond \
   --wavelengths 400:800:100 \
-  --tilts -5:5:1 \
+  --tilts=-5:5:1 \
   --num_rays 100000 \
   --thickness_mm 1.0 \
   --spread_mrad 0.5 \
@@ -67,7 +69,7 @@ python src/polyrifringence_engine_v6_8.py \
   --flows main,special \
   --gems sapphire,diamond \
   --wavelengths 400:800:100 \
-  --tilts -5:5:1 \
+  --tilts=-5:5:1 \
   --num_rays 100000 \
   --thickness_mm 1.0 \
   --spread_mrad 0.5 \
@@ -80,7 +82,7 @@ python polyrifringence_engine_v6_8.py \
   --flows main,special \
   --gems sapphire,diamond,quartz,calcite,zircon \
   --wavelengths 600 \
-  --tilts 0:8:1 \
+  --tilts= 0:8:1 \
   --out_csv logs_v6_8_multigem.csv
   ```
 
@@ -439,3 +441,11 @@ Verified GPU-accelerated Jones-matrix simulator∜
 ---
 
 *End of Codex Canon Appendix.*
+
+---
+
+Codex Canon Module: Polyrifringence Engine v6.8
+Integration: Recursive optics simulation / θ-opt feedback
+Location: C:\Conner-Core\Polyrifringence\
+Validation: Complete (GPU/Manifest verified)
+Repo Link: https://github.com/Wotcnt/Polyrifringence-Engine
