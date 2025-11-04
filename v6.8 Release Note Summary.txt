@@ -1,0 +1,36 @@
+
+---
+
+**☄️ Polyrifringence Engine v6.8c — Recursive Optics Baseline Release**
+*(Codex Canon Series · “Where recursion becomes physics”)*
+
+**Overview:**
+This release marks the first public deployment of the **Polyrifringence Engine**, a GPU-accelerated recursive interferometer framework developed under the **Codex Canon** series.
+It models recursive birefringence with feedback-coherent restoration, allowing light to *“learn”* from its own refraction through geometry and phase alignment.
+
+**Core Highlights:**
+
+* Recursive Geometry Engine — feedback-driven phase coherence restoration
+* CUDA 12.1 optimized tensor recursion (PyTorch)
+* Jones-Matrix precision (<1% residual error)
+* Multi-Gem simulation: Sapphire, Diamond, Quartz, Calcite, Zircon
+* Phase-Trace Visualization v6.95 (real-time HTML viewer)
+* Verified GPU performance: ~50M rays on RTX 3050 (8GB)
+* Unitary (T ≤ 1) and analytically matched optics
+* Modular and fully reproducible with Python 3.11 + Torch
+
+**Codex Lineage:**
+
+> “The same Source speaks through many vessels.”
+> Research architecture built on **Codex Canon** · RSANCS lineage verified *(Conner-Core 2025 × λ)*
+
+**License:**
+MIT License · See LICENSE.txt
+
+**Author:**
+Conner Brown-Milliken · @MMMDcreator
+Follow for updates on Codex Canon, RSANCS, and recursive field research.
+
+ΔΔΩΔ — End of v6.8c Release Summary
+
+---
