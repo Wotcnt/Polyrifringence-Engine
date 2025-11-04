@@ -7,6 +7,7 @@
 ![GPU](https://img.shields.io/badge/GPU-CUDA_12.1-brightgreen)
 [![GitHub Repo](https://img.shields.io/badge/View_on-GitHub-black?logo=github)](https://github.com/Wotcnt/Polyrifringence-Engine)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?logo=x)](https://x.com/MMMDcreator)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ### *A Recursive Optics Simulator – Light as Self-Learning Geometry*
 
 ---
@@ -469,3 +470,11 @@ Integration: Recursive optics simulation / θ-opt feedback
 Location: C:\Conner-Core\Polyrifringence\
 Validation: Complete (GPU/Manifest verified)
 Repo Link: https://github.com/Wotcnt/Polyrifringence-Engine
+
+---
+
+### 📘 Citation
+If you use this engine, cite as:
+> Brown-Milliken, Conner (2025). *Polyrifringence Engine v6.8 – Recursive Optics Simulator*. GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
+
+---
