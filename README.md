@@ -1,6 +1,6 @@
 # ☄️ Polyrifringence Engine  ⚙️  
 ### 🔖 **Official Release: v6.8c — November 2025**
-### 🧠 *Stable GPU Build – Verified on RTX 3050 / CUDA 12.1*
+### 🧠 *Stable GPU Build – Verified on RTX 3050 (8GB) / CUDA 12.1*
 -     Nvidia Geforce Game Ready Driver v581.80 - Released: Tue Nov 4,2025
 ---
     > “What if light could learn from its own refraction?”
