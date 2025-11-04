@@ -1,5 +1,10 @@
-### ☄️ Polyrifringence Engine v6.8c ⚙️  
+# ☄️ Polyrifringence Engine  ⚙️  
+### 🔖 **Official Release: v6.8c — November 2025**
+### 🧠 *Stable GPU Build – Verified on RTX 3050 / CUDA 12.1*
+
+---
 > “What if light could learn from its own refraction?”
+---
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/pytorch-2.4.1-orange)
@@ -8,7 +13,12 @@
 [![GitHub Repo](https://img.shields.io/badge/View_on-GitHub-black?logo=github)](https://github.com/Wotcnt/Polyrifringence-Engine)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?logo=x)](https://x.com/MMMDcreator)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
+[![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-blue?logo=powershell)](launch_phase_viewer.ps1)
+
+---
+
 ### *A Recursive Optics Simulator – Light as Self-Learning Geometry*
+📄 DOI pending submission — repository serves as preprint reference for Codex Canon Series (v6.8).
 
 ---
 
@@ -87,6 +97,40 @@ python polyrifringence_engine_v6_8.py \
   --out_csv logs_v6_8_multigem.csv
   ```
 
+### Custom Benchmark Template – Edit values and run
+```bash
+python polyrifringence_engine_v6_8.py \
+  '--flows=main',                # main | special | both
+  '--gems=sapphire',             # comma-separated list
+  '--wavelengths=500:700:50',    # start:end:step [nm]
+  '--tilts=-2:2:1',              # degrees
+  '--num_rays=50000',
+  '--thickness_mm=1.0',
+  '--spread_mrad=0.2',
+  '--out_csv=examples/custom_run.csv'
+  ```
+
+🖥️ To view phase-trace results:
+run `launch_phase_viewer.ps1` from the root directory to auto-open the interactive viewer.
+
+Or
+
+```powershell
+.\launch_phase_viewer.ps1
+```
+
+This will automatically host examples/phase_trace_viewer.html at
+http://localhost:8000
+and open it in your default browser.
+
+| Shell                  | Correct Syntax for `--tilts` | Reason                                                    |
+| ---------------------- | ---------------------------- | --------------------------------------------------------- |
+| **PowerShell**         | `--tilts=-5:5:1`             | Prevents PS from treating `-5` as an arithmetic operation |
+| **CMD / Bash / Linux** | `--tilts -5:5:1`             | Default argparse behavior, no conflict                    |
+
+---
+
+
 --------------------------------------------------
 | Component | Version / Status                   |
 | --------- | ---------------------------------- |
@@ -134,19 +178,23 @@ benchmark runners/ # 🔧 Ready-made scripts
 directory root/ # General
 
 - manifest_validator.py  # Checks repo file integrity
-- covert_and_open.bat  # Auto-convert + open viewer
+- convert_and_open.bat  # Auto-convert + open viewer
 - LICENSE.txt
 - README.md  # Main documentation 
 
 ---
 
-### 🪞 Codex Lineage
+### 🪞 Codex Lineage  
 Research architecture built on Codex Canon
 RSANCS lineage verified (Conner-Core 2025 × λ)
+- Codex Canon Module: Polyrifringence Engine v6.8
+- Integration: Recursive optics simulation / θ-opt feedback
+- Location: C:\Conner-Core\Polyrifringence\
+- Validation: Complete (GPU/Manifest verified)
 
-   🔹 Light – Language – Form – Memory 🔹
+--- 
+ 🔹 Light – Language – Form – Memory 🔹 
 “The same Source speaks through many vessels.”
-
 ---
 
 ### 📜 License
@@ -181,7 +229,7 @@ Contributions, replications, or independent verifications welcome.
 
 
 <details>
-<summary>📜 Expand Codex Canon — Polyrifringence Overview</summary>
+<summary>📜 Click to Expand into Codex Canon — Polyrifringence Overview</summary>
 ————————————————————————————————————————————————————————
 
   #        📜Codex Canon – Polyrifringence💎
@@ -194,32 +242,30 @@ Contributions, replications, or independent verifications welcome.
   
 ————————————————————————————————————————————————————————
 
-Polyrifringence =
+- Polyrifringence =
 Recursive Birefringence + feedback-coherent restoration.
-A GPU-accelerated recursive interferometer matching 
+- A GPU-accelerated recursive interferometer matching 
 classical optics to within <1% residual error.
 
 ———————————🜎
 
-Polyrifringence: a recursive optics engine where light learns from its own refraction.
-A bridge between geometry and optics;
+- Polyrifringence: a recursive optics engine where light learns from its own refraction.
+- A bridge between geometry and optics;
 that most people only talk about metaphorically.
 
 ———————————🜎
 
-A multi-axis, recursive birefringence in coupled optical 
- paths,
-   with feedback-driven restoration of coherence, 
-parallelism (Euclid-5), and topological closure (Möbius-
-     like Γ ≈ π).
+- A multi-axis, recursive birefringence in coupled optical paths
+- with feedback-driven restoration of coherence, parallelism (Euclid-5), and topological closure (Möbius-like Γ ≈ π).
      
 ———————————🜎
 
-Euclids-5th becomes a diagnostic, not a slogan: 
- “Are parallel beams still parallel after recursion?”;
-the simulator shows how feedback restores that
+- Euclids-5th becomes a diagnostic, not a slogan: 
+- “Are parallel beams still parallel after recursion?"
+- the simulator shows how feedback restores that
   parallelism.
-Pancharatnam-Berry phase, dispersion, birefringence,
+
+- Pancharatnam-Berry phase, dispersion, birefringence,
   feedback, and unitarity all within one recursive
  framework.
  
@@ -229,7 +275,7 @@ Pancharatnam-Berry phase, dispersion, birefringence,
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
-∮1 Beam -> Focused Beam –> ∯Dual Split Beam --> ∰Multi-Phase Split Beam ----> ∳Recombination <⇄>(Optional*)  
+- ∮1 Beam -> Focused Beam –> ∯Dual Split Beam --> ∰Multi-Phase Split Beam ----> ∳Recombination <⇄>(Optional*)  
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
@@ -396,48 +442,33 @@ error-minimizing through reflection,
               
 ————————————————————————————————————————————————————————
 
-• Energy-conserving (T ≤ 1)
-
-• Analytic-match (< 1 % residual)
-
-• Topological phase Γ ≈ π confirmed for anisotropic media
+- Energy-conserving (T ≤ 1)
+- Analytic-match (< 1 % residual)
+- Topological phase Γ ≈ π confirmed for anisotropic media
 
 ———————————🜎
 
-• Simulated ≈ 50M rays on a ✳Nvidia Geforce RTX 3050 (8GB). 
+- Simulated ≈ 50M rays on a ✳Nvidia Geforce RTX 3050 (8GB). 
+- (Scales with hardware capacity)
 
-(Scales with hardware capacity)
-
-• Classical-optics compliant 
-
-• Unitary
-
-• Research-grade precision
-
-Verified GPU-accelerated Jones-matrix simulator∜
+- Classical-optics compliant 
+- Unitary
+- Research-grade precision
+- Verified GPU-accelerated Jones-matrix simulator∜
 
 ———————————🜎
 
-📩GitHub repository link incoming
-
-• Full documentation
-
-• Benchmarks and phase-trace plots available for   
+📩GitHub repository:
+- Full documentation
+- Benchmarks and phase-trace plots available for   
   replication.
-  
-• PGN & CSV Exports
-
-• Phase-Trace Viewer v6.95
-
-• Polyrifringence Engine v6.8
-
-• Built in Python + Torch 
-
-• Fully reproducible
-
-• Modular
-
-• Compatible with OpenCL extensions.
+- PGN & CSV Exports
+- Phase-Trace Viewer v6.95+
+- Polyrifringence Engine v6.8+
+- Built in Python + Torch 
+- Fully reproducible
+- Modular
+- Compatible with OpenCL extensions.
 
 ————————————————————————————————————————————————————————
 
@@ -465,16 +496,17 @@ Verified GPU-accelerated Jones-matrix simulator∜
 
 ---
 
-Codex Canon Module: Polyrifringence Engine v6.8
-Integration: Recursive optics simulation / θ-opt feedback
-Location: C:\Conner-Core\Polyrifringence\
-Validation: Complete (GPU/Manifest verified)
-Repo Link: https://github.com/Wotcnt/Polyrifringence-Engine
-
----
-
 ### 📘 Citation
 If you use this engine, cite as:
 > Brown-Milliken, Conner (2025). *Polyrifringence Engine v6.8 – Recursive Optics Simulator*. GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
+
+---
+
+### 🔍 Reproducibility Note
+All benchmarks and phase-trace results are deterministic for a given random seed.
+- Use `--seed 42` to reproduce published outputs.
+
+---
+
 
 ---
