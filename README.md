@@ -95,27 +95,47 @@ python polyrifringence_engine_v6_8.py \
 --------------------------------------------------
 --------------------------------------------------
 
-### Polyrifringence-Engine/
-
-src/ # Core simulation code;
-
-polyrifringence_engine_v6_8.py
-phase_trace_viewer.html
+### Polyrifringence-Engine/ Folders and Files
 
 docs/ # Extended documentation;
 
-demo_readme.md
-THEORY.md
-BENCHMARKS.md
-MATH_MODEL.md
-warmup_summary.md
+- demo_readme.md
+- THEORY.md
+- BENCHMARKS.md
+- MATH_MODEL.md
+- warmup_summary.md
 
-examples/ # Screenshots, demos, notebooks;
+examples/  # Screenshots, HTML viewer, demo data;
 
-demo_notebook.ipynb
-requirements.txt
-LICENSE.txt
-README.md
+- phase_trace_viewer.html # Interactive tool for the Engine
+- phase_trace.json
+- bench_6213.csv
+- demo_notebook.ipynb
+
+requirements/ # Environment setup files
+
+- requirements.txt
+- requirements_install.bat
+
+src/ # Core simulation + tools;
+
+- polyrifringence_engine_v6_8.py
+- gpu_validation_test.py
+- convert_csv_to_json.py
+
+benchmark runners/ # 🔧 Ready-made scripts 
+
+- run_benchmark_v68.ps1 – baseline
+- run_benchmark_highprecision.ps1 – high precision
+- run_benchmark_multigem.ps1 – multi-gem tilt
+- run_benchmark_custom_template.ps1 – user template
+
+directory root/ # General
+
+- manifest_validator.py  # Checks repo file integrity
+- covert_and_open.bat  # Auto-convert + open viewer
+- LICENSE.txt
+- README.md  # Main documentation 
 
 ---
 
