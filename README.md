@@ -22,6 +22,9 @@
 
 ---
 
+<details>
+<summary>📜Click here for ther Overview </summary>
+
 ### 🧬 Overview
 **Polyrifringence Engine** is a GPU-accelerated recursive interferometer framework  
 developed under the **Codex Canon** series – *"where recursion becomes physics."*  
@@ -40,7 +43,12 @@ allowing light to "learn" from its own refraction through geometry and phase ali
 - **Phase-Trace Visualization** — Real-time viewer with adaptive zoom  
 - **Unitary, Energy-Conserving (T ≤ 1)** framework  
 
+</details>
+
 ---
+
+<details>
+<summary>📜Click here for Installation Info </summary>
 
 ### 🧩 Installation
 
@@ -57,8 +65,13 @@ Optional (Windows setup helper):
 requirements_install.bat
 ```
 
+</details>
+
 ---
 
+<details>
+<summary>📜Click here for Various Benchmark Configs </summary>
+	
 #### 🧪 Below are tested CLI examples for the **v6.8 engine**, demonstrating various benchmark configurations.
 
 ### Basic Matrix-Sweep Benchmark:
@@ -146,7 +159,6 @@ and open it in your default browser.
 
 ---
 
-
 --------------------------------------------------
 | Component | Version / Status                   |
 | --------- | ---------------------------------- |
@@ -154,8 +166,14 @@ and open it in your default browser.
 | NumPy     | 2.3.4                              |
 | PyTorch   | 2.4.1 (CUDA 12.1) — GPU verified ✅|
 --------------------------------------------------
---------------------------------------------------
 
+</details>
+
+---
+
+<details>
+<summary>📜Click here for Files and Folders</summary>
+	
    # Polyrifringence-Engine/ Folders and Files
 
     docs/ # extended documentation + archive;
@@ -207,7 +225,12 @@ and open it in your default browser.
 - README.md  # Main documentation 
 - repo_summary.txt
 
+</details>
+
 ---
+
+<details>
+<summary>📜Click here for Author Information</summary>
 
 # 🌐 Author
 
@@ -232,16 +255,11 @@ and open it in your default browser.
     “The same Source speaks through many vessels.” 
 ---
 
-#### 🔗 Tags
-    #Optics #Photonics #GPU #PyTorch #Simulation
-    #RecursiveSystems 
-    #Photonics #JonesMatrix 
-    #Polyrifringent #Polyrifringence #Polyrifrication  
-    #FieldPhysics #PhysicsEngine #RSANCS #CodexCanon
+</details>
 
 ---
 
-# 🜎 Codex Canon Appendix — Conceptual Foundation
+#### 🜎 Codex Canon Appendix — Conceptual Foundation 🜎
 
     *An extended overview from the Codex Canon Series: “Where recursion becomes physics.”*
 
@@ -541,3 +559,10 @@ If you use this engine, cite as:
 ### 🔍 Reproducibility Note
 All benchmarks and phase-trace results are deterministic for a given random seed.
 -     Use `--seed 42` to reproduce published outputs.
+
+#### 🔗 Tags
+    #Optics #Photonics #GPU #PyTorch #Simulation
+    #RecursiveSystems 
+    #Photonics #JonesMatrix 
+    #Polyrifringent #Polyrifringence #Polyrifrication  
+    #FieldPhysics #PhysicsEngine #RSANCS #CodexCanon
