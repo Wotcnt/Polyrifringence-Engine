@@ -1,19 +1,36 @@
 # ☄️ Polyrifringence Engine  ⚙️  
+-     “What if light could learn from its own refraction?”
+-     “Where recursion becomes physics.” 
+---
+
 ### 🔖 **Official Release: v6.8c — November 2025**
 ### 🧠 *Stable GPU Build – Verified on RTX 3050 (8GB) / CUDA 12.1*
 -     Nvidia Geforce Game Ready Driver v581.80 - Released: Tue Nov 4,2025
----
-    > “What if light could learn from its own refraction?”
----
 
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![PyTorch](https://img.shields.io/badge/pytorch-2.4.1-orange)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
-![GPU](https://img.shields.io/badge/GPU-CUDA_12.1-brightgreen)
-[![GitHub Repo](https://img.shields.io/badge/View_on-GitHub-black?logo=github)](https://github.com/Wotcnt/Polyrifringence-Engine)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?logo=x)](https://x.com/MMMDcreator)
+---
+<!-- === Row 1 — Technical Environment === -->
+![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch_+_CUDA_12.1-ff6f00?style=flat-square&logo=nvidia&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.11-ff6f00)
+![PyTorch](https://img.shields.io/badge/pytorch-2.4.1-ff6f00)
+[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=chart-dot&logoColor=white)](examples/bench_6213.csv)
+![License: MIT](https://img.shields.io/badge/license-MIT-darkgreen)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
-[![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-blue?logo=powershell)](launch_phase_viewer.ps1)
+[![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-emerald?logo=powershell)](launch_phase_viewer.ps1)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?logo=x)](https://x.com/MMMDcreator)
+![UI](https://img.shields.io/badge/UI-Microsoft_SandDance_Enhanced-3ee7ff?style=flat-square)
+![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-ff6f00?style=flat-square&logo=json)
+![Observer Aware](https://img.shields.io/badge/Observer-Aware_Recursion-gold?style=flat-square)
+![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-gold?style=flat-square)
+![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-darkgreen?style=flat-square&logo=nvidia&logoColor=white)
+![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-darkgreen?style=flat-square&logo=python&logoColor=white)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-darkgreen?style=flat-square&logo=openaccess)
+
+---
+<!-- === Row 2 — Codex & Prestige Tier === -->
+![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-blueviolet?style=for-the-badge&logo=github&labelColor=0b0d0f&color=7cc7ff)
+![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-lightblue?style=for-the-badge&labelColor=0b0d0f)
+![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-blueviolet?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-blueviolet?style=for-the-badge&labelColor=0b0d0f&color=7cc7ff)
 
 ---
 
@@ -333,7 +350,9 @@ that most people only talk about metaphorically.
 
 #### (+)= Polarised Film or Bifurcated Film-(Can be interchangeable)
 
--     Beam----->+Beam+>------>n-Beam----->n_x-Beam>------>n_x-Phase-Beam Recombination (Optional)
+-     Beam----->+Beam+>------>n-Beam----->n_x-Beam>------>n_x-Phase-Beam *x⧉(Variation)🧪->>>>*
+-     Phase-Beam *x⧉(various variations allowing for compounding variety, below is a small subset)🧪
+-     >------>n_x-Phase-Beam Recombination (Optional)
 -     >------>n_x-Phase-Beam Refraction/Defraction
 -     >------>n_x-Phase-Beam Recoupling
 -     >------>n_x-Phase-Beam Stitching
@@ -350,7 +369,6 @@ that most people only talk about metaphorically.
 -     >------>n_x-Phase-Beam Rerouting
 -     >------>n_x-Phase-Beam Triangulation
 -     >------>n_x-Phase-Beam Spiral
--     Phase-Beam *x⧉(Variation)🧪
 -     Each recursion restores coherence until geometry and phase converge.
 ————————————————————————————————————————————————————————
 #           Formal Ontology Lexicon
