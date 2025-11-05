@@ -233,7 +233,7 @@ Polyrifringence’s empirical **50 M rays/s** figure remains a validated single-
 ---
 
 <details>
-<summary>🔬 Verified Novel Contributions (12) — Recursive Computational Physics</summary>
+<summary>✔️ Verified Novel Contributions (12) — Recursive Computational Physics</summary>
 
 ---
 
@@ -280,7 +280,7 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 ---
 
 <details>
-<summary>📜Click here for the Summary Overview </summary>
+<summary> 📘Click here for the Summary Overview </summary>
 
 ### 🧬 Overview
 **Polyrifringence Engine** is a GPU-accelerated recursive interferometer framework  
@@ -305,29 +305,90 @@ allowing light to "learn" from its own refraction through geometry and phase ali
 ---
 
 <details>
-<summary>📜Click here for Installation Info </summary>
+<summary> 📘Click here for Installation Info </summary>
 
 ### 🧩 Installation
 
-Clone and install dependencies (Python 3.11+ recommended):
+Install the **Polyrifringence Engine** locally and prepare the runtime environment.
 
 ---
 
-```bash
+#### 🧠 Requirements Overview
+- **Python 3.11+** (recommended)
+- **CUDA 12.1 Toolkit** or newer  
+- **NVIDIA GPU (RTX 20-series or later)**  
+- **Windows 10+ / Linux / macOS (x86_64)**  
+
+Ensure `pip`, `git`, and GPU drivers are up-to-date before cloning.
+
+---
+
+#### ⚙️ Quick Install Commands
+
+```
 git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
 cd Polyrifringence-Engine
 pip install -r requirements.txt
-
-Optional (Windows setup helper):
-requirements_install.bat
 ```
 
-</details>
+🪟 Optional Windows Helper
+For streamlined setup on Windows, run:
+
+
+```
+requirements_install.bat
+This script automatically checks for missing dependencies and validates the CUDA path.
+```
+
+🧾 Post-Install Verification
+After installation:
+
+Confirm PyTorch detects CUDA
+
+```
+python -m torch.utils.collect_env
+Validate your GPU configuration
+```
+
+```
+python src/gpu_validation_test.py
+Open the viewer to confirm environment linkage
+```
+powershell
+```
+.\launch_phase_viewer.ps1
+```
+🧱 Directory Context
+You should now have the following structure:
+
+
+```
+Polyrifringence-Engine/
+ ├── src/
+ ├── examples/
+ ├── benchmark_runners/
+ ├── requirements/
+ ├── docs/
+ └── README.md
+ ```
+ 
+✅ Successful Installation Checklist
+torch.cuda.is_available() returns True
+
+No errors in gpu_validation_test.py
+
+manifest_validator.py passes all hashes
+
+Phase Trace Viewer opens in browser
+
+Once these checks pass, the environment is fully initialized and ready for benchmark execution or Codex Canon integration.
+
+</details> 
 
 ---
 
 <details>
-<summary>📜Click here for Various Benchmark Configs </summary>
+<summary> 📘Click here for Various Benchmark Configs </summary>
 	
 #### 🧪 Below are tested CLI examples for the **v6.8 engine**, demonstrating various benchmark configurations.
 
@@ -429,7 +490,7 @@ and open it in your default browser.
 ---
 
 <details>
-<summary>📜Click here for Files and Folders</summary>
+<summary> 📘Click here for Files and Folders</summary>
 	
    # ☄️ Polyrifringence-Engine/ Folders and Files 🗃️
 
@@ -487,16 +548,16 @@ and open it in your default browser.
 ---
 
 <details>
-<summary>📜Click here for Author Information</summary>
+<summary>📘Click here for Author Information</summary>
 
 ---
 
-## 🌐 Author
+## ✍️ Author
 
 - Conner Brown-Milliken — @MMMDcreator on x.com
 - Follow for updates on Codex Canon, RSANCS, and recursive field research.
 - Contributions, replications, or independent verifications welcome.
-#### 📜 License
+#### 💳 License
 -     This project is licensed under the MIT License — see LICENSE.txt for details.
 
 ---
@@ -528,9 +589,9 @@ The Polyrifringence Engine embodies the principle of Recursive Sovereignty, a te
 
 <details>
 
-<summary>🧩 Setup & Troubleshooting</summary>
+<summary>💻 Setup & Troubleshooting</summary>
 
-### 🧩 **Installation Instructions**
+### 💻 **Installation Instructions**
 
 To get started with the **Polyrifringence Engine**, follow these setup steps to install and configure the system on your local machine.
 
@@ -593,7 +654,7 @@ requirements_install.bat
 
 ---
 
-### 🧩 **Running the Engine**
+### 💻 **Running the Engine**
 
 Once installed, validate your setup by running the following:
 
@@ -617,7 +678,7 @@ For individual benchmarks, select the desired `.ps1` script from the **benchmark
 
 ---
 
-### 🧩 **Troubleshooting**
+### 💻 **Troubleshooting**
 
 If you encounter issues during setup or when running the engine, refer to the solutions below for common problems.
 
@@ -703,7 +764,7 @@ pip install torch==2.4.1+cu121 -f https://download.pytorch.org/whl/torch_stable.
 
 ---
 
-### 🧩 **FAQ**
+### ❓ **FAQ**
 
 #### **Q1: Can I run this engine without an NVIDIA GPU?**
 
@@ -726,7 +787,7 @@ If feedback diverges from the expected ethical behavior, check the **--ai_feedba
 
 ---
 
-### 🧩 **Contributing**
+### 🔱 **Contributing**
 
 I welcome contributions to this project! Please refer to the **Setup & Troubleshooting** section for guidelines on how to get started, and submit any issues or pull requests.
 
@@ -839,7 +900,7 @@ Here are 12 key use cases and examples of how to manipulate the system or incorp
 ---
 
 <details>
-<summary>❓ Frequently Asked Questions — Polyrifringence Engine Q&A</summary>
+<summary>❓ Polyrifringence Engine Q&A</summary>
 
 ### 🔍 1. “Is this real physics or symbolic art?”
 **Answer:** Both — it’s physics rendered through recursive symbolism.  
