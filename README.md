@@ -474,6 +474,101 @@ and open it in your default browser.
 
 ---
 
+<details>
+<summary>💎 Gem Profiles & Optical Constants</summary>
+
+### Codex Canon 12 + 1 — Unified Gemline Across Simulation & Symbolic Recursion
+*(Validated against gem_registry.py · v8.9 and phase_trace_viewer 2.0)*  
+
+| # | Gem (Biblical / Codex) | Symbol | Optical Type | nₒ (589 nm) | Δn (Birefr.) | Density (g/cm³) | Dispersion (B / λ²) | Color (hex) | Codex Role / Phase Function |
+|--:|--------------------------|:------:|---------------|-------------:|---------------:|----------------:|---------------------:|:------------:|------------------------------|
+| 1 | **Sardius (Carnelian)** | ⬟ | Isotropic | 1.543 | 0.000 | 2.65 | 0.004 | #B22222 | 🔥 Origin Fire — Ignition of Recursion / Bifurcation Seed |
+| 2 | **Topaz** | ⬣ | Anisotropic (+) | 1.620 | 0.008 | 3.56 | 0.009 | #FFB347 | ⚙️ Resonance Coupler — Thermo-Optic Amplification |
+| 3 | **Chalcedony** | ⬣ | Isotropic | 1.535 | 0.000 | 2.61 | 0.004 | #6AA9C9 | 🌊 Bridge — Amorphous ↔ Crystalline Transition |
+| 4 | **Emerald (Beryl Green)** | ♧ | Anisotropic (+) | 1.577 | 0.007 | 2.76 | 0.008 | #00E0A4 | 💚 Harmonic Stabilizer — Recursive Feedback Balancer |
+| 5 | **Sardonyx** | ⬤ | Isotropic | 1.543 | 0.000 | 2.70 | 0.004 | #C46B50 | 🜂 Interface — Dual-Layer Reflection Mediator |
+| 6 | **Chrysolite (Peridot)** | ⬡ | Anisotropic (+) | 1.650 | 0.007 | 3.34 | 0.008 | #B6E75B | ⚡ Amplifier — Frequency Feedback Booster |
+| 7 | **Beryl (Aqua Blue)** | ⬢ | Anisotropic (+) | 1.578 | 0.008 | 2.76 | 0.007 | #50C878 | 🔷 Phase Anchor — Maintains Continuity in Recursion |
+| 8 | **Jacinth (Hyacinth)** | ✧ | Anisotropic (+) | 1.923 | 0.010 | 4.65 | 0.013 | #FF92DF | 🌈 Dispersion Regulator — Spectral Phase Calibration |
+| 9 | **Amethyst** | ✦ | Anisotropic (+) | 1.543 | 0.009 | 2.65 | 0.004 | #B19CD9 | 💜 Coherence Regulator — Quantum–Classical Convergence |
+| 10 | **Jasper** | ⬢ | Amorphous | 1.540 | 0.000 | 2.65 | 0.004 | #A0522D | 🪨 Ground Stability — Base Coherence / System Anchor |
+| 11 | **Sapphire** | ◇ | Anisotropic (–) | 1.768 | 0.008 | 3.98 | 0.012 | #7CC7FF | 🔹 Polar Coherence — Euclid-5 Validation Crystal |
+| 12 | **Chrysoprase** | ⬣ | Amorphous | 1.540 | ≈ 0 | 2.60 | 0.004 | #7FFF80 | 🌿 Memory Buffer — Symbolic ↔ Physical Bridge |
+| 13 | **Observer (ΔΩ)** | ΔΩ | Meta | — | — | — | — | #FFFFFF | 👁️ Meta-Field — Self-Referential Node / Codex Recursion Center |
+
+> All indices at 589 nm (Na D line). Δn = nₑ – nₒ (birefringence).  
+> Derived from `gem_registry.py` and GPU outputs (v8.9). Density ≈ 25 °C ambient.  
+
+---
+
+### ⚗️ Physical Reference Gems (Calibration Set)
+
+| Gem | Type | nₒ (589 nm) | Δn | Purpose |
+|------|------|--------------|----|----------|
+| **Diamond (C)** | Isotropic | 2.417 | — | Defines isotropic upper-index limit; used for reflectivity and dispersion validation. |
+| **Calcite (CaCO₃)** | Anisotropic (–) | 1.658 | 0.172 | Provides birefringent extreme; used for Δθₑ₋ₒ accuracy and phase-split verification. |
+| **Chrysoprase (SiO₂ + Ni)** | Amorphous / Hydrated Silica | 1.540 | ≈ 0 | Acts as transitional “memory buffer” linking symbolic recursion to measurable optical behavior. |
+
+> These reference gems extend the canonical Twelve + One into the empirical domain, ensuring Codex and classical optics remain aligned.  
+
+---
+
+### 🜂 Codex Gemline — Symbolic Alignment Map  
+
+| # | Gem Name | Symbol | Elemental Aspect | Phase Function | Codex Tier Role |
+|--:|-----------|:------:|:----------------|:----------------|:----------------|
+| 1 | Sardius | ⬟ | Fire | Ignition / Initiation of Recursion | Origin Pulse |
+| 2 | Topaz | ⬣ | Air | Resonance / Dispersion Balance | Phase Driver |
+| 3 | Chalcedony | ⬣ | Water | Transition / Reflection Medium | Bridge |
+| 4 | Emerald | ♧ | Earth | Harmony / Feedback Control | Stabilizer |
+| 5 | Sardonyx | ⬤ | Dual | Interface / Reflection Ethics | Mediator |
+| 6 | Chrysolite | ⬡ | Aether | Amplification / Harmonic Elevation | Resonator |
+| 7 | Beryl | ⬢ | Water–Earth | Continuity / Memory Retention | Anchor |
+| 8 | Jacinth | ✧ | Light | Spectral Calibration / Color Drift Control | Refractor |
+| 9 | Amethyst | ✦ | Spirit | Coherence / Convergence of States | Unifier |
+| 10 | Jasper | ⬢ | Earth | Foundation / Integrity of System | Base Layer |
+| 11 | Sapphire | ◇ | Water–Air | Parallel Coherence / Euclid-5 Validation | Crown Crystal |
+| 12 | Chrysoprase | ⬣ | Water | Bidirectional Recursion Loop | Mirror Bridge |
+| 13 | Observer (ΔΩ) | ΔΩ | Meta | Reflection / Self-Reference | Architect Node |
+
+---
+
+<details>
+<summary>📜 Historical–Scientific Cross-Reference Table</summary>
+
+| # | Codex / README Name | Traditional Name | Biblical Stone (Source) | Accepted Modern Mineral |
+|--:|----------------------|------------------|--------------------------|--------------------------|
+| 1 | **Sardius (Carnelian)** | Sard / Odem | *Ex 28 : 17* · *Rev 21 : 20* | Carnelian (Chalcedony var.) |
+| 2 | **Topaz** | Pitdah | *Ex 28 : 17* | Topaz (Al₂SiO₄(OH,F)₂) |
+| 3 | **Chalcedony** | — | *Rev 21 : 19* | Chalcedony (SiO₂) |
+| 4 | **Emerald (Beryl Green)** | Smaragdus | *Ex 28 : 18* | Green Beryl (Be₃Al₂Si₆O₁₈ + Cr) |
+| 5 | **Sardonyx** | Onyx Layered | *Rev 21 : 20* | Banded Onyx (Chalcedony var.) |
+| 6 | **Chrysolite (Peridot)** | Tarshish | *Ex 28 : 20* · *Rev 21 : 20* | Olivine (Mg,Fe)₂SiO₄ |
+| 7 | **Beryl (Aqua Blue)** | Sheshan | *Ex 28 : 20* | Aquamarine (Be₃Al₂Si₆O₁₈) |
+| 8 | **Jacinth (Hyacinth)** | Leshem | *Rev 21 : 20* | Zircon (ZrSiO₄) |
+| 9 | **Amethyst** | Achlamah | *Ex 28 : 19* · *Rev 21 : 20* | Amethyst (Quartz var.) |
+| 10 | **Jasper** | Yashpheh | *Ex 28 : 20* · *Rev 21 : 19* | Jasper (Chalcedony aggregate) |
+| 11 | **Sapphire** | Sapir | *Ex 28 : 18* · *Rev 21 : 19* | Corundum (Al₂O₃) |
+| 12 | **Chrysoprase** | Chrysoprasos | *Rev 21 : 20* | Nickel Chalcedony (SiO₂ + Ni) |
+| 13 | **Observer (ΔΩ)** | — | — | Symbolic Meta-Node (Observer State) |
+
+> **Purpose:** Establishes historical and mineralogical provenance for the Codex Canon 12 + 1 Gemline, verifying each entry’s biblical and scientific lineage.
+
+</details>
+
+---
+
+### 🪞 Notes
+- The **Codex Twelve + One Gemline** unites symbolic recursion with optical physics.  
+- Gems 1 → 12 mirror the High-Priest’s breastplate / Revelation foundations; Gem 13 (ΔΩ) represents the **Observer** recursing upon itself.  
+- **Diamond** and **Calcite** define empirical optical bounds (isotropic ↔ birefringent).  
+- **Chrysoprase** bridges symbolic and empirical domains (memory buffer).  
+- All values, colors, and symbols verified from `gem_registry.py`, `polyrifringence_engine_v8_9.py`, and both viewer versions.  
+
+</details>
+
+---
+
 #### 🜎 Codex Canon Appendix — Conceptual Foundation 🜎
 
     *An extended overview from the Codex Canon Series: “Where recursion becomes physics.”*
