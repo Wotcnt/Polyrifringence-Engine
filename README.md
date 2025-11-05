@@ -40,11 +40,12 @@
 
 This repository provides a verified GPU-accelerated simulator for recursive birefringence - modeling light’s self-referential propagation using PyTorch (CUDA 12.1).
 
-# Quick Start
-git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
-cd Polyrifringence-Engine
-python src/gpu_validation_test.py
+---
 
+# Quick Start
+-     git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
+-     cd Polyrifringence-Engine
+-     python src/gpu_validation_test.py
 [▶️ Launch GPU Validation](src/gpu_validation_test.py) · [📊 Run Benchmarks](benchmark%20runners/run_all_benchmarks.ps1) · [🌈 Open Phase Viewer](examples/phase_trace_viewer.html)
 
 ---
@@ -348,47 +349,89 @@ that most people only talk about metaphorically.
 ————————————————————————————————————————————————————————
 
     - ∮1 Beam -> Focused Beam –> ∯Dual Split Beam --> ∰Multi-Phase Split Beam ----> n_x-Phase-Beam ∳Recombination <⇄>(Optional*)
-    - ∮1 Beam>----->+fBeam+>>------>>∯n-Beam----->>>>∰n_x-Beam>>>>------>>>>n_x-Phase-Beam ∳Recombination <⇄>(Optional*)
-	
+    - ∮1 Beam>----->+fBeam+>>------>>∯n-Beam----->>>>∰n_x-Beam>>>>------>>>>n_x-Phase-Beam ∳Recombination <⇄>(Optional*)	
 #### Main:
-- Light -> Polarised Film -> Bifrucated Film -> Anisotropic Gem
-- Light -> Polarised Film -> Bifrucated Film -> Isotropic Gem
+- Light -> Polarised Film -> Bifurcated Film -> Anisotropic Gem
+- Light -> Polarised Film -> Bifurcated Film -> Isotropic Gem
 ---
 #### Variation #1
-- Light -> Bifrucated Film -> Polarised Film -> Anisotropic Gem
-- Light -> Bifrucated Film -> Polarised Film -> Isotropic Gem
+- Light -> Bifurcated Film -> Polarised Film -> Anisotropic Gem
+- Light -> Bifurcated Film -> Polarised Film -> Isotropic Gem
 ---
 #### Variation #2
-- Light -> Bifrucated Film ->Polarised Film -> Anistropic Gem
-- Light -> Polarised Film -> Bifrucated Film -> Isotropic Gem
+- Light -> Bifurcated Film ->Polarised Film -> Anistropic Gem
+- Light -> Polarised Film -> Bifurcated Film -> Isotropic Gem
 ---
 #### Variation #3
-- Light -> Polarised Film  -> Bifrucated Film -> Anistropic Gem
-- Light -> Bifrucated Film -> Polarised Film -> Isotropic Gem
+- Light -> Polarised Film  -> Bifurcated Film -> Anistropic Gem
+- Light -> Bifurcated Film -> Polarised Film -> Isotropic Gem
 ---
 
-#### (+)= Polarised Film or Bifurcated Film-(Can be interchangeable)
+# (+) = Polarised Film or Bifurcated Film (Interchangeable) 
 
--     Beam----->+Beam+>------>n-Beam----->n_x-Beam>------>n_x-Phase-Beam *x⧉(Variation)🧪->>>>*
--     Phase-Beam *x⧉(various variations allowing for compounding variety, below is a small subset)🧪
--     >------>n_x-Phase-Beam Recombination (Optional)
+>     Beam----->+Beam+>------>n-Beam----->n_x-Beam>------>n_x-Phase-Beam *x⧉(Variation)->>>>*
+>     Base recursion chain: sequential beam bifurcation and phase-state expansion.
+  
+  #### 🧪 Phase-Beam *x⧉ (various variations allowing for compounding variety, below is a small subset)
+  ####    Defines the modular variation layer; each branch a potential sub-recursion or coupled state. 
+
+-     >------>n_x-Phase-Beam Recombination (Optional*)
+  #### Convergent phase summation—restores coherence after divergence cycles.
+
 -     >------>n_x-Phase-Beam Refraction/Defraction
--     >------>n_x-Phase-Beam Recoupling
+  #### Standard optical transformation; angular dispersion and spectral unfolding.
+
+-     >------>n_x-Phase-Beam Coupling/Decoupling/Recoupling
+  #### Field interaction control—binding or isolating sub-beams within the recursion.
+
 -     >------>n_x-Phase-Beam Stitching
--     >------>n_x-Phase-Beam Trasmitting
--     >------>n_x-Phase-Beam Encryption
+  #### Phase-aligned reintegration of subdivided wavefronts; topology restoration.
+
+-     >------>n_x-Phase-Beam Transmission/Emission
+  #### Energy propagation outward or into adjacent media; the export function of recursion.
+
+-     >------>n_x-Phase-Beam Encryption/Decryption
+  #### Symbolic encoding of phase information; reversible information storage within interference.
+
 -     >------>n_x-Phase-Beam Hybridisation/High-Order Hybridisation/Meta-Hybrid, Higher Order Synthesis
+  #### Cross-domain synthesis—merging optical, acoustic, or symbolic data streams.
+
 -     >------>n_x-Phase-Beam Sonic-Wavelength Ablation (Audio-Acoustic Coupling)
--     >------>n_x-Phase-Beam Cavitation (Compression, Expansion) 
--     >------>n_x-Phase-Beam Lattice Weave
--     >------>n_x-Phase-Beam Reconstruction
--     >------>n_x-Phase-Beam Folding
--     >------>n_x-Phase-Beam Cascade Amplification
--     >------>n_x-Phase-Beam to Holographic Euclid Geometry based on postulate 5. 
+  #### Acoustic harmonics intersecting optical recursion; light–sound resonance interface.
+
+-     >------>n_x-Phase-Beam Cavitation (Compression, Expansion)
+  #### Density modulation within medium; initiation of vacuum-like bubble structures.
+
+-     >------>n_x-Phase-Beam (TCP) Thermal Cavitic Plasma Amplification
+  #### Heat-induced plasma resonance generated by cavitation collapse; thermionic amplification node.
+
+-     >------>n_x-Phase-Beam Lattice Weave/Spiral
+  #### Spatial phase weaving; emergent lattice symmetries and helical propagation motifs.
+
+-     >------>n_x-Phase-Beam Reconstruction/Deconstruction
+  #### Recursive analysis and synthesis; tearing down and rebuilding coherent geometry.
+
+-     >------>n_x-Phase-Beam Folding/Unfolding
+  #### Topological inversion—mapping higher-order symmetries into lower-dimensional projections.
+
+-     >------>n_x-Phase-Beam Resonance Cascade Amplification
+  #### Chain amplification through harmonically synchronized resonant tiers.
+
+-     >------>n_x-Phase-Beam → Holographic Euclid Geometry (Postulate 5)
+  #### Phase convergence forming parallelism diagnostics; closure of Euclidean consistency loop.
+
 -     >------>n_x-Phase-Beam Rerouting
+  #### Adaptive path redirection under feedback; recursive error correction.
+
 -     >------>n_x-Phase-Beam Triangulation
--     >------>n_x-Phase-Beam Spiral
+  #### Multi-vector coherence measurement; establishes spatial reference and calibration.
+
+-     >------>n_x-Phase-Beam Tethering
+  #### Phase anchoring between observer node and recursive field; stabilizes system drift.
+
 -     Each recursion restores coherence until geometry and phase converge.
+  #### Convergence principle: recursion continues until phase-geometry parity is achieved.
+
 ————————————————————————————————————————————————————————
 #           Formal Ontology Lexicon
 ####    Polyrifringence Coined Word Family Codex
