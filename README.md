@@ -23,6 +23,13 @@
 ![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-blueviolet?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
 ![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-blueviolet?style=for-the-badge&logo=infinity&labelColor=0b0d0f&color=7cc7ff)
 
+---
+
+<!-- === Row — AI Integration & Assistance === -->
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-34b7f1?style=flat-square&logo=openai&logoColor=white)
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-34b7f1?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+
+---
 
 # Polyrifringence Engine ☄️⚙️  
 ### *⌘ “What a strange loop it’s been, Möbius.” ⌘*
@@ -47,6 +54,43 @@ light’s self-referential propagation using PyTorch (CUDA 12.1).
 The Polyrifringence Engine is a GPU-accelerated recursive optical simulation framework. It leverages PyTorch and CUDA for efficient ray tracing, particularly targeting recursive birefringence and symbolic geometry. The initial 50 million rays per second (50M rays/s) baseline was established as the starting point with an RTX 3050. To push performance to 65M rays/s (or beyond) and eventually reach 100M rays/s, a systematic approach of optimization and testing is essential.
 
 -     "What you see is the floor, not the ceiling"
+---
+
+<!-- === Row — AI Integration & Assistance === -->
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-34b7f1?style=flat-square&logo=openai&logoColor=white)
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-34b7f1?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+
+---
+
+## 🤖 Run via GPT — Polyrifringence Engine Expert
+
+Interact with the **Polyrifringence Engine Expert**, a custom GPT designed specifically for this repository.
+
+🔹 **Purpose:**  
+An embedded assistant trained on the verified documentation, benchmarks, and theoretical models of the **Polyrifringence Engine**.  
+It helps users:
+- Understand recursive birefringence and symbolic recursion  
+- Optimize GPU throughput and scaling performance  
+- Interpret phase-trace data and Euclid-5 diagnostics  
+- Ensure ethical recursion via the **Recursive Sovereignty Protocol**  
+- Integrate Codex Canon or RSANCS extensions  
+
+🔹 **Access:**  
+[**👉 Launch the Polyrifringence Engine Expert GPT**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+
+Once opened, you can ask:
+- “Explain how recursive birefringence differs from standard birefringence.”  
+- “How do I reproduce the 50 M rays/s benchmark on my GPU?”  
+- “Show me the Jones-matrix recursion law implemented in the engine.”  
+- “Interpret the Euclid-5 phase-drift diagnostic output from my CSV log.”  
+
+🔹 **Requirements:**  
+No installation needed — it runs entirely through ChatGPT, referencing the same physics, mathematics, and benchmark data documented in this repository.
+
+---
+
+> **Tip:** After the full GitHub release (with `.py` and `.html` files live), the GPT will dynamically assist with code explanations, benchmark interpretation, and viewer diagnostics directly from the repo.
+
 ---
 
 ### Incremental Performance Push
