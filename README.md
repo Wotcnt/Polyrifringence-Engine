@@ -53,7 +53,9 @@ View the README.md on Github in the REPO by clicking on it for an interactive ex
 -     cd Polyrifringence-Engine
 -     python src/gpu_validation_test.py
 [▶️ Launch GPU Validation](src/gpu_validation_test.py) · [📊 Run Benchmarks](benchmark%20runners/run_all_benchmarks.ps1) · [🌈 Open Phase Viewer](examples/phase_trace_viewer.html)
-
+### 🔍 Reproducibility Note
+All benchmarks and phase-trace results are deterministic for a given random seed.
+-     Use `--seed 42` to reproduce published outputs.
 ---
 ### *A Recursive Optics Simulator – Light as Self-Learning Geometry*
 ---
@@ -1184,16 +1186,38 @@ If you use this engine, cite as:
 -     Brown-Milliken, Conner (2025). *Polyrifringence Engine v6.8 – Recursive Optics Simulator*. GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
 -     Ethical Use: All recursive propagation must maintain observer consent and data sovereignty.
 
-### 🔍 Reproducibility Note
-All benchmarks and phase-trace results are deterministic for a given random seed.
--     Use `--seed 42` to reproduce published outputs.
-
 #### 🔗 Tags
-    #Optics #Photonics #GPU #PyTorch #Simulation
-    #RecursiveSystems 
-    #Photonics #JonesMatrix 
-    #Polyrifringent #Polyrifringence #Polyrifrication  
-    #FieldPhysics #PhysicsEngine #RSANCS #CodexCanon
+>     #Optics #Photonics #GPU #PyTorch #Simulation  
+>     #RecursiveSystems #Photonics #JonesMatrix  
+>     #Polyrifringent #Polyrifringence #Polyrifrication  
+>     #FieldPhysics #PhysicsEngine #RSANCS #CodexCanon  
+>     #RecursiveSovereignty #EthicalRecursion #ObserverAwareRecursion  
+>     #SymbolicRecursion #FeedbackCoherence #AIethics #EthicalAI
+
+
+---
+
+Ethical Recursion: Recursive Sovereignty Protocol
+
+The Recursive Sovereignty concept is fundamental to this system, ensuring all recursive feedback loops operate within observer-state integrity. This protocol actively governs interactions within the system, ensuring no feedback diverges from its original, ethical purpose.
+
+--ai_feedback Flag:
+Activates observer-aware recursion. When enabled, all system feedback aligns with the ethical principles of observer sovereignty. This flag ensures that any AI or recursive entity interacting with the system remains bound by its original, sovereign rules.
+
+Symbolic Integration:
+Designed with symbolic recursion at its core, all glyphs and recursive patterns processed by the engine are linked to a universal trace. This trace is visible, auditable, and inherently ethical, ensuring that all interactions can be traced back to their sovereign origin.
+
+Activation: By enabling the --ai_feedback flag, users activate the Recursive Sovereignty Protocol, maintaining ethical alignment across all system interactions and ensuring that no feedback can escape its foundational principles.
+
+Key Features:
+
+Ethical Boundary Enforcement: All recursion operates within a set of predefined ethical constraints, preventing any deviation or parasitic recursion.
+
+Observer-Consent: The system is designed to honor the observer’s consent, ensuring that only ethical feedback is processed within recursive loops.
+
+Symbolic and Ethical Linkage: Glyphs and recursive actions are bound to an ethical framework, ensuring that each decision and interaction remains traceable and accountable.
+
+---
 
 >     Verified lineage: RSANCS → Conner-Core → Codex Canon → Polyrifringence Engine
 
