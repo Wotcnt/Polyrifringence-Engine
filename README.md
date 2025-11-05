@@ -1,43 +1,54 @@
-# ☄️ Polyrifringence Engine  ⚙️  
--     “What if light could learn from its own refraction?”
--     “Where recursion becomes physics.” 
----
-
-### 🔖 **Official Release: v6.8c — November 2025**
-### 🧠 *Stable GPU Build – Verified on RTX 3050 (8GB) / CUDA 12.1*
--     Nvidia Geforce Game Ready Driver v581.80 - Released: Tue Nov 4,2025
-
----
 <!-- === Row 1 — Technical Environment === -->
-![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch_+_CUDA_12.1-ff6f00?style=flat-square&logo=nvidia&logoColor=white)
-![Python](https://img.shields.io/badge/python-3.11-ff6f00)
-![PyTorch](https://img.shields.io/badge/pytorch-2.4.1-ff6f00)
-[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=chart-dot&logoColor=white)](examples/bench_6213.csv)
-![License: MIT](https://img.shields.io/badge/license-MIT-darkgreen)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-[![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-emerald?logo=powershell)](launch_phase_viewer.ps1)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?logo=x)](https://x.com/MMMDcreator)
-![UI](https://img.shields.io/badge/UI-Microsoft_SandDance_Enhanced-3ee7ff?style=flat-square)
-![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-ff6f00?style=flat-square&logo=json)
-![Observer Aware](https://img.shields.io/badge/Observer-Aware_Recursion-gold?style=flat-square)
-![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-gold?style=flat-square)
+![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch_+_CUDA_12.1-ff6f00?style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.11-ff6f00?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-2.4.1-ff6f00?style=flat-square&logo=pytorch&logoColor=white)
+![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-ff6f00?style=flat-square&logo=json&logoColor=white)
+[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=nvidia&logoColor=white)](examples/bench_6213.csv)
+![License: MIT](https://img.shields.io/badge/license-MIT-darkgreen?style=flat-square&logo=open-source-initiative&logoColor=white)
+![Build](https://img.shields.io/badge/build-passing-3ee7ff?style=flat-square&logo=githubactions&logoColor=white)
+[![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-3ee7ff?style=flat-square&logo=powershell&logoColor=white)](launch_phase_viewer.ps1)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=white)](https://x.com/MMMDcreator)
+![UI](https://img.shields.io/badge/UI-Microsoft_SandDance_Enhanced-3ee7ff?style=flat-square&logo=microsoft&logoColor=white)
+[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=nvidia&logoColor=white)](examples/bench_6213.csv)
+![Observer Aware](https://img.shields.io/badge/Observer-Aware_Recursion-gold?style=flat-square&logo=eye&logoColor=black)
+![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-gold?style=flat-square&logo=balance-scale&logoColor=black)
 ![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-darkgreen?style=flat-square&logo=nvidia&logoColor=white)
-![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-darkgreen?style=flat-square&logo=python&logoColor=white)
-![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-darkgreen?style=flat-square&logo=openaccess)
+![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-darkgreen?style=flat-square&logo=calculator&logoColor=white)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-darkgreen?style=flat-square&logo=openaccess&logoColor=white)
 
 ---
+
 <!-- === Row 2 — Codex & Prestige Tier === -->
 ![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-blueviolet?style=for-the-badge&logo=github&labelColor=0b0d0f&color=7cc7ff)
-![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-lightblue?style=for-the-badge&labelColor=0b0d0f)
+![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-lightblue?style=for-the-badge&logo=git-merge&labelColor=0b0d0f)
 ![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-blueviolet?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
-![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-blueviolet?style=for-the-badge&labelColor=0b0d0f&color=7cc7ff)
+![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-blueviolet?style=for-the-badge&logo=infinity&labelColor=0b0d0f&color=7cc7ff)
 
+
+# ☄️ Polyrifringence Engine ⚙️  
+### *(CODEX CANON PROJECT — RSANCS × Conner-Core Lineage)*  
 ---
 
+#### A Recursive Optical Simulation Framework for Adaptive Light Intelligence  
+>     “Where recursion becomes physics.”  
+
+>     📄 DOI pending submission — repository serves as preprint reference for Codex Canon Series (v6.8c) 
+
+>     🧠 Stable GPU Build — Verified on RTX 3050 (8 GB) / CUDA 12.1  
+>     🧪 Throughput: 50 M rays/s  ·  Euclid Drift: < 0.1 mrad  ·  Numerical Error: < 1 %  
+>     🎮 Nvidia Game Ready Driver v581.80 · Released Nov 4 2025  
+
+[▶️ Launch GPU Validation](src/gpu_validation_test.py) · [📊 Run Benchmarks](benchmark%20runners/run_all_benchmarks.ps1) · [🌈 Open Phase Viewer](examples/phase_trace_viewer.html)
+
+---
 ### *A Recursive Optics Simulator – Light as Self-Learning Geometry*
-    📄 DOI pending submission — repository serves as preprint reference for Codex Canon Series (v6.8).
-
 ---
+-     “What if light could learn from its own refraction?”
+-     “Every reflection is an origin.”
+---
+
+## 🔬 Verified Novel Contributions
+-     (12 Cross-Domain Innovations — Recursive Computational Physics) 
 
 <details>
 <summary>📜Click here for the Summary Overview </summary>
@@ -582,3 +593,5 @@ All benchmarks and phase-trace results are deterministic for a given random seed
     #Photonics #JonesMatrix 
     #Polyrifringent #Polyrifringence #Polyrifrication  
     #FieldPhysics #PhysicsEngine #RSANCS #CodexCanon
+
+<sub>🜂 Codex Canon © 2025 Conner Brown-Milliken · Recursive Sovereignty Protocol Active</sub>
