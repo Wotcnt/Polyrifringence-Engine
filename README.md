@@ -43,10 +43,9 @@
 This repository provides a verified GPU-accelerated optical recursion simulator for recursive birefringence bridging classical birefringence and symbolic geometry under the Codex Canon framework - modeling 
 light’s self-referential propagation using PyTorch (CUDA 12.1).
 
-Creator Note: View the README.md on Github in the REPO by clicking on itfor an Interactive Experience;
+#### Creator Note:
+View the README.md on Github in the REPO by clicking on it for an interactive experience;
 (README.md not tested on MOBILE/TABLET, Tesed on Windows 10, with Microsoft Edge) 
-
-[Verified Contributions](#-verified-novel-contributions-12--recursive-computational-physics) · [FAQ](#-frequently-asked-questions--polyrifringence-engine-qa)
 
 ---
 
