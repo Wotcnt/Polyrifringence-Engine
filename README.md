@@ -39,21 +39,23 @@
 >     🧪 Throughput: 50 M rays/s  ·  Euclid Drift: < 0.1 mrad  ·  Numerical Error: < 1 %  
 >     🎮 Nvidia Game Ready Driver v581.80 · Released Nov 4 2025  
 
+---
+
 This repository provides a verified GPU-accelerated optical recursion simulator for recursive birefringence bridging classical birefringence and symbolic geometry under the Codex Canon framework - modeling 
 light’s self-referential propagation using PyTorch (CUDA 12.1).
-
+---
 The Polyrifringence Engine is a GPU-accelerated recursive optical simulation framework. It leverages PyTorch and CUDA for efficient ray tracing, particularly targeting recursive birefringence and symbolic geometry. The initial 50 million rays per second (50M rays/s) baseline was established as the starting point with an RTX 3050. To push performance to 65M rays/s (or beyond) and eventually reach 100M rays/s, a systematic approach of optimization and testing is essential.
 
 ---
 
-#### Incremental Performance Push
+### Incremental Performance Push
 Current Baseline: 50M Rays/s
 
 The 50 million rays/s baseline represents the initial performance validated with the current setup and GPU hardware. This threshold serves as a foundational measurement, providing a starting point for further exploration. However, this baseline has yet to be pushed beyond its current state, and further testing, optimization, and scaling are required to reach higher throughput benchmarks.
 
 ---
 
-#### Why Incremental Optimization Matters
+### Why Incremental Optimization Matters
 
 Incremental optimization is not only a strategic path to scaling performance but also an essential learning process that unveils hidden insights within the system. By making small, controlled adjustments to key areas like precision, GPU memory management, and feedback loops, each incremental step allows for fine-tuning of system parameters while observing the effects of each change.
 
@@ -69,7 +71,7 @@ By opting for incremental optimization, you build a deeper understanding of how 
 
 ---
 
-#### The Value of Small Steps
+### The Value of Small Steps
 
 This method allows you to:
 
@@ -81,7 +83,7 @@ Enhance Flexibility: Incremental steps create more resilient systems, where perf
 
 ---
 
-#### Creator Note:
+### Creator Note:
 View the README.md on Github in the REPO by clicking on it for an interactive experience;
 (README.md not tested on MOBILE/TABLET, Tested on Windows 10, with Microsoft Edge) 
 
