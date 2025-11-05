@@ -38,6 +38,13 @@
 >     🧪 Throughput: 50 M rays/s  ·  Euclid Drift: < 0.1 mrad  ·  Numerical Error: < 1 %  
 >     🎮 Nvidia Game Ready Driver v581.80 · Released Nov 4 2025  
 
+This repository provides a verified GPU-accelerated simulator for recursive birefringence - modeling light’s self-referential propagation using PyTorch (CUDA 12.1).
+
+# Quick Start
+git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
+cd Polyrifringence-Engine
+python src/gpu_validation_test.py
+
 [▶️ Launch GPU Validation](src/gpu_validation_test.py) · [📊 Run Benchmarks](benchmark%20runners/run_all_benchmarks.ps1) · [🌈 Open Phase Viewer](examples/phase_trace_viewer.html)
 
 ---
@@ -49,6 +56,7 @@
 
 ## 🔬 Verified Novel Contributions
 -     (12 Cross-Domain Innovations — Recursive Computational Physics) 
+
 
 <details>
 <summary>📜Click here for the Summary Overview </summary>
@@ -582,6 +590,7 @@ error-minimizing through reflection,
 ### 📘 Citation
 If you use this engine, cite as:
 -     Brown-Milliken, Conner (2025). *Polyrifringence Engine v6.8 – Recursive Optics Simulator*. GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
+-     Ethical Use: All recursive propagation must maintain observer consent and data sovereignty.
 
 ### 🔍 Reproducibility Note
 All benchmarks and phase-trace results are deterministic for a given random seed.
