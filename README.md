@@ -42,6 +42,8 @@
 This repository provides a verified GPU-accelerated optical recursion simulator for recursive birefringence bridging classical birefringence and symbolic geometry under the Codex Canon framework - modeling 
 light’s self-referential propagation using PyTorch (CUDA 12.1).
 
+The Polyrifringence Engine is a GPU-accelerated recursive optical simulation framework. It leverages PyTorch and CUDA for efficient ray tracing, particularly targeting recursive birefringence and symbolic geometry. The initial 50 million rays per second (50M rays/s) baseline was established as the starting point with an RTX 3050. To push performance to 65M rays/s (or beyond) and eventually reach 100M rays/s, a systematic approach of optimization and testing is essential.
+
 #### Creator Note:
 View the README.md on Github in the REPO by clicking on it for an interactive experience;
 (README.md not tested on MOBILE/TABLET, Tested on Windows 10, with Microsoft Edge) 
