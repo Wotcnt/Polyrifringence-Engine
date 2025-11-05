@@ -9,7 +9,6 @@
 [![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-3ee7ff?style=flat-square&logo=powershell&logoColor=white)](launch_phase_viewer.ps1)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=white)](https://x.com/MMMDcreator)
 ![UI](https://img.shields.io/badge/UI-Microsoft_SandDance_Enhanced-3ee7ff?style=flat-square&logo=microsoft&logoColor=white)
-[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=nvidia&logoColor=white)](examples/bench_6213.csv)
 ![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-gold?style=flat-square&logo=eye&logoColor=black)
 ![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-gold?style=flat-square&logo=balance-scale&logoColor=black)
 ![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-darkgreen?style=flat-square&logo=nvidia&logoColor=white)
@@ -442,57 +441,64 @@ It’s an experimental architecture proving that **information, reflection, and 
 
 ### 📊 Optical & Tensor Fundamentals
 **Birefringence relation**
-\[
+
+$$
 \Delta n = n_e - n_o
-\]
+$$
 
 **Phase difference through thickness t**
-\[
+
+$$
 \Delta \phi = \frac{2\pi \, t\, \Delta n}{\lambda}
-\]
+$$
 
 **Jones matrix for an anisotropic element**
-\[
+
+$$
 J(\theta,\Delta\phi)=
 \begin{bmatrix}
 \cos^2\theta + e^{i\Delta\phi}\sin^2\theta & (1-e^{i\Delta\phi})\sin\theta\cos\theta\\
 (1-e^{i\Delta\phi})\sin\theta\cos\theta & e^{i\Delta\phi}\cos^2\theta + \sin^2\theta
 \end{bmatrix}
-\]
+$$
 
 ---
 
 ### ♾️ Recursive Propagation Model
 **Recursive feedback law**
-\[
+
+$$
 E_{k+1} = f(J_k \, E_k) + \alpha(E_k - E_{k-1})
-\]
+$$
 
 where α is the feedback-coherence coefficient controlling phase restoration.
 
 **Energy-Conservation Constraint**
-\[
+
+$$
 \|E_{k+1}\|^2 \leq \|E_k\|^2
 \quad\Rightarrow\quad T \le 1
-\]
+$$
 
 ---
 
 ### 🧠 Recursive Learning Analogy
 Mapping optical recursion to gradient descent:
 
-\[
+$$
 E_{k+1} = E_k - \eta \nabla_{\phi} \, \mathcal{L}(E_k)
-\]
+$$
 
 with \(\mathcal{L}(E)\) representing phase-error cost and η analogous to the feedback gain.
 
 ---
 
 ### 🔺 Phase–Geometry Closure (Euclid-5 Diagnostic)
-\[
+
+$$
 \text{Drift} = \tan^{-1}\!\left(\frac{\Delta y}{L}\right) \approx 0.1\,\text{mrad}
-\]
+$$
+
 ensuring parallelism is preserved after each recursion loop.
 
 ---
