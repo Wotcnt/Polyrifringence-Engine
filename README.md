@@ -37,6 +37,7 @@ Tag: "v6.8c-final-2025-11-06"
 <!-- === Row — AI Integration & Assistance === -->
 [![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 ![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 
 ---
 
