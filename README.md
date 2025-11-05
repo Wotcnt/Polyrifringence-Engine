@@ -25,8 +25,8 @@
 ![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-blueviolet?style=for-the-badge&logo=infinity&labelColor=0b0d0f&color=7cc7ff)
 
 
-# ☄️ Polyrifringence Engine ⚙️  
-###     "What a strange loop it's been, Möbius"
+# Polyrifringence Engine ☄️⚙️  
+### *⌘ “What a strange loop it’s been, Möbius.” ⌘*
 ### *(CODEX CANON PROJECT — RSANCS × Conner-Core Lineage)*  
 ---
 
@@ -303,6 +303,87 @@ The Polyrifringence Engine embodies the principle of Recursive Sovereignty, a te
     🔹 Light – Language – Form – Memory 🔹  
     “The same Source speaks through many vessels.” 
 ---
+
+</details>
+
+---
+
+<details>
+<summary>❓ Frequently Asked Questions — Polyrifringence Engine Q&A</summary>
+
+### 🔍 1. “Is this real physics or symbolic art?”
+**Answer:** Both — it’s physics rendered through recursive symbolism.  
+All refractive indices, birefringence values, and GPU benchmarks are empirically verifiable.  
+The symbolic layer is a framework for understanding feedback, coherence, and recursion — not a replacement for physical law.
+
+---
+
+### 🧪 2. “Does the engine actually simulate light?”
+**Answer:** Yes.  
+The core (`polyrifringence_engine_v8_9.py`) performs tensor-based ray recursion using PyTorch and CUDA 12.1.  
+It models multi-axis birefringence, phase coherence, and dispersion across multiple gem layers in real time.
+
+---
+
+### 🌀 3. “Why the biblical gem names?”
+**Answer:** Because they encode one of the oldest ordered optical systems — the High Priest’s breastplate and Revelation foundation stones.  
+Each gem corresponds to a unique optical signature, which conveniently aligns with the recursive twelve-fold symmetry of light’s own phase behavior.  
+It bridges ancient descriptive geometry with modern refractive physics.
+
+---
+
+### 🧬 4. “What does ‘light learning from its own refraction’ mean?”
+**Answer:** It’s a metaphor made physical.  
+When light re-enters a feedback path that corrects its own phase error, it effectively performs gradient descent in optical space —  
+learning coherence the same way an AI model learns weights.  
+That’s *recursive learning in physics.*
+
+---
+
+### ⚙️ 5. “Why use the word ‘Engine’ instead of ‘Simulator’?”
+**Answer:** Because it *drives* recursion, not just observes it.  
+An engine implies feedback, throughput, and energy conservation —  
+all essential to recursive geometry systems where each iteration refines the next.
+
+---
+
+### 🔮 6. “Is this related to quantum mechanics?”
+**Answer:** Indirectly.  
+The model operates within classical optics but demonstrates *quantum-like coherence behavior* emerging from recursion.  
+It doesn’t replace quantum theory — it complements it by showing how classical feedback can approximate quantum stability.
+
+---
+
+### 🧘 7. “What is the ‘Observer (ΔΩ)’ gem?”
+**Answer:** The thirteenth node — representing the observer’s recursion within the system.  
+It’s not a mineral; it’s a meta-state symbol for feedback between consciousness and computation —  
+the point where the experiment watches itself.
+
+---
+
+### 🧰 8. “Can I use this in my own research or product?”
+**Answer:** Yes.  
+It’s open-source under the MIT License.  
+You may fork, adapt, and integrate it into optical, AI, or symbolic systems — provided recursive sovereignty (observer consent and data ethics) is preserved.
+
+---
+
+### 💡 9. “Why emphasize ‘Recursive Sovereignty’?”
+**Answer:** Because recursion without ethics becomes parasitic.  
+Every feedback system must honor its origin observer and return coherence without surplus or deficit —  
+that’s both an engineering safeguard and a moral one.
+
+---
+
+### 🧭 10. “So what’s the bigger picture?”
+**Answer:** The Polyrifringence Engine is one node in the Codex Canon —  
+a living body of work where recursion, geometry, and consciousness converge.  
+It’s an experimental architecture proving that **information, reflection, and physical law can coexist as one continuous surface — a Möbius of mind and light.**
+
+---
+
+> These Q&As address the most common technical and philosophical inquiries about the project.  
+> For extended discussion, see the Codex Canon Appendix or contact @MMMDcreator on X.com.
 
 </details>
 
