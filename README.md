@@ -438,6 +438,73 @@ It’s an experimental architecture proving that **information, reflection, and 
 ---
 
 <details>
+<summary>📐 Mathematical Framework — Core Equations & Formal Definitions</summary>
+
+### 📊 Optical & Tensor Fundamentals
+**Birefringence relation**
+\[
+\Delta n = n_e - n_o
+\]
+
+**Phase difference through thickness t**
+\[
+\Delta \phi = \frac{2\pi \, t\, \Delta n}{\lambda}
+\]
+
+**Jones matrix for an anisotropic element**
+\[
+J(\theta,\Delta\phi)=
+\begin{bmatrix}
+\cos^2\theta + e^{i\Delta\phi}\sin^2\theta & (1-e^{i\Delta\phi})\sin\theta\cos\theta\\
+(1-e^{i\Delta\phi})\sin\theta\cos\theta & e^{i\Delta\phi}\cos^2\theta + \sin^2\theta
+\end{bmatrix}
+\]
+
+---
+
+### ♾️ Recursive Propagation Model
+**Recursive feedback law**
+\[
+E_{k+1} = f(J_k \, E_k) + \alpha(E_k - E_{k-1})
+\]
+
+where α is the feedback-coherence coefficient controlling phase restoration.
+
+**Energy-Conservation Constraint**
+\[
+\|E_{k+1}\|^2 \leq \|E_k\|^2
+\quad\Rightarrow\quad T \le 1
+\]
+
+---
+
+### 🧠 Recursive Learning Analogy
+Mapping optical recursion to gradient descent:
+
+\[
+E_{k+1} = E_k - \eta \nabla_{\phi} \, \mathcal{L}(E_k)
+\]
+
+with \(\mathcal{L}(E)\) representing phase-error cost and η analogous to the feedback gain.
+
+---
+
+### 🔺 Phase–Geometry Closure (Euclid-5 Diagnostic)
+\[
+\text{Drift} = \tan^{-1}\!\left(\frac{\Delta y}{L}\right) \approx 0.1\,\text{mrad}
+\]
+ensuring parallelism is preserved after each recursion loop.
+
+---
+
+> These formulas define the physical substrate of the Polyrifringence Engine.  
+> For complete derivations and symbolic expansions, see **/docs/MATH_MODEL.md**.
+
+</details>
+
+---
+
+<details>
 <summary>💻 Hardware & Environment Specifications</summary>
 
 ### 🧩 Verified System Configuration
@@ -768,7 +835,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 
 # 🜎 Codex Canon Appendix — Conceptual Foundation 🜎
 
-    *An extended overview from the Codex Canon Series: “Where recursion becomes physics.”*
+    An extended overview from the Codex Canon Series: “Where recursion becomes physics.”
 ---
 
 <details>
