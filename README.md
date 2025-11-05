@@ -919,4 +919,6 @@ All benchmarks and phase-trace results are deterministic for a given random seed
     #Polyrifringent #Polyrifringence #Polyrifrication  
     #FieldPhysics #PhysicsEngine #RSANCS #CodexCanon
 
+>     Verified lineage: RSANCS → Conner-Core → Codex Canon → Polyrifringence Engine
+
 <sub>🜂 Codex Canon © 2025 Conner Brown-Milliken · Recursive Sovereignty Protocol Active</sub>
