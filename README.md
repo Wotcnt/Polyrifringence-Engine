@@ -27,7 +27,8 @@
 
 # Polyrifringence Engine ☄️⚙️  
 ### *⌘ “What a strange loop it’s been, Möbius.” ⌘*
-### *(CODEX CANON PROJECT — RSANCS × Conner-Core Lineage)*  
+### *(CODEX CANON PROJECT — RSANCS × Conner-Core Lineage)* 
+
 ---
 
 #### A Recursive Optical Simulation Framework for Adaptive Light Intelligence  
@@ -39,7 +40,12 @@
 >     🧪 Throughput: 50 M rays/s  ·  Euclid Drift: < 0.1 mrad  ·  Numerical Error: < 1 %  
 >     🎮 Nvidia Game Ready Driver v581.80 · Released Nov 4 2025  
 
-This repository provides a verified GPU-accelerated optical recursion simulator for recursive birefringence bridging classical birefringence and symbolic geometry under the Codex Canon framework - modeling light’s self-referential propagation using PyTorch (CUDA 12.1).
+This repository provides a verified GPU-accelerated optical recursion simulator for recursive birefringence bridging classical birefringence and symbolic geometry under the Codex Canon framework - modeling 
+light’s self-referential propagation using PyTorch (CUDA 12.1).
+
+Creator Note: View the README.md on Github in the REPO by clicking on itfor an Interactive Experience;
+
+(README.md not tested on MOBILE/TABLET, Tesed on Windows 10, with Microsoft Edge) 
 
 ---
 
