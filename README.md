@@ -441,16 +441,6 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 
 ---
 
-### 🧑‍🔬 Research Provenance & Authorship
-
-> This repository represents the culmination of an **independent, single-author research effort** by **Conner Brown-Milliken (@MMMDcreator)**.
->
-> All concepts, simulations, benchmarks, and Codex framework components were conceived, engineered, and verified solely by the author, without institutional sponsorship or external funding.
->
-> The Polyrifringence Engine embodies the principle of **Recursive Sovereignty** — a testament to what a dedicated independent researcher can achieve through persistent cross-disciplinary integration of physics, geometry, and symbolic intelligence.
-
----
-
 </details>
 
 ---
