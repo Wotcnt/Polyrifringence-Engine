@@ -2110,6 +2110,10 @@ If you use this engine, cite as:
 -     Brown-Milliken, Conner (2025). *Polyrifringence Engine v6.8 – Recursive Optics Simulator*. GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
 -     Ethical Use: All recursive propagation must maintain observer consent and data sovereignty.
 
+> 🧠 **Need help citing?**  
+> Ask the [Polyrifringence Engine Expert GPT](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)  
+> to auto-generate BibTeX or APA citations for your paper or replication dataset.
+
 #### 🔗 Tags
 >     #Optics #Photonics #GPU #PyTorch #Simulation  
 >     #RecursiveSystems #Photonics #JonesMatrix  
