@@ -446,10 +446,10 @@ $$
 \Delta n = n_e - n_o
 $$
 
-**Phase difference through thickness t**
+**Phase difference through thickness t** *(with λ and t in the same units)*
 
 $$
-\Delta \phi = \frac{2\pi \, t\, \Delta n}{\lambda}
+\Delta \phi = \frac{2\pi\, t\, \Delta n}{\lambda}
 $$
 
 **Jones matrix for an anisotropic element**
@@ -457,8 +457,8 @@ $$
 $$
 J(\theta,\Delta\phi)=
 \begin{bmatrix}
-\cos^2\theta + e^{i\Delta\phi}\sin^2\theta & (1-e^{i\Delta\phi})\sin\theta\cos\theta\\
-(1-e^{i\Delta\phi})\sin\theta\cos\theta & e^{i\Delta\phi}\cos^2\theta + \sin^2\theta
+\cos^2\theta + \mathrm{e}^{i\Delta\phi}\sin^2\theta & \bigl(1-\mathrm{e}^{i\Delta\phi}\bigr)\sin\theta\cos\theta\\
+\bigl(1-\mathrm{e}^{i\Delta\phi}\bigr)\sin\theta\cos\theta & \mathrm{e}^{i\Delta\phi}\cos^2\theta + \sin^2\theta
 \end{bmatrix}
 $$
 
@@ -476,7 +476,7 @@ where α is the feedback-coherence coefficient controlling phase restoration.
 **Energy-Conservation Constraint**
 
 $$
-\|E_{k+1}\|^2 \leq \|E_k\|^2
+\lVert E_{k+1}\rVert^2 \le \lVert E_k\rVert^2
 \quad\Rightarrow\quad T \le 1
 $$
 
@@ -500,6 +500,14 @@ $$
 $$
 
 ensuring parallelism is preserved after each recursion loop.
+
+---
+
+**Approximate Unitarity (lossless element)**
+
+$$
+J^\dagger J \approx I
+$$
 
 ---
 
