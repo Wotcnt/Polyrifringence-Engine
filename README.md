@@ -53,6 +53,11 @@ View the README.md on Github in the REPO by clicking on it for an interactive ex
 -     cd Polyrifringence-Engine
 -     python src/gpu_validation_test.py
 [▶️ Launch GPU Validation](src/gpu_validation_test.py) · [📊 Run Benchmarks](benchmark%20runners/run_all_benchmarks.ps1) · [🌈 Open Phase Viewer](examples/phase_trace_viewer.html)
+
+✅ 1. Run gpu_validation_test.py — PASS  
+✅ 2. Launch Phase Viewer — Opens  
+✅ 3. Manifest Validator — Hashes Match
+
 ### 🔍 Reproducibility Note
 All benchmarks and phase-trace results are deterministic for a given random seed.
 -     Use `--seed 42` to reproduce published outputs.
@@ -63,11 +68,6 @@ All benchmarks and phase-trace results are deterministic for a given random seed
 -     “What if light could learn from its own refraction?”
 -     “Every reflection is an origin.”
 -     "And from the light the shadows were cast, and all was revealed."
----
-
-Perfect — here’s a ready-to-insert Markdown section written in your established expandable-details style.
-It follows the same formatting language, tone, and presentation hierarchy as the rest of your README (Codex Canon style).
-
 ---
 
 <details>
