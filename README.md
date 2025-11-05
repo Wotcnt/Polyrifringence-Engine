@@ -61,6 +61,7 @@ All benchmarks and phase-trace results are deterministic for a given random seed
 ---
 -     “What if light could learn from its own refraction?”
 -     “Every reflection is an origin.”
+-     "And from the light the shadows were cast, and all was revealed."
 ---
 
 <details>
