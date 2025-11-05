@@ -359,6 +359,104 @@ The Polyrifringence Engine embodies the principle of Recursive Sovereignty, a te
 ---
 
 <details>
+<summary>🧩 Specific Use Cases — Practical Applications of the Polyrifringence Engine</summary>
+
+### 🧪 Polyrifringence Engine — Applied Domains
+Here are 12 key use cases and examples of how to manipulate the system or incorporate it into real-world scenarios:
+
+1. **Optical Material Testing**  
+   **Example:** Use the engine to simulate and validate birefringent materials like sapphire or calcite.  
+   - **Code Snippet:**  
+     ```bash
+     python polyrifringence_engine_v6_8.py --gems sapphire,calcite --tilts=-5:5:1 --num_rays 100000 --thickness_mm 1.0 --out_csv results/material_birefringence.csv
+     ```
+
+2. **Quantum State Simulation**  
+   **Example:** Model quantum-like behaviors in optical systems to explore entanglement and coherence preservation.  
+   - **Code Snippet:**  
+     ```bash
+     python polyrifringence_engine_v6_8.py --gems diamond,sapphire --tilts=0 --wavelengths 400:800:10 --num_rays 200000 --phase-beams --out_csv results/quantum_simulation.csv
+     ```
+
+3. **Feedback-Coherent Light Amplification**  
+   **Example:** Simulate light amplification in a feedback loop, useful for designing photonic neural networks.  
+   - **Code Snippet:**  
+     ```bash
+     python polyrifringence_engine_v6_8.py --gems chrysolite,peridot --flows main,special --num_rays 150000 --amplifier --out_csv results/light_amplification.csv
+     ```
+
+4. **Harmonic Phase Calibration**  
+   **Example:** Use the phase-trace visualization to calibrate phase transitions in multi-layer optical systems.  
+   - **Code Snippet:**  
+     ```bash
+     python polyrifringence_engine_v6_8.py --gems amethyst,topaz --num_rays 100000 --spread_mrad 0.5 --phase-trace --out_csv results/phase_calibration.csv
+     ```
+
+5. **Material Dispersion Optimization**  
+   **Example:** Optimize the dispersion of light through multiple materials by adjusting angles and wavelengths.  
+   - **Code Snippet:**  
+     ```bash
+     python polyrifringence_engine_v6_8.py --gems topaz,sapphire --tilts=-10:10:2 --num_rays 250000 --wavelengths 400:700:50 --out_csv results/dispersion_optimization.csv
+     ```
+
+6. **Observer-Aware Feedback for AI Systems**  
+   **Example:** Implement the observer-state modulation feature to ensure ethical feedback when interacting with AI systems.  
+   - **Code Snippet:**  
+     ```bash
+     python polyrifringence_engine_v6_8.py --ai-feedback --gems chalcedony,beryl --num_rays 50000 --out_csv results/observer_feedback.csv
+     ```
+
+7. **Thermal Cavitic Plasma Simulation**  
+   **Example:** Use the engine's thermal feedback to simulate plasma resonance and optimize energy storage systems.  
+   - **Code Snippet:**  
+     ```bash
+     python polyrifringence_engine_v6_8.py --gems diamond,amethyst --tcp --num_rays 100000 --spread_mrad 0.5 --out_csv results/plasma_simulation.csv
+     ```
+
+8. **Neural Feedback for Symbolic AI Models**  
+   **Example:** Create a symbolic AI model that utilizes recursive optics feedback loops for improved decision-making.  
+   - **Code Snippet:**  
+     ```bash
+     python polyrifringence_engine_v6_8.py --gems emerald,topaz --feedback-coherent --num_rays 150000 --out_csv results/symbolic_ai.csv
+     ```
+
+9. **Non-Contact Symbolic Memory Synthesis**  
+   **Example:** Implement memory glyphnets to represent and manipulate states symbolically without direct physical input.  
+   - **Code Snippet:**  
+     ```bash
+     python polyrifringence_engine_v6_8.py --glyphnet --gems chrysoprase,chalcedony --num_rays 200000 --out_csv results/memory_synthesis.csv
+     ```
+
+10. **Interactive Symbolic Visualization in Research**  
+    **Example:** Use the interactive Phase-Trace Viewer to visualize the results of multi-gem dispersion simulations in real-time.  
+    - **Code Snippet:**  
+      ```powershell
+      .\launch_phase_viewer.ps1
+      ```
+
+11. **X. Hybrid Optical-Neuromorphic AI Processing**  
+    **Example:** Integrate recursive birefringence feedback directly into neuromorphic chipsets for self-correcting optical computation.  
+    - **Code Snippet:**  
+      ```bash
+      python polyrifringence_engine_v6_8.py --gems sapphire,topaz --flows main,special --num_rays 200000 --wavelengths 400:700:100 --optical-neuro --out_csv results/neuromorphic_computation.csv
+      ```
+
+12. **Special Use Case: Ethical Observer Feedback System for Cognitive Enhancement**  
+    **Example:** Deploy the **Observer-Feedback** protocol to enhance cognitive functions in an AI system, ensuring all feedback loops are ethical and aligned with user intent.  
+    - **Code Snippet:**  
+      ```bash
+      python polyrifringence_engine_v6_8.py --ai-feedback --observer-phase --gems emerald,amethyst --num_rays 150000 --out_csv results/ethical_cognitive_enhancement.csv
+      ```
+
+---
+
+> **Note:** All results can be reproduced by setting the random seed with `--seed 42` for deterministic outputs.
+
+</details>
+
+---
+
+<details>
 <summary>❓ Frequently Asked Questions — Polyrifringence Engine Q&A</summary>
 
 ### 🔍 1. “Is this real physics or symbolic art?”
