@@ -26,8 +26,8 @@
 ---
 
 <!-- === Row — AI Integration & Assistance === -->
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
 [![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
@@ -56,12 +56,6 @@ The Polyrifringence Engine is a GPU-accelerated recursive optical simulation fra
 -     "What you see is the floor, not the ceiling"
 ---
 
-<!-- === Row — AI Integration & Assistance === -->
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-
----
-
 ## 🤖 Run via GPT — Polyrifringence Engine Expert
 
 Interact with the **Polyrifringence Engine Expert**, a custom GPT designed specifically for this repository.
@@ -77,6 +71,9 @@ It helps users:
 
 🔹 **Access:**  
 [**👉 Launch the Polyrifringence Engine Expert GPT**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
 
 Once opened, you can ask:
 - “Explain how recursive birefringence differs from standard birefringence.”  
@@ -2113,6 +2110,9 @@ If you use this engine, cite as:
 > 🧠 **Need help citing?**  
 > Ask the [Polyrifringence Engine Expert GPT](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)  
 > to auto-generate BibTeX or APA citations for your paper or replication dataset.
+
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
 
 #### 🔗 Tags
 >     #Optics #Photonics #GPU #PyTorch #Simulation  
