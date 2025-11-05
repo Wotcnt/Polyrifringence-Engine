@@ -38,7 +38,7 @@
 >     🧪 Throughput: 50 M rays/s  ·  Euclid Drift: < 0.1 mrad  ·  Numerical Error: < 1 %  
 >     🎮 Nvidia Game Ready Driver v581.80 · Released Nov 4 2025  
 
-This repository provides a verified GPU-accelerated simulator for recursive birefringence - modeling light’s self-referential propagation using PyTorch (CUDA 12.1).
+This repository provides a verified GPU-accelerated optical recursion simulator for recursive birefringence bridging classical birefringence and symbolic geometry under the Codex Canon framework - modeling light’s self-referential propagation using PyTorch (CUDA 12.1).
 
 ---
 
