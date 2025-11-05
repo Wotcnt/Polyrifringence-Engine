@@ -10,7 +10,7 @@
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=white)](https://x.com/MMMDcreator)
 ![UI](https://img.shields.io/badge/UI-Microsoft_SandDance_Enhanced-3ee7ff?style=flat-square&logo=microsoft&logoColor=white)
 [![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=nvidia&logoColor=white)](examples/bench_6213.csv)
-![Observer Aware](https://img.shields.io/badge/Observer-Aware_Recursion-gold?style=flat-square&logo=eye&logoColor=black)
+![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-gold?style=flat-square&logo=eye&logoColor=black)
 ![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-gold?style=flat-square&logo=balance-scale&logoColor=black)
 ![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-darkgreen?style=flat-square&logo=nvidia&logoColor=white)
 ![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-darkgreen?style=flat-square&logo=calculator&logoColor=white)
@@ -42,7 +42,7 @@ This repository provides a verified GPU-accelerated simulator for recursive bire
 
 ---
 
-# Quick Start
+## ⚙️ Quick Start
 -     git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
 -     cd Polyrifringence-Engine
 -     python src/gpu_validation_test.py
@@ -58,6 +58,7 @@ This repository provides a verified GPU-accelerated simulator for recursive bire
 ## 🔬 Verified Novel Contributions
 -     (12 Cross-Domain Innovations — Recursive Computational Physics) 
 
+---
 
 <details>
 <summary>📜Click here for the Summary Overview </summary>
@@ -211,7 +212,7 @@ and open it in your default browser.
 <details>
 <summary>📜Click here for Files and Folders</summary>
 	
-   # Polyrifringence-Engine/ Folders and Files
+   # ☄️ Polyrifringence-Engine/ Folders and Files 🗃️
 
     docs/ # extended documentation + archive;
 
@@ -269,7 +270,7 @@ and open it in your default browser.
 <details>
 <summary>📜Click here for Author Information</summary>
 
-# 🌐 Author
+## 🌐 Author
 
 - Conner Brown-Milliken — @MMMDcreator on x.com
 - Follow for updates on Codex Canon, RSANCS, and recursive field research.
@@ -279,12 +280,11 @@ and open it in your default browser.
 
 ---
 
-# 🪞 Codex Lineage  
+# Ω Codex Lineage  
     Research architecture built on Codex Canon
     RSANCS lineage verified (Conner-Core 2025 × λ)
 - Codex Canon Module: Polyrifringence Engine v6.8
 - Integration: Recursive optics simulation / θ-opt feedback
-- Location: C:\Conner-Core\Polyrifringence\
 - Validation: Complete (GPU/Manifest verified)
 
 --- 
@@ -359,11 +359,11 @@ that most people only talk about metaphorically.
 - Light -> Bifurcated Film -> Polarised Film -> Isotropic Gem
 ---
 #### Variation #2
-- Light -> Bifurcated Film ->Polarised Film -> Anistropic Gem
+- Light -> Bifurcated Film ->Polarised Film -> Anisotropic Gem
 - Light -> Polarised Film -> Bifurcated Film -> Isotropic Gem
 ---
 #### Variation #3
-- Light -> Polarised Film  -> Bifurcated Film -> Anistropic Gem
+- Light -> Polarised Film  -> Bifurcated Film -> Anisotropic Gem
 - Light -> Bifurcated Film -> Polarised Film -> Isotropic Gem
 ---
 
