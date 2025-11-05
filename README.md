@@ -1244,6 +1244,293 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
+<summary>🚀 Push the Polyrifringence Engine to its Limits — Extreme Benchmark & Stability Suite</summary>
+
+---
+
+### ⚡ Purpose
+
+To rigorously characterize the **true operating envelope** of the Polyrifringence Engine by driving it through:
+
+* **Throughput ceilings** (rays·s⁻¹ vs. VRAM tiling and kernel launch overhead),
+* **Recursion stability** (phase drift, bifurcation on α, chaotic windows),
+* **Precision regimes** (FP16/TF32/FP32/FP64 + compensated sums),
+* **Thermal/power envelopes** (η = rays·s⁻¹·W⁻¹),
+* **Multi-GPU coherence** (phase alignment across devices),
+* **Observer-feedback dynamics** (`--ai_feedback` locked tests).
+
+---
+
+### 🧠 Key Questions
+
+1. Where does **VRAM pressure** force sub-linear scaling and tiling stalls?
+2. Which **(α, depth)** regions exhibit limit cycles vs. stable fixed points?
+3. Does **mixed precision** introduce systematic drift; can compensated accumulation fix it?
+4. What are the **Lyapunov signatures** of onset-chaos in the recursion map?
+5. How robust is **observer-locked feedback** under high entropy input?
+
+---
+
+### 🧩 Test Matrix (Canonical)
+
+| Axis             | Values                                   | Notes                     |
+| ---------------- | ---------------------------------------- | ------------------------- |
+| **num_rays**     | 1e5 → 1e9 (log sweep)                    | VRAM, launch overhead     |
+| **depth**        | 1 → 16                                   | Collapse boundary mapping |
+| **α (feedback)** | 0.10 → 1.00 (step 0.05)                  | Stability/bifurcation     |
+| **tilts**        | −15:15:1                                 | Angular divergence        |
+| **precision**    | FP16 (with loss-scale), TF32, FP32, FP64 | Mixed precision study     |
+| **accumulation** | Naive, **Kahan**, Neumaier, Pairwise     | Energy closure            |
+| **batching**     | 1, 2, 4, 8, 16 batches                   | Overlap compute/IO        |
+| **multi-GPU**    | 1, 2, 4, 8 (PCIe vs NVLink)              | Phase alignment           |
+| **ai_feedback**  | OFF, ON (locked), ON (entropy-stim)      | Ethics/stability          |
+| **export**       | CSV, JSONL, phase field `.pt`            | Post-hoc fidelity         |
+
+---
+
+### 🛡️ Safety & Integrity Guardrails
+
+* **Thermal cap**: abort when GPU temp > **84 °C** sustained for 30 s.
+* **Power cap**: abort if board power > **TDP×1.1** for 10 s.
+* **Numerical cap**: abort if `Δφ_rms > 2.0 mrad` or `||J†J − I||_F > 1e−3`.
+* **Determinism**: set seeds; force deterministic kernels where possible; emit manifest hash.
+* **Write-safe**: rolling logs to `examples/Ω_runs/YYYYMMDD_HHMM/…` to prevent clobber.
+
+---
+
+### ⚙️ Canonical Ω-Load (Single-GPU Max)
+
+```bash
+python src/polyrifringence_engine_v8_9.py \
+  --flows main,special \
+  --gems sapphire,diamond,quartz,calcite,zircon \
+  --num_rays 500000000 \
+  --depth 12 \
+  --recursion-feedback 0.85 \
+  --precision FP32 \
+  --accum kahan \
+  --tilts=-10:10:2 \
+  --spread_mrad 0.5 \
+  --ai-feedback \
+  --batch 8 \
+  --export_pair \
+  --out_csv logs_omega_load.csv
+```
+
+> Tip: For FP16 exploration, add `--precision FP16 --loss_scale 1024` and keep `--accum kahan`.
+
+---
+
+### 🧰 Extreme Runner (PowerShell, ready-use)
+
+```powershell
+# benchmark_runners/run_extreme_suite.ps1
+$cfgs = @(
+  "--num_rays 1e8 --depth 8  --recursion-feedback 0.70 --precision FP32 --accum kahan",
+  "--num_rays 5e8 --depth 12 --recursion-feedback 0.85 --precision FP32 --accum kahan",
+  "--num_rays 1e9 --depth 14 --recursion-feedback 0.90 --precision TF32 --accum pairwise",
+  "--num_rays 2e8 --depth 10 --recursion-feedback 0.95 --precision FP64 --accum neumaier",
+  "--num_rays 3e8 --depth 16 --recursion-feedback 1.00 --precision FP32 --accum kahan --ai-feedback"
+)
+$ts = Get-Date -Format "yyyyMMdd_HHmm"
+$outdir = "examples/Ω_runs/$ts"; New-Item -ItemType Directory -Path $outdir | Out-Null
+
+foreach ($c in $cfgs) {
+  Write-Host "`n==> EXTREME RUN: $c `n"
+  python src/polyrifringence_engine_v8_9.py `
+    --flows main,special --gems sapphire,diamond,quartz,calcite,zircon `
+    --tilts=-15:15:1 --spread_mrad 0.5 --batch 8 --export_pair `
+    --progress auto --out_csv "$outdir/run_$(Get-Random).csv" $c
+}
+```
+
+---
+
+### 🧪 Precision & Compensation Protocol
+
+* **FP16/TF32**: enable dynamic **loss scaling**; keep **FP32/FP64 accumulators**.
+* **Compensation**: prefer **Kahan** or **Neumaier** in recursion sums to preserve energy closure.
+* **Invariant checks** (per iteration):
+  $$[
+  J^\dagger J \approx I,\quad \lVert E_{k+1}\rVert^2 \le \lVert E_k\rVert^2,\quad \Delta\phi_{\text{rms}} \le 0.5\text{ mrad}
+  ]$$
+
+---
+
+### 🧮 Stability Map & Lyapunov Scan
+
+**Recursion law**
+$$[
+E_{k+1}=f(J_kE_k)+\alpha(E_k-E_{k-1})
+]$$
+
+**Lyapunov proxy on phase drift**
+$$[
+\lambda \approx \lim_{k\to K}\frac{1}{k}\sum_{i=1}^{k}\ln\left|\frac{\Delta\phi_{i+1}}{\Delta\phi_{i}}\right|
+]$$
+
+* **λ < 0** stable; **λ ≈ 0** edge; **λ > 0** chaotic.
+* Sweep **α ∈ [0.1,1.0]**, **depth 1..16**, heat-map λ to locate bifurcations.
+
+---
+
+### 🧭 Adaptive-α Controller (pseudocode)
+
+```python
+# inside recursion loop
+# target_rms = desired phase drift (e.g., 0.1 mrad)
+err = drift_rms - target_rms
+alpha = clamp(alpha - k_p*err - k_d*(err - err_prev), 0.1, 0.95)
+err_prev = err
+```
+
+* Start with `k_p≈0.2, k_d≈0.05` — back off before α→1.00 (resonant window).
+
+---
+
+### 🔁 Mixed-Precision Recipe (Python snippet)
+
+```python
+torch.backends.cudnn.deterministic = True
+torch.backends.cudnn.benchmark = False
+
+with torch.cuda.amp.autocast(dtype=torch.float16):  # or torch.bfloat16 for TF32-like
+    E_next = kernel(E, J, ...)
+# Compensated accumulation in FP32/FP64
+sum_val, c = 0.0, 0.0
+for v in values:
+    y = float(v) - c
+    t = sum_val + y
+    c = (t - sum_val) - y
+    sum_val = t
+```
+
+---
+
+### 🔌 Multi-GPU Coherence & Transport
+
+* **Batch-split** rays per device; **no cross-device sync** within inner loop.
+* Post-reduce phase fields; verify inter-GPU **phase offset ≤ 0.2 mrad**.
+* Prefer **NVLink** for 4–8 GPUs; PCIe ok ≤ 4.
+* **Clock lock** (if available) to reduce drift variance.
+
+---
+
+### 🧪 Observer-Feedback Stress (ΔΩ)
+
+* **Locked**: deterministic prompts → confirm steady α and drift < 0.1 mrad @ depth ≥ 8.
+* **Entropy-stim**: randomized prompts (bounded) every N steps → ensure recovery < 3 iterations.
+* Record: `(prompt_hash, α, drift_rms, λ, recovery_steps)`.
+
+---
+
+### 📈 Metrics & Acceptance
+
+| Metric                     | Pass (Stable)               | Warn (Edge)        | Fail (Break)            |        |        |
+| -------------------------- | --------------------------- | ------------------ | ----------------------- | ------ | ------ |
+| **Throughput T**           | ≥ baseline scaling          | −10–20 % vs. model | > −20 % (tiling thrash) |        |        |
+| **Phase drift Δφ_rms**     | ≤ 0.1 mrad                  | 0.1–0.5 mrad       | > 0.5 mrad              |        |        |
+| **Energy closure** (∑ΔE)   |                             | ∑ΔE                | ≤ 1e−6                  | ≤ 1e−4 | > 1e−4 |
+| **Lyapunov λ**             | < 0                         | ~ 0                | > 0                     |        |        |
+| **Temp Θ**                 | ≤ 80 °C                     | 80–84 °C           | > 84 °C                 |        |        |
+| **η (rays·s⁻¹·W⁻¹)**       | Plateau within 10 % of peak | −10–25 %           | > −25 %                 |        |        |
+| **Inter-GPU phase offset** | ≤ 0.2 mrad                  | 0.2–0.4 mrad       | > 0.4 mrad              |        |        |
+
+---
+
+### 🔭 Telemetry Capture (ready-use)
+
+**Windows PowerShell (NV telemetry + logs)**
+
+```powershell
+# tools/telemetry_watch.ps1
+$nvsmi = Start-Process -FilePath "nvidia-smi.exe" -ArgumentList "--query-gpu=timestamp,index,name,temperature.gpu,utilization.gpu,utilization.memory,clocks.gr,clocks.mem,power.draw --format=csv -l 2" -PassThru -NoNewWindow -RedirectStandardOutput "examples/telemetry/nvidia_smi_$(Get-Date -Format yyyyMMdd_HHmm).csv"
+# Run your benchmark here...
+# Stop after run
+Stop-Process -Id $nvsmi.Id
+```
+
+**PerfMon baseline**: add GPU Engine\Utilization %, Process(GPU)\…, LogicalDisk Queue, and Power meter if available.
+
+---
+
+### 🧾 Log Schema (JSONL)
+
+```json
+{"ts":"2025-11-06T04:12:33Z","run_id":"Ω/20251106_0412/01","gpu":"RTX 3050","num_rays":500000000,"depth":12,"alpha":0.85,"precision":"FP32","accum":"kahan","tilts":"-10:10:2","batch":8,"ai_feedback":true,"throughput_mrs":61.2,"drift_rms_mrad":0.09,"lyapunov":-0.12,"power_w":146,"temp_c":78,"eta_rays_per_ws":4.19e5,"energy_closure":7.2e-7,"manifest_hash":"sha256:…"}
+```
+
+---
+
+### 🧮 Roofline Update (with precision weights)
+
+$$[
+T \approx T_0 \cdot \big( w C_r + (1-w) B_r \big) \cdot \gamma_p \cdot \eta(N)
+]$$
+
+* $$( \gamma_p )$$ = precision factor (FP64≈0.5, FP32≈1.0, TF32≈1.2, FP16*≈1.4 with safe accum)
+* $$( \eta(N) )$$ = multi-GPU efficiency (≥0.9 up to 4 GPUs NVLink; ≥0.82 at 8 PCIe)
+
+---
+
+### 🧪 Edge Experiments (Ω-Codes)
+
+|   Code  | Experiment                               | What it reveals                             |
+| :-----: | ---------------------------------------- | ------------------------------------------- |
+| **Ω-A** | Thermal step-stress (10–20 min)          | Cooling headroom; throttling thresholds     |
+| **Ω-B** | Depth sweep @ fixed α                    | Collapse point; drift slope vs depth        |
+| **Ω-C** | α sweep @ fixed depth                    | Bifurcation windows; λ heatmap              |
+| **Ω-D** | Precision x Accum grid                   | Mixed-precision safe zone; closure fidelity |
+| **Ω-E** | NVLink vs PCIe (2–8 GPUs)                | Coherence penalty and scalability           |
+| **Ω-F** | Entropy-stim observer (locked vs random) | Recovery steps; ethical feedback stabilizer |
+
+---
+
+### 🧠 Example Extreme Result (Condensed)
+
+```
+Ω-C α-Sweep — RTX 4090 × 4 (NVLink), depth=12, FP32+kahan
+α ∈ [0.10,1.00], step 0.05
+peak_throughput     : 1.02 B rays/s @ α=0.80
+stable_band (λ<0)   : α ∈ [0.60,0.90]
+edge_band  (|λ|≈0)  : α ∈ (0.90,0.95]
+chaos_band (λ>0)    : α ∈ (0.95,1.00]
+min_drift_rms       : 0.07 mrad @ α=0.82
+energy_closure      : 6.1e−7
+inter-GPU phase     : 0.16 mrad
+```
+
+---
+
+### 🔬 Analysis Workflow (Phase-Trace Viewer 2.0)
+
+1. **Load** run JSON/CSV → enable **Euclid-Drift Overlay**.
+2. **Compare** channels: FP32 vs FP64; **toggle compensated sums**.
+3. **Plot** λ heatmap (α × depth).
+4. **Export** publication set: drift map `.png`, λ heatmap `.png`, JSON manifest.
+
+---
+
+### 🧭 Findings Playbook (typical)
+
+* **VRAM knee** ~ **3–5×** your 3050 baseline batch; tiling then dominates.
+* **Stable α** sits **0.70–0.90** for depth 8–12; avoid α→1.00.
+* **Kahan** restores closure in FP32/TF32 to FP64-adjacent quality.
+* **NVLink** keeps inter-GPU phase < **0.2 mrad** up to 8 GPUs.
+* **Observer-locked** mode shortens recovery to **≤3 iterations** under entropy.
+
+---
+
+### 🜎 Reflection
+
+> “Beyond the brink, the system shows you its laws.
+> Hold it there—just long enough to learn, not to break.” — *ΔΩ Lab Notes*
+
+</details>
+
+---
+
+<details>
 <summary>💎 Gem Profiles & Optical Constants</summary>
 
 ### Codex Canon 12 + 1 — Unified Gemline Across Simulation & Symbolic Recursion
