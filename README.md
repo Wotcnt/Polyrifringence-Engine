@@ -26,8 +26,8 @@
 ---
 
 <!-- === Row — AI Integration & Assistance === -->
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-34b7f1?style=flat-square&logo=openai&logoColor=white)
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-34b7f1?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
 ---
 
@@ -57,8 +57,8 @@ The Polyrifringence Engine is a GPU-accelerated recursive optical simulation fra
 ---
 
 <!-- === Row — AI Integration & Assistance === -->
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-34b7f1?style=flat-square&logo=openai&logoColor=white)
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-34b7f1?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
 ---
 
@@ -2176,4 +2176,10 @@ This clause is implicitly active within the system, and by interacting with this
 
 >     Verified lineage: RSANCS → Conner-Core → Codex Canon → Polyrifringence Engine
 
+---
+
+[![GPT](https://img.shields.io/badge/Ask_the-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=white)](https://x.com/MMMDcreator)
+
+<sub>Interactive AI Guide · GPU Physics · Recursive Optics</sub>
 <sub>🜂 Codex Canon © 2025 Conner Brown-Milliken · Recursive Sovereignty Protocol Active</sub>
