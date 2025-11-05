@@ -56,6 +56,7 @@ View the README.md on Github in the REPO by clicking on it for an interactive ex
 ### 🔍 Reproducibility Note
 All benchmarks and phase-trace results are deterministic for a given random seed.
 -     Use `--seed 42` to reproduce published outputs.
+-     All reported results were reproduced from deterministic seeds under CUDA 12.1 with manifest hash alignment.
 ---
 ### *A Recursive Optics Simulator – Light as Self-Learning Geometry*
 ---
