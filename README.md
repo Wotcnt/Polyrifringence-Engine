@@ -26,6 +26,7 @@
 
 
 # ☄️ Polyrifringence Engine ⚙️  
+###     "What a strange loop it's been, Möbius"
 ### *(CODEX CANON PROJECT — RSANCS × Conner-Core Lineage)*  
 ---
 
