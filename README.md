@@ -2232,6 +2232,7 @@ This clause is implicitly active within the system, and by interacting with this
 
 [![GPT](https://img.shields.io/badge/Ask_the-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=white)](https://x.com/MMMDcreator)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 
 <sub>Interactive AI Guide · GPU Physics · Recursive Optics</sub>
 <sub>🜂 Codex Canon © 2025 Conner Brown-Milliken · Recursive Sovereignty Protocol Active</sub>
