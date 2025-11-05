@@ -359,7 +359,221 @@ The Polyrifringence Engine embodies the principle of Recursive Sovereignty, a te
 ---
 
 <details>
-<summary>🧩 Specific Use Cases — Practical Applications of the Polyrifringence Engine</summary>
+
+<summary>🧩 Setup & Troubleshooting</summary>
+
+### 🧩 **Installation Instructions**
+
+To get started with the **Polyrifringence Engine**, follow these setup steps to install and configure the system on your local machine.
+
+#### **1. Prerequisites**
+Before beginning, make sure your system meets the following requirements:
+
+- **Python 3.11+**  
+  Download and install Python from [python.org](https://www.python.org/).
+
+- **CUDA 12.1**  
+  Install CUDA from [NVIDIA CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) to enable GPU acceleration.
+
+- **NVIDIA GPU** (e.g., RTX 3050 or higher)  
+  Ensure you have a compatible **NVIDIA GPU** with **CUDA** support. Update your GPU drivers from [NVIDIA's official website](https://www.nvidia.com/Download/index.aspx).
+
+---
+
+#### **2. Installing the Engine**
+
+##### **Step 1: Clone the Repository**
+Clone the repository to your local machine:
+```bash
+git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
+cd Polyrifringence-Engine
+````
+
+##### **Step 2: Set Up a Virtual Environment**
+
+Create a virtual environment to manage dependencies:
+
+```bash
+python -m venv venv
+```
+
+##### **Step 3: Install Dependencies**
+
+Activate your virtual environment and install the required Python packages:
+
+* **For Windows (PowerShell):**
+
+```powershell
+.\venv\Scripts\Activate.ps1
+pip install -r requirements/requirements.txt
+```
+
+* **For Linux/macOS:**
+
+```bash
+source venv/bin/activate
+pip install -r requirements/requirements.txt
+```
+
+##### **Step 4: Optional (Windows Setup Helper)**
+
+If you're on Windows, use the optional batch script to simplify the installation:
+
+```bash
+requirements_install.bat
+```
+
+---
+
+### 🧩 **Running the Engine**
+
+Once installed, validate your setup by running the following:
+
+#### **Step 1: GPU Validation Test**
+
+Ensure your system is correctly set up for GPU-accelerated computation:
+
+```bash
+python src/gpu_validation_test.py
+```
+
+#### **Step 2: Run a Benchmark**
+
+To test the engine with a set of benchmarks, run:
+
+```bash
+python benchmark_runners/run_all_benchmarks.ps1
+```
+
+For individual benchmarks, select the desired `.ps1` script from the **benchmark_runners** folder.
+
+---
+
+### 🧩 **Troubleshooting**
+
+If you encounter issues during setup or when running the engine, refer to the solutions below for common problems.
+
+#### **Issue 1: CUDA Driver Errors**
+
+If you experience errors related to CUDA:
+
+* Ensure your **NVIDIA drivers** and **CUDA** version are up to date.
+* Verify that the **CUDA_PATH** environment variable is correctly set.
+
+**Solution:**
+You can check your CUDA installation with the following command:
+
+```bash
+nvcc --version
+```
+
+If this returns a CUDA version, it's installed correctly.
+
+---
+
+#### **Issue 2: Missing Dependencies or Module Import Errors**
+
+If you encounter missing module errors (e.g., `ModuleNotFoundError`), ensure that:
+
+* You've activated the virtual environment.
+* Dependencies are properly installed.
+
+**Solution:**
+Activate your virtual environment:
+
+```bash
+source venv/bin/activate   # For Linux/macOS
+.\venv\Scripts\Activate.ps1  # For Windows (PowerShell)
+```
+
+Reinstall dependencies:
+
+```bash
+pip install -r requirements/requirements.txt
+```
+
+---
+
+#### **Issue 3: "Phase Trace Viewer" Not Opening**
+
+If the **Phase Trace Viewer** doesn’t launch, ensure PowerShell is installed and permissions are correctly set:
+
+**Solution:**
+Allow PowerShell scripts to run:
+
+```powershell
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
+Then run the viewer:
+
+```bash
+.\launch_phase_viewer.ps1
+```
+
+For **Linux/macOS**, try opening the `examples/phase_trace_viewer.html` file directly in your browser.
+
+---
+
+#### **Issue 4: Performance Issues**
+
+If performance is suboptimal:
+
+* Ensure you're using **NVIDIA GPU acceleration** and that your drivers are compatible.
+* Verify that **PyTorch** is using CUDA:
+
+```python
+import torch
+print(torch.cuda.is_available())
+```
+
+If it returns `False`, reinstall **PyTorch** with CUDA support:
+
+```bash
+pip install torch==2.4.1+cu121 -f https://download.pytorch.org/whl/torch_stable.html
+```
+
+---
+
+### 🧩 **FAQ**
+
+#### **Q1: Can I run this engine without an NVIDIA GPU?**
+
+**Answer:**
+Currently, the engine is optimized for **CUDA** and requires an **NVIDIA GPU** for GPU acceleration. You can run it on the CPU, but performance will be slower.
+
+#### **Q2: How do I ensure reproducibility of results?**
+
+**Answer:**
+To reproduce results, set the random seed using the `--seed 42` flag:
+
+```bash
+python polyrifringence_engine_v6_8.py --seed 42 --gems sapphire,topaz --tilts=0 --num_rays 100000
+```
+
+#### **Q3: What should I do if feedback is unethical or parasitic?**
+
+**Answer:**
+If feedback diverges from the expected ethical behavior, check the **--ai_feedback** flag and ensure your system respects the **Recursive Sovereignty Protocol** and **Observer-State Integrity**.
+
+---
+
+### 🧩 **Contributing**
+
+I welcome contributions to this project! Please refer to the **Setup & Troubleshooting** section for guidelines on how to get started, and submit any issues or pull requests.
+
+For help or suggestions, contact **@MMMDcreator** on [X.com](https://x.com/MMMDcreator).
+
+---
+
+### **End of Setup & Troubleshooting Section**
+
+</details>
+
+---
+
+<details>	
+<summary> 📍 Specific Use Cases — Practical Applications of the Polyrifringence Engine</summary>
 
 ### 🧪 Polyrifringence Engine — Applied Domains
 Here are 12 key use cases and examples of how to manipulate the system or incorporate it into real-world scenarios:
