@@ -1,10 +1,10 @@
 ---
 latest: "Polyrifringence Engine v8.10"
 author: "Conner Brown-Milliken"
-date: "2025-11-06"
+date: "2025-11-07"
 license: "MIT"
 doi: "pending"
-keywords: [recursive birefringence, GPU optics, Codex Canon, RSANCS, symbolic recursion]
+keywords: "[recursive birefringence, GPU optics, Codex Canon, RSANCS, symbolic recursion]"
 Tag: "v6.8c-prerelease-2025-11-06"
 ---
 <!-- === Row 1 — Technical Environment === -->
