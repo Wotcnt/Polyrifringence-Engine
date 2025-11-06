@@ -8,9 +8,8 @@ keywords: [recursive birefringence, GPU optics, Codex Canon, RSANCS, symbolic re
 Tag: "v6.8c-final-2025-11-06"
 ---
 <!-- === Row 1 — Technical Environment === -->
-![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch_+_CUDA_12.1-ff6f00?style=flat-square&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/python-3.11-ff6f00?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-2.4.1-ff6f00?style=flat-square&logo=pytorch&logoColor=white)
+![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch2.4.1_+_CUDA_12.1-ff6f00?style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.11+-ff6f00?style=flat-square&logo=python&logoColor=white)
 ![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-ff6f00?style=flat-square&logo=json&logoColor=white)
 [![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=nvidia&logoColor=white)](examples/bench_6213.csv)
 ![License: MIT](https://img.shields.io/badge/license-MIT-darkgreen?style=flat-square&logo=open-source-initiative&logoColor=white)
