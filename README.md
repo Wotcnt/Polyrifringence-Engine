@@ -1,11 +1,11 @@
 ---
-title: "Polyrifringence Engine v6.8c"
+latest: "Polyrifringence Engine v8.10"
 author: "Conner Brown-Milliken"
 date: "2025-11-06"
 license: "MIT"
 doi: "pending"
 keywords: [recursive birefringence, GPU optics, Codex Canon, RSANCS, symbolic recursion]
-Tag: "v6.8c-final-2025-11-06"
+Tag: "v6.8c-prerelease-2025-11-06"
 ---
 <!-- === Row 1 — Technical Environment === -->
 ![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch2.4.1_+_CUDA_12.1-ff6f00?style=flat-square&logo=pytorch&logoColor=white)
