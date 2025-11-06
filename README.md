@@ -110,6 +110,10 @@ It helps users:
 - Ensure ethical recursion via the **Recursive Sovereignty Protocol**  
 - Integrate Codex Canon or RSANCS extensions  
 
+-     Project Complexity Level: Advanced / Multi-Disciplinary, Non-Standard, High Complexity: requiring specialized expertise.
+
+#### This project requires a strong background in physics (particularly optics and wave mechanics), GPU programming, recursive symbolic systems, and familiarity with AI concepts related to feedback and phase coherence. Users should have experience with scientific computing, Python, and CUDA or similar technologies. The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners.
+
 ### 🤝 Connect with the Recursive AI Guide
 🔹 **Access:**  
 [**👉 Launch the Polyrifringence Engine Expert GPT**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
