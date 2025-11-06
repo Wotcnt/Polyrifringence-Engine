@@ -1836,11 +1836,13 @@ inter-GPU phase     : 0.16 mrad
 
 ### ⚗️ Physical Reference Gems (Calibration Set)
 
-| Gem | Type | nₒ (589 nm) | Δn | Purpose |
-|------|------|--------------|----|----------|
-| **Diamond (C)** | Isotropic | 2.417 | — | Defines isotropic upper-index limit; used for reflectivity and dispersion validation. |
-| **Calcite (CaCO₃)** | Anisotropic (–) | 1.658 | 0.172 | Provides birefringent extreme; used for Δθₑ₋ₒ accuracy and phase-split verification. |
-| **Chrysoprase (SiO₂ + Ni)** | Amorphous / Hydrated Silica | 1.540 | ≈ 0 | Acts as transitional “memory buffer” linking symbolic recursion to measurable optical behavior. |
+| Gem                            | Type                         | nₒ (589 nm) | Δn             | Purpose                                                                                          | Optical Role                                                                                            | Symbolic Analogue                                                                                |
+| ------------------------------ | ---------------------------- | ----------- | -------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 💎 **Diamond (C)**             | Isotropic                    | 2.417       | —              | Defines isotropic upper-index limit; used for reflectivity and dispersion validation.            | **Perfect Clarity / Reference Standard** — establishes absolute optical unity and reflection integrity. | 🔷 *Origin of Light* — the unbent source; crystalline truth preceding recursion.                 |
+| ⚙️ **Calcite (CaCO₃)**         | Anisotropic (–)              | 1.658       | 0.172          | Provides birefringent extreme; used for Δθₑ₋ₒ accuracy and phase-split verification.             | **Maximal Birefringence / Phase Separator** — defines pure dual-path divergence for calibration.        | ⚙️ *Law of Division* — clarity through precision; the disciplined refraction of form.            |
+| 🌿 **Chrysoprase (SiO₂ + Ni)** | Amorphous / Hydrated Silica  | 1.540       | ≈ 0            | Acts as transitional “memory buffer,” linking symbolic recursion to measurable optical behavior. | **Phase Bridge / Stabilizer** — harmonizes coherence between crystalline and amorphous domains.         | 🌿 *Memory Bridge* — equilibrium between thought and form; the living median.                    |
+| 🌫️ **Alabaster (CaSO₄·2H₂O)** | Microcrystalline / Diffusive | 1.530       | ~ 0.009 (eff.) | Defines the diffuse limit of birefringence; validates recursive feedback in scattering media.    | **Diffuse Coherence Amplifier** — transforms scattering into recursive feedback memory.                 | 🌫️ *Veil of Memory* — forgetting as reflection; diffusion that allows light to re-learn itself. |
+
 
 > These reference gems extend the canonical Twelve + One into the empirical domain, ensuring Codex and classical optics remain aligned.  
 
