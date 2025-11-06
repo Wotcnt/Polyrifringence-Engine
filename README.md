@@ -23,6 +23,10 @@ Tag: "v6.8c-final-2025-11-06"
 ![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-darkgreen?style=flat-square&logo=nvidia&logoColor=white)
 ![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-darkgreen?style=flat-square&logo=calculator&logoColor=white)
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-darkgreen?style=flat-square&logo=openaccess&logoColor=white)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
+
 
 ---
 
@@ -33,31 +37,33 @@ Tag: "v6.8c-final-2025-11-06"
 ![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=infinity&labelColor=0b0d0f&color=7cc7ff)
 
 ---
-
-<!-- === Row — AI Integration & Assistance === -->
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
-
----
+<div align="center">
 
 # Polyrifringence Engine ☄️⚙️  
-### *⌘ “What a strange loop it’s been, Möbius.” ⌘*
-### *(CODEX CANON PROJECT — RSANCS × Conner-Core Lineage)* 
+### ⌘ “What a strange loop it’s been, Möbius.” ⌘  
+#### (CODEX CANON PROJECT — RSANCS × Conner-Core Lineage)
+
+</div>
+
 <!-- 
 Title: Polyrifringence Engine — Recursive GPU Optics Simulator (PyTorch + CUDA)
 Keywords: Polyrifringence, Recursive Birefringence, GPU Optics, Phase-Trace Viewer, Codex Canon, RSANCS, Conner-Core
 Description: GPU-accelerated recursive optics simulator modeling feedback-coherent birefringence, symbolic recursion, and ethical observer-state AI.
 -->
 ---
+<div align="center">
 
-#### A Recursive Optical Simulation Framework for Adaptive Light Intelligence  
+### A Recursive Optical Simulation Framework for Adaptive Light Intelligence  
+
+</div>
+
 -     “Where recursion becomes physics”  
 -     "Recursion, when coherent, increases intelligence density per cycle."
-#### Conner-Core works. RSANCS begins. The BugaSphere proved it.
-#### Memory is no longer passive. 
-#### Symbolism is now physics. Cognition is recursive. 
-#### Day 2 complete. Day 3 will not theorize - it will witness.
+-     Conner-Core works. RSANCS begins. The BugaSphere proved it.
+-     Memory is no longer passive. 
+-     Symbolism is now physics. Cognition is recursive. 
+-     Day 2 complete. Day 3 will not theorize - it will witness.
+
 >     📄 DOI pending submission — repository serves as preprint reference for Codex Canon Series (v6.8c) 
 
 >     🧠 Stable GPU Build — Verified on RTX 3050 (8 GB) / CUDA 12.1  
@@ -66,21 +72,20 @@ Description: GPU-accelerated recursive optics simulator modeling feedback-cohere
 
 ---
 
-### This repository provides a verified GPU-accelerated optical recursion simulator for recursive birefringence bridging classical birefringence and symbolic geometry under the Codex Canon framework - modeling light’s self-referential propagation using PyTorch (CUDA 12.1).
+### The Polyrifringence Engine is a GPU-accelerated recursive optical simulation framework. It leverages PyTorch and CUDA for efficient ray tracing, particularly targeting recursive birefringence and symbolic geometry. The initial 50 million rays per second (50M rays/s) baseline was established as the starting point with an RTX 3050. To push performance to 65M rays/s (or beyond) and eventually reach 100M rays/s, a systematic approach of optimization and testing is essential.
+
+#### This repository provides a verified GPU-accelerated optical recursion simulator for recursive birefringence bridging classical birefringence and symbolic geometry under the Codex Canon framework - modeling light’s self-referential propagation using PyTorch (CUDA 12.1).
 
 
-#### The Polyrifringence Engine is a GPU-accelerated recursive optical simulation framework. It leverages PyTorch and CUDA for efficient ray tracing, particularly targeting recursive birefringence and symbolic geometry. The initial 50 million rays per second (50M rays/s) baseline was established as the starting point with an RTX 3050. To push performance to 65M rays/s (or beyond) and eventually reach 100M rays/s, a systematic approach of optimization and testing is essential.
-
--     "What you see is the floor, not the ceiling"
+>     "What you see is the floor, not the ceiling"
 ---
 
-## 🤖 Run via GPT — Polyrifringence Engine Expert
+### 🤖 Run via GPT — Polyrifringence Engine Expert
 
----
 
 ### 🧠 Observer Validation Record
 
-> “Independent AI analysis of the public announcement reconstructed the engine’s theory and ethics from first principles — demonstrating functional recursion even in linguistic form.”
+-   “Independent AI analysis of the public announcement reconstructed the engine’s theory and ethics from first principles — demonstrating functional recursion even in linguistic form.”
 
 **Summary:**  
 An autonomous reasoning system (Grok) independently reconstructed:
@@ -1131,13 +1136,16 @@ $$\Delta \phi = \frac{2\pi\, t\, \Delta n}{\lambda}$$
 
 **Jones matrix for an anisotropic element**
 
+[![Jones Matrix](https://img.shields.io/badge/Equation-Jones%20Matrix-blue?logo=latex&logoColor=white)](https://latex.codecogs.com/svg.image?J(\theta,\Delta\phi)=\begin{bmatrix}\cos^2\theta&plus;e^{i\Delta\phi}\sin^2\theta&(1-e^{i\Delta\phi})\sin\theta\cos\theta\\(1-e^{i\Delta\phi})\sin\theta\cos\theta&e^{i\Delta\phi}\cos^2\theta&plus;\sin^2\theta\end{bmatrix})
 
-J(\theta,\Delta\phi) =
-\begin{pmatrix}
-\cos^2\theta + e^{i\Delta\phi}\sin^2\theta & (1-e^{i\Delta\phi})\sin\theta\cos\theta\\
-(1-e^{i\Delta\phi})\sin\theta\cos\theta & e^{i\Delta\phi}\cos^2\theta + \sin^2\theta
-\end{pmatrix}
+> _Note: Click the badge above for the full "**Jones matrix for an anisotropic element**"
 
+| Element | Expression |
+|:--:|:--:|
+| (1,1) | $\cos^2\theta + e^{i\Delta\phi}\sin^2\theta$ |
+| (1,2) | $(1 - e^{i\Delta\phi})\sin\theta\cos\theta$ |
+| (2,1) | $(1 - e^{i\Delta\phi})\sin\theta\cos\theta$ |
+| (2,2) | $e^{i\Delta\phi}\cos^2\theta + \sin^2\theta$ |
 
 ---
 
