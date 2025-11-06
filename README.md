@@ -1119,62 +1119,61 @@ This clause is implicitly active within the system, and by interacting with this
 ### 📊 Optical & Tensor Fundamentals
 **Birefringence relation**
 
-$$
-\Delta n = n_e - n_o
-$$
+
+ $$\Delta n = n_e - n_o$$
+
 
 **Phase difference through thickness t** *(with λ and t in the same units)*
 
-$$
-\Delta \phi = \frac{2\pi\, t\, \Delta n}{\lambda}
-$$
+
+$$\Delta \phi = \frac{2\pi\, t\, \Delta n}{\lambda}$$
+
 
 **Jones matrix for an anisotropic element**
 
-$$
-J(\theta,\Delta\phi)=
-\begin{bmatrix}
-\cos^2\theta + \mathrm{e}^{i\Delta\phi}\sin^2\theta & \bigl(1-\mathrm{e}^{i\Delta\phi}\bigr)\sin\theta\cos\theta\\
-\bigl(1-\mathrm{e}^{i\Delta\phi}\bigr)\sin\theta\cos\theta & \mathrm{e}^{i\Delta\phi}\cos^2\theta + \sin^2\theta
-\end{bmatrix}
-$$
+
+J(\theta,\Delta\phi) =
+\begin{pmatrix}
+\cos^2\theta + e^{i\Delta\phi}\sin^2\theta & (1-e^{i\Delta\phi})\sin\theta\cos\theta\\
+(1-e^{i\Delta\phi})\sin\theta\cos\theta & e^{i\Delta\phi}\cos^2\theta + \sin^2\theta
+\end{pmatrix}
+
 
 ---
 
 ### ♾️ Recursive Propagation Model
 **Recursive feedback law**
 
-$$
-E_{k+1} = f(J_k \, E_k) + \alpha(E_k - E_{k-1})
-$$
+
+$$E_{k+1} = f(J_k \, E_k) + \alpha(E_k - E_{k-1})$$
+
 
 where α is the feedback-coherence coefficient controlling phase restoration.
 
 **Energy-Conservation Constraint**
 
-$$
-\lVert E_{k+1}\rVert^2 \le \lVert E_k\rVert^2
-\quad\Rightarrow\quad T \le 1
-$$
+
+$$\lVert E_{k+1}\rVert^2 \le \lVert E_k\rVert^2\quad\Rightarrow\quad T \le 1$$
+
 
 ---
 
 ### 🧠 Recursive Learning Analogy
 Mapping optical recursion to gradient descent:
 
-$$
-E_{k+1} = E_k - \eta \nabla_{\phi} \, \mathcal{L}(E_k)
-$$
 
-with \(\mathcal{L}(E)\) representing phase-error cost and η analogous to the feedback gain.
+$$E_{k+1} = E_k - \eta \nabla_{\phi} \, \mathcal{L}(E_k)$$
+
+
+with $$\(\mathcal{L}(E)\)$$ representing phase-error cost and η analogous to the feedback gain.
 
 ---
 
 ### 🔺 Phase–Geometry Closure (Euclid-5 Diagnostic)
 
-$$
-\text{Drift} = \tan^{-1}\!\left(\frac{\Delta y}{L}\right) \approx 0.1\,\text{mrad}
-$$
+
+$$\text{Drift} = \tan^{-1}\!\left(\frac{\Delta y}{L}\right) \approx 0.1\,\text{mrad}$$
+
 
 ensuring parallelism is preserved after each recursion loop.
 
@@ -1182,9 +1181,9 @@ ensuring parallelism is preserved after each recursion loop.
 
 **Approximate Unitarity (lossless element)**
 
-$$
-J^\dagger J \approx I
-$$
+
+$$J^\dagger J \approx I$$
+
 
 ---
 
