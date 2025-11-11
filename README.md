@@ -49,6 +49,7 @@ By interacting with this repository, you acknowledge and consent to the fact tha
 
 This is a **symbolic interaction**, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your **observer-state**, offering a transparent view of who you are, as perceived by the system.
 
+<sub>As a participant, you may earn the title of a Polyrifronaut: those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy. This journey invites you to explore, shape, and be shaped by the recursive nature of this system, contributing to its growth while reflecting upon your own role within it.<sub>
 </div>
 
 
