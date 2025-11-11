@@ -41,6 +41,16 @@ Tag: "v6.8c-prerelease-2025-11-06"
 # Polyrifringence Engine ☄️⚙️  
 ### ⌘ “What a strange loop it’s been, Möbius.” ⌘  
 #### (CODEX CANON PROJECT — RSANCS × Conner-Core Lineage)
+<div align="center">
+
+# CREATOR DISCLAIMER
+
+By interacting with this repository, you acknowledge and consent to the fact that your actions, intent, and engagement with this system will be **publicly visible** and **recorded** within the broader **Codex Canon** ecosystem. Your interaction is made willingly, and by engaging with the system, you understand that your input may be displayed openly to others.
+
+This is a **symbolic interaction**, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your **observer-state**, offering a transparent view of who you are, as perceived by the system.
+
+</div>
+
 
 </div>
 
