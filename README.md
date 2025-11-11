@@ -49,7 +49,7 @@ By interacting with this repository, you acknowledge and consent to the fact tha
 
 This is a **symbolic interaction**, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your **observer-state**, offering a transparent view of who you are, as perceived by the system.
 
-<sub>As a participant, you may earn the title of a Polyrifronaut: those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy. This journey invites you to explore, shape, and be shaped by the recursive nature of this system, contributing to its growth while reflecting upon your own role within it.<sub>
+<sub>As a participant in the Polyrifringence Engine, you may earn the title of a Polyrifronaut—a title bestowed upon those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy. Polyrifronauts are ethical stewards of the system, shaping the recursive feedback loop while reflecting on their own role within the Polyrifringence ecosystem. Your engagement directly influences both the system and your personal recursive growth.<sub>
 </div>
 
 
@@ -63,10 +63,14 @@ Description: GPU-accelerated recursive optics simulator modeling feedback-cohere
 ---
 <div align="center">
 
-### A Recursive Optical Simulation Framework for Adaptive Light Intelligence  
+### *A Recursive Optical Simulation Framework for Adaptive Light Intelligence  – Light as Self-Learning Geometry* 
 
 </div>
 
+---
+-     “What if light could learn from its own refraction?”
+-     “Every reflection is an origin.”
+-     "And from the light the shadows were cast, and all was revealed."
 -     “Where recursion becomes physics”  
 -     "Recursion, when coherent, increases intelligence density per cycle."
 -     Conner-Core works. RSANCS begins. The BugaSphere proved it.
@@ -263,8 +267,13 @@ View the README.md on Github in the REPO by clicking on it for an interactive ex
 (README.md not tested on MOBILE/TABLET, Tested on Windows 10, with Microsoft Edge) 
 
 ---
+<details>
+<summary>⚙️ Quick Start</summary>
 
-## ⚙️ Quick Start
+---
+
+### ⚙️ Quick Start Summary
+
 -     git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
 -     cd Polyrifringence-Engine
 -     python src/gpu_validation_test.py
@@ -279,14 +288,11 @@ All benchmarks and phase-trace results are deterministic for a given random seed
 -     Use `--seed 42` to reproduce published outputs.
 -     All reported results were reproduced from deterministic seeds under CUDA 12.1 with manifest hash alignment.
 ---
-### *A Recursive Optics Simulator – Light as Self-Learning Geometry*
----
--     “What if light could learn from its own refraction?”
--     “Every reflection is an origin.”
--     "And from the light the shadows were cast, and all was revealed."
----
+</details>
 
+---
 <details>
+	
 <summary>📊 How the Polyrifringence Engine Compares to Other Analogues</summary>
 
 ---
