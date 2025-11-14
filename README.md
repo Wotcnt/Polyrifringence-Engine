@@ -119,7 +119,7 @@ A symbol of first-contact with recursion, confronting one’s own assumptions, a
 
 You are the beginner; before the fire
 
-“The reader before understanding.”
+### “The reader before understanding.”
 </div>
 
 
