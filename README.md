@@ -841,9 +841,6 @@ and open it in your default browser.
 ## ✍️ Author
 
 - Conner Brown-Milliken — @MMMDcreator on x.com
-
-<sub>I assure you, I am Human…</sub>
-
 - Follow for updates on Codex Canon, RSANCS, and recursive field research.
 - Contributions, replications, or independent verifications welcome.
 #### 💳 License
@@ -853,6 +850,8 @@ and open it in your default browser.
 #### 🧑‍🔬 Provenance & Authorship
 ---
 This repository represents the culmination of an independent, single-author effort by Conner Brown-Milliken (@MMMDcreator).
+
+<sub>I assure you, I am Human…</sub>
 
 All concepts, simulations, benchmarks, and Codex framework components were conceived, engineered, and verified solely by the author, without institutional sponsorship or external funding.
 
