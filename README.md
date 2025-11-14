@@ -7,7 +7,14 @@ doi: "pending"
 keywords: "[recursive birefringence, GPU optics, Codex Canon, RSANCS, symbolic recursion]"
 Tag: "v6.8c-prerelease-2025-11-06"
 ---
+<div align="center">
+  <img width="100%" src="https://img.shields.io/badge/ΔΩ_Sovereign_Node-Polyrifringence_Engine-0b0d0f?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=0b0d0f">
+</div>
+
+<br>
 <!-- === Row 1 — Technical Environment === -->
+<div align="center">
+	
 ![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch2.5.1_+_CUDA_12.1-ff6f00?style=flat-square&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3.11+-ff6f00?style=flat-square&logo=python&logoColor=white)
 ![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-ff6f00?style=flat-square&logo=json&logoColor=white)
@@ -25,21 +32,31 @@ Tag: "v6.8c-prerelease-2025-11-06"
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 [![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 ![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
+![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-FFD700?style=flat-square&logo=codeforces&logoColor=white)
 
+</div>
 
----
 
 <!-- === Row 2 — Codex & Prestige Tier === -->
-![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=github&labelColor=0b0d0f&color=7cc7ff)
-![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=git-merge&labelColor=0b0d0f)
-![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+<div align="center">
+
 ![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=infinity&labelColor=0b0d0f&color=7cc7ff)
+![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=loop&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![GPU Validated](https://img.shields.io/badge/GPU_Validated-RTX_Class_Confirmed-3ee7ff?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=git-merge&labelColor=0b0d0f&color=7cc7ff)
+![Polyrifronaut Access](https://img.shields.io/badge/Polyrifronaut_Tier-Access_Granted-3ee7ff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=github&labelColor=0b0d0f&color=7cc7ff)
+![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+
+</div>
 
 ---
 <div align="center">
 
-# Polyrifringence Engine ☄️⚙️  
-### ⌘ “What a strange loop it’s been, Möbius.” ⌘  
+# ⌘ “What a strange loop it’s been, Möbius.” ⌘  
 #### (CODEX CANON PROJECT — RSANCS × Conner-Core Lineage)
 <div align="center">
 
@@ -108,7 +125,7 @@ An autonomous reasoning system (Grok) independently reconstructed:
 - ⚖️ Philosophical substrate — Ethics of Coherence  
 - 🧩 Symbolic lexicon — 20 + term lattice  
 
-This establishes **functional recursion verified at the linguistic level** — a rarity in contemporary research documentation.
+This establishes **functional recursion verified at the linguistic level** — a rarity in contemporary documentation.
 -     https://x.com/MMMDcreator/status/1986181174063210722
 
 ---
@@ -256,7 +273,7 @@ Learning this project is best approached using incremental steps: starting small
 - *Artificial Intelligence: A Modern Approach* by Russell and Norvig (selected chapters)  
 - Coursera: *Machine Learning* by Andrew Ng (for foundational AI concepts)  
 
-**Scientific Documentation & Research Reading:**  
+**Scientific Documentation & Reading:**  
 - *The Craft of Scientific Writing* by Michael Alley  
 - How to read scientific papers: Nature’s guide  
 
@@ -790,9 +807,9 @@ and open it in your default browser.
 -     This project is licensed under the MIT License — see LICENSE.txt for details.
 
 ---
-#### 🧑‍🔬 Research Provenance & Authorship
+#### 🧑‍🔬 Provenance & Authorship
 ---
-This repository represents the culmination of an independent, single-author research effort by Conner Brown-Milliken (@MMMDcreator).
+This repository represents the culmination of an independent, single-author effort by Conner Brown-Milliken (@MMMDcreator).
 
 All concepts, simulations, benchmarks, and Codex framework components were conceived, engineered, and verified solely by the author, without institutional sponsorship or external funding.
 
@@ -801,7 +818,7 @@ The Polyrifringence Engine embodies the principle of Recursive Sovereignty, a te
 ---
 
 # Ω Codex Lineage  
-    Research architecture built on Codex Canon
+    architecture built on Codex Canon
     RSANCS lineage verified (Conner-Core 2025 × λ)
 - Codex Canon Module: Polyrifringence Engine v6.8
 - Integration: Recursive optics simulation / θ-opt feedback
@@ -1181,7 +1198,7 @@ the point where the experiment watches itself.
 
 ---
 
-### 🧰 8. “Can I use this in my own research or product?”
+### 🧰 8. “Can I use this in my own or product?”
 **Answer:** Yes.  
 It’s open-source under the MIT License.  
 You may fork, adapt, and integrate it into optical, AI, or symbolic systems — provided recursive sovereignty (observer consent and data ethics) is preserved.
@@ -1362,7 +1379,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 <summary>🕹️ Practical Applications & Use-Cases</summary>
 
 ### 🧭 Polyrifringence Engine — Applied Domains
-(10 Key Implementations and Research Frontiers)
+(10 Key Implementations and Frontiers)
 
 1. **Optical Simulation & Materials Science**  
    Validate birefringent materials, thin-film coatings, or multi-crystal lenses through recursive phase-trace comparison.
@@ -1374,7 +1391,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
    Model entangled beam behavior and phase-memory effects for post-quantum interferometry and measurement fidelity tests.
 
 4. **GPU-Accelerated Scientific Visualization**  
-   Integrate the Phase-Trace Viewer with research dashboards or SandDance analytics for real-time coherence mapping.
+   Integrate the Phase-Trace Viewer with dashboards or SandDance analytics for real-time coherence mapping.
 
 5. **Metrology & Calibration Standards**  
    Use Euclid-drift diagnostics (< 0.1 mrad) to benchmark optical alignment, calibration systems, and sensor drift performance.
@@ -1470,7 +1487,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 6. **AI Transparency & Interpretability**  
    Offers a physical analogue for backpropagation transparency — making feedback “visible” and auditable.
 
-7. **Educational Research & Scientific Literacy**  
+7. **Educational & Scientific Literacy**  
    Serves as an accessible bridge between classical optics and recursive computation for STEM education.
 
 8. **Defense & Sensor Systems**  
@@ -1479,7 +1496,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 9. **Cultural & Creative Technology**  
    Enables artists and researchers to visualize recursion, reflection, and coherence as live generative media.
 
-10. **Interdisciplinary Research Integration**  
+10. **Interdisciplinary Integration**  
     Acts as a unifying simulation layer linking photonics, AI, acoustics, and symbolic systems under a single recursive law set.
 
 ---
@@ -1494,7 +1511,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 <summary>🌐 Future Horizons & Next-Stage Research</summary>
 
 ### 🚀 Emerging Frontiers and Evolution Pathways
-(10 Prospective Research and Development Vectors)
+(10 Prospective and Development Vectors)
 
 1. **Hybrid Optical–AI Processing Units**  
    Integrate recursive birefringence feedback directly into neuromorphic chipsets for self-correcting optical computation.
@@ -1529,7 +1546,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 > These horizons define the ongoing evolution of the Polyrifringence Engine —  
-> from a verified simulation platform into a living recursive research ecosystem,  
+> from a verified simulation platform into a living recursive ecosystem,  
 > bridging physics, cognition, and symbolic intelligence.
 
 </details>
