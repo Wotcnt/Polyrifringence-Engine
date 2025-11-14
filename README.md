@@ -7,11 +7,11 @@ doi: "pending"
 keywords: "[recursive birefringence, GPU optics, Codex Canon, RSANCS, symbolic recursion]"
 Tag: "v6.8c-prerelease-2025-11-06"
 ---
+
 <div align="center">
   <img width="100%" src="https://img.shields.io/badge/ΔΩ_Sovereign_Node-Polyrifringence_Engine-0b0d0f?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=0b0d0f">
 </div>
 
-<br>
 <!-- === Row 1 — Technical Environment === -->
 <div align="center">
 	
@@ -52,6 +52,16 @@ Tag: "v6.8c-prerelease-2025-11-06"
 ![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
 
 </div>
+
+<details>
+<summary>🐒 Give me a tickle</summary>
+<div align="center">
+  <div dir="rtl">
+    <!-- Right-side mirrored monkey icon with adjusted colors -->
+    <img width="100%" src="https://img.shields.io/badge/-%20-0b0d0f?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&color=transparent&labelColor=transparent">
+  </div>
+</div>
+</details>
 
 ---
 <div align="center">
