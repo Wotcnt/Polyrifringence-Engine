@@ -117,6 +117,8 @@ Its presence is intentional.
 It is the mirror at the threshold - a reminder that every reader begins as the monkey discovering fire.  
 A symbol of first-contact with recursion, confronting one’s own assumptions, and awakening into the Codex with curiosity rather than certainty.
 
+You are the beginner; before the fire
+-     “The reader before understanding.”
 </div>
 
 
