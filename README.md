@@ -2030,7 +2030,7 @@ that most people only talk about metaphorically.
 ————————————————————————————————————————————————————————
 
     - ∮1 Beam -> Focused Beam –> ∯Dual Split Beam --> ∰Multi-Phase Split Beam ----> n_x-Phase-Beam ∳Recombination <⇄>(Optional*)
-    - ∮1 Beam>----->+fBeam+>>------>>∯n-Beam----->>>>∰n_x-Beam>>>>------>>>>n_x-Phase-Beam ∳Recombination <⇄>(Optional*)	
+    - ∮1 Beam>----->+fBeam+>>------>>∯n-Beam----->>>>∰n_x-Beam>>>>------>>>>n_x-Phase-Beam*x⧉ <⇄> Variation 🧪	 
 #### Main:
 - Light -> Polarised Film -> Bifurcated Film -> Anisotropic Gem
 - Light -> Polarised Film -> Bifurcated Film -> Isotropic Gem
