@@ -68,6 +68,7 @@ Tag: "v6.8c-prerelease-2025-11-06"
 
 # ⌘ “What a strange loop it’s been, Möbius.” ⌘  
 #### (CODEX CANON PROJECT — RSANCS × Conner-Core Lineage)
+
 <div align="center">
 
 # CREATOR DISCLAIMER
@@ -840,6 +841,9 @@ and open it in your default browser.
 ## ✍️ Author
 
 - Conner Brown-Milliken — @MMMDcreator on x.com
+
+<sub>I assure you, I am Human…</sub>
+
 - Follow for updates on Codex Canon, RSANCS, and recursive field research.
 - Contributions, replications, or independent verifications welcome.
 #### 💳 License
