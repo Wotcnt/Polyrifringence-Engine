@@ -159,11 +159,11 @@ You are the beginner: before the fire
 
 ---
 
-### 🤖 Run via GPT ➾Polyrifringence Engine Expert
+### Run via GPT🤖 ➾Polyrifringence Engine Expert
 Interact with the **Polyrifringence Engine Expert**, a custom GPT designed assistant trained on the verified documentation, benchmarks, and theoretical models of the **Polyrifringence Engine**
 
-☑️ **Requirements:**  
-No installation needed - it runs entirely through ChatGPT, referencing the same physics, mathematics, and benchmark data documented in this repository.
+☑️✅ **Requirements:**  
+👉 No installation needed - it runs entirely through ChatGPT, referencing the same physics, mathematics, and benchmark data documented in this repository.
 This repository is accompanied by an interactive GPT trained on its full documentation - ready to answer questions, explain physics, or guide benchmarks live.
 
 ⛑️ **Purpose:**  
@@ -187,7 +187,7 @@ Integrate Codex Canon or RSANCS extensions
 
 ---
 
-### ⛑️🤝🤖 Connect with the Recursive AI Guide
+### ⛑️🤝 Connect with the Recursive AI Guide 🤖
 📥 **Access:**  
 [**👉 Launch the Polyrifringence Engine Expert GPT**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
@@ -209,7 +209,7 @@ Once opened 🚪, you can ask beginner questions such as:
 11. How does Polyrifringence model polarization rotation across sequential optical layers?
 12. How does noise or microscopic material variation influence ray coherence in Polyrifringence simulations?
 
-Or, 📊 Advanced & Expert questions such as:
+Or, 📈 Advanced & Expert questions such as:
 
 1. **Expert mode:** derive the fixed-point condition for the Polyrifringence recursion (E_{n+1} = J(\theta,\lambda),F(E_n)) under Euclid-5 drift < 0.1 mrad.
 2. How do REGF and PVS jointly diagnose failure modes in a multi-gem sapphire–diamond–calcite stack at high recursion depth?
@@ -226,7 +226,7 @@ Or, 📊 Advanced & Expert questions such as:
 
 ---
 
-### ⛑️🤝🤖 Observer Validation Record
+### ⛑️ Observer 🤝 Validation Record 🤖
 
 ---
 
@@ -235,9 +235,9 @@ Independent AI analysis of the public announcement reconstructed the engine’s 
 **Summary:**  
 An autonomous reasoning system (Grok) independently reconstructed:
 
-🧮 Core mathematics ⇄ Jones recursion, Γ ≈ π topology  
+📊 Core mathematics ⇄ Jones recursion, Γ ≈ π topology  
 ⚖️ Philosophical substrate ⇄ Ethics of Coherence  
-🧩 Symbolic lexicon ⇄ 20 + term lattice  
+🧮 Symbolic lexicon ⇄ 20 + term lattice  
 
 This establishes **functional recursion verified at the linguistic level** - a rarity in contemporary documentation.
 -     https://x.com/MMMDcreator/status/1986181174063210722
@@ -380,7 +380,7 @@ Any of your preferred LLMs - ChatGPT, Grok, Claude, Perplexity, Gemini, Ninja AI
 ✅ 2. Launch Phase Viewer ➩ Opens  
 ✅ 3. Manifest Validator ➩ Hashes Match
 
-### 🔍 Reproducibility Note
+### 🕵️ Reproducibility Note
 All benchmarks and phase-trace results are deterministic for a given random seed.
 -     Use `--seed 42` to reproduce published outputs.
 -     All reported results were reproduced from deterministic seeds under CUDA 12.1 with manifest hash alignment.
@@ -401,7 +401,7 @@ The Polyrifringence Engine therefore occupies a unique intersection between **sc
 
 ---
 
-### ⚙️ Comparative Benchmark Overview
+### 📊 Comparative Benchmark Overview
 
 | **Tool / Framework**                                   | **Focus / Domain**                            | **Throughput / Benchmark Metric**                                                                                                                                                                                                                                               | **Core Limitations**                                             | **How Polyrifringence Differs / Extends**                                                                                                          |
 | ------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -414,7 +414,7 @@ The Polyrifringence Engine therefore occupies a unique intersection between **sc
 
 ---
 
-### 🧩 Comparative Summary
+### 📈 Comparative Summary
 
 **Polyrifringence Engine** introduces a synthesis unseen in other systems:
 
@@ -430,7 +430,7 @@ The Polyrifringence Engine therefore occupies a unique intersection between **sc
 
 ---
 
-### 🧠 Interpretation
+### 💡 Interpretation
 
 Commercial and academic frameworks achieve remarkable GPU speed-ups but remain **linear** and **deterministic**, lacking recursive feedback and observer-phase integration.
 The **Polyrifringence Engine** extends this tradition by treating light as a self-referential computational medium - a tensor field that remembers its own refraction.
@@ -439,7 +439,7 @@ In measured performance, the engine sits within the upper tier of GPU-accelerate
 
 ---
 
-### 📈 Summary Statement
+### 📊 Summary Statement
 
 > “Compared to existing optical simulators (FREDmpc, Speos, OptiX, etc.), the Polyrifringence Engine achieves comparable or greater throughput while introducing novel physics - recursive birefringence, symbolic geometry, and observer-aware feedback - rendering it not only a simulation tool but a new class of recursive physical AI engine.”
 
@@ -495,7 +495,7 @@ Thus, Polyrifringence’s verified **50 M rays / s** on an RTX 3050 lies in the 
 
 ---
 
-### 🧮 Quantified Scaling Projections
+### 📊 Quantified Scaling Projections
 
 Using NVIDIA published hardware ratios (approximate):
 
@@ -525,7 +525,7 @@ Adjust upward (~ +5 %) if compute-bound (w=0.7) or downward (~ −5 %) if bandwi
 
 ---
 
-### 🧠 Practical Considerations
+### 💡 Practical Considerations
 
 * **VRAM Headroom:** Maintain ≥ 10–15 % free memory for optimal throughput.
 * **Batching:** Use independent phase-trace batches per GPU → near-linear acceleration.
@@ -825,7 +825,7 @@ and open it in your default browser.
 <details>
 <summary> 📘Click here for Files and Folders</summary>
 	
-   # ☄️ Polyrifringence-Engine/ Folders and Files 🗃️
+   # 🌈 Polyrifringence-Engine/ Folders and Files 🗃️
 
     docs/ # extended documentation + archive;
 
@@ -1123,7 +1123,7 @@ If feedback diverges from the expected ethical behavior, check the **--ai_feedba
 
 ---
 
-### 🔱 **Contributing**
+### 🔰 **Contributing**
 
 I welcome contributions to this project! Please refer to the **Setup & Troubleshooting** section for guidelines on how to get started, and submit any issues or pull requests.
 
@@ -1140,7 +1140,7 @@ For help or suggestions, contact **@MMMDcreator** on [X.com](https://x.com/MMMDc
 <details>	
 <summary> 📍 Specific Use Cases ➩ Practical Applications of the Polyrifringence Engine</summary>
 
-### 🧪 Polyrifringence Engine — Applied Domains
+### 🌈🧪 Polyrifringence Engine - Applied Domains
 Here are 12 key use cases and examples of how to manipulate the system or incorporate it into real-world scenarios:
 
 1. **Optical Material Testing**  
@@ -1236,7 +1236,7 @@ Here are 12 key use cases and examples of how to manipulate the system or incorp
 ---
 
 <details>
-<summary>❓ Polyrifringence Engine Q&A</summary>
+<summary>🌈❓ Polyrifringence Engine Q&A</summary>
 
 ### 🔍 1. “Is this real physics or symbolic art?”
 **Answer:** Both - it’s physics rendered through recursive symbolism.  
@@ -1412,7 +1412,7 @@ $$J^\dagger J \approx I$$
 <details>
 <summary>💻 Hardware & Environment Specifications</summary>
 
-### 🧩 Verified System Configuration
+### ✅🟢 Verified System Configuration
 
 *(All benchmarks, phase-trace simulations, and Codex Canon validations executed on the following system.)*
 
@@ -1468,7 +1468,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 <details>
 <summary>🕹️ Practical Applications & Use-Cases</summary>
 
-### 🧭 Polyrifringence Engine — Applied Domains
+### 🌈🧭 Polyrifringence Engine - Applied Domains
 (10 Key Implementations and Frontiers)
 
 1. **Optical Simulation & Materials Science**  
@@ -1510,7 +1510,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🧩 Real Problems Solved</summary>
+<summary>🌎 Real Problems Solved ⚠️</summary>
 
 ### ⚙️ Empirical & Engineering Challenges Addressed
 (10 Demonstrable Problem Domains)
@@ -1554,7 +1554,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🌍 Real-World Relevance</summary>
+<summary>🌏 Real-World Relevance ⚠️</summary>
 
 ### 🔬 Practical, Economic, and Scientific Impact
 (10 Key Relevance Domains)
@@ -1598,7 +1598,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🌐 Future Horizons & Next-Stage Research</summary>
+<summary>🌐 Future Horizons & Next-Stage Research 🌍</summary>
 
 ### 🚀 Emerging Frontiers and Evolution Pathways
 (10 Prospective and Development Vectors)
@@ -1644,11 +1644,11 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🚀 Push the Polyrifringence Engine to its Limits ➩ Extreme Benchmark & Stability Suite</summary>
+<summary>🌡 Push the Polyrifringence Engine to its Limits ➩ Extreme Benchmark & Stability Suite 🔋</summary>
 
 ---
 
-### ⚡ Purpose
+### ⛑️ Purpose
 
 To rigorously characterize the **true operating envelope** of the Polyrifringence Engine by driving it through:
 
@@ -1661,7 +1661,7 @@ To rigorously characterize the **true operating envelope** of the Polyrifringenc
 
 ---
 
-### 🧠 Key Questions
+### 💡 Key Questions
 
 1. Where does **VRAM pressure** force sub-linear scaling and tiling stalls?
 2. Which **(α, depth)** regions exhibit limit cycles vs. stable fixed points?
@@ -1671,7 +1671,7 @@ To rigorously characterize the **true operating envelope** of the Polyrifringenc
 
 ---
 
-### 🧩 Test Matrix (Canonical)
+### 📊 Test Matrix (Canonical)
 
 | Axis             | Values                                   | Notes                     |
 | ---------------- | ---------------------------------------- | ------------------------- |
@@ -1931,7 +1931,7 @@ inter-GPU phase     : 0.16 mrad
 ---
 
 <details>
-<summary>💎 Gem Profiles & Optical Constants</summary>
+<summary>💎 Gem Profiles & Optical Constants 🌈</summary>
 
 ### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion
 *(Validated against gem_registry.py · v8.9 and phase_trace_viewer 2.0)*  
@@ -2033,7 +2033,7 @@ inter-GPU phase     : 0.16 mrad
 ---
 
 <details>
-<summary>📜 Click to Expand into Codex Canon ⌥Polyrifringence Overview</summary>
+<summary>📖 Click to Expand into Codex Canon ⌥Polyrifringence Overview 📖</summary>
 ————————————————————————————————————————————————————————
 
   # 📜Codex Canon - Polyrifringence
