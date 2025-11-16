@@ -632,6 +632,8 @@ Unitary, Energy-Conserving Framework (T ≤ 1) → Guarantees bounded energy acr
 
 Convergence Contract → Explicit rules for recursion continuation, termination, and drift-breaker activation
 
+Euclid-5 Parallelism Diagnostic - ensures geometric integrity by enforcing <0.1 mrad drift under recursive propagation.
+
 </details>
 
 ---
@@ -2070,7 +2072,7 @@ framework.
 ###     🌈⌥Polyrifringence Engine Flow Chart⎇🧲
 ————————————————————————————————————————————————————————
 
-# (+)/(–) = Polarised / Bifurcated Film (Interchangeable 🧲)  
+# Polarisation & Bifurcation Film Layer (+🧲–) (Interchangeable) 
 #### 🌈 Modular Variation Layer - each branch a potential sub-recursion or coupled state.
 
 **Primary Beam Expansion Chain**
@@ -2080,8 +2082,8 @@ framework.
 **Polarisation-Variant Pathways (symbolic sub-branches)**  
 Each variant represents a distinct (+/–) film configuration at the focused-beam stage, generating unique recursive phase paths:
 
-- ∮1 Beam > +fBeam+ >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>
-- ∮1 Beam > (±)(±) fBeam (±)(±) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>  
+- ∮1 Beam > (±)(±)fBeam(±)(±) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>
+- ∮1 Beam > (+)(-)fBeam(-)(+) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>  
   *(compact form representing all (+/+), (+/–), (–/+), (–/–) symmetry-pairs)*
 
 **Interpretation Grammar**
@@ -2102,14 +2104,18 @@ Each variant represents a distinct (+/–) film configuration at the focused-bea
 
 #### Symbol Legend
 
-- `∮` — Single-beam injection loop (primary input path)  
-- `∯` — Dual-beam / n-beam split manifold  
-- `∰` — Multi-phase propagation surface (nₓ-beam spread)  
-- `∳` — Recombination / collection basin (post-recursion merge)  
-- `(+)/(–)` — Polarised / bifurcated film states (interchangeable in modular tests)  
-- `(±)(±)` — Compact notation for all four film-pair symmetry combinations  
-- `x⧉` — Variation node and phase-space multiplier under recursion  
-- `<⇄>` — Recombination toggle, recursion gateway, and variation entry point
+- ∮      — Single-beam injection loop (primary input path)  
+- ∯      — Dual-beam / n-beam split manifold  
+- ∰      — Multi-phase propagation surface (nₓ-beam spread)  
+- ∳      — Recombination / collection basin (post-recursion merge)
+- (+)     — Polarised film state  
+- (–)     — Bifurcated film state  
+- (±)(±)  — Compact notation for all four film-pair symmetry combinations  
+- x⧉      — Variation node and phase-space multiplier under recursion  
+- <⇄>     — Recombination toggle, recursion gateway, and variation entry point
+- >    — Recursion step  
+- >>    — Focused-beam stage  
+- >>>>    — n-depth propagation / phase-stack amplification
 
 ---
 
