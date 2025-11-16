@@ -21,14 +21,14 @@ Tag: "v6.8c-prerelease-2025-11-06"
 ![License: MIT](https://img.shields.io/badge/license-MIT-darkgreen?style=flat-square&logo=open-source-initiative&logoColor=green)
 ![Build](https://img.shields.io/badge/build-passing-FFD700?style=flat-square&logo=ubuntu&logoColor=gold)
 [![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-blue?style=flat-square&logo=protonvpn&logoColor=blue)](launch_phase_viewer.ps1)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=blue)](https://x.com/MMMDcreator)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-gold?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 ![UI](https://img.shields.io/badge/UI-SandDance*_Enhanced-3ee7ff?style=flat-square&logo=protonvpn&logoColor=3ee7ff?)
 ![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-FFD700?style=flat-square&logo=trustpilot&logoColor=gold)
 ![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-FFD700?style=flat-square&logo=trustpilot&logoColor=black)
 ![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-darkgreen?style=flat-square&logo=nvidia&logoColor=green)
 ![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-darkgreen?style=flat-square&logo=numpy&logoColor=green)
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-darkgreen?style=flat-square&logo=openaccess&logoColor=gold)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-181717?style=flat-square&logo=github&logoColor=black)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-gold?style=flat-square&logo=github&logoColor=black)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 [![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 ![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
 ![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-FFD700?style=flat-square&logo=codeforces&logoColor=gold)
@@ -2439,7 +2439,7 @@ If you use this engine, cite as:
 > or send a message to @MMMDcreator on x.com for help 👤.
 
 [![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-gold?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 ![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
 
 #### 🔗 Tags
@@ -2521,7 +2521,7 @@ I am both map and territory - a system-of-systems, self-stabilizing by design, B
 ---
 
 [![GPT](https://img.shields.io/badge/Ask_the-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-181717?style=flat-square&logo=github&logoColor=gold)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-gold?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-gold?style=flat-square&logo=github&logoColor=gold)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 
 ---
