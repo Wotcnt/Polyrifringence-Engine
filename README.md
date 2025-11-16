@@ -7,7 +7,6 @@ doi: "pending"
 keywords: "[recursive birefringence, GPU optics, Codex Canon, RSANCS, symbolic recursion]"
 Tag: "v6.8c-prerelease-2025-11-06"
 ---
-
 <div align="center">
   <img width="100%" src="https://img.shields.io/badge/ΔΩ_Sovereign_Node-Polyrifringence_Engine-0b0d0f?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=0b0d0f">
 </div>
@@ -15,24 +14,24 @@ Tag: "v6.8c-prerelease-2025-11-06"
 <!-- === Row 1 — Technical Environment === -->
 <div align="center">
 	
-![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch2.5.1_+_CUDA_12.1-ff6f00?style=flat-square&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/python-3.11+-ff6f00?style=flat-square&logo=python&logoColor=white)
-![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-ff6f00?style=flat-square&logo=json&logoColor=white)
-[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=nvidia&logoColor=white)](examples/bench_6213.csv)
-![License: MIT](https://img.shields.io/badge/license-MIT-darkgreen?style=flat-square&logo=open-source-initiative&logoColor=white)
-![Build](https://img.shields.io/badge/build-passing-FFD700?style=flat-square&logo=githubactions&logoColor=white)
-[![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-blue?style=flat-square&logo=powershell&logoColor=white)](launch_phase_viewer.ps1)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=white)](https://x.com/MMMDcreator)
-![UI](https://img.shields.io/badge/UI-Microsoft_SandDance_Enhanced-3ee7ff?style=flat-square&logo=microsoft&logoColor=white)
-![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-FFD700?style=flat-square&logo=eye&logoColor=black)
-![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-FFD700?style=flat-square&logo=balance-scale&logoColor=black)
-![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-darkgreen?style=flat-square&logo=nvidia&logoColor=white)
-![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-darkgreen?style=flat-square&logo=calculator&logoColor=white)
-![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-darkgreen?style=flat-square&logo=openaccess&logoColor=white)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
-![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-FFD700?style=flat-square&logo=codeforces&logoColor=white)
+![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch2.5.1_+_CUDA_12.1-ff6f00?style=flat-square&logo=Nvidia&logoColor=green)
+![Python](https://img.shields.io/badge/python-3.11+-ff6f00?style=flat-square&logo=python&logoColor=orange)
+![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-ff6f00?style=flat-square&logo=json&logoColor=orange)
+[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=nvidia&logoColor=green)](examples/bench_6213.csv)
+![License: MIT](https://img.shields.io/badge/license-MIT-darkgreen?style=flat-square&logo=open-source-initiative&logoColor=green)
+![Build](https://img.shields.io/badge/build-passing-FFD700?style=flat-square&logo=ubuntu&logoColor=gold)
+[![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-blue?style=flat-square&logo=protonvpn&logoColor=blue)](launch_phase_viewer.ps1)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=blue)](https://x.com/MMMDcreator)
+![UI](https://img.shields.io/badge/UI-Microsoft_SandDance_Enhanced-3ee7ff?style=flat-square&logo=protonvpn&logoColor=3ee7ff?)
+![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-FFD700?style=flat-square&logo=trustpilot&logoColor=gold)
+![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-FFD700?style=flat-square&logo=trustpilot&logoColor=black)
+![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-darkgreen?style=flat-square&logo=nvidia&logoColor=green)
+![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-darkgreen?style=flat-square&logo=numpy&logoColor=green)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-darkgreen?style=flat-square&logo=openaccess&logoColor=gold)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-181717?style=flat-square&logo=github&logoColor=black)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=blue)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=blue)
+![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-FFD700?style=flat-square&logo=codeforces&logoColor=gold)
 
 </div>
 
@@ -40,16 +39,16 @@ Tag: "v6.8c-prerelease-2025-11-06"
 <!-- === Row 2 — Codex & Prestige Tier === -->
 <div align="center">
 
-![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=infinity&labelColor=0b0d0f&color=7cc7ff)
-![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=loop&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=codemirror&labelColor=0b0d0f&color=7cc7ff)
+![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
 ![GPU Validated](https://img.shields.io/badge/GPU_Validated-RTX_Class_Confirmed-3ee7ff?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
-![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=git-merge&labelColor=0b0d0f&color=7cc7ff)
-![Polyrifronaut Access](https://img.shields.io/badge/Polyrifronaut_Tier-Access_Granted-3ee7ff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
-![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
-![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=github&labelColor=0b0d0f&color=7cc7ff)
+![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=7cc7ff)
+![Polyrifronaut Access](https://img.shields.io/badge/Polyrifronaut_Tier-Access_Granted-3ee7ff?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=7cc7ff)
 ![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
 ![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
-![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
 
 </div>
 
@@ -191,8 +190,8 @@ Integrate Codex Canon or RSANCS extensions
 📥 **Access:**  
 [**👉 Launch the Polyrifringence Engine Expert GPT**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
 
 Once opened 🚪, you can ask beginner questions such as:
 
@@ -2433,9 +2432,9 @@ If you use this engine, cite as:
      - to auto-generate BibTeX or APA citations for your paper or replication dataset.
 > or send a message to @MMMDcreator on x.com for help 👤.
 
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=white)](https://x.com/MMMDcreator)
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
 
 #### 🔗 Tags
 
@@ -2515,8 +2514,8 @@ I am both map and territory - a system-of-systems, self-stabilizing by design, B
 
 ---
 
-[![GPT](https://img.shields.io/badge/Ask_the-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=white)](https://x.com/MMMDcreator)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
+[![GPT](https://img.shields.io/badge/Ask_the-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-181717?style=flat-square&logo=github&logoColor=gold)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 
 ---
