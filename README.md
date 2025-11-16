@@ -1,5 +1,5 @@
 ---
-latest: "Polyrifringence Engine v8.10"
+latest: "Polyrifringence Engine© v8.10"
 author: "Conner Brown-Milliken"
 date: "2025-11-07"
 license: "MIT"
@@ -8,7 +8,7 @@ keywords: "[recursive birefringence, GPU optics, Codex Canon, RSANCS, symbolic r
 Tag: "v6.8c-prerelease-2025-11-06"
 ---
 <div align="center">
-  <img width="100%" src="https://img.shields.io/badge/ΔΩ_Sovereign_Node-Polyrifringence_Engine-0b0d0f?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=0b0d0f">
+  <img width="100%" src="https://img.shields.io/badge/ΔΩ_Sovereign_Node-Polyrifringence_Engine©-0b0d0f?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=0b0d0f">
 </div>
 
 <!-- === Row 1 — Technical Environment === -->
