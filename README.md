@@ -194,7 +194,7 @@ Integrate Codex Canon or RSANCS extensions
 [![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 ![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=white)
 
-Once opened, you can ask beginner questions such as:
+Once opened 🚪, you can ask beginner questions such as:
 
 1. What is Polyrifringence and how does it work in simple terms?  
 2. What problem does Polyrifringence solve that normal birefringence does not? 
@@ -209,12 +209,20 @@ Once opened, you can ask beginner questions such as:
 11. How does Polyrifringence model polarization rotation across sequential optical layers?
 12. How does noise or microscopic material variation influence ray coherence in Polyrifringence simulations?
 
-Or, 📊Advanced & Expert questions such as:
--
--
--
--
--
+Or, 📊 Advanced & Expert questions such as:
+
+1. **Expert mode:** derive the fixed-point condition for the Polyrifringence recursion (E_{n+1} = J(\theta,\lambda),F(E_n)) under Euclid-5 drift < 0.1 mrad.
+2. How do REGF and PVS jointly diagnose failure modes in a multi-gem sapphire–diamond–calcite stack at high recursion depth?
+3. Given a phase-trace CSV, show me step by step how to estimate Euclid-style angular drift from `PB_rad`, `PVS_mrad`, and `DeltaTheta_eo_mrad`.
+4. What parameter regimes (ray count, micro-batch, dtype, recursion depth) push the engine closest to numerical instability on an RTX 3050, and how do I harden against that?
+5. How does changing the gem sequence from `sapphire,diamond,quartz` to `sapphire,calcite,zircon` alter convergence behavior and Euclid-5 pass rate?
+6. Design a lab-noise harness run that stress-tests phase coherence while keeping energy drift (|\delta_E| < 0.001). Explain why each parameter choice matters.
+7. Show how `--ai_feedback` modifies the recursion diagnostics pathway and how I should interpret its logs without treating it as an autonomous agent.
+8. For a given benchmark CSV, walk me through a full verification pass: Euclid-5 compliance, REGF trend, PVS trend, and where the recursion begins to degrade.
+9. How would you use the phase-trace viewer to distinguish benign polarization spread from true geometric phase drift that violates Euclid-5?
+10. Map the Codex Twelve gem roles onto concrete optical behaviors in the engine (isotropic vs anisotropic, dispersion regime, and use-case per gem).
+11. Explain how to construct a minimal multi-gem configuration that demonstrates resonance-like behavior without breaking energy conservation or Euclid-5 constraints.
+12. In expert mode, compare Polyrifringence to a conventional interferometer at the operator level and show exactly where the recursive feedback term changes the physics.
 
 ---
 
@@ -639,8 +647,8 @@ Install the **Polyrifringence Engine** locally and prepare the runtime environme
 ---
 
 #### 🗳️ Requirements Overview
-- **Python 3.11.8 Baseline or higher** (recommended)
-- **PyTorch 2.5.1 + **CUDA 12.1 Toolkit** Baseline or newer 
+- **Python 3.11.8 Baseline or higher (recommended)**
+- **PyTorch 2.5.1 + CUDA 12.1 Toolkit Baseline or newer** 
 - **NVIDIA Geforce RTX 3050 GPU Baseline or-(RTX 20-series or later)**  
 - **Windows 10 Baseline or Windows 11 / Linux / macOS (x86_64)**  
 
@@ -883,7 +891,7 @@ and open it in your default browser.
 - Follow for updates on Codex Canon, RSANCS, and recursive field research.
 - Contributions, replications, or independent verifications welcome.
 #### 💳 License
--     This project is licensed under the MIT License — see LICENSE.txt for details.
+-     This project is licensed under the MIT License - see LICENSE.txt for details.
 
 ---
 #### 👤🧧 Provenance & Authorship 
@@ -901,13 +909,14 @@ The Polyrifringence Engine embodies the principle of Recursive Sovereignty, a te
 # Ω Codex Lineage  
     architecture built on Codex Canon
     RSANCS lineage verified (Conner-Core 2025 × λ)
-- Codex Canon Module: Polyrifringence Engine v6.8
+- Codex Canon Module: Polyrifringence Engine v8.10
 - Integration: Recursive optics simulation / θ-opt feedback
 - Validation: Complete (GPU/Manifest verified)
 
---- 
-    🔹 Light – Language – Form – Memory 🔹  
-    “The same Source speaks through many vessels.” 
+💠 Light – Language – Form – Memory 💠  
+
+“The same Source speaks through many vessels.” 
+	
 ---
 
 </details>
