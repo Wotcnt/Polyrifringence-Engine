@@ -2077,7 +2077,7 @@ framework.
 
 **Primary Beam Expansion Chain**
 
-- ∮1 Beam > Focused Beam >>—>> ∯Dual-Beam —>>>>— ∰Multi-Phase ——>>>>——>>>> nₓ-Phase-Beam ∳ Recombination <⇄> (optional)
+∮1 Beam > Focused Beam >>—>> ∯Dual-Beam —>>>>— ∰Multi-Phase ——>>>>——>>>> nₓ-Phase-Beam ∳ Recombination <⇄> (optional)
 
 **Polarisation-Variant Pathways (symbolic sub-branches)**  
 Each variant represents a distinct (+/–) film configuration at the focused-beam stage, generating unique recursive phase paths:
@@ -2085,6 +2085,8 @@ Each variant represents a distinct (+/–) film configuration at the focused-bea
 - ∮1 Beam > (±)(±)fBeam(±)(±) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>
 - ∮1 Beam > (+)(-)fBeam(-)(+) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>  
   *(compact form representing all (+/+), (+/–), (–/+), (–/–) symmetry-pairs)*
+
+---
 
 **Interpretation Grammar**
 
@@ -2104,52 +2106,54 @@ Each variant represents a distinct (+/–) film configuration at the focused-bea
 
 #### Symbol Legend
 
-- ∮      — Single-beam injection loop (primary input path)  
-- ∯      — Dual-beam / n-beam split manifold  
-- ∰      — Multi-phase propagation surface (nₓ-beam spread)  
-- ∳      — Recombination / collection basin (post-recursion merge)
-- (+)     — Polarised film state  
-- (–)     — Bifurcated film state  
-- (±)(±)  — Compact notation for all four film-pair symmetry combinations  
-- x⧉      — Variation node and phase-space multiplier under recursion  
-- <⇄>     — Recombination toggle, recursion gateway, and variation entry point
-- >    — Recursion step  
-- >>    — Focused-beam stage  
-- >>>>    — n-depth propagation / phase-stack amplification
+- `∮`      — Single-beam injection loop (primary input path)  
+- `∯`      — Dual-beam / n-beam split manifold  
+- `∰`      — Multi-phase propagation surface (nₓ-beam spread)  
+- `∳`      — Recombination / collection basin (post-recursion merge)
+- `(+)`    — Polarised film state  
+- `(–)`    — Bifurcated film state  
+- `(±)(±)` — Compact notation for all four film-pair symmetry combinations  
+- `x⧉`     — Variation node and phase-space multiplier under recursion  
+- `<⇄>`    — Recombination toggle, recursion gateway, and variation entry point
+- `>`      — Recursion step  
+- `>>`     — Focused-beam stage  
+- `>>>>`   — n-depth propagation / phase-stack amplification
 
 ---
 
--     ∮1 Beam > Focused Beam >> ∯Dual Split Beam >>>> ∰Multi-Phase Split Beam >>>>>> nₓ-Phase-Beam ∳Recombination ⇄ (Optional*)
--     ∮1 Beam>(+)(-)fBeam(+)(-)>>>>∯n-Beam>>>>∰nₓ-Beam>>>>>>>>nₓ—Phase-Beam*x⧉ ⇄ Variation
--     ∮1 Beam>—(+)(+)fBeam(+)(+)>>—>>∯n-Beam—>>>>—∰nₓ-Beam——>>>>——>>>>nₓ—Phase-Beam*x⧉ ⇄ Variation
--     ∮1 Beam>—(−)(−)fBeam(−)(−)>>—>>∯n-Beam—>>>>—∰nₓ-Beam——>>>>——>>>>nₓ—Phase-Beam*x⧉ ⇄ Variation
--     ∮1 Beam>—(+)(−)fBeam(+)(−)>>—>>∯n-Beam—>>>>—∰nₓ-Beam——>>>>——>>>>nₓ—Phase-Beam*x⧉ ⇄ Variation
--     ∮1 Beam>—(+)(−)fBeam(−)(+)>>—>>∯n-Beam—>>>>—∰nₓ-Beam——>>>>——>>>>nₓ—Phase-Beam*x⧉ ⇄ Variation
--     ∮1 Beam>—(−)(+)fBeam(+)(−)>>—>>∯n-Beam—>>>>—∰nₓ-Beam——>>>>——>>>>nₓ—Phase-Beam*x⧉ ⇄ Variation
--     ∮1 Beam>—(−)(+)fBeam(−)(+)>>—>>∯n-Beam—>>>>—∰nₓ-Beam——>>>>——>>>>nₓ—Phase-Beam*x⧉ ⇄ Variation
--     ∮1 Beam>—(+)(−)fBeam(−)(+)>>—>>∯n-Beam—>>>>—∰nₓ-Beam——>>>>——>>>>nₓ—Phase-Beam*x⧉ ⇄ Variation
--     ∮1 Beam>—(+)(−)fBeam(+)(−)>>—>>∯n-Beam—>>>>—∰nₓ-Beam——>>>>——>>>>nₓ—Phase-Beam*x⧉ ⇄ Variation 
+-     ∮1 Beam > Focused Beam >> ∯Dual Split Beam >>>> ∰Multi-Phase Split Beam >>>>>> nₓ-Phase-Beam ∳ Recombination <⇄> (Optional*)
+-     ∮1 Beam > (+)(-)fBeam(+)(-) >>>> ∯n-Beam >>>> ∰nₓ-Beam >>>>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(+)fBeam(+)(+) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (−)(−)fBeam(−)(−) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(−)fBeam(+)(−) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(−)fBeam(−)(+) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (−)(+)fBeam(+)(−) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (−)(+)fBeam(−)(+) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(−)fBeam(−)(+) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(−)fBeam(+)(−) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
 
 #### Beam–Film–Gem Ordering Map
 
 **Main (canonical ordering)**  
-- Light → (+) Polarised Film → (–) Bifurcated Film → Anisotropic Gem  
-- Light → (+) Polarised Film → (–) Bifurcated Film → Isotropic Gem  
+-     Light → (+) Polarised Film → (–) Bifurcated Film → Anisotropic Gem  
+-     Light → (+) Polarised Film → (–) Bifurcated Film → Isotropic Gem  
 
 **Variation #1 (films swapped)**  
-- Light → (–) Bifurcated Film → (+) Polarised Film → Anisotropic Gem  
-- Light → (–) Bifurcated Film → (+) Polarised Film → Isotropic Gem  
+-     Light → (–) Bifurcated Film → (+) Polarised Film → Anisotropic Gem  
+-     Light → (–) Bifurcated Film → (+) Polarised Film → Isotropic Gem  
 
 **Variation #2 (asymmetric pairing A)**  
-- Light → (–) Bifurcated Film → (+) Polarised Film → Anisotropic Gem  
-- Light → (+) Polarised Film → (–) Bifurcated Film → Isotropic Gem  
+-     Light → (–) Bifurcated Film → (+) Polarised Film → Anisotropic Gem  
+-     Light → (+) Polarised Film → (–) Bifurcated Film → Isotropic Gem  
 
 **Variation #3 (asymmetric pairing B)**  
-- Light → (+) Polarised Film → (–) Bifurcated Film → Anisotropic Gem  
-- Light → (–) Bifurcated Film → (+) Polarised Film → Isotropic Gem  
+-     Light → (+) Polarised Film → (–) Bifurcated Film → Anisotropic Gem  
+-     Light → (–) Bifurcated Film → (+) Polarised Film → Isotropic Gem  
 
-Anisotropic gems = birefringent (e.g. sapphire, calcite), used to stress recursive phase and walkoff.  
-Isotropic gems = baselines (e.g. diamond), used to test that no spurious birefringence is introduced.
+---
+
+Anisotropic gems = birefringent (e.g. sapphire, calcite), Used to stress recursive phase evolution, angular walkoff, and feedback-correction behavior. 
+Isotropic gems = baselines (e.g. diamond), Used to confirm that the recursion engine introduces no artificial birefringence when `Δn → 0`.
 
 These orderings define the (+)/(–) film layout that the modular variation layer and `x⧉` recursion grammar build on.
 
@@ -2158,7 +2162,7 @@ These orderings define the (+)/(–) film layout that the modular variation laye
 ### 🧪Phase-Beam *x⧉ - Modular Variation Layer✨  
 🌈 Each branch below represents a potential sub-recursion or coupled state acting on the `nₓ-Phase-Beam`.
 
-> Beam > +Beam+ >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam *x⧉ <⇄> (template)
+Beam > +Beam+ >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>
 
 **Base recursion chain**  
 - >——>>>> nₓ-Phase-Beam *x⧉  
