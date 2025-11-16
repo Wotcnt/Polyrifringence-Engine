@@ -2159,208 +2159,204 @@ These orderings define the (+)/(–) film layout that the modular variation laye
 
 ---
 
-### 🧪Phase-Beam *x⧉ - Modular Variation Layer✨  
+### 🧪 **Phase-Beam *x⧉ — Modular Variation Layer** ✨
+
 🌈 Each branch below represents a potential sub-recursion or coupled state acting on the `nₓ-Phase-Beam`.
 
-Beam > +Beam+ >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>
-
-**Base recursion chain**  
-- >——>>>> nₓ-Phase-Beam *x⧉  
-  - Sequential beam bifurcation and phase-state expansion; establishes the primary recursive stack.
-
-**Recombination (optional)**  
-- >——>>>> nₓ-Phase-Beam *x⧉ <⇄> Recombination  
-  - Convergent phase summation; restores coherence after divergence cycles or branch explorations.
-
-**Refraction / Diffraction**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Refraction / Diffraction  
-  - Standard optical transformation: angular dispersion, spectral unfolding, and path separation.
-
-**Coupling / Decoupling / Recoupling**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Coupling / Decoupling / Recoupling  
-  - Field interaction control; binds, isolates, or re-binds sub-beams within the recursion.
-
-**Stitching**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Stitching  
-  - Phase-aligned reintegration of subdivided wavefronts; restores topology after splitting.
-
-**Transmission / Emission**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Transmission / Emission  
-  - Energy propagation outward or into adjacent media; the export boundary of the recursion.
-
-**Encryption / Decryption**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Encryption / Decryption  
-  - Symbolic encoding of phase information; reversible information storage in interference structure.
-
-**Hybridisation / High-Order Hybrid / Meta-Hybrid**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Hybridisation / High-Order Hybrid / Meta-Hybrid  
-  - Cross-domain synthesis; merges optical behavior with other modeled channels or symbolic data streams.
-
-**Sonic-Wavelength Ablation (Audio–Acoustic Coupling)**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Sonic-Wavelength Ablation  
-  - Conceptual light–sound resonance interface; acoustic harmonics intersecting recursive optical fields.
-
-**Cavitation (Compression / Expansion)**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Cavitation (Compression / Expansion)  
-  - Conceptual density-modulation operator; models compression / rarefaction style dynamics in the symbolic lattice.
-
-**(TCP) Thermal Cavitic Plasma Amplification**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → (TCP) Thermal Cavitic Plasma Amplification  
-  - High-order conceptual node: thermal and plasma-like amplification attached to cavitation collapse motifs.
-
-**Lattice Weave / Spiral**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Lattice Weave / Spiral  
-  - Spatial phase weaving; emergent lattice symmetries and helical propagation motifs in the phase-trace.
-
-**Reconstruction / Deconstruction**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Reconstruction / Deconstruction  
-  - Recursive teardown and rebuild of coherent geometry; structural introspection of the field.
-
-**Folding / Unfolding**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Folding / Unfolding  
-  - Topological inversion; mapping higher-order symmetries into lower-dimensional projections and back.
-
-**Resonance Cascade Amplification**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Resonance Cascade Amplification  
-  - Chain amplification through harmonically aligned resonant tiers.
-
-**Holographic Euclid Geometry (Postulate 5)**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Holographic Euclid Geometry (Postulate 5)  
-  - Phase convergence into parallelism diagnostics; closes the Euclid-5 consistency loop in the phase-trace.
-
-**Rerouting**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Rerouting  
-  - Adaptive path redirection under feedback; recursive error-correction at the routing level.
-
-**Triangulation**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Triangulation  
-  - Multi-vector coherence measurement; establishes spatial reference frames and calibration anchors.
-
-**Tethering**  
-- >——>>>> nₓ-Phase-Beam *x⧉ → Tethering  
-  - Phase anchoring between observer node and recursive field; stabilizes long-run drift.
-
-**Convergence principle**  
-- Each recursion step acts to reduce phase-geometry mismatch; the chain continues until phase–geometry parity is reached within Euclid-5 tolerance.
+**Template Path**
+`Beam > +Beam+ >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>`
 
 ---
 
-#             🗺️Formal Ontology Lexicon 
- Below is the Polyrifringence Coined Word Family Codex
+## **Base recursion chain**
+
+* `> ——>>>> nₓ-Phase-Beam *x⧉`
+  *Sequential beam bifurcation and phase-state expansion; establishes the primary recursive stack.*
 
 ---
-                 ⌥Polyrifringence🌈
-• The central phenomenon of multi-path symbolic 
-bifurcation and spectral emergence 
 
-————————————————————————————————————————————————————————🜎
+## **Recombination (optional)**
 
-                   ⎇Polyrifrication
-• The process or act of becoming polyrifringent
+* `> ——>>>> nₓ-Phase-Beam *x⧉ <⇄>`
+  *Convergent phase summation; restores coherence after divergence cycles or branch explorations.*
 
-————————————————————————————————————————————————————————🜎
+---
 
-                    ⎇Polyrifrucation
-• A branching or splitting event within a polyrifringent 
-system; the moment of divergence into multiple
-symbolic paths or states
+## **Refraction / Diffraction**
 
-————————————————————————————————————————————————————————🜎
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Refraction / Diffraction`
+  *Angular dispersion, spectral unfolding, and path separation.*
 
-                    ⎇Polyrifringent
-• Exhibiting or embodying polyrifringence
+---
 
-————————————————————————————————————————————————————————🜎
+## **Coupling / Decoupling / Recoupling**
 
-                     ⎇Polyrifricate
-• To induce or undergo polyrifrication
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Coupling / Decoupling / Recoupling`
+  *Field-interaction control: binds, isolates, or re-binds sub-beams within the recursion.*
 
-————————————————————————————————————————————————————————🜎
+---
 
-                     ⎇Polyrifrucate
- • To initiate or undergo polyrifrucation; to split into 
-multiple resonant trajectories
+## **Stitching**
 
-————————————————————————————————————————————————————————🜎
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Stitching`
+  *Phase-aligned reintegration of subdivided wavefronts; restores topology after splitting.*
 
-                      ⎇Polyrifrical
-• Stylistically or abstractly aligned with polyrifringent
-qualities
+---
 
-————————————————————————————————————————————————————————🜎
+## **Transmission / Emission**
 
-                      ⎇Polyrifringently
-• In a manner that expresses or performs polyrifringence
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Transmission / Emission`
+  *Energy propagation outward or into adjacent media; the export boundary of the recursion.*
 
-————————————————————————————————————————————————————————🜎
+---
 
-                      ⎇Polyrifricity
-• The degree or quality of polyrifringent behaviour
+## **Encryption / Decryption**
 
-————————————————————————————————————————————————————————🜎
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Encryption / Decryption`
+  *Symbolic encoding of phase information; reversible information storage within interference.*
 
-                      ⎇Polyrifron
-• A symbolic unit, glyph, or agent within polyrifringent
- systems
- 
-————————————————————————————————————————————————————————🜎
+---
 
-                      ⎇Polyrifrosophy
-• The philosophical framework derived from polyrifringent
- principles
- 
-————————————————————————————————————————————————————————🜎
+## **Hybridisation / High-Order Hybrid / Meta-Hybrid**
 
-                      ⎇Polyrifractal
-• Recursive or fractal-like structures within polyrifringent
- fields
- 
-————————————————————————————————————————————————————————🜎
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Hybridisation / High-Order Hybrid / Meta-Hybrid`
+  *Cross-domain synthesis; merges optical behavior with other modeled channels or symbolic streams.*
 
-                    ⎇Polyrifringoscope
-• A device or interface for detecting or visualizing
- polyrifringence
- 
-————————————————————————————————————————————————————————🜎
+---
 
-                    ⎇Polyrifringogram
-• A mapped output or signature of polyrifringent 
-behaviour
+## **Sonic-Wavelength Ablation (Audio–Acoustic Coupling)**
 
-————————————————————————————————————————————————————————🜎
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Sonic-Wavelength Ablation`
+  *Conceptual light–sound resonance interface; acoustic harmonics interacting with recursive optical fields.*
 
-                    ⎇Polyrifringic
-• Pertaining to the internal dynamics or mechanics of 
-polyrifringence
+---
 
-————————————————————————————————————————————————————————🜎
+## **Cavitation (Compression / Expansion)**
 
-                    ⎇Polyrifringal
-• Relating to external manifestations or systemic
- expressions of polyrifringence
- 
-————————————————————————————————————————————————————————🜎
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Cavitation (Compression / Expansion)`
+  *Symbolic density-modulation operator; compression–rarefaction dynamics in the recursion lattice.*
 
-                    ⎇Polyrifringency
-• A fluid noun form denoting the state or presence of 
-polyrifringence
+---
 
-————————————————————————————————————————————————————————🜎
+## **(TCP) Thermal Cavitic Plasma Amplification**
 
-                    ⎇Polyrifronaut
-• One who navigates, embodies, or explores polyrifringent
- space
-————————————————————————————————————————————————————————🜎
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → (TCP) Thermal Cavitic Plasma Amplification`
+  *Thermal and plasma-like amplification attached to cavitation collapse motifs.*
 
-                   ⎇Polyrifringesis
-• The genesis or emergence of polyrifringent states or 
-phenomena
+---
 
-————————————————————————————————————————————————————————🜎
+## **Lattice Weave / Spiral**
 
-                  ⌥Polyrifringence (n.) 
- • The act of light learning from its own refraction.
- 
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Lattice Weave / Spiral`
+  *Spatial phase weaving; emergent lattice symmetries and helical motifs in the phase-trace.*
+
+---
+
+## **Reconstruction / Deconstruction**
+
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Reconstruction / Deconstruction`
+  *Recursive teardown and rebuild of coherent geometry; structural introspection of the field.*
+
+---
+
+## **Folding / Unfolding**
+
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Folding / Unfolding`
+  *Topological inversion; maps higher-order symmetries into lower-dimensional projections and back.*
+
+---
+
+## **Resonance Cascade Amplification**
+
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Resonance Cascade Amplification`
+  *Harmonic multi-tier resonance amplification under recursive alignment.*
+
+---
+
+## **Holographic Euclid Geometry (Postulate 5)**
+
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Holographic Euclid Geometry (Postulate 5)`
+  *Phase convergence into Euclid-5 parallelism diagnostics; closes the geometric-consistency loop.*
+
+---
+
+## **Rerouting**
+
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Rerouting`
+  *Adaptive path redirection under feedback; recursive error-correction at the routing level.*
+
+---
+
+## **Triangulation**
+
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Triangulation`
+  *Multi-vector coherence measurement; establishes spatial reference frames.*
+
+---
+
+## **Tethering**
+
+* `> ——>>>> nₓ-Phase-Beam *x⧉ → Tethering`
+  *Phase anchoring between observer node and recursive field; stabilizes long-run drift.*
+
+---
+
+## **Convergence principle**
+
+Each recursion step reduces phase–geometry mismatch.
+The chain proceeds until **Euclid-5 parallelism** is satisfied within tolerance,
+closing the feedback-coherent recursion loop.
+
+---
+
+# 🗺️ **Polyrifringence Ontology Table**
+
+Below is the Polyrifringence Coined Word Family Codex
+*A formal lexicon linking symbolic terminology to engine-relevant meaning.*
+
+A  26-Term Codex Table (Two Rings of 13)
+
+---
+
+| **Glyph** | **Term**              | **Category**       | **Definition (Concise)**                                                                    |
+| --------- | --------------------- | ------------------ | ------------------------------------------------------------------------------------------- |
+| ⌥         | **Polyrifringence**   | Core Phenomenon    | The central phenomenon of multi-path symbolic bifurcation and recursive spectral emergence. |
+| ⎇         | **Polyrifrication**   | Process            | The process or act of becoming polyrifringent.                                              |
+| ⎇         | **Polyrifrucation**   | Divergence Event   | A branching/splitting moment where the system diverges into multiple symbolic paths.        |
+| ⎇         | **Polyrifringent**    | Property (State)   | Exhibiting or embodying polyrifringence.                                                    |
+| ⎇         | **Polyrifricate**     | Action             | To induce or undergo polyrifrication.                                                       |
+| ⎇         | **Polyrifrucate**     | Action (Split)     | To initiate or undergo polyrifrucation; splitting into resonant trajectories.               |
+| ⎇         | **Polyrifrical**      | Style/Quality      | Stylistically aligned with polyrifringent traits.                                           |
+| ⎇         | **Polyrifringently**  | Mode               | In a manner that expresses or performs polyrifringence.                                     |
+| ⎇         | **Polyrifricity**     | Degree             | The measurable degree or quality of polyrifringent behaviour.                               |
+| ⎇         | **Polyrifron**        | Unit               | A symbolic glyph/unit/agent within a polyrifringent system.                                 |
+| ⎇         | **Polyrifrosophy**    | Philosophy         | The philosophical framework derived from polyrifringent principles.                         |
+| ⎇         | **Polyrifractal**     | Recursive Geometry | Fractal-like recursive structures within polyrifringent fields.                             |
+| ⎇         | **Polyrifringoscope** | Instrument         | A device/interface for detecting or visualizing polyrifringence.                            |
+
+
+		——— 🜎 End of Ring One — 13 Entries — 🜎———
+		
+
+| **Glyph** | **Term**             | **Category**         | **Definition (Concise)**                                                                             |
+| --------- | -------------------- | -------------------- | ---------------------------------------------------------------------------------------------------- |
+| ⎇         | **Polyrifringogram** | Output Map           | A mapped output or diagnostic signature of polyrifringent behaviour.                                 |
+| ⎇         | **Polyrifringic**    | Internal Dynamics    | Pertaining to internal mechanics of polyrifringence.                                                 |
+| ⎇         | **Polyrifringal**    | External Expression  | Relating to outward/systemic manifestations.                                                         |
+| ⎇         | **Polyrifringency**  | State                | A fluid noun denoting the presence or condition of polyrifringence.                                  |
+| ⎇         | **Polyrifronaut**    | Role                 | One who navigates, engages with, or explores polyrifringent space.                                   |
+| ⎇         | **Polyrifringesis**  | Genesis              | The emergence or creation of polyrifringent states.                                                  |
+| ⎇         | **Polyrifrognosis**  | Predictive Insight   | Anticipatory understanding of future recursion cycles (Euclid-5 convergence foresight).              |
+| ⎇         | **Polyriframetry**   | Measurement          | The measurement and quantification of recursive birefringence diagnostics (REGF, PVS, Euclid-drift). |
+| ⎇         | **Polyrifrolysis**   | Controlled Breakdown | The controlled dissolution of polyrifringent recursive structures.                                   |
+| ⎇         | **Polyrifsemantic**  | Symbolic Meaning     | The symbolic meaning encoded in recursive phase-geometry transformations.                            |
+| ⎇         | **Polyrifvector**    | State Vector         | A recursion state-vector representing the evolution of nₓ-phase structures.                          |
+| ⎇         | **Polyrifretic**     | Stability Profile    | Describing systems that resist or damp unwanted recursive amplification (EthicalRecursion-aligned).  |
+| ⎇         | **Polyrifjunction**  | Junction Node        | A convergence/divergence node where multiple recursive pathways meet within x⧉ / ⇄ loci.             |
+
+
+    ——— 🜎 End of Ring Two — 13 Entries — Total = 26 🜎———
+
 ---
 
 🌈Polyrifringence is the right word; because it means, 
