@@ -22,7 +22,7 @@ Tag: "v6.8c-prerelease-2025-11-06"
 ![Build](https://img.shields.io/badge/build-passing-FFD700?style=flat-square&logo=ubuntu&logoColor=gold)
 [![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-blue?style=flat-square&logo=protonvpn&logoColor=blue)](launch_phase_viewer.ps1)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-blue?style=flat-square&logo=x&logoColor=blue)](https://x.com/MMMDcreator)
-![UI](https://img.shields.io/badge/UI-Microsoft_SandDance_Enhanced-3ee7ff?style=flat-square&logo=protonvpn&logoColor=3ee7ff?)
+![UI](https://img.shields.io/badge/UI-SandDance*_Enhanced-3ee7ff?style=flat-square&logo=protonvpn&logoColor=3ee7ff?)
 ![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-FFD700?style=flat-square&logo=trustpilot&logoColor=gold)
 ![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-FFD700?style=flat-square&logo=trustpilot&logoColor=black)
 ![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-darkgreen?style=flat-square&logo=nvidia&logoColor=green)
