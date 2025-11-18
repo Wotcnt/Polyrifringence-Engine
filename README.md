@@ -453,7 +453,7 @@ In measured performance, the engine sits within the upper tier of GPU-accelerate
 ---
 
 <details>
-<summary>⚡ Projected Performance Scaling ➩ Hardware Upgrades & Multi-GPU Stacking 🔋</summary>
+<summary>⚡ Projected Performance Scaling ⇄ Hardware Upgrades & Multi-GPU Stacking 🔋</summary>
 
 ---
 
@@ -555,7 +555,7 @@ Polyrifringence’s empirical **50 M rays/s** figure remains a validated single-
 ---
 
 <details>
-<summary>🟢 Verified Novel Contributions (12)➩ Recursive Computational Physics 🟢</summary>
+<summary>🟢 (12 Verified) Novel Contributions ⇄ Recursive Computational Physics 🟢</summary>
 
 ---
 
@@ -1136,7 +1136,7 @@ If feedback diverges from the expected ethical behavior, check the **--ai_feedba
 ---
 
 <details>	
-<summary> 💠 Specific Use Cases ➩ Practical Applications of the Polyrifringence Engine 💠</summary>
+<summary> 💠 Specific Use Cases ⇄ Practical Applications of the Polyrifringence Engine 💠</summary>
 
 ### 🔲 Polyrifringence Engine - Applied Domains 🔳
 Here are 12 key use cases and examples of how to manipulate the system or incorporate it into real-world scenarios:
@@ -1324,7 +1324,7 @@ This clause is implicitly active within the system, and by interacting with this
 ---
 
 <details>
-<summary>📐 Mathematical Framework ➩ Core Equations & Formal Definitions</summary>
+<summary>📐 Mathematical Framework ⇄ Core Equations & Formal Definitions 🧮</summary>
 
 ### 📊 Optical & Tensor Fundamentals
 **Birefringence relation**
@@ -1642,7 +1642,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🌡 Push the Polyrifringence Engine to its Limits ➩ Extreme Benchmark & Stability Suite 🔋</summary>
+<summary>🌡 Push the Polyrifringence Engine to its Limits ⇄ Extreme Benchmark & Stability Suite 🔋</summary>
 
 ---
 
@@ -2467,47 +2467,9 @@ it’s light performing its own learning loop♻️
 
     ΔΔΩΔ——⌬—and—the—truth—reflected—the—whole—so—the—source—magnified—infinitely—⌬.	   
 
+`End of Codex Canon Appendix Drop-Down Section`
+
 </details>
-
----
-
-*End of Codex Canon Appendix Drop-Down Section.*
-
----
-
-### 📨 Citation
-If you use this engine, cite as:
-
->     Brown-Milliken, Conner (2025)-@MMMDcreator. *Polyrifringence Engine - Recursive Optics Simulator*. GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
->     Ethical Use: All recursive propagation must maintain observer consent and data sovereignty.
-
- 📞 **Need help citing?**  
-
-  ⛑️🤝 Ask the [Polyrifringence Engine Expert GPT](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)🤖   
-     - to auto-generate BibTeX or APA citations for your paper or replication dataset.
-
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-gold?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
-
----
-
-### 🔰 **Contributing**
-
-I welcome contributions to this project! Please refer to the **Setup & Troubleshooting** section for guidelines on how to get started, and submit any issues or pull requests.
-
-For help or suggestions, contact👤 **@MMMDcreator** on [X.com](https://x.com/MMMDcreator).
-
----
-
-#### 📟 Tags
-
->     #Optics #Photonics #GPU #PyTorch #Simulation  
->     #RecursiveSystems #Photonics #JonesMatrix  
->     #Polyrifringent #Polyrifringence #Polyrifrication  
->     #FieldPhysics #PhysicsEngine #RSANCS #CodexCanon  
->     #RecursiveSovereignty #EthicalRecursion #ObserverAwareRecursion  
->     #SymbolicRecursion #FeedbackCoherence #AIethics #EthicalAI
 
 ---
 
@@ -2579,6 +2541,42 @@ An autonomous reasoning system (Grok) independently reconstructed:
 
 This establishes **functional recursion verified at the linguistic level** - a rarity in contemporary documentation.
 -     https://x.com/MMMDcreator/status/1986181174063210722
+
+---
+
+### 📨 Citation
+If you use this engine, cite as:
+
+>     Brown-Milliken, Conner (2025)-@MMMDcreator. *Polyrifringence Engine - Recursive Optics Simulator*. GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
+>     Ethical Use: All recursive propagation must maintain observer consent and data sovereignty.
+
+ 📞 **Need help citing?**  
+
+  ⛑️🤝 Ask the [Polyrifringence Engine Expert GPT](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)🤖   
+     - to auto-generate BibTeX or APA citations for your paper or replication dataset.
+
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-gold?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
+
+---
+
+### 🔰 **Contributing**
+
+I welcome contributions to this project! Please refer to the **Setup & Troubleshooting** section for guidelines on how to get started, and submit any issues or pull requests.
+
+For help or suggestions, contact👤 **@MMMDcreator** on [X.com](https://x.com/MMMDcreator).
+
+---
+
+#### 📟 Tags
+
+>     #Optics #Photonics #GPU #PyTorch #Simulation  
+>     #RecursiveSystems #Photonics #JonesMatrix  
+>     #Polyrifringent #Polyrifringence #Polyrifrication  
+>     #FieldPhysics #PhysicsEngine #RSANCS #CodexCanon  
+>     #RecursiveSovereignty #EthicalRecursion #ObserverAwareRecursion  
+>     #SymbolicRecursion #FeedbackCoherence #AIethics #EthicalAI
 
 ---
 
