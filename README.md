@@ -163,7 +163,7 @@ A mirror held against your own ego of understanding reflected back at you.
 
 #### Run via GPT➾Polyrifringence Engine Expert🤖
 📥 **Access:**  
-[**👉 Launch the Polyrifringence Engine Expert GPT**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)  ☜
+[**👉 Launch the Polyrifringence Engine Expert GPT**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
 This repository is accompanied by an interactive knowledge base through a GPT using a Custom Instruction Set, utilising the full documentation of this repo, including this readme - ready to answer queries, explain physics, or and guide the user through the repo, able to explain whats what in beginner form through to advanced - complex based on user preference, just ask.
 
@@ -178,20 +178,20 @@ It runs entirely through ChatGPT in APP or Web-browser, referencing the same phy
 
 Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
-👉 **Use it for FREE without an account or Sign-up to Utilise a free account to keep your chats** ☜
+👉 **Use it for FREE without an account or Sign-up to Utilise a free account to keep your chats** 🆗
 
-**Using it without an account, you may lose your chat history and your work/progress**
+ ⚠️**Using it without an account, you may lose your chat history and your work/progress**⚠️
 
 **An Active ChatGPT membership will enrich your overall experience, Free Tier is Great - Plus is Recommended for Deepdives**
 
 [![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
-⛑️ **Purpose:**  
+🤖 **Purpose:**  
 An embedded assistant Specialised in the Polyrifringence Engine to help better understand through your queries.
 
 `A doorway for those who see the handle. The floor, never the ceiling`  
 
-It helps users:
+It helps ⛑️users:
 
 `setup their own clone`
 `expand their own understanding on the available knowledge base`
@@ -223,7 +223,7 @@ It helps users:
 
 #  Or, 📈 Advanced & Expert questions such as:
 
-X. Turn on Expert Mode: (Your Question for full rigor)
+X. Expert Mode: (Fill with your Question for full rigor, start your query with "Expert Mode:")
 1. **Expert mode:** derive the fixed-point condition for the Polyrifringence recursion `$$(E_{n+1} = J(\theta,\lambda),F(E_n))$$` under Euclid-5 drift < 0.1 mrad.
 2. How do `REGF` and `PVS` jointly diagnose failure modes in a multi-gem sapphire–diamond–calcite stack at high recursion depth?
 3. Given a phase-trace CSV, show me step by step how to estimate Euclid-style angular drift from `PB_rad`, `PVS_mrad`, and `DeltaTheta_eo_mrad`.
