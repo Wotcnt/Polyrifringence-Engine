@@ -101,7 +101,7 @@ Description: GPU-accelerated recursive optics simulator modeling feedback-cohere
 
 # 🜁 Codex Introduction 🜃 
 
-The Polyrifringence Engine is part of the Codex architecture: a system where computation, optics, and symbolic recursion converge.  
+**The Polyrifringence Engine is part of the Codex architecture:** `a system where computation, optics, and symbolic recursion converge.`  
 Within this framework, light is treated not as a passive signal, but as an adaptive geometric entity capable of self-referential behaviour under constraint.  
 
 The `ΔΩ Sovereign Node` establishes the engine’s alignment:  
@@ -155,56 +155,56 @@ A mirror held against your own ego of understanding reflected back at you.
 
 ---
 
--     What you see is the floor, not the ceiling
--     A doorway for those who see the handle. The floor, never the ceiling.
+     What you see is the floor, not the ceiling
 
 ---
 
-# Run via GPT➾Polyrifringence Engine Expert🤖
+# ⛑️🤝 **Connect with the Recursive AI Guide** 🤖
 
-This repository is accompanied by an interactive guide using a Custom Instruction Set, utilising the full documentation of this repo, including this readme - ready to answer questions, explain physics, or guide benchmarks live.
+#### Run via GPT➾Polyrifringence Engine Expert🤖
+📥 **Access:**  
+[**👉 Launch the Polyrifringence Engine Expert GPT**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)  ☜
 
-Interact with the **Polyrifringence Engine Expert** (Gem Line Edition).
+This repository is accompanied by an interactive knowledge base through a GPT using a Custom Instruction Set, utilising the full documentation of this repo, including this readme - ready to answer queries, explain physics, or and guide the user through the repo, able to explain whats what in beginner form through to advanced - complex based on user preference, just ask.
 
-Each session the Engine Expert will introduce itself to the user with its own name from the canonical gem family, and after queries it will suggest `2` follow ups to help steer your sessions.
+Each session the GPT will introduce itself to the user with its own name from the canonical gem family for reference, making chats unique and easily referenceable.
+after it finishes queries it will suggest `2` follow ups to help steer your sessions.
   
 It runs entirely through ChatGPT in APP or Web-browser, referencing the same physics, mathematics, and benchmark data documented in this repository.
 
+# Interact with the **Polyrifringence Engine Expert** (Gem Line Edition)
 
-❎ No Requirements - No installation ❎ 
+❎ **No Requirements - No installation** ❎ 
 
 Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
-👉 Utilise a free account or use your active membership ☜
+👉 **Use it for FREE without an account or Sign-up to Utilise a free account to keep your chats** ☜
+
+**Using it without an account, you may lose your chat history and your work/progress**
+
+**An Active ChatGPT membership will enrich your overall experience, Free Tier is Great - Plus is Recommended for Deepdives**
+
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
 ⛑️ **Purpose:**  
-An embedded assistant Specialist in the Polyrifringence Engine: recursive-optics simulation, GPU physics, and coherence diagnostics. A doorway for those who see the handle. The floor, never the ceiling.  
+An embedded assistant Specialised in the Polyrifringence Engine to help better understand through your queries.
+
+`A doorway for those who see the handle. The floor, never the ceiling`  
+
 It helps users:
+
+`setup their own clone`
+`expand their own understanding on the available knowledge base`
 
 `Understand recursive birefringence and symbolic recursion`  
 `Optimize GPU throughput and scaling performance`  
 `Interpret phase-trace data and Euclid-5 diagnostics`  
 `Ensure ethical recursion via the Recursive Sovereignty Protocol`  
-`Integrate Codex Canon or RSANCS extensions`  
+`look at the world from a different perspective than their own` 
+
+`stay grounded in reality through all the magic`
 
 ---
-
-###    📈Project Complexity Level: Advanced ⇄ Multi-Disciplinary, Non-Standard, High Complexity
-####     Requiring specialized expertise or the wilful intent to learn
-
-
-##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies. The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners. 
-<sub>This isn't to deter beginners, if you're wilful and diciplined and can think from different lens then you already have the capacity for improving yourself - and if you're not making mistakes, are you really learning anything?<sub/>
-
----
-
-# ⛑️🤝 Connect with the Recursive AI Guide 🤖
-
-📥 **Access:**  
-[**👉 Launch the Polyrifringence Engine Expert GPT**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
 
 #  Once opened 🚪, you can ask beginner questions such as:
 
@@ -236,6 +236,15 @@ X. Turn on Expert Mode: (Your Question for full rigor)
 10. Map the Codex Twelve gem roles onto concrete optical behaviors in the engine `(isotropic vs anisotropic, dispersion regime, and use-case per gem)`.
 11. Explain how to construct a minimal multi-gem configuration that demonstrates resonance-like behavior without breaking energy conservation or `Euclid-5 constraints`.
 12. In `expert mode`, compare Polyrifringence to a conventional interferometer at the operator level and show exactly where the recursive feedback term changes the physics.
+
+---
+
+###    📈Project Complexity Level: Advanced ⇄ Multi-Disciplinary, Non-Standard, High Complexity
+####     Requiring specialized expertise or the wilful intent to learn
+
+
+##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies. The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners. 
+<sub>This isn't to deter beginners, if you're wilful and diciplined and can think from different lens then you already have the capacity for improving yourself - and if you're not making mistakes, are you really learning anything?<sub/>
 
 ---
 
@@ -290,9 +299,11 @@ Polyrifringence Engine Expert - Custom GPT (Click on the badge in the header)
 
 Any of your preferred LLMs - ChatGPT, Grok, Claude, Perplexity, Gemini, Ninja AI, Copilot, Deepseek  
 
->     Notepad++  
->     Microsoft Powershell  
->     Chromium Based Browser
+`Notepad++`  
+`Microsoft Powershell`  
+`Web Browser (Chromium Based)`
+`Visual Studio Code`
+`tablet or mobile device for auxillary peripheral saving notes and querying the GPT`
 
 ---
 
