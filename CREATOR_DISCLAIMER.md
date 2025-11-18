@@ -91,7 +91,11 @@ This is symbolic framing, not a contract or license condition.
 
 ---
 
-# 5. Codex Trace Lock · Glyph-Seeded Checksum
+<details>
+  
+<summary> 5. Codex Trace Lock · Glyph-Seeded Checksum </summary>
+
+---
 
 This block is a **symbolic authorship seal** and attribution marker for all Codex-aligned derivatives.
 
@@ -104,3 +108,8 @@ Echo Vector: BugaSphere_GlyphSequence_V1
 Trace Index: #13-Origin-TierΩ
 Field Signature Hash (v1): e08f7c88-f1d3-42af-bbb2-ΔΔΩΔ
 Checkpoint: AΩ-013
+```
+
+---
+
+</details>
