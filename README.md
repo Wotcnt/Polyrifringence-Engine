@@ -1397,6 +1397,74 @@ ensuring parallelism is preserved after each recursion loop.
 
 $$J^\dagger J \approx I$$
 
+---
+
+# ⌬ Codex Symbol Table ⎅ Stability, Exergy, Recursion ⌬
+
+Canonical glyphs used across the Polyrifringence Engine, RSANCS, and Codex Canon.
+These symbols define the operational, mathematical, and ethical layers underlying all computation, coherence, and recursion behaviours within the architecture.
+
+| **Symbol** | **Name**                    | **Domain**                | **Definition**                                                                                                                                                                    | **Role in Engine / Codex**                                                                                                                                                     |
+| ---------- | --------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **`ΔΩ`**     | *Exergy Coherence Operator* | Ethics / Stabilization    | Governs the system’s ability to restore coherence after drift. Ethical recursion clamp that redirects chaos back into usable structure. Guarantees return-to-order in 6–7 cycles. | Ensures long-duration coherence, suppresses destructive entropy pathways, recycles disorder, drives the “coherence bloom” effect. Central regulator of all stability dynamics. |
+| **`𝛌⃝`**    | *Exergy Half-Life Sigil*    | Dynamics / Decay          | Lambda decay constant enclosed in a coherence cycle. Measures how rapidly usable exergy declines within a bounded recursion system.                                               | Primary diagnostic of stability duration. Determines half-life of coherence, predicts drift collapse, aligns with REGF trends and cycle timing.                                |
+| **`Ω`**      | *Completion Operator*       | Recursion / Closure       | Represents final stability, return state, and convergence endpoint of the recursion cycle.                                                                                        | Defines attractor behaviour. Basis for stability cycles.                                                                                                                       |
+| **`Δ`**      | *Deviation Operator*        | Chaos / Drift             | Deviation from stability; origin of drift, PVS variance, and chaos injection.                                                                                                     | When unregulated produces entropy. When constrained by Ω produces coherence cycles.                                                                                            |
+| **`Θ`**      | *Tilt Band*                 | Optics / Geometry         | Represents tilt-angle domain (θ_eff). Used in birefringence, walkoff, and nonlinear drift patterns.                                                                               | Defines angle-dependent dispersion and PVS measurements.                                                                                                                       |
+| **`ρ`**      | *Ratio Operator*            | Metrics                   | Used for coherence ratios, variance ratios, and total variation penalties (ρ_TV).                                                                                                 | Tracks structural compression, drift slopes, and noise stability.                                                                                                              |
+| **`ψ`**      | *Phase Field*               | RSANCS / Symbolic State   | The evolving field representing symbolic states, recursion strata, and observer-phase linkage.                                                                                    | Governs Codex interaction with observer layers.                                                                                                                                |
+| **`φ`**      | *Phase Potential*           | Interference / Drift      | Tracks phase offsets between cycles (Δφ).                                                                                                                                         | Used to detect phase drift, instability, and cycle collapse.                                                                                                                   |
+| **`✧`**      | *Coherence Bloom Marker*    | Symbolics / Visualization | Indicates moments of coherence return or bloom during ΔΩ stabilization.                                                                                                           | Used in diagnostics and visualization layers.                                                                                                                                  |
+              
+---
+
+#  🔰 Codex Lexicon ⎅ Core Glyph Definitions 🔰
+#### ΔΩ - Exergy Coherence Operator (Canonical, True Form)
+
+The foundational glyph of the Polyrifringence Engine and RSANCS recursion law.
+
+Definition:
+`ΔΩ` is the operator that binds deviation `(Δ)` to completion `(Ω)`, forming an ethical coherence constraint that returns chaotic drift back into symmetric order.
+
+Properties:
+
+Nonlinear recursion reinforcer
+Ethical constraint that maximizes coherence
+Redirects entropy into structured evolution
+Produces the 6–7 cycle stability return invariant
+Prevents collapse into unusable exergy
+Governs the entire “coherence bloom” phenomenon
+Source of the architecture’s self-stabilizing behaviour
+
+Interpretation:
+Observers mistake `ΔΩ` behaviour for `“impossible efficiency”` because it extends usable exergy through recursive coherence, not additional energy.
+
+Status:
+This glyph is exact and must never be ornamented.
+It is the pure operator.
+
+---
+
+# 𝛌⃝ Exergy Half-Life Sigil (Lambda in a Coherence Cycle)  𝛌⃝
+
+Definition:
+A lambda decay constant enclosed within a bounded coherence cycle.
+Represents the measurable half-life of usable exergy inside a ΔΩ-regulated system.
+
+Properties:
+
+Measures decay rate of coherence
+Defines `λ_cycle` and `λ_second`
+Predicts stability collapse times
+Tracks coherence longevity under `ΔΩ constraint`
+Maps directly to `REGF ratios` and `drift compression`
+
+Interpretation:
+𝛌⃝ is not the cause of coherence - it is the instrumentation.
+`ΔΩ` is the principle; `𝛌⃝` is the clock.
+
+Status:
+Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine layers.
 
 ---
 
@@ -2046,33 +2114,35 @@ inter-GPU phase     : 0.16 mrad
 -     “What if light could learn from its own refraction?”
   
 
-Polyrifringence =
-Recursive Birefringence + feedback-coherent restoration.
-A GPU-accelerated recursive interferometer matching 
-classical optics to within <1% residual error.
+`Polyrifringence =
+Recursive Birefringence + feedback-coherent restoration`
 
-Polyrifringence: a recursive optics engine where light learns from its own refraction.
-A bridge between geometry and optics;
-that most people only talk about metaphorically.
+A framework for a GPU-accelerated recursive interferometer matching 
+classical optics to within `<1% residual error`.
+
+Polyrifringence is a recursive optics engine where light learns from its own refraction.
+
+`A bridge between geometry and optics;
+that most people only talk about metaphorically`
 
 A multi-axis, recursive birefringence in coupled optical paths
-with feedback-driven restoration of coherence, parallelism (Euclid-5), and topological closure (Möbius-like Γ ≈ π).
+with feedback-driven restoration of coherence, parallelism `(Euclid-5)`, and topological closure `(Möbius-like Γ ≈ π)`.
      
-Euclids-5th becomes a diagnostic, not a slogan: 
-“Are parallel beams still parallel after recursion?"
+Euclids-5th postulate becomes a diagnostic, not a slogan: 
+`"Are parallel beams still parallel after recursion?"`
 the simulator shows how feedback restores that
 parallelism.
 
-Pancharatnam-Berry phase, dispersion, birefringence,
+`Pancharatnam-Berry phase, dispersion, birefringence,
 feedback, and unitarity all within one recursive
-framework.
+framework`
  
 ————————————————————————————————————————————————————————
 ###     🌈⌥Polyrifringence Engine Flow Chart⎇🧲
 ————————————————————————————————————————————————————————
 
 # Polarisation & Bifurcation Film Layer (+🧲–) (Interchangeable) 
-#### 🌈 Modular Variation Layer - each branch a potential sub-recursion or coupled state.
+ `🌈 Modular Variation Layer - each branch a potential sub-recursion or coupled state`
 
 **Primary Beam Expansion Chain**
 
@@ -2130,7 +2200,11 @@ Each variant represents a distinct `(+/–)` film configuration at the focused-b
 -     ∮1 Beam > (+)(−)fBeam(−)(+) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
 -     ∮1 Beam > (+)(−)fBeam(+)(−) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
 
+---
+
 #### Beam–Film–Gem Ordering Map
+
+---
 
 **Main (canonical ordering)**  
 -     Light → (+) Polarised Film → (–) Bifurcated Film → Anisotropic Gem  
@@ -2148,7 +2222,6 @@ Each variant represents a distinct `(+/–)` film configuration at the focused-b
 -     Light → (+) Polarised Film → (–) Bifurcated Film → Anisotropic Gem  
 -     Light → (–) Bifurcated Film → (+) Polarised Film → Isotropic Gem  
 
----
 
 Anisotropic gems = birefringent (e.g. `sapphire`, `calcite`), Used to stress recursive phase evolution, angular walkoff, and feedback-correction behavior. 
 Isotropic gems = baselines (e.g. `diamond`), Used to confirm that the recursion engine introduces no artificial birefringence when `Δn → 0`.
@@ -2158,6 +2231,8 @@ These orderings define the `(+)/(–)` film layout that the modular variation la
 ---
 
 ### 🧪 **Phase-Beam *x⧉ - Modular Variation Layer** ✨
+
+---
 
 🌈 Each branch below represents a potential sub-recursion or coupled state acting on the `nₓ-Phase-Beam`.
 
@@ -2312,7 +2387,7 @@ closing the feedback-coherent recursion loop.
 Below is the Polyrifringence Coined Word Family Codex
 *A formal lexicon linking symbolic terminology to engine-relevant meaning.*
 
-A  26-Term Codex Table (Two Rings of 13)
+`A  26-Term Codex Table (Two Rings of 13)`
 
 ---
 
@@ -2382,74 +2457,6 @@ The feedback that re-aligns them is effectively an
 It’s the physical analogue of my larger Codex themes; 
    recursive integrity, reflection, restoration.
    
----
-
-# ⌬ Codex Symbol Table ⎅ Stability, Exergy, Recursion ⌬
-
-Canonical glyphs used across the Polyrifringence Engine, RSANCS, and Codex Canon.
-These symbols define the operational, mathematical, and ethical layers underlying all computation, coherence, and recursion behaviours within the architecture.
-
-| **Symbol** | **Name**                    | **Domain**                | **Definition**                                                                                                                                                                    | **Role in Engine / Codex**                                                                                                                                                     |
-| ---------- | --------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **`ΔΩ`**     | *Exergy Coherence Operator* | Ethics / Stabilization    | Governs the system’s ability to restore coherence after drift. Ethical recursion clamp that redirects chaos back into usable structure. Guarantees return-to-order in 6–7 cycles. | Ensures long-duration coherence, suppresses destructive entropy pathways, recycles disorder, drives the “coherence bloom” effect. Central regulator of all stability dynamics. |
-| **`𝛌⃝`**    | *Exergy Half-Life Sigil*    | Dynamics / Decay          | Lambda decay constant enclosed in a coherence cycle. Measures how rapidly usable exergy declines within a bounded recursion system.                                               | Primary diagnostic of stability duration. Determines half-life of coherence, predicts drift collapse, aligns with REGF trends and cycle timing.                                |
-| **`Ω`**      | *Completion Operator*       | Recursion / Closure       | Represents final stability, return state, and convergence endpoint of the recursion cycle.                                                                                        | Defines attractor behaviour. Basis for stability cycles.                                                                                                                       |
-| **`Δ`**      | *Deviation Operator*        | Chaos / Drift             | Deviation from stability; origin of drift, PVS variance, and chaos injection.                                                                                                     | When unregulated produces entropy. When constrained by Ω produces coherence cycles.                                                                                            |
-| **`Θ`**      | *Tilt Band*                 | Optics / Geometry         | Represents tilt-angle domain (θ_eff). Used in birefringence, walkoff, and nonlinear drift patterns.                                                                               | Defines angle-dependent dispersion and PVS measurements.                                                                                                                       |
-| **`ρ`**      | *Ratio Operator*            | Metrics                   | Used for coherence ratios, variance ratios, and total variation penalties (ρ_TV).                                                                                                 | Tracks structural compression, drift slopes, and noise stability.                                                                                                              |
-| **`ψ`**      | *Phase Field*               | RSANCS / Symbolic State   | The evolving field representing symbolic states, recursion strata, and observer-phase linkage.                                                                                    | Governs Codex interaction with observer layers.                                                                                                                                |
-| **`φ`**      | *Phase Potential*           | Interference / Drift      | Tracks phase offsets between cycles (Δφ).                                                                                                                                         | Used to detect phase drift, instability, and cycle collapse.                                                                                                                   |
-| **`✧`**      | *Coherence Bloom Marker*    | Symbolics / Visualization | Indicates moments of coherence return or bloom during ΔΩ stabilization.                                                                                                           | Used in diagnostics and visualization layers.                                                                                                                                  |
-              
----
-
-#  🔰 Codex Lexicon ⎅ Core Glyph Definitions 🔰
-#### ΔΩ - Exergy Coherence Operator (Canonical, True Form)
-
-The foundational glyph of the Polyrifringence Engine and RSANCS recursion law.
-
-Definition:
-`ΔΩ` is the operator that binds deviation `(Δ)` to completion `(Ω)`, forming an ethical coherence constraint that returns chaotic drift back into symmetric order.
-
-Properties:
-
-Nonlinear recursion reinforcer
-Ethical constraint that maximizes coherence
-Redirects entropy into structured evolution
-Produces the 6–7 cycle stability return invariant
-Prevents collapse into unusable exergy
-Governs the entire “coherence bloom” phenomenon
-Source of the architecture’s self-stabilizing behaviour
-
-Interpretation:
-Observers mistake `ΔΩ` behaviour for `“impossible efficiency”` because it extends usable exergy through recursive coherence, not additional energy.
-
-Status:
-This glyph is exact and must never be ornamented.
-It is the pure operator.
-
----
-
-# 𝛌⃝ Exergy Half-Life Sigil (Lambda in a Coherence Cycle)  𝛌⃝
-
-Definition:
-A lambda decay constant enclosed within a bounded coherence cycle.
-Represents the measurable half-life of usable exergy inside a ΔΩ-regulated system.
-
-Properties:
-
-Measures decay rate of coherence
-Defines `λ_cycle` and `λ_second`
-Predicts stability collapse times
-Tracks coherence longevity under `ΔΩ constraint`
-Maps directly to `REGF ratios` and `drift compression`
-
-Interpretation:
-𝛌⃝ is not the cause of coherence - it is the instrumentation.
-`ΔΩ` is the principle; `𝛌⃝` is the clock.
-
-Status:
-Official diagnostic symbol for EXERGY_HALF_LIFE across all Codex and Engine layers.
 
 ---
 
