@@ -1,24 +1,22 @@
----
-
-# **☄️ Polyrifringence Engine v8.10.xx — Canonical Release Summary**
-
+ Polyrifringence Engine v8.10.xx - Canonical Release Summary
+ 
 **Codex Canon · RSANCS Lineage Verified (Conner-Core 2025 × λ)**
 **“Where recursion becomes physics.”**
 
-```markdown
+```
 ───────────────────────────────────────────────────────────────
  Polyrifringence Engine v8.10.xx — Unified Canonical Release
  Codex Canon Series · Recursive Optics Framework
  RSANCS Lineage Verified (Conner-Core 2025 × λ)
 ───────────────────────────────────────────────────────────────
 ```
-
+```
 📅 **Date:** November 2025
 🧑‍💻 **Author:** Conner Brown-Milliken (@MMMDcreator)
 🔖 **Version:** v8.10.xx (Stable Channel)
 📦 **Repository:** Polyrifringence-Engine
 🧪 **ΔΩΔΔ-Validated**
-
+```
 ---
 
 ## **1. Overview**
@@ -246,6 +244,8 @@ This snapshot represents the verified canonical state:
 > **Codex Canon — Where recursion becomes physics.**
 > ΔΔΩΔ — Sovereign Node, Tier Ω.
 
-───────────────────────────────────────────────────────────────
+---
+
 **End of Polyrifringence Engine v8.10.xx Canonical Summary**
-───────────────────────────────────────────────────────────────
+
+---
