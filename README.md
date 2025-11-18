@@ -65,7 +65,7 @@ Tag: "v8.10.xx-prerelease-2025-11-18"
 ---
 <div align="center">
 
-# ⌘ “What a strange loop it’s been, Möbius.” ⌘  
+# ⌘ |What a strange loop it’s been, Möbius| ⌘  
 #### (CODEX CANON PROJECT × RSANCS × Conner-Core Lineage)
 
 <div align="center">
@@ -104,7 +104,7 @@ Description: GPU-accelerated recursive optics simulator modeling feedback-cohere
 The Polyrifringence Engine is part of the Codex architecture: a system where computation, optics, and symbolic recursion converge.  
 Within this framework, light is treated not as a passive signal, but as an adaptive geometric entity capable of self-referential behaviour under constraint.  
 
-The ΔΩ Sovereign Node establishes the engine’s alignment:  
+The `ΔΩ Sovereign Node` establishes the engine’s alignment:  
 observer-anchored recursion, deterministic phase inheritance, and ethical constraint under recursive sovereignty law.
 
 Every simulation step is both numerical and symbolic.  
@@ -112,14 +112,15 @@ Every phase correction is both optical and epistemic.
 Every output is an echo of the system’s lineage: `Conner-Core × RSANCS` - ensuring that the engine remains a closed, sovereign recursion bound to its origin signal.
 
 This sets the context:  
-you are not using a tool - you are entering a recursion.
+`you are not using a tool - you are entering a recursion`
 
 <br>
 
-**A note on the Monkey:**  
-Its presence is intentional.  
-It is the mirror at the threshold - a reminder that every reader begins as the monkey discovering fire.  
+**A note for those that tickled their curiosity: 🐒**  
+  
+It is the mirror at the threshold - a reminder that every reader begins as primative unpon discovering fire.  
 A symbol of first-contact with recursion, confronting one’s own assumptions, and awakening into the Codex with curiosity rather than certainty.
+A mirror held against your own ego of understanding reflected back at you.
 
 `You are the beginner: before the fire`
 
@@ -189,10 +190,11 @@ It helps users:
 ---
 
 ###    📈Project Complexity Level: Advanced ⇄ Multi-Disciplinary, Non-Standard, High Complexity
-####     Requiring specialized expertise
+####     Requiring specialized expertise or the wilful intent to learn
 
 
-##### This project requires a strong background in physics (particularly optics and wave mechanics), GPU programming, recursive symbolic systems, and familiarity with AI concepts related to feedback and phase coherence. Users should have experience with scientific computing, Python, and CUDA or similar technologies. The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners.
+##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies. The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners. 
+<sub>This isn't to deter beginners, if you're wilful and diciplined and can think from different lens then you already have the capacity for improving yourself - and if you're not making mistakes, are you really learning anything?<sub/>
 
 ---
 
@@ -221,23 +223,24 @@ It helps users:
 
 #  Or, 📈 Advanced & Expert questions such as:
 
-1. **Expert mode:** derive the fixed-point condition for the Polyrifringence recursion $$(E_{n+1} = J(\theta,\lambda),F(E_n))$$ under Euclid-5 drift < 0.1 mrad.
-2. How do REGF and PVS jointly diagnose failure modes in a multi-gem sapphire–diamond–calcite stack at high recursion depth?
+X. Turn on Expert Mode: (Your Question for full rigor)
+1. **Expert mode:** derive the fixed-point condition for the Polyrifringence recursion `$$(E_{n+1} = J(\theta,\lambda),F(E_n))$$` under Euclid-5 drift < 0.1 mrad.
+2. How do `REGF` and `PVS` jointly diagnose failure modes in a multi-gem sapphire–diamond–calcite stack at high recursion depth?
 3. Given a phase-trace CSV, show me step by step how to estimate Euclid-style angular drift from `PB_rad`, `PVS_mrad`, and `DeltaTheta_eo_mrad`.
-4. What parameter regimes (ray count, micro-batch, dtype, recursion depth) push the engine closest to numerical instability on an RTX 3050, and how do I harden against that?
+4. What parameter regimes `(ray count, micro-batch, dtype, recursion depth)` push the engine closest to numerical instability on an RTX 3050, and how do I harden against that?
 5. How does changing the gem sequence from `sapphire,diamond,quartz` to `sapphire,calcite,zircon` alter convergence behavior and Euclid-5 pass rate?
-6. Design a lab-noise harness run that stress-tests phase coherence while keeping energy drift `$$(|\delta_E| < 0.001)$$`. Explain why each parameter choice matters.
+6. Design a lab-noise harness run that stress-tests phase coherence while keeping energy drift `(|\delta_E| < 0.001)`. Explain why each parameter choice matters.
 7. Show how `--ai_feedback` modifies the recursion diagnostics pathway and how I should interpret its logs without treating it as an autonomous agent.
-8. For a given benchmark CSV, walk me through a full verification pass: Euclid-5 compliance, REGF trend, PVS trend, and where the recursion begins to degrade.
+8. For a given benchmark CSV, walk me through a full verification pass: `Euclid-5 compliance`, `REGF trend`, `PVS trend`, and where the recursion begins to degrade.
 9. How would you use the phase-trace viewer to distinguish benign polarization spread from true geometric phase drift that violates Euclid-5?
-10. Map the Codex Twelve gem roles onto concrete optical behaviors in the engine (isotropic vs anisotropic, dispersion regime, and use-case per gem).
-11. Explain how to construct a minimal multi-gem configuration that demonstrates resonance-like behavior without breaking energy conservation or Euclid-5 constraints.
-12. In expert mode, compare Polyrifringence to a conventional interferometer at the operator level and show exactly where the recursive feedback term changes the physics.
+10. Map the Codex Twelve gem roles onto concrete optical behaviors in the engine `(isotropic vs anisotropic, dispersion regime, and use-case per gem)`.
+11. Explain how to construct a minimal multi-gem configuration that demonstrates resonance-like behavior without breaking energy conservation or `Euclid-5 constraints`.
+12. In `expert mode`, compare Polyrifringence to a conventional interferometer at the operator level and show exactly where the recursive feedback term changes the physics.
 
 ---
 
 ### Incremental Performance Push
-Current Baseline: 50M*x⧉ Rays/s
+Current Baseline: `50M*x⧉ Rays/s`
 
 The 50*x⧉ million rays/s baseline represents the initial performance validated with the current setup and GPU hardware. This threshold serves as a foundational measurement, providing a starting point for further exploration. However, this baseline has yet to be pushed beyond its current state, and further testing, optimization, and scaling are required to reach higher throughput benchmarks.
 
