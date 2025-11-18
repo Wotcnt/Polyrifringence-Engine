@@ -1,11 +1,11 @@
 ---
-latest: "Polyrifringence Engine© v8.10"
+latest: "Polyrifringence Engine© v8.10.xx"
 author: "Conner Brown-Milliken"
-date: "2025-11-07"
+date: "2025-11-18"
 license: "MIT"
 doi: "pending"
 keywords: "[recursive birefringence, GPU optics, Codex Canon, RSANCS, symbolic recursion]"
-Tag: "v6.8c-prerelease-2025-11-06"
+Tag: "v8.10.xx-prerelease-2025-11-18"
 ---
 <div align="center">
   <img width="100%" src="https://img.shields.io/badge/ΔΩ_Sovereign_Node-Polyrifringence_Engine©-0b0d0f?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=0b0d0f">
@@ -714,7 +714,7 @@ Once these checks pass, the environment is fully initialized and ready for bench
 <details>
 <summary> 📘Click here for Various Benchmark Configs </summary>
 	
-#### 🧪 Below are tested CLI examples for the **v6.8 engine**, demonstrating various benchmark configurations.
+#### 🧪 Below are tested CLI examples for the **Polyrifringence engine**, demonstrating various benchmark configurations.
 
 ### Basic Matrix-Sweep Benchmark:
 ```bash
@@ -825,7 +825,7 @@ and open it in your default browser.
 - BENCHMARKS.md
 - MATH_MODEL.md
 - warmup_summary.md
-- Polyrifringence_v6.8.2_Repository_Summary.txt
+- Polyrifringence_v8.10.xx_Repository_Summary.txt
 
       examples/  # screenshots, old_results, demo data;
 
