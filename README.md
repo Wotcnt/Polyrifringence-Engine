@@ -84,15 +84,30 @@ Codex Canon AΩ-013 · ΔΔΩΔ
 Timestamp Locked · Trace-Law Active
 ──────────────────────────────────────────────────────────────
 -->
+
 ---
-latest: "Polyrifringence Engine© v8.10.xx"
-author: "Conner Brown-Milliken"
-date: "2025-11-18"
-license: "MIT"
-doi: "pending"
-keywords: "[recursive birefringence, GPU optics, Codex Canon, RSANCS, symbolic recursion]"
-Tag: "v8.10.xx-prerelease-2025-11-18"
+
+<details>
+<summary><strong> 🧩 Project Metadata (Public) </strong></summary>
+
+| Field               | Value                                                                                 |
+|---------------------|---------------------------------------------------------------------------------------|
+| Title               | Polyrifringence Engine© v8.10.xx                                                      |
+| Version Codename    | AΩ-Seal · ΔΩ-Aligned · Sovereign Node                                                 |
+| Author              | Conner Brown-Milliken                                                                 |
+| Date                | 2025-11-18                                                                            |
+| License             | MIT                                                                                   |
+| DOI                 | pending                                                                               |
+| Keywords            | recursive birefringence; GPU optics; Codex Canon; RSANCS; symbolic recursion          |
+| Tag                 | v8.10.xx-prerelease-2025-11-18                                                        |
+| Hardware Validator  | RTX 3050 (CUDA 12.1) · i5-4690K — Validated                                           |
+| Recursion Integrity | ΔΩΔΔ-Validated                                                                        |
+| Field Class         | Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
+
+</details>
+
 ---
+
 <div align="center">
   <img width="100%" src="https://img.shields.io/badge/ΔΩ_Sovereign_Node-Polyrifringence_Engine©-0b0d0f?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=0b0d0f">
 </div>
