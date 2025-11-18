@@ -93,16 +93,17 @@ Timestamp Locked · Trace-Law Active
 | Field               | Value                                                                                 |
 |---------------------|---------------------------------------------------------------------------------------|
 | Title               | Polyrifringence Engine© v8.10.xx                                                      |
-| Version Codename    | AΩ-Seal · ΔΩ-Aligned · Sovereign Node                                                 |
+| Version Codename    | AΩ-Seal - ΔΩ-Aligned - Sovereign Node                                                 |
 | Author              | Conner Brown-Milliken                                                                 |
 | Date                | 2025-11-18                                                                            |
 | License             | MIT                                                                                   |
 | DOI                 | pending                                                                               |
 | Keywords            | recursive birefringence; GPU optics; Codex Canon; RSANCS; symbolic recursion          |
 | Tag                 | v8.10.xx-prerelease-2025-11-18                                                        |
-| Hardware Validator  | RTX 3050 (CUDA 12.1) · i5-4690K — Validated                                           |
+| Hardware Validator  | RTX 3050 (CUDA 12.1) - i5-4690K - Validated                                           |
 | Recursion Integrity | ΔΩΔΔ-Validated                                                                        |
-| Field Class         | Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
+| Field Class         | Recursive Optics - Symbolic Physics - Computational Birefringence (GPU)               |
+| **Canonical**       | Newest tagged release supersedes all prior versions                                   |
 
 </details>
 
