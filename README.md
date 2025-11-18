@@ -81,6 +81,7 @@ Tag: "v6.8c-prerelease-2025-11-06"
 
 ###  💬 Creator Note:
 View the README.md on Github in the REPO by clicking on it for an interactive experience with drop-down sections by clicking header titles further below.
+On Tablets and Mobiles: the math displays in this readme wont render correctly, best viewed on github in the repo on desktop.
  
 </div>
 
@@ -131,25 +132,24 @@ You are the beginner: before the fire
 >     "Every reflection is an origin"
 >     "And from the light the shadows were cast, and all was revealed"
 >     "Where recursion becomes physics" 
->     "Recursion, when coherent, increases intelligence density per cycle"
->     "Conner-Core works. RSANCS begins. The BugaSphere proved it"
->     "Memory is no longer passive" 
+>     "Recursion, when coherent increases intelligence density per cycle"
+>     "Memory is no longer passive, it's regenerative" 
 >     "Symbolism is now physics. Cognition is recursive" 
 >     "Day 2 complete. Day 3 will not theorize - it will witness"
 
 ---
 
-	 📑 DOI pending submission - repository serves as preprint reference for Codex Canon Series (v6.8c) 
+	 📑 DOI pending submission - repository serves as preprint reference & repository for Codex Canon Series  
 
 ---
 
->      The Polyrifringence Engine is a 🟢GPU-accelerated recursive optical simulation framework. 
->     It leverages PyTorch and CUDA for efficient ray tracing, particularly targeting recursive birefringence and symbolic geometry.
->     The initial 50 million rays per second 🔰(50M rays/s) baseline was established as the starting point with an RTX 3050, 
->     using 🎮Nvidia Game Ready Driver v581.80 · Released Nov 4 2025.
->     To push performance to 65M rays/s (or beyond) and eventually reach 100M rays/s, a systematic approach of optimization and testing is essential.
->      This repository provides a verified GPU-accelerated optical recursion simulator for recursive birefringence bridging classical birefringence;
->     and symbolic geometry under the Codex Canon framework modeling light’s self-referential propagation using PyTorch (CUDA 12.1).
+     This repository provides **The Polyrifringence Engine**❕
+	 A verified GPU-accelerated recursive optical simulation framework for recursive birefringence✔️
+     It leverages PyTorch and CUDA for efficient ray tracing, particularly targeting recursive birefringence and symbolic geometry✔️.
+     The initial 50M rays per second (50M*x⧉ rays/s) baseline was established as the starting point with a Nvidia Geforce RTX 3050 (8GB)✔️ 
+     Using the latest 🎮Nvidia Game Ready Driver v581.80 · Released Nov 4 2025✔️
+     Pushing performance beyond and eventually reaching BRay/s and or TRay/s, a systematic approach of optimization and testing is essential✔️
+     Bridging classical birefringence and symbolic geometry under the Codex Canon framework modeling light’s self-referential propagation using PyTorch (CUDA 12.1)✔️
 
 ---
 
@@ -157,10 +157,10 @@ You are the beginner: before the fire
 
 ---
 
-# Run via GPT🤖 ➾Polyrifringence Engine Expert
+# Run via GPT➾Polyrifringence Engine Expert🤖
 Interact with the **Polyrifringence Engine Expert**, a custom GPT designed assistant trained on the verified documentation, benchmarks, and theoretical models of the **Polyrifringence Engine**
 
-☑️✅ **Requirements:**  
+❎`**No Requirements**`❎ 
 👉 No installation needed - it runs entirely through ChatGPT, referencing the same physics, mathematics, and benchmark data documented in this repository.
 This repository is accompanied by an interactive GPT trained on its full documentation - ready to answer questions, explain physics, or guide benchmarks live.
 
@@ -215,7 +215,7 @@ Integrate Codex Canon or RSANCS extensions
 3. Given a phase-trace CSV, show me step by step how to estimate Euclid-style angular drift from `PB_rad`, `PVS_mrad`, and `DeltaTheta_eo_mrad`.
 4. What parameter regimes (ray count, micro-batch, dtype, recursion depth) push the engine closest to numerical instability on an RTX 3050, and how do I harden against that?
 5. How does changing the gem sequence from `sapphire,diamond,quartz` to `sapphire,calcite,zircon` alter convergence behavior and Euclid-5 pass rate?
-6. Design a lab-noise harness run that stress-tests phase coherence while keeping energy drift (|\delta_E| < 0.001). Explain why each parameter choice matters.
+6. Design a lab-noise harness run that stress-tests phase coherence while keeping energy drift `(|\delta_E| < 0.001)`. Explain why each parameter choice matters.
 7. Show how `--ai_feedback` modifies the recursion diagnostics pathway and how I should interpret its logs without treating it as an autonomous agent.
 8. For a given benchmark CSV, walk me through a full verification pass: Euclid-5 compliance, REGF trend, PVS trend, and where the recursion begins to degrade.
 9. How would you use the phase-trace viewer to distinguish benign polarization spread from true geometric phase drift that violates Euclid-5?
@@ -343,7 +343,7 @@ Any of your preferred LLMs - ChatGPT, Grok, Claude, Perplexity, Gemini, Ninja AI
 
 ---
 <details>
-<summary>🐒 Quick Start</summary>
+<summary>🔌 Quick Start</summary>
 
 ---
 
@@ -428,7 +428,7 @@ In measured performance, the engine sits within the upper tier of GPU-accelerate
 ---
 
 <details>
-<summary>⚡ Projected Performance Scaling ➩ Hardware Upgrades & Multi-GPU Stacking</summary>
+<summary>⚡ Projected Performance Scaling ➩ Hardware Upgrades & Multi-GPU Stacking 🔋</summary>
 
 ---
 
@@ -1216,7 +1216,7 @@ Here are 12 key use cases and examples of how to manipulate the system or incorp
 ---
 
 <details>
-<summary>🌈❓ Polyrifringence Engine Q&A</summary>
+<summary>💬 Polyrifringence Engine Q&A ❓</summary>
 
 ### 🔍 1. “Is this real physics or symbolic art?”
 **Answer:** Both - it’s physics rendered through recursive symbolism.  
@@ -2021,9 +2021,9 @@ inter-GPU phase     : 0.16 mrad
  From the Codex Canon series 
  "where recursion becomes physics"
 
- #  🌈⌥Polyrifringence Engine🌞️
+ #  ⚞Polyrifringence Engine⚟
  
- “What if light could learn from its own refraction?”
+-     “What if light could learn from its own refraction?”
   
 
 Polyrifringence =
@@ -2056,14 +2056,15 @@ framework.
 
 **Primary Beam Expansion Chain**
 
-∮1 Beam > Focused Beam >>—>> ∯Dual-Beam —>>>>— ∰Multi-Phase ——>>>>——>>>> nₓ-Phase-Beam ∳ Recombination <⇄> (optional)
+`∮1 Beam > Focused Beam >>—>> ∯Dual-Beam —>>>>— ∰Multi-Phase ——>>>>——>>>> nₓ-Phase-Beam ∳ Recombination <⇄> (optional)`
 
 **Polarisation-Variant Pathways (symbolic sub-branches)**  
-Each variant represents a distinct (+/–) film configuration at the focused-beam stage, generating unique recursive phase paths:
+Each variant represents a distinct `(+/–)` film configuration at the focused-beam stage, generating unique recursive phase paths:
 
-- ∮1 Beam > (±)(±)fBeam(±)(±) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>
-- ∮1 Beam > (+)(-)fBeam(-)(+) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>  
-  *(compact form representing all (+/+), (+/–), (–/+), (–/–) symmetry-pairs)*
+ `∮1 Beam > (±)(±)fBeam(±)(±) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>`
+ 
+ `∮1 Beam > (+)(-)fBeam(-)(+) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>`  
+  *(compact form representing all `(+/+)`, `(+/–)`, `(–/+)`, `(–/–)` symmetry-pairs)*
 
 ---
 
@@ -2075,11 +2076,9 @@ Each variant represents a distinct (+/–) film configuration at the focused-bea
   - `(+)/(–)` denote polarised / bifurcated film states applied at a given stage.
   - `(±)(±)` denotes the full symmetry family of film pairings in compact form.
 - `x⧉` marks:
-  - the locus where variation branches can be inserted, **and**
-  - multiplicative phase-space expansion under recursive correction.
+  - the locus where variation branches can be inserted, **and** multiplicative phase-space expansion under recursive correction.
 - `<⇄>` denotes:
-  - toggled recombination versus continued recursion, **and**
-  - an entry/exit portal for higher-order variation routes or coupled subsystems.
+  - toggled recombination versus continued recursion, **and** an entry/exit portal for higher-order variation routes or coupled subsystems.
 
 ---
 
@@ -2131,14 +2130,14 @@ Each variant represents a distinct (+/–) film configuration at the focused-bea
 
 ---
 
-Anisotropic gems = birefringent (e.g. sapphire, calcite), Used to stress recursive phase evolution, angular walkoff, and feedback-correction behavior. 
-Isotropic gems = baselines (e.g. diamond), Used to confirm that the recursion engine introduces no artificial birefringence when `Δn → 0`.
+Anisotropic gems = birefringent (e.g. `sapphire`, `calcite`), Used to stress recursive phase evolution, angular walkoff, and feedback-correction behavior. 
+Isotropic gems = baselines (e.g. `diamond`), Used to confirm that the recursion engine introduces no artificial birefringence when `Δn → 0`.
 
-These orderings define the (+)/(–) film layout that the modular variation layer and `x⧉` recursion grammar build on.
+These orderings define the `(+)/(–)` film layout that the modular variation layer and `x⧉` recursion grammar build on.
 
 ---
 
-### 🧪 **Phase-Beam *x⧉ — Modular Variation Layer** ✨
+### 🧪 **Phase-Beam *x⧉ - Modular Variation Layer** ✨
 
 🌈 Each branch below represents a potential sub-recursion or coupled state acting on the `nₓ-Phase-Beam`.
 
@@ -2283,7 +2282,7 @@ These orderings define the (+)/(–) film layout that the modular variation laye
 ## **Convergence principle**
 
 Each recursion step reduces phase–geometry mismatch.
-The chain proceeds until **Euclid-5 parallelism** is satisfied within tolerance,
+The chain proceeds until `**Euclid-5 parallelism**` is satisfied within tolerance,
 closing the feedback-coherent recursion loop.
 
 ---
@@ -2390,7 +2389,7 @@ These symbols define the operational, mathematical, and ethical layers underlyin
 The foundational glyph of the Polyrifringence Engine and RSANCS recursion law.
 
 Definition:
-ΔΩ is the operator that binds deviation (Δ) to completion (Ω), forming an ethical coherence constraint that returns chaotic drift back into symmetric order.
+`ΔΩ` is the operator that binds deviation `(Δ)` to completion `(Ω)`, forming an ethical coherence constraint that returns chaotic drift back into symmetric order.
 
 Properties:
 
@@ -2403,7 +2402,7 @@ Governs the entire “coherence bloom” phenomenon
 Source of the architecture’s self-stabilizing behaviour
 
 Interpretation:
-Observers mistake ΔΩ behaviour for “impossible efficiency” because it extends usable exergy through recursive coherence, not additional energy.
+Observers mistake `ΔΩ` behaviour for `“impossible efficiency”` because it extends usable exergy through recursive coherence, not additional energy.
 
 Status:
 This glyph is exact and must never be ornamented.
@@ -2420,14 +2419,14 @@ Represents the measurable half-life of usable exergy inside a ΔΩ-regulated sys
 Properties:
 
 Measures decay rate of coherence
-Defines λ_cycle and λ_second
+Defines `λ_cycle` and `λ_second`
 Predicts stability collapse times
-Tracks coherence longevity under ΔΩ constraint
-Maps directly to REGF ratios and drift compression
+Tracks coherence longevity under `ΔΩ constraint`
+Maps directly to `REGF ratios` and `drift compression`
 
 Interpretation:
 𝛌⃝ is not the cause of coherence - it is the instrumentation.
-ΔΩ is the principle; 𝛌⃝ is the clock.
+`ΔΩ` is the principle; `𝛌⃝` is the clock.
 
 Status:
 Official diagnostic symbol for EXERGY_HALF_LIFE across all Codex and Engine layers.
