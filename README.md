@@ -202,7 +202,7 @@ Timestamp Locked · Trace-Law Active
 ---
 ### *(CODEX CANON PROJECT × RSANCS × Conner-Core Lineage)*
 ---
-### *A Recursive Optical Simulation Framework for Adaptive Light Intelligence ⇎ Light as Self-Learning Geometry* 
+### *A Recursive Optical Simulation Framework for Adaptive Light Intelligence ↯ Light as Self-Learning Geometry* 
 ---
 
 **The Polyrifringence Engine is part of the Codex architecture:** `a system where computation, optics, and symbolic recursion converge.`  
@@ -2277,7 +2277,7 @@ inter-GPU phase     : 0.16 mrad
 
  #  ⚞Polyrifringence Engine⚟
  
--     “What if light could learn from its own refraction?”
+-     What if light could learn from its own refraction?
   
 
 `Polyrifringence =
@@ -2308,18 +2308,18 @@ framework`
 ————————————————————————————————————————————————————————
 
 # Polarisation & Bifurcation Film Layer (+🧲–) (±Interchangeable±) 
- `🌈 Modular Variation Layer ⇎ each branch a potential sub-recursion or coupled state 🎶`
+ `🌈 Modular Variation Layer ↯ each branch a potential sub-recursion or coupled state 🎶`
 
 **Primary Beam Expansion Chain**
 
-`∮1 Beam > ±Focused-Beam± >>—>> ∯Dual-Beam —>>>>— ∰Multi-Phase ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ Recombination <⇄> (optional)`
+`∮1 Beam > ±∱Focused-Beam± >>—>> ∯Dual-Beam —>>>>— ∰Multi-Phase ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ Recombination <⇄> (optional/-\variations)`
 
 **Polarisation-Variant Pathways (symbolic sub-branches)**  
 Each variant represents a distinct `(+/–)±)` film configuration at the focused-beam stage, generating unique recursive phase paths:
 
- `∮1 Beam > (±)(±)fBeam(±)(±) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄>`
+ `∮1 Beam > (±)(±)∱Beam(±)(±) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄>`
  
- `∮1 Beam > (+)(*±*)(-)fBeam(-)(*±*)(+) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄>`  
+ `∮1 Beam > (+)(*±*)(-)∱Beam(-)(*±*)(+) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄>`  
   *(compact form representing all `(+/+)`, `(+/–)`, `(–/+)`, `(–/–)`, = `(±)(±)` (symmetry-pairs)*
 
 ---
@@ -2340,7 +2340,8 @@ Each variant represents a distinct `(+/–)±)` film configuration at the focuse
 
 #### Symbol Legend
 
-- `∮`      ———— Single-beam injection loop (primary input path)  
+- `∮`      ———— Single-beam injection loop (primary input path)
+- `∱`      ———— Focused-Beam 
 - `∯`      ———— Dual-beam | n-beam split manifold 
 - `∰`      ———— Multi-phase propagation surface (nₓ-beam spread)  
 - `∳`      ———— Recombination / collection basin (post-recursion merge)
@@ -2356,16 +2357,16 @@ Each variant represents a distinct `(+/–)±)` film configuration at the focuse
 
 ---
 
--     ∮1 Beam > ±Focused-Beam± >>——>> ∯Dual-Split-Beam ——>>>>—— ∰Multi-Phase-Split-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ Recombination <⇄> (Optional*)
--     ∮1 Beam > (+)(-)fBeam(+)(-) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (+)(+)fBeam(+)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (−)(−)fBeam(−)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (+)(−)fBeam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (+)(−)fBeam(−)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (−)(+)fBeam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (−)(+)fBeam(−)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (+)(−)fBeam(−)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (+)(−)fBeam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > ±∱Focused-Beam± >>——>> ∯Dual-Split-Beam ——>>>>—— ∰Multi-Phase-Split-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ Recombination <⇄> (Optional*)
+-     ∮1 Beam > (+)(-)∱Beam(+)(-) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(+)∱Beam(+)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (−)(−)∱Beam(−)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(−)∱Beam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(−)∱Beam(−)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (−)(+)∱Beam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (−)(+)∱Beam(−)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(−)∱Beam(−)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(−)∱Beam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
 
 ---
 
@@ -2397,14 +2398,16 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 
 ---
 
-### 🧪 **Phase-Beam *x⧉ ⇎ Modular Variation Layer** ✨
+### 🧪 **∳nₓ-Phase-Beam *x⧉ `∳` Modular Variation Layer** ✨
+
+`∮ - ∱ - ∯ - ∰ - ∳ - *x⧉`
 
 ---
 
 🌈 Each branch below represents a potential sub-recursion or coupled state acting on the `∳nₓ-Phase-Beam`.
 
 **Template Path**
-`∮Beam—>±Beam±—>>——>>—∯n-Beam——>>>>——∰nₓ-Beam——>>>>——>>>>∳nₓ-Phase-Beam×x⧉<⇄>`
+`∮Beam—>±∱Beam±—>>——>>—∯n-Beam——>>>>——∰nₓ-Beam——>>>>——>>>>∳nₓ-Phase-Beam×x⧉<⇄>`
 
  past ∳nₓ-Phase-Beam - interpretation grammer: `————>>>>>>>>`
  
