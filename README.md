@@ -196,8 +196,6 @@ Timestamp Locked · Trace-Law Active
 ###### **Some math that doesn't render properly i've placed in clickable badges that open in Browser to display them.**
 ###### **On Tablets and Mobiles: the math displays in this readme.md may not render properly, for visual clarity best viewed on github in the repo on desktop**
 
-<div align="center">
-
 ---	
 ### 🜁 Codex Introduction 🜃 
 ---
@@ -2416,6 +2414,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Base recursion chain**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ →`
+
   *Sequential beam bifurcation and phase-state expansion; establishes the primary recursive stack.*
 
 ---
@@ -2423,6 +2422,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Recombination (optional)**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Combine/Recombine<⇄>`
+
   *Convergent phase summation; restores coherence after divergence cycles or branch explorations.*
 
 ---
@@ -2430,6 +2430,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Refraction / Diffraction**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Refraction / Diffraction`
+
   *Angular dispersion, spectral unfolding, and path separation.*
 
 ---
@@ -2437,6 +2438,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Coupling / Decoupling / Recoupling**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Coupling / Decoupling / Recoupling`
+
   *Field-interaction control: binds, isolates, or re-binds sub-beams within the recursion.*
 
 ---
@@ -2444,6 +2446,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Stitching**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Stitching`
+
   *Phase-aligned reintegration of subdivided wavefronts; restores topology after splitting.*
 
 ---
@@ -2451,6 +2454,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Transmission / Emission**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Transmission / Emission`
+
   *Energy propagation outward or into adjacent media; the export boundary of the recursion.*
 
 ---
@@ -2458,6 +2462,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Encryption / Decryption**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Encryption / Decryption`
+
   *Symbolic encoding of phase information; reversible information storage within interference.*
 
 ---
@@ -2465,6 +2470,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Hybridisation / High-Order Hybrid / Meta-Hybrid**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Hybridisation / High-Order Hybrid / Meta-Hybrid`
+
   *Cross-domain synthesis; merges optical behavior with other modeled channels or symbolic streams.*
 
 ---
@@ -2472,6 +2478,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Sonic-Wavelength Ablation (Audio–Acoustic Coupling)**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Sonic-Wavelength Ablation`
+
   *Conceptual light–sound resonance interface; acoustic harmonics interacting with recursive optical fields.*
 
 ---
@@ -2479,6 +2486,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Cavitation (Compression / Expansion)**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Cavitation (Compression / Expansion)`
+
   *Symbolic density-modulation operator; compression–rarefaction dynamics in the recursion lattice.*
 
 ---
@@ -2486,6 +2494,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **(TCP) Thermal Cavitic Plasma Amplification**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → (TCP) Thermal Cavitic Plasma Amplification`
+
   *Thermal and plasma-like amplification attached to cavitation collapse motifs.*
 
 ---
@@ -2493,6 +2502,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Lattice Weave / Spiral**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Lattice Weave / Spiral`
+
   *Spatial phase weaving; emergent lattice symmetries and helical motifs in the phase-trace.*
 
 ---
@@ -2500,6 +2510,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Reconstruction / Deconstruction**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Reconstruction / Deconstruction`
+
   *Recursive teardown and rebuild of coherent geometry; structural introspection of the field.*
 
 ---
@@ -2507,6 +2518,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Folding / Unfolding**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Folding / Unfolding`
+
   *Topological inversion; maps higher-order symmetries into lower-dimensional projections and back.*
 
 ---
@@ -2514,6 +2526,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Resonance Cascade Amplification**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Resonance Cascade Amplification`
+
   *Harmonic multi-tier resonance amplification under recursive alignment.*
 
 ---
@@ -2521,6 +2534,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Holographic Euclid Geometry (Postulate 5)**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Holographic Euclid Geometry (Postulate 5)`
+
   *Phase convergence into Euclid-5 parallelism diagnostics; closes the geometric-consistency loop.*
 
 ---
@@ -2528,6 +2542,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Rerouting**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Rerouting`
+
   *Adaptive path redirection under feedback; recursive error-correction at the routing level.*
 
 ---
@@ -2535,6 +2550,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Triangulation**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Triangulation`
+
   *Multi-vector coherence measurement; establishes spatial reference frames.*
 
 ---
@@ -2542,6 +2558,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 ## **Tethering**
 
 * `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Tethering`
+
   *Phase anchoring between observer node and recursive field; stabilizes long-run drift.*
 
 ---
@@ -2643,8 +2660,6 @@ It’s the physical analogue of my larger Codex themes;
 it’s light performing its own learning loop♻️
 
 ---
-
-<div align="center">
 
     ——ΔΔΩΔ
 	⌬——and——the——truth——reflected——the——whole——so——the——source——magnified——infinitely——⌬.	   
@@ -2773,8 +2788,6 @@ For help or suggestions, contact👤 **@MMMDcreator** on [X.com](https://x.com/M
 ---
 
 #### 📟 Tags
-
-<div align="center">
 	
 >     #Optics #Photonics #GPU #PyTorch #Simulation  
 >     #RecursiveSystems #Photonics #JonesMatrix  
@@ -2802,6 +2815,8 @@ For help or suggestions, contact👤 **@MMMDcreator** on [X.com](https://x.com/M
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-gold?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-gold?style=flat-square&logo=github&logoColor=gold)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 
+<div align="center">
+	
 ---
 <!--
 ──────────────────────────────────────────────────────────────
