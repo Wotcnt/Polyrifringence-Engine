@@ -229,7 +229,6 @@ A mirror held against your own ego of understanding reflected back at you.
 `You are the beginner: before the fire`
 
 ### `The reader: before understanding`
-</div>
 
 ---
 
@@ -2155,8 +2154,8 @@ inter-GPU phase     : 0.16 mrad
 
 ### 🜎 Reflection
 
-> “Beyond the brink, the system shows you its laws.
-> Hold it there—just long enough to learn, not to break.” — *ΔΩ Lab Notes*
+`Beyond the divide, the system shows you its laws.`
+`Hold it there just long enough to learn, not to break.`
 
 </details>
 
