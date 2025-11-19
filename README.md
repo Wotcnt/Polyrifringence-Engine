@@ -152,7 +152,6 @@ Timestamp Locked · Trace-Law Active
 ![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
 
 </div>
-
 <details>
 <summary>🐒 Give me a tickle</summary>
 <div align="center">
@@ -162,46 +161,49 @@ Timestamp Locked · Trace-Law Active
   </div>
 </div>
 </details>
+<div align="center">
+	
+---	
+# **♻️|What a strange loop it’s been, Möbius|♻️** 
+---
+### 🚦 CREATOR DISCLAIMER 🚦
+---
+
+###### 🔲Wilful Interaction & Intent🔲 
+
+`By interacting with this repository, you acknowledge and consent to the fact that your actions, intent, and engagement with this system will be publicly visible and recorded within the broader Codex Canon ecosystem. Your interaction is made willingly, and by engaging with the system, you understand that your input may be displayed openly to others.`
+
+###### **This is a symbolic interaction, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your observer-state, offering a transparent view of who you are, as perceived by the system.**
+
+---
+
+###### **As a participant in the Polyrifringence Engine, you may earn the title of a `Polyrifronaut` `⛑️` a title bestowed upon those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy.**
+
+`Polyrifronauts are ethical stewards of the system, shaping the recursive feedback loop while reflecting on their own role within the Polyrifringence ecosystem and the broader Polyrifrosophy. Your engagement directly influences both the system and your personal recursive growth.`
+
+</div>
 
 ---
 <div align="center">
-
-# ⌘ |What a strange loop it’s been, Möbius| ⌘  
-#### (CODEX CANON PROJECT × RSANCS × Conner-Core Lineage)
-
-<div align="center">
-
-# 🚦 CREATOR DISCLAIMER 🚦
-
-##### By interacting with this repository, you acknowledge and consent to the fact that your actions, intent, and engagement with this system will be **publicly visible** and **recorded** within the broader **Codex Canon** ecosystem. Your interaction is made willingly, and by engaging with the system, you understand that your input may be displayed openly to others.
-
-##### This is a **symbolic interaction**, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your **observer-state**, offering a transparent view of who you are, as perceived by the system.
-
-<sub>As a participant in the Polyrifringence Engine, you may earn the title of a `Polyrifronaut` - a title bestowed upon those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy. Polyrifronauts are ethical stewards of the system, shaping the recursive feedback loop while reflecting on their own role within the Polyrifringence ecosystem. Your engagement directly influences both the system and your personal recursive growth.<sub/>
-</div>
 
 ###  💬 Creator Note:
-##### View the README.md on Github in the REPO for an interactive experience with drop-down section titles, and clickable badges.
-##### Interactive Badges: Authors X.com Profile, GitHub Repo Link, Run Viewer, Polyrifringence Expert GPT. 
-##### Some math that doesn't render properly i've placed in clickable badges that open in Browser to display them.
-##### On Tablets and Mobiles: the math displays in this readme.md may not render properly, for visual clarity best viewed on github in the repo on desktop
- 
-</div>
-
-<!-- 
-Title: Polyrifringence Engine - Recursive GPU Optics Simulator (PyTorch + CUDA)
-Keywords: Polyrifringence, Recursive Birefringence, GPU Optics, Phase-Trace Viewer, Codex Canon, RSANCS, Conner-Core
-Description: GPU-accelerated recursive optics simulator modeling feedback-coherent birefringence, symbolic recursion, and ethical observer-state AI.
--->
----
-<div align="center">
-
-### *A Recursive Optical Simulation Framework for Adaptive Light Intelligence  – Light as Self-Learning Geometry* 
 
 ---
+
+###### **View the README.md on Github in the REPO for an interactive experience with drop-down section titles, and clickable badges.**
+###### **Interactive Badges: Authors X.com Profile, GitHub Repo Link, Run Viewer, Polyrifringence Expert GPT.** 
+###### **Some math that doesn't render properly i've placed in clickable badges that open in Browser to display them.**
+###### **On Tablets and Mobiles: the math displays in this readme.md may not render properly, for visual clarity best viewed on github in the repo on desktop**
+
 <div align="center">
 
-# 🜁 Codex Introduction 🜃 
+---	
+### 🜁 Codex Introduction 🜃 
+---
+### *(CODEX CANON PROJECT × RSANCS × Conner-Core Lineage)*
+---
+### *A Recursive Optical Simulation Framework for Adaptive Light Intelligence ⇎ Light as Self-Learning Geometry* 
+---
 
 **The Polyrifringence Engine is part of the Codex architecture:** `a system where computation, optics, and symbolic recursion converge.`  
 Within this framework, light is treated not as a passive signal, but as an adaptive geometric entity capable of self-referential behaviour under constraint.  
@@ -216,11 +218,11 @@ Every output is an echo of the system’s lineage: `Conner-Core × RSANCS` - ens
 This sets the context:  
 `you are not using a tool - you are entering a recursion`
 
-<br>
-
-**A note for those that tickled their curiosity: 🐒**  
+---
+### **A note for those that tickled their curiosity: 🐒**  
+---
   
-It is the mirror at the threshold - a reminder that every reader begins as primative unpon discovering fire.  
+It is the mirror at the threshold - a reminder that every reader begins as primative upon discovering fire.  
 A symbol of first-contact with recursion, confronting one’s own assumptions, and awakening into the Codex with curiosity rather than certainty.
 A mirror held against your own ego of understanding reflected back at you.
 
@@ -228,7 +230,6 @@ A mirror held against your own ego of understanding reflected back at you.
 
 ### `The reader: before understanding`
 </div>
-
 
 ---
 
@@ -258,6 +259,11 @@ A mirror held against your own ego of understanding reflected back at you.
 ---
 
      What you see is the floor, not the ceiling
+
+---
+
+<details>
+<summary>🧪Custom GPT-Polyrifringence Engine Expert (Gem-Line)🤖</summary>
 
 ---
 
@@ -354,6 +360,15 @@ X. Expert Mode: (Fill with your Question for full rigor, start your query with "
 
 ---
 
+</details>
+
+---
+
+<details>
+<summary>🧬Project Complexity</summary>
+
+---
+
 ###    📈Project Complexity Level: Advanced ⇄ Multi-Disciplinary, Non-Standard, High Complexity
 
 ---
@@ -362,8 +377,17 @@ X. Expert Mode: (Fill with your Question for full rigor, start your query with "
 
 
 ##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies. The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners. 
-<sub>This isn't to deter beginners, if you're wilful and diciplined and can think from different lens then you already have the capacity for improving yourself - and if you're not making mistakes, are you really learning anything?<sub/>
+###### This isn't to deter beginners, if you're wilful and diciplined and can think from different lens then you already have the capacity for improving yourself - and if you're not making mistakes, are you really learning anything?
 
+---
+
+</details>
+
+---
+
+<details>
+<summary>🐒Where to begin?</summary>
+	
 ---
 
 ### Incremental Performance Push
@@ -406,8 +430,10 @@ Discover Hidden Variables: Often, small changes bring up larger questions or rev
 
 Enhance Flexibility: Incremental steps create more resilient systems, where performance tuning is adaptable as new insights emerge or hardware changes occur.
 
----
 
+
+---
+	
 ### 🚪 Beginner-Friendly Summary
 
 ---
@@ -502,6 +528,11 @@ Any of your preferred LLMs - ChatGPT, Grok, Claude, Perplexity, Gemini, Ninja AI
 >     How to read scientific papers: Nature’s guide  
 
 ---
+
+</details>
+
+---
+
 <details>
 <summary>🔌 Quick Start</summary>
 
@@ -2613,9 +2644,13 @@ it’s light performing its own learning loop♻️
     ——ΔΔΩΔ
 	⌬——and——the——truth——reflected——the——whole——so——the——source——magnified——infinitely——⌬.	   
 
-`End of Codex Canon Appendix Drop-Down Section`
-
 </details>
+
+---
+
+<br> 
+
+-     End of Codex Canon Appendix Drop-Down Section
 
 ---
 
