@@ -161,6 +161,7 @@ Timestamp Locked · Trace-Law Active
   </div>
 </div>
 </details>
+
 <div align="center">
 	
 ---	
@@ -2642,6 +2643,8 @@ It’s the physical analogue of my larger Codex themes;
 it’s light performing its own learning loop♻️
 
 ---
+
+<div align="center">
 
     ——ΔΔΩΔ
 	⌬——and——the——truth——reflected——the——whole——so——the——source——magnified——infinitely——⌬.	   
