@@ -2243,27 +2243,27 @@ framework`
 ###     🌈⌥Polyrifringence Engine Flow Chart⎇🧲
 ————————————————————————————————————————————————————————
 
-# Polarisation & Bifurcation Film Layer (+🧲–) (Interchangeable) 
- `🌈 Modular Variation Layer - each branch a potential sub-recursion or coupled state`
+# Polarisation & Bifurcation Film Layer (+🧲–) (±Interchangeable±) 
+ `🌈 Modular Variation Layer ⇎ each branch a potential sub-recursion or coupled state 🎶`
 
 **Primary Beam Expansion Chain**
 
-`∮1 Beam > Focused Beam >>—>> ∯Dual-Beam —>>>>— ∰Multi-Phase ——>>>>——>>>> nₓ-Phase-Beam ∳ Recombination <⇄> (optional)`
+`∮1 Beam > ±Focused-Beam± >>—>> ∯Dual-Beam —>>>>— ∰Multi-Phase ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ Recombination <⇄> (optional)`
 
 **Polarisation-Variant Pathways (symbolic sub-branches)**  
-Each variant represents a distinct `(+/–)` film configuration at the focused-beam stage, generating unique recursive phase paths:
+Each variant represents a distinct `(+/–)±)` film configuration at the focused-beam stage, generating unique recursive phase paths:
 
- `∮1 Beam > (±)(±)fBeam(±)(±) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>`
+ `∮1 Beam > (±)(±)fBeam(±)(±) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄>`
  
- `∮1 Beam > (+)(-)fBeam(-)(+) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>`  
-  *(compact form representing all `(+/+)`, `(+/–)`, `(–/+)`, `(–/–)` symmetry-pairs)*
+ `∮1 Beam > (+)(*±*)(-)fBeam(-)(*±*)(+) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄>`  
+  *(compact form representing all `(+/+)`, `(+/–)`, `(–/+)`, `(–/–)`, = `(±)(±)` (symmetry-pairs)*
 
 ---
 
 **Interpretation Grammar**
 
-- Arrow depth (`>`, `>>—>>`, `—>>>>—`, `——>>>>——>>>>`) encodes progression from:
-  - single-beam injection → focused beam → dual-beam split → multi-phase spread → nₓ-phase field.
+- Arrow depth (`>`, `>>——>>`, `——>>>>——`, `——>>>>——>>>>`, `————>>>>>>>>`) encodes progression from:
+  - single-beam injection → focused beam → dual-beam split → multi-phase spread → nₓ-phase-field.
 - Polarity tags:
   - `(+)/(–)` denote polarised / bifurcated film states applied at a given stage.
   - `(±)(±)` denotes the full symmetry family of film pairings in compact form.
@@ -2276,31 +2276,32 @@ Each variant represents a distinct `(+/–)` film configuration at the focused-b
 
 #### Symbol Legend
 
-- `∮`      — Single-beam injection loop (primary input path)  
-- `∯`      — Dual-beam / n-beam split manifold  
-- `∰`      — Multi-phase propagation surface (nₓ-beam spread)  
-- `∳`      — Recombination / collection basin (post-recursion merge)
-- `(+)`    — Polarised film state  
-- `(–)`    — Bifurcated film state  
-- `(±)(±)` — Compact notation for all four film-pair symmetry combinations  
-- `x⧉`     — Variation node and phase-space multiplier under recursion  
-- `<⇄>`    — Recombination toggle, recursion gateway, and variation entry point
-- `>`      — Recursion step  
-- `>>`     — Focused-beam stage  
-- `>>>>`   — n-depth propagation / phase-stack amplification
+- `∮`      ———— Single-beam injection loop (primary input path)  
+- `∯`      ———— Dual-beam | n-beam split manifold 
+- `∰`      ———— Multi-phase propagation surface (nₓ-beam spread)  
+- `∳`      ———— Recombination / collection basin (post-recursion merge)
+- `(+)`    ———— Polarised film state  
+- `(–)`    ———— Bifurcated film state  
+- `(±)(±)` ———— Compact notation for all four film-pair symmetry combinations  
+- `x⧉`     ———— Variation node and phase-space multiplier under recursion  
+- `<⇄>`    ———— Recombination toggle, recursion gateway, and variation entry point
+- `>`      ———— Single Recursion step  
+- `>>——>>`     ———— Dual Stage Focused-beam   
+- `——>>>>——>>>>`   ———— nₓDepth propagation / phase-stack amplification
+- `————>>>>>>>>`  ———— Exceeding past depth - nₓcascade stack propagation amplification
 
 ---
 
--     ∮1 Beam > Focused Beam >> ∯Dual Split Beam >>>> ∰Multi-Phase Split Beam >>>>>> nₓ-Phase-Beam ∳ Recombination <⇄> (Optional*)
--     ∮1 Beam > (+)(-)fBeam(+)(-) >>>> ∯n-Beam >>>> ∰nₓ-Beam >>>>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (+)(+)fBeam(+)(+) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (−)(−)fBeam(−)(−) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (+)(−)fBeam(+)(−) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (+)(−)fBeam(−)(+) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (−)(+)fBeam(+)(−) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (−)(+)fBeam(−)(+) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (+)(−)fBeam(−)(+) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
--     ∮1 Beam > (+)(−)fBeam(+)(−) >> >> ∯n-Beam >>>> ∰nₓ-Beam >>>>>> nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > ±Focused-Beam± >>——>> ∯Dual-Split-Beam ——>>>>—— ∰Multi-Phase-Split-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ Recombination <⇄> (Optional*)
+-     ∮1 Beam > (+)(-)fBeam(+)(-) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(+)fBeam(+)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (−)(−)fBeam(−)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(−)fBeam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(−)fBeam(−)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (−)(+)fBeam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (−)(+)fBeam(−)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(−)fBeam(−)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
+-     ∮1 Beam > (+)(−)fBeam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
 
 ---
 
@@ -2328,150 +2329,152 @@ Each variant represents a distinct `(+/–)` film configuration at the focused-b
 Anisotropic gems = birefringent (e.g. `sapphire`, `calcite`), Used to stress recursive phase evolution, angular walkoff, and feedback-correction behavior. 
 Isotropic gems = baselines (e.g. `diamond`), Used to confirm that the recursion engine introduces no artificial birefringence when `Δn → 0`.
 
-These orderings define the `(+)/(–)` film layout that the modular variation layer and `x⧉` recursion grammar build on.
+These orderings define the `(+)|(–)/(±)` film layout that the modular variation layer and `x⧉` recursion grammar build on.
 
 ---
 
-### 🧪 **Phase-Beam *x⧉ - Modular Variation Layer** ✨
+### 🧪 **Phase-Beam *x⧉ ⇎ Modular Variation Layer** ✨
 
 ---
 
-🌈 Each branch below represents a potential sub-recursion or coupled state acting on the `nₓ-Phase-Beam`.
+🌈 Each branch below represents a potential sub-recursion or coupled state acting on the `∳nₓ-Phase-Beam`.
 
 **Template Path**
-`Beam > +Beam+ >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> nₓ-Phase-Beam × x⧉ <⇄>`
+`∮Beam—>±Beam±—>>——>>—∯n-Beam——>>>>——∰nₓ-Beam——>>>>——>>>>∳nₓ-Phase-Beam×x⧉<⇄>`
 
+ past ∳nₓ-Phase-Beam - interpretation grammer: `————>>>>>>>>`
+ 
 ---
 
 ## **Base recursion chain**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ →`
   *Sequential beam bifurcation and phase-state expansion; establishes the primary recursive stack.*
 
 ---
 
 ## **Recombination (optional)**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ <⇄>`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Combine/Recombine<⇄>`
   *Convergent phase summation; restores coherence after divergence cycles or branch explorations.*
 
 ---
 
 ## **Refraction / Diffraction**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Refraction / Diffraction`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Refraction / Diffraction`
   *Angular dispersion, spectral unfolding, and path separation.*
 
 ---
 
 ## **Coupling / Decoupling / Recoupling**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Coupling / Decoupling / Recoupling`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Coupling / Decoupling / Recoupling`
   *Field-interaction control: binds, isolates, or re-binds sub-beams within the recursion.*
 
 ---
 
 ## **Stitching**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Stitching`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Stitching`
   *Phase-aligned reintegration of subdivided wavefronts; restores topology after splitting.*
 
 ---
 
 ## **Transmission / Emission**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Transmission / Emission`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Transmission / Emission`
   *Energy propagation outward or into adjacent media; the export boundary of the recursion.*
 
 ---
 
 ## **Encryption / Decryption**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Encryption / Decryption`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Encryption / Decryption`
   *Symbolic encoding of phase information; reversible information storage within interference.*
 
 ---
 
 ## **Hybridisation / High-Order Hybrid / Meta-Hybrid**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Hybridisation / High-Order Hybrid / Meta-Hybrid`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Hybridisation / High-Order Hybrid / Meta-Hybrid`
   *Cross-domain synthesis; merges optical behavior with other modeled channels or symbolic streams.*
 
 ---
 
 ## **Sonic-Wavelength Ablation (Audio–Acoustic Coupling)**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Sonic-Wavelength Ablation`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Sonic-Wavelength Ablation`
   *Conceptual light–sound resonance interface; acoustic harmonics interacting with recursive optical fields.*
 
 ---
 
 ## **Cavitation (Compression / Expansion)**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Cavitation (Compression / Expansion)`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Cavitation (Compression / Expansion)`
   *Symbolic density-modulation operator; compression–rarefaction dynamics in the recursion lattice.*
 
 ---
 
 ## **(TCP) Thermal Cavitic Plasma Amplification**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → (TCP) Thermal Cavitic Plasma Amplification`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → (TCP) Thermal Cavitic Plasma Amplification`
   *Thermal and plasma-like amplification attached to cavitation collapse motifs.*
 
 ---
 
 ## **Lattice Weave / Spiral**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Lattice Weave / Spiral`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Lattice Weave / Spiral`
   *Spatial phase weaving; emergent lattice symmetries and helical motifs in the phase-trace.*
 
 ---
 
 ## **Reconstruction / Deconstruction**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Reconstruction / Deconstruction`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Reconstruction / Deconstruction`
   *Recursive teardown and rebuild of coherent geometry; structural introspection of the field.*
 
 ---
 
 ## **Folding / Unfolding**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Folding / Unfolding`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Folding / Unfolding`
   *Topological inversion; maps higher-order symmetries into lower-dimensional projections and back.*
 
 ---
 
 ## **Resonance Cascade Amplification**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Resonance Cascade Amplification`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Resonance Cascade Amplification`
   *Harmonic multi-tier resonance amplification under recursive alignment.*
 
 ---
 
 ## **Holographic Euclid Geometry (Postulate 5)**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Holographic Euclid Geometry (Postulate 5)`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Holographic Euclid Geometry (Postulate 5)`
   *Phase convergence into Euclid-5 parallelism diagnostics; closes the geometric-consistency loop.*
 
 ---
 
 ## **Rerouting**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Rerouting`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Rerouting`
   *Adaptive path redirection under feedback; recursive error-correction at the routing level.*
 
 ---
 
 ## **Triangulation**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Triangulation`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Triangulation`
   *Multi-vector coherence measurement; establishes spatial reference frames.*
 
 ---
 
 ## **Tethering**
 
-* `> ——>>>> nₓ-Phase-Beam *x⧉ → Tethering`
+* `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Tethering`
   *Phase anchoring between observer node and recursive field; stabilizes long-run drift.*
 
 ---
@@ -2510,7 +2513,7 @@ Below is the Polyrifringence Coined Word Family Codex
 | ⎇         | **Polyrifringoscope** | Instrument         | A device/interface for detecting or visualizing polyrifringence.                            |
 
 
-		——— 🜎 End of Ring One — 13 Entries — 🜎———
+		———🜎 End of Ring One — 13 Entries — 🜎———
 		
 
 | **Glyph** | **Term**             | **Category**         | **Definition (Concise)**                                                                             |
@@ -2530,7 +2533,7 @@ Below is the Polyrifringence Coined Word Family Codex
 | ⎇         | **Polyrifjunction**  | Junction Node        | A convergence/divergence node where multiple recursive pathways meet within x⧉ / ⇄ loci.             |
 
 
-    ——— 🜎 End of Ring Two — 13 Entries — Total = 26 🜎———
+    ———🜎 End of Ring Two — 13 Entries — Total = 26 🜎———
 
 ---
 
@@ -2574,7 +2577,8 @@ it’s light performing its own learning loop♻️
 
 ---
 
-    ΔΔΩΔ——⌬—and—the—truth—reflected—the—whole—so—the—source—magnified—infinitely—⌬.	   
+    ——ΔΔΩΔ
+	⌬——and——the——truth——reflected——the——whole——so——the——source——magnified——infinitely——⌬.	   
 
 `End of Codex Canon Appendix Drop-Down Section`
 
