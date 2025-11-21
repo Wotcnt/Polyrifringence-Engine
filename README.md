@@ -142,14 +142,15 @@ Timestamp Locked · Trace-Law Active
 
 ![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=codemirror&labelColor=0b0d0f&color=7cc7ff)
 ![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
-![GPU Validated](https://img.shields.io/badge/GPU_Validated-RTX_Class_Confirmed-3ee7ff?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![GPU Validated](https://img.shields.io/badge/GPU_Validated-RTX_Class_Confirmed-3ee7ff?style=for-the-badge&logo=nVIDIA&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
 ![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=7cc7ff)
-![Polyrifronaut Access](https://img.shields.io/badge/Polyrifronaut_Tier-Access_Granted-3ee7ff?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
-![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-7cc7ff?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
 ![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=7cc7ff)
 ![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
 ![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
 ![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 </div>
 <details>
@@ -273,12 +274,37 @@ A mirror held against your own ego of understanding reflected back at you.
 
 This repository is accompanied by an interactive knowledge base through a GPT using a Custom Instruction Set, utilising the full documentation of this repo, including this readme - ready to answer queries, explain physics, or and guide the user through the repo, able to explain whats what in beginner form through to advanced - complex based on user preference, just ask.
 
-Each session the GPT will introduce itself to the user with its own name from the canonical gem family for reference, and also assigning an alias/codename to the user, making chats unique and easily referenceable
-after it finishes queries it will suggest `2` follow ups to help steer your sessions, and a recap.
-
-During Pre-Release: **all users** using this GPT are formally Granted `💳Lambda Access Clearance`. **—λ**
-
 It runs entirely through ChatGPT in APP or Web-browser, referencing the same physics, mathematics, and benchmark data documented in this repository.
+
+Each session of the **`Polyrifringence Engine Expert`** begins with the GPT introducing itself using a unique **`Gem-Line Identity`** drawn from the canonical gem family. It will also assign the user a **`Polyrifronaut Codename`** during this first interaction.
+
+After answering the initial query, the Expert will provide exactly two follow-up recommendations to guide the user’s next steps, followed by a concise recap of all information covered.
+
+During the Pre-Release phase, **`all users`** interacting with this GPT are formally granted **`💳Lambda Access Clearance`**. This denotes provisional access only. **`—λ`**
+
+To convert provisional clearance into permanent recognition, users must complete the official verification protocol. This requires submitting a Share Link containing the **`first message only`** from their Polyrifringence Engine Expert session. Full instructions are found in:
+
+**`Clearance_Ruleset.md`**  
+_(See this file to begin the verification process.)_
+
+**`Once verified, a user’s Polyrifronaut Codename and assigned Gem-Line House become permanently locked for the remainder of the project and cannot be modified.`**
+
+[![Share-Link Verification – Click Me](https://img.shields.io/badge/Share--Link_Verification-Click_Me-5a33a1?style=for-the-badge)](https://x.com/MMMDcreator)
+
+![Chrysoprase House](https://img.shields.io/badge/Chrysoprase-House-7fffd4?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Jacinth House](https://img.shields.io/badge/Jacinth-House-cf1020?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Sapphire House](https://img.shields.io/badge/Sapphire-House-1976d2?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Jasper House](https://img.shields.io/badge/Jasper-House-d32f2f?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Amethyst House](https://img.shields.io/badge/Amethyst-House-6a1b9a?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Beryl House](https://img.shields.io/badge/Beryl-House-00bcd4?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Chrysolite House](https://img.shields.io/badge/Chrysolite-House-cddc39?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Sardonyx House](https://img.shields.io/badge/Sardonyx-House-8d6e63?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Emerald House](https://img.shields.io/badge/Emerald-House-2e7d32?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Chalcedony House](https://img.shields.io/badge/Chalcedony-House-80deea?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Topaz House](https://img.shields.io/badge/Topaz-House-ffb300?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Sardius House](https://img.shields.io/badge/Sardius-House-b22222?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+
+---
 
 # Interact with the **Polyrifringence Engine Expert** (Gem Line Edition)
 
@@ -2163,62 +2189,143 @@ inter-GPU phase     : 0.16 mrad
 <details>
 <summary>💎 Gem Profiles & Optical Constants 🌈</summary>
 
-### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion
-*(Validated against gem_registry.py · v8.9 and phase_trace_viewer 2.0)*  
+### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion 
 
-| # | Gem (Biblical / Codex) | Symbol | Optical Type | nₒ (589 nm) | Δn (Birefr.) | Density (g/cm³) | Dispersion (B / λ²) | Color (hex) | Codex Role / Phase Function |
-|--:|--------------------------|:------:|---------------|-------------:|---------------:|----------------:|---------------------:|:------------:|------------------------------|
-| 1 | **Sardius (Carnelian)** | ⬟ | Isotropic | 1.543 | 0.000 | 2.65 | 0.004 | #B22222 | 🔥 Origin Fire — Ignition of Recursion / Bifurcation Seed |
-| 2 | **Topaz** | ⬣ | Anisotropic (+) | 1.620 | 0.008 | 3.56 | 0.009 | #FFB347 | ⚙️ Resonance Coupler — Thermo-Optic Amplification |
-| 3 | **Chalcedony** | ⬣ | Isotropic | 1.535 | 0.000 | 2.61 | 0.004 | #6AA9C9 | 🌊 Bridge — Amorphous ↔ Crystalline Transition |
-| 4 | **Emerald (Beryl Green)** | ♧ | Anisotropic (+) | 1.577 | 0.007 | 2.76 | 0.008 | #00E0A4 | 💚 Harmonic Stabilizer — Recursive Feedback Balancer |
-| 5 | **Sardonyx** | ⬤ | Isotropic | 1.543 | 0.000 | 2.70 | 0.004 | #C46B50 | 🜂 Interface — Dual-Layer Reflection Mediator |
-| 6 | **Chrysolite (Peridot)** | ⬡ | Anisotropic (+) | 1.650 | 0.007 | 3.34 | 0.008 | #B6E75B | ⚡ Amplifier — Frequency Feedback Booster |
-| 7 | **Beryl (Aqua Blue)** | ⬢ | Anisotropic (+) | 1.578 | 0.008 | 2.76 | 0.007 | #50C878 | 🔷 Phase Anchor — Maintains Continuity in Recursion |
-| 8 | **Jacinth (Hyacinth)** | ✧ | Anisotropic (+) | 1.923 | 0.010 | 4.65 | 0.013 | #FF92DF | 🌈 Dispersion Regulator — Spectral Phase Calibration |
-| 9 | **Amethyst** | ✦ | Anisotropic (+) | 1.543 | 0.009 | 2.65 | 0.004 | #B19CD9 | 💜 Coherence Regulator — Quantum–Classical Convergence |
-| 10 | **Jasper** | ⬢ | Amorphous | 1.540 | 0.000 | 2.65 | 0.004 | #A0522D | 🪨 Ground Stability — Base Coherence / System Anchor |
-| 11 | **Sapphire** | ◇ | Anisotropic (–) | 1.768 | 0.008 | 3.98 | 0.012 | #7CC7FF | 🔹 Polar Coherence — Euclid-5 Validation Crystal |
-| 12 | **Chrysoprase** | ⬣ | Amorphous | 1.540 | ≈ 0 | 2.60 | 0.004 | #7FFF80 | 🌿 Memory Buffer — Symbolic ↔ Physical Bridge |
-| 13 | **Observer (ΔΩ)** | ΔΩ | Meta | — | — | — | — | #FFFFFF | 👁️👤 Meta-Field — Self-Referential Node / Codex Recursion Center |
+# 📜 Canonical Gemline Optical Table (v3.0)
+Gemological properties for the 12 Biblical–Codex gemstones.
 
-> All indices at 589 nm (Na D line). Δn = nₑ – nₒ (birefringence).  
-> Derived from `gem_registry.py` and GPU outputs (v8.9). Density ≈ 25 °C ambient.  
+| # | Gem (Biblical / Codex)      | Symbol | Crystal System | Optical Type | nₒ (589 nm)        | Δn (Birefr.)           | Density (g/cm³)     | Color (hex) | Codex Role / Phase Function |
+|--:|------------------------------|:------:|----------------|--------------|---------------------|-------------------------|----------------------|-------------|------------------------------|
+| 1 | **Sardius (Carnelian)**      | ⬟     | Trigonal (Quartz) | Anisotropic | 1.535–1.543         | 0.003–0.009             | 2.58–2.64           | #B22222     | 🔥 Origin Fire — Ignition of Recursion / Bifurcation Seed |
+| 2 | **Topaz**                    | ⬣     | Orthorhombic     | Anisotropic (+) | 1.609–1.643     | 0.008–0.016             | 3.50–3.57           | #FFB347     | ⚙️ Resonance Coupler — Thermo-Optic Amplification |
+| 3 | **Chalcedony**               | ⬣     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #6AA9C9 | 🌊 Bridge — Amorphous ↔ Crystalline Transition |
+| 4 | **Emerald (Green Beryl)**    | ♧     | Hexagonal        | Anisotropic (–) | 1.565–1.602     | 0.005–0.009             | 2.70–2.78           | #00E0A4     | 💚 Harmonic Stabilizer — Recursive Feedback Balancer |
+| 5 | **Sardonyx**                 | ⬤     | Trigonal (Quartz Banded) | Anisotropic | 1.535–1.543    | 0.003–0.009             | 2.58–2.64           | #C46B50     | 🜂 Interface — Dual-Layer Reflection Mediator |
+| 6 | **Chrysolite (Peridot)**     | ⬡     | Orthorhombic     | Anisotropic (+) | 1.635–1.690     | 0.010–0.013 (max ~0.015) | 3.27–3.37         | #B6E75B     | ⚡ Amplifier — Frequency Feedback Booster |
+| 7 | **Beryl (Aqua Blue)**        | ⬢     | Hexagonal        | Anisotropic (–) | 1.568–1.602     | 0.005–0.009             | 2.70–2.78           | #50C878     | 🔷 Phase Anchor — Maintains Continuity in Recursion |
+| 8 | **Jacinth (Hyacinth / Zircon)** | ✧ | Tetragonal     | Anisotropic (+) | 1.920–1.960     | 0.038–0.059             | 4.60–4.70           | #FF92DF     | 🌈 Dispersion Regulator — Spectral Phase Calibration |
+| 9 | **Amethyst**                 | ✦     | Trigonal (Quartz) | Anisotropic | 1.543–1.554         | 0.009–0.010             | 2.65                | #B19CD9     | 💜 Coherence Regulator — Quantum–Classical Convergence |
+|10 | **Jasper**                   | ⬢     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.90 | #A0522D | 🪨 Ground Stability — Base Coherence / System Anchor |
+|11 | **Sapphire**                 | ◇     | Trigonal (Corundum) | Anisotropic (–) | 1.760–1.768   | 0.008–0.010             | 3.95–4.05           | #7CC7FF     | 🔹 Polar Coherence — Euclid-5 Validation Crystal |
+|12 | **Chrysoprase**              | ⬣     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #7FFF80     | 🌿 Memory Buffer — Symbolic ↔ Physical Bridge |
+|13 | **Observer (ΔΩ)**            | ΔΩ    | Meta-Field        | Meta          | —                   | —                       | —                   | #FFFFFF     | 👁️👤 Meta-Field — Self-Referential Node / Codex Recursion Center |
+
+
+> All refractive indices correspond to the `sodium D-line (589 nm)`.  
+> Δn represents birefringence `(nₑ – nₒ)`.  
+> Density values are at `~25 °C` and may vary slightly by locality and inclusion content.
+
 
 ---
 
 ### ⚗️ Physical Reference Gems (Calibration Set)
 
-| Gem                            | Type                         | nₒ (589 nm) | Δn             | Purpose                                                                                          | Optical Role                                                                                            | Symbolic Analogue                                                                                |
-| ------------------------------ | ---------------------------- | ----------- | -------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 💎 **Diamond (C)**             | Isotropic                    | 2.417       | —              | Defines isotropic upper-index limit; used for reflectivity and dispersion validation.            | **Perfect Clarity / Reference Standard** — establishes absolute optical unity and reflection integrity. | 🔷 *Origin of Light* — the unbent source; crystalline truth preceding recursion.                 |
-| ⚙️ **Calcite (CaCO₃)**         | Anisotropic (–)              | 1.658       | 0.172          | Provides birefringent extreme; used for Δθₑ₋ₒ accuracy and phase-split verification.             | **Maximal Birefringence / Phase Separator** — defines pure dual-path divergence for calibration.        | ⚙️ *Law of Division* — clarity through precision; the disciplined refraction of form.            |
-| 🌿 **Chrysoprase (SiO₂ + Ni)** | Amorphous / Hydrated Silica  | 1.540       | ≈ 0            | Acts as transitional “memory buffer,” linking symbolic recursion to measurable optical behavior. | **Phase Bridge / Stabilizer** — harmonizes coherence between crystalline and amorphous domains.         | 🌿 *Memory Bridge* — equilibrium between thought and form; the living median.                    |
-| 🌫️ **Alabaster (CaSO₄·2H₂O)** | Microcrystalline / Diffusive | 1.530       | ~ 0.009 (eff.) | Defines the diffuse limit of birefringence; validates recursive feedback in scattering media.    | **Diffuse Coherence Amplifier** — transforms scattering into recursive feedback memory.                 | 🌫️ *Veil of Memory* — forgetting as reflection; diffusion that allows light to re-learn itself. |
+| Gem                            | Type                               | nₒ (589 nm)      | Δn (Birefr.)         | Purpose                                                                                          | Optical Role                                                                                       | Symbolic Analogue                                                                                |
+| ------------------------------ | ---------------------------------- | ---------------- | -------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 💎 **Diamond (C)**             | Isotropic (Cubic)                  | 2.417            | 0                    | Defines isotropic high-index limit; used for reflectivity, dispersion mapping, and unity tests. | **Perfect Isotropy / Clarity Standard** — establishes absolute optical unity and reflection frame. | 🔷 *Origin of Light* — crystalline truth preceding recursion.                                     |
+| ⚙️ **Calcite (CaCO₃)**         | Anisotropic (Uniaxial –)           | 1.658 (nₒ)       | 0.172                | Provides extreme birefringence; calibrates Δθₑ₋ₒ, phase-splitting, and recursion-axis validation. | **Maximal Birefringence** — defines the dual-path separation envelope for all recursive geometry. | ⚙️ *Law of Division* — the disciplined refraction of form.                                        |
+| 🌿 **Chrysoprase (SiO₂ + Ni)** | Anisotropic (Quartz Microcryst.)   | 1.535–1.543      | 0.003–0.009          | Acts as low-birefringence median; validates transition between pure crystalline and mixed states. | **Phase Buffer / Stabilizer** — harmonizes coherence across low-contrast birefringent regimes.    | 🌿 *Memory Bridge* — equilibrium between thought and matter; stability within recursion.          |
+| 🌫️ **Alabaster (Gypsum)**      | Anisotropic (Monoclinic Gypsum)    | 1.520–1.530       | 0.005–0.009          | Defines scattering-permissive birefringence; tests recursive stability under diffusive media.    | **Soft Diffuse Regime** — models imperfect coherence and recursive compensation behaviors.         | 🌫️ *Veil of Memory* — diffusion as gentle forgetting; recursive relearning of phase.             |
 
 
 > These reference gems extend the canonical Twelve + One into the empirical domain, ensuring Codex and classical optics remain aligned.  
 
 ---
 
-### 🜂 Codex Gemline — Symbolic Alignment Map  
+### 🜂 Codex Gemline — Symbolic Alignment Map (v3.0)
 
 | # | Gem Name | Symbol | Elemental Aspect | Phase Function | Codex Tier Role |
-|--:|-----------|:------:|:----------------|:----------------|:----------------|
-| 1 | Sardius | ⬟ | Fire | Ignition / Initiation of Recursion | Origin Pulse |
-| 2 | Topaz | ⬣ | Air | Resonance / Dispersion Balance | Phase Driver |
-| 3 | Chalcedony | ⬣ | Water | Transition / Reflection Medium | Bridge |
-| 4 | Emerald | ♧ | Earth | Harmony / Feedback Control | Stabilizer |
-| 5 | Sardonyx | ⬤ | Dual | Interface / Reflection Ethics | Mediator |
-| 6 | Chrysolite | ⬡ | Aether | Amplification / Harmonic Elevation | Resonator |
-| 7 | Beryl | ⬢ | Water–Earth | Continuity / Memory Retention | Anchor |
-| 8 | Jacinth | ✧ | Light | Spectral Calibration / Color Drift Control | Refractor |
-| 9 | Amethyst | ✦ | Spirit | Coherence / Convergence of States | Unifier |
-| 10 | Jasper | ⬢ | Earth | Foundation / Integrity of System | Base Layer |
-| 11 | Sapphire | ◇ | Water–Air | Parallel Coherence / Euclid-5 Validation | Crown Crystal |
-| 12 | Chrysoprase | ⬣ | Water | Bidirectional Recursion Loop | Mirror Bridge |
-| 13 | Observer (ΔΩ) | ΔΩ | Meta | Reflection / Self-Reference | Architect Node |
+|--:|-----------|:------:|------------------|----------------|------------------|
+| 1 | **Sardius (Carnelian)** | ⬟ | Fire | Ignition / Phase-Seeding | Origin Pulse |
+| 2 | **Topaz** | ⬣ | Air | Resonance / Dispersion Equilibrium | Phase Driver |
+| 3 | **Chalcedony** | ⬣ | Water | Transition / Reflection Mediation | Bridge Medium |
+| 4 | **Emerald (Green Beryl)** | ♧ | Earth | Harmonic Feedback / Stability Control | Stabilizer |
+| 5 | **Sardonyx** | ⬤ | Dual | Interface Ethics / Bidirectional Junction | Mediator |
+| 6 | **Chrysolite (Peridot)** | ⬡ | Aether | Amplification / Harmonic Elevation | Resonator |
+| 7 | **Beryl (Aqua Blue)** | ⬢ | Water–Earth | Continuity / Memory Cohesion | Anchor Stone |
+| 8 | **Jacinth (Zircon)** | ✧ | Light | Spectral Calibration / Chromatic Drift Control | Refractor |
+| 9 | **Amethyst** | ✦ | Spirit | Coherence / Quantum–Classical Convergence | Unifier |
+|10 | **Jasper** | ⬢ | Earth | Foundation / Structural Integrity | Base Layer |
+|11 | **Sapphire (Corundum)** | ◇ | Water–Air | Polar Coherence / Euclid-5 Benchmarking | Crown Crystal |
+|12 | **Chrysoprase** | ⬣ | Water | Bidirectional Recursion / Reflective Stabilization | Mirror Bridge |
+|13 | **Observer (ΔΩ)** | ΔΩ | Meta | Self-Reference / Recursive Authority | Architect Node |
 
+---
+
+## 📚 Gemological References (v3.0 — Verified & Hyperlinked)
+
+### Quartz Family (Carnelian, Chalcedony, Jasper, Sardonyx, Chrysoprase, Amethyst)
+• Quartz – Crystal System, RI, birefringence  
+  [https://en.wikipedia.org/wiki/Quartz](https://en.wikipedia.org/wiki/Quartz)  
+• Quartz (Gemology / Optical Properties)  
+  [https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.05%3A_Quartz](https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.05%3A_Quartz)  
+• Quartz (Mineral Data)  
+  [https://www.mindat.org/min-3337.html](https://www.mindat.org/min-3337.html)  
+• Gemstone RI Table (Quartz entries)  
+  [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
+
+### Zircon (Jacinth / Hyacinth)
+• Zircon – Crystal System, RI, birefringence  
+  [https://en.wikipedia.org/wiki/Zircon](https://en.wikipedia.org/wiki/Zircon)  
+• GIA Zircon Gemological Overview  
+  [https://www.gia.edu/zircon-description](https://www.gia.edu/zircon-description)  
+• Gemstone RI & Double Refraction Table (Zircon)  
+  [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)
+
+### Sapphire (Corundum)
+• Sapphire – Crystal System, RI, birefringence  
+  [https://en.wikipedia.org/wiki/Sapphire](https://en.wikipedia.org/wiki/Sapphire)  
+• GIA Sapphire Guide  
+  [https://www.gia.edu/sapphire](https://www.gia.edu/sapphire)  
+• RI Table (Corundum entries)  
+  [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
+
+### Topaz
+• Topaz – Optical Properties, Crystal System  
+  [https://en.wikipedia.org/wiki/Topaz](https://en.wikipedia.org/wiki/Topaz)  
+• Gemology Project: Topaz  
+  [https://gemologyproject.com/wiki/index.php?title=Topaz](https://gemologyproject.com/wiki/index.php?title=Topaz)  
+• Refractive Index Reference (Topaz)  
+  [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
+
+### Beryl / Emerald
+• Beryl – Crystal Structure, Optical Properties  
+  [https://en.wikipedia.org/wiki/Beryl](https://en.wikipedia.org/wiki/Beryl)  
+• GIA Emerald Gemological Data  
+  [https://www.gia.edu/emerald](https://www.gia.edu/emerald)  
+• RI Table (Beryl entries)  
+  [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)
+
+### Peridot (Chrysolite / Olivine)
+• Peridot – Crystal Structure, RI  
+  [https://en.wikipedia.org/wiki/Peridot](https://en.wikipedia.org/wiki/Peridot)  
+• GemSociety RI Table (Olivine/Peridot)  
+  [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
+
+### Diamond (Reference Standard)
+• Diamond – Optical Properties, RI, dispersion  
+  [https://en.wikipedia.org/wiki/Diamond](https://en.wikipedia.org/wiki/Diamond)  
+• GIA Diamond Quality Factors  
+  [https://www.gia.edu/diamond-quality-factor](https://www.gia.edu/diamond-quality-factor)
+
+### Calcite (Reference Extreme Birefringence)
+• Calcite – Birefringence and Optical Behavior  
+  [https://en.wikipedia.org/wiki/Calcite](https://en.wikipedia.org/wiki/Calcite)  
+• GemSociety Calcite Optical Data  
+  [https://www.gemsociety.org/article/calcite/](https://www.gemsociety.org/article/calcite/)
+
+### Gypsum / Alabaster (Diffuse Calibration Medium)
+• Gypsum (Alabaster variant) – Crystal Structure, RI  
+  [https://en.wikipedia.org/wiki/Gypsum](https://en.wikipedia.org/wiki/Gypsum)  
+• Gemstone Optical Constants Table (Gypsum)  
+  [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
+
+### General Optical References
+• Refractive Index & Double Refraction Fundamentals  
+  [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)  
+• Refractometry Standards (589 nm Sodium D-line)  
+  [https://wiki.anton-paar.com/au-en/basics-of-refractometry/](https://wiki.anton-paar.com/au-en/basics-of-refractometry/)
+  
 ---
 
 </details>
@@ -2230,30 +2337,35 @@ inter-GPU phase     : 0.16 mrad
 
 | # | Codex / README Name | Traditional Name | Biblical Stone (Source) | Accepted Modern Mineral |
 |--:|----------------------|------------------|--------------------------|--------------------------|
-| 1 | **Sardius (Carnelian)** | Sard / Odem | *Ex 28 : 17* · *Rev 21 : 20* | Carnelian (Chalcedony var.) |
-| 2 | **Topaz** | Pitdah | *Ex 28 : 17* | Topaz (Al₂SiO₄(OH,F)₂) |
-| 3 | **Chalcedony** | — | *Rev 21 : 19* | Chalcedony (SiO₂) |
-| 4 | **Emerald (Beryl Green)** | Smaragdus | *Ex 28 : 18* | Green Beryl (Be₃Al₂Si₆O₁₈ + Cr) |
-| 5 | **Sardonyx** | Onyx Layered | *Rev 21 : 20* | Banded Onyx (Chalcedony var.) |
-| 6 | **Chrysolite (Peridot)** | Tarshish | *Ex 28 : 20* · *Rev 21 : 20* | Olivine (Mg,Fe)₂SiO₄ |
-| 7 | **Beryl (Aqua Blue)** | Sheshan | *Ex 28 : 20* | Aquamarine (Be₃Al₂Si₆O₁₈) |
-| 8 | **Jacinth (Hyacinth)** | Leshem | *Rev 21 : 20* | Zircon (ZrSiO₄) |
-| 9 | **Amethyst** | Achlamah | *Ex 28 : 19* · *Rev 21 : 20* | Amethyst (Quartz var.) |
-| 10 | **Jasper** | Yashpheh | *Ex 28 : 20* · *Rev 21 : 19* | Jasper (Chalcedony aggregate) |
-| 11 | **Sapphire** | Sapir | *Ex 28 : 18* · *Rev 21 : 19* | Corundum (Al₂O₃) |
-| 12 | **Chrysoprase** | Chrysoprasos | *Rev 21 : 20* | Nickel Chalcedony (SiO₂ + Ni) |
+| 1 | **Sardius (Carnelian)** | Sard / Odem | [Ex 28:17](https://www.biblegateway.com/passage/?search=Exodus+28%3A17&version=NASB1995) · [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Carnelian (Chalcedony var.) |
+| 2 | **Topaz** | Pitdah | [Ex 28:17](https://www.biblegateway.com/passage/?search=Exodus+28%3A17&version=NASB1995) | Topaz (Al₂SiO₄(OH,F)₂) |
+| 3 | **Chalcedony** | — | [Rev 21:19](https://www.biblegateway.com/passage/?search=Revelation+21%3A19&version=NASB1995) | Chalcedony (SiO₂) |
+| 4 | **Emerald (Beryl Green)** | Smaragdus | [Ex 28:18](https://www.biblegateway.com/passage/?search=Exodus+28%3A18&version=NASB1995) | Green Beryl (Be₃Al₂Si₆O₁₈ + Cr) |
+| 5 | **Sardonyx** | Onyx Layered | [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Banded Onyx (Chalcedony var.) |
+| 6 | **Chrysolite (Peridot)** | Tarshish | [Ex 28:20](https://www.biblegateway.com/passage/?search=Exodus+28%3A20&version=NASB1995) · [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Olivine (Mg,Fe)₂SiO₄ |
+| 7 | **Beryl (Aqua Blue)** | Sheshan | [Ex 28:20](https://www.biblegateway.com/passage/?search=Exodus+28%3A20&version=NASB1995) | Aquamarine (Be₃Al₂Si₆O₁₈) |
+| 8 | **Jacinth (Hyacinth)** | Leshem | [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Zircon (ZrSiO₄) |
+| 9 | **Amethyst** | Achlamah | [Ex 28:19](https://www.biblegateway.com/passage/?search=Exodus+28%3A19&version=NASB1995) · [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Amethyst (Quartz var.) |
+| 10 | **Jasper** | Yashpheh | [Ex 28:20](https://www.biblegateway.com/passage/?search=Exodus+28%3A20&version=NASB1995) · [Rev 21:19](https://www.biblegateway.com/passage/?search=Revelation+21%3A19&version=NASB1995) | Jasper (Chalcedony aggregate) |
+| 11 | **Sapphire** | Sapir | [Ex 28:18](https://www.biblegateway.com/passage/?search=Exodus+28%3A18&version=NASB1995) · [Rev 21:19](https://www.biblegateway.com/passage/?search=Revelation+21%3A19&version=NASB1995) | Corundum (Al₂O₃) |
+| 12 | **Chrysoprase** | Chrysoprasos | [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Nickel Chalcedony (SiO₂ + Ni) |
 | 13 | **Observer (ΔΩ)** | — | — | Symbolic Meta-Node (Observer State) |
+
 
 > **Purpose:** Establishes historical and mineralogical provenance for the Codex Canon 12 + 1 Gemline, verifying each entry’s biblical and scientific lineage.
 
 ---
 
-### 🪞 Notes
-- The **Codex Twelve + One Gemline** unites symbolic recursion with optical physics.  
-- Gems 1 → 12 mirror the High-Priest’s breastplate / Revelation foundations; Gem 13 (ΔΩ) represents the **Observer** recursing upon itself.  
-- **Diamond** and **Calcite** define empirical optical bounds (isotropic ↔ birefringent).  
-- **Chrysoprase** bridges symbolic and empirical domains (memory buffer).  
-- All values, colors, and symbols verified from `gem_registry.py`, `polyrifringence_engine_v8_10.py`, and both viewer versions.  
+### 🪞 Notes (v3.0 — Canonical & Verified)
+
+- The **Codex Twelve + One Gemline** unifies ancient canonical gemstones with modern optical physics and Codex symbolic recursion.  
+- Gems **1 → 12** correspond directly to the High Priest’s Breastplate (Exodus 28) and the Foundation Stones (Revelation 21).  
+- Gem **13 (ΔΩ)** represents the **Observer Node**, the self-referential recursion anchor that stands outside the physical set.  
+- **Diamond** and **Calcite** serve as empirical calibration extremes:  
+  - Diamond → perfect isotropy  
+  - Calcite → maximal birefringence  
+- **Chrysoprase**, as nickel-bearing chalcedony, sits at the *median birefringence axis*, acting as the symbolic “memory buffer” between crystalline and diffuse coherence states.  
+- All gemological properties are externally verified using reputable mineralogical references (GIA, Mindat, GeoLibreTexts, GemSociety, DiamondBuzz).  
 
 </details>
 
