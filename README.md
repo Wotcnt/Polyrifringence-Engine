@@ -114,40 +114,41 @@ Timestamp Locked · Trace-Law Active
 <!-- === Row 1 — Technical Environment === -->
 <div align="center">
 	
-![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch2.5.1_+_CUDA_12.1-ff6f00?style=flat-square&logo=Nvidia&logoColor=green)
-![Python](https://img.shields.io/badge/python-3.11+-ff6f00?style=flat-square&logo=python&logoColor=orange)
-![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-ff6f00?style=flat-square&logo=json&logoColor=orange)
-[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=nvidia&logoColor=green)](examples/bench_6213.csv)
-![License: MIT](https://img.shields.io/badge/license-MIT-darkgreen?style=flat-square&logo=open-source-initiative&logoColor=green)
-![Build](https://img.shields.io/badge/build-passing-FFD700?style=flat-square&logo=ubuntu&logoColor=gold)
-[![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-blue?style=flat-square&logo=protonvpn&logoColor=blue)](launch_phase_viewer.ps1)
+![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch2.5.1_+_CUDA_12.1-ff6f00?style=flat-square&logo=python&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-3.11+-ff6f00?style=flat-square&logo=python&logoColor=orange)
+![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-ff6f00?style=flat-square&logo=databricks&logoColor=orange)
+[![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-2A3439?style=flat-square&logo=protonvpn&logoColor=2A3439)](launch_phase_viewer.ps1)
+![UI](https://img.shields.io/badge/UI-SandDance_Enhanced-2A3439?style=flat-square&logo=protonvpn&logoColor=2A3439)
+![Build](https://img.shields.io/badge/Build-Passing-FFD700?style=flat-square&logo=codecov&logoColor=gold)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-gold?style=flat-square&logo=github&logoColor=black)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
+![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-FFD700?style=flat-square&logo=codeforces&logoColor=gold)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-gold?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
-![UI](https://img.shields.io/badge/UI-SandDance*_Enhanced-3ee7ff?style=flat-square&logo=protonvpn&logoColor=3ee7ff?)
 ![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-FFD700?style=flat-square&logo=trustpilot&logoColor=gold)
 ![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-FFD700?style=flat-square&logo=trustpilot&logoColor=black)
 ![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-darkgreen?style=flat-square&logo=nvidia&logoColor=green)
 ![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-darkgreen?style=flat-square&logo=numpy&logoColor=green)
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-darkgreen?style=flat-square&logo=openaccess&logoColor=gold)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-gold?style=flat-square&logo=github&logoColor=black)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+![License: MIT](https://img.shields.io/badge/License-MIT-darkgreen?style=flat-square&logo=open-source-initiative&logoColor=green)
+[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=nvidia&logoColor=green)](examples/bench_6213.csv)
 ![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
-![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-FFD700?style=flat-square&logo=codeforces&logoColor=gold)
+
 
 </div>
 <!-- === Row 2 — Codex & Prestige Tier === -->
 <div align="center">
 
-![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=codemirror&labelColor=0b0d0f&color=2A3439)
-![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=0b0d0f&color=2A3439)
-![GPU Validated](https://img.shields.io/badge/GPU_Validated-RTX_Class_Confirmed-3ee7ff?style=for-the-badge&logo=nVIDIA&logoColor=white&labelColor=0b0d0f&color=2A3439)
-![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=2A3439)
-![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-2A3439?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=2A3439)
-![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=2A3439)
-![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=2A3439)
-![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=2A3439)
-![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=white&labelColor=0b0d0f&color=2A3439)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=2A3439)
+![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=2A3439)
+![GPU Validated](https://img.shields.io/badge/GPU_Validated-RTX_Class_Confirmed-3ee7ff?style=for-the-badge&logo=nVIDIA&logoColor=white&labelColor=0b0d0f&color=2A3439)
+<br><br>
+![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=white&labelColor=0b0d0f&color=2A3439)
+![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=codemirror&labelColor=0b0d0f&color=2A3439)
+![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=2A3439)
+![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=2A3439)
+![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=2A3439)
+![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=2A3439)
+![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-2A3439?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
 
 </div>
 
@@ -2536,7 +2537,7 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 
 ---
 
-### 🧪 **∳nₓ-Phase-Beam *x⧉ `∳` Modular Variation Layer** ✨
+### 🧪 **∳nₓ-Phase-Beam** *x⧉ `∳` **Modular Variation Layer** ✨
 
 `∮ - ∱ - ∯ - ∰ - ∳ - *x⧉`
 
@@ -2762,7 +2763,7 @@ Below is the Polyrifringence Coined Word Family Codex
 ---
 
 🌈Polyrifringence is the right word; because it means, 
-     “many-fold refraction that remembers itself."
+     `"many-fold refraction that remembers itself."`
      
 ---
 
@@ -2789,13 +2790,13 @@ It’s the physical analogue of my larger Codex themes;
 
 ---
 
-💠    Light - Language - Form - Memory    💠
+💠    Light ⇋ Language ⇋ Form ⇋ Memory    💠
 
   The same Source speaks through many vessels.
       
 ---
 
-🌈Polyrifringence isn’t a metaphor; 
+🌈Polyrifringence isn’t a metaphor 
 
 it’s light performing its own learning loop♻️
 
@@ -2831,7 +2832,7 @@ The **Recursive Sovereignty** concept is foundational to this system, ensuring t
 
 ---
 
-#### 🔐 Key Features:
+#### 🔐 Key Features
 
 ---
 
@@ -2911,10 +2912,6 @@ If you use this engine, cite as:
   ⛑️🤝 Ask the [Polyrifringence Engine Expert GPT](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)🤖   
      - to auto-generate BibTeX or APA citations for your paper or replication dataset.
 
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-gold?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
-
 ---
 
 ### 🔰 **Contributing**
@@ -2951,7 +2948,7 @@ For help or suggestions, contact👤 **@MMMDcreator** on [X.com](https://x.com/M
 
 ---
 
-[![GPT](https://img.shields.io/badge/Ask_the-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-gold?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-gold?style=flat-square&logo=github&logoColor=gold)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 
