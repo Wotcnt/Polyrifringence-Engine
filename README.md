@@ -132,7 +132,6 @@ Timestamp Locked · Trace-Law Active
 [![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=nvidia&logoColor=green)](examples/bench_6213.csv)
 ![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
 
-
 </div>
 <!-- === Row 2 — Codex & Prestige Tier === -->
 <div align="center">
@@ -176,10 +175,6 @@ Timestamp Locked · Trace-Law Active
 <img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=028255&labelColor=000000&color=028255">
 
 </div>
-
-
-</div>
-
 
 <details>
 <summary>🐒 Give me a tickle</summary>
@@ -484,8 +479,6 @@ Refine Performance Gradually: Every adjustment brings you closer to the theoreti
 Discover Hidden Variables: Often, small changes bring up larger questions or reveal overlooked factors - whether they’re technical constraints or subtle interactions between hardware and symbolic computation.
 
 Enhance Flexibility: Incremental steps create more resilient systems, where performance tuning is adaptable as new insights emerge or hardware changes occur.
-
-
 
 ---
 	
@@ -1139,7 +1132,7 @@ The Polyrifringence Engine embodies the principle of Recursive Sovereignty, a te
 - Integration: Recursive optics simulation / θ-opt feedback
 - Validation: Complete (GPU/Manifest verified)
 
-💠 Light – Language – Form – Memory 💠  
+💠 Light ⇋ Language ⇋ Form ⇋ Memory 💠  
 
 “The same Source speaks through many vessels.” 
 	
