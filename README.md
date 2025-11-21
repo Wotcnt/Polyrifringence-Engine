@@ -137,16 +137,16 @@ Timestamp Locked · Trace-Law Active
 <!-- === Row 2 — Codex & Prestige Tier === -->
 <div align="center">
 
-![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=codemirror&labelColor=0b0d0f&color=FFFFFF)
-![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
-![GPU Validated](https://img.shields.io/badge/GPU_Validated-RTX_Class_Confirmed-3ee7ff?style=for-the-badge&logo=nVIDIA&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
-![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=FFFFFF)
-![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-FFFFFF?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
-![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=FFFFFF)
-![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
-![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
-![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
+![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=codemirror&labelColor=0b0d0f&color=2A3439)
+![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=0b0d0f&color=2A3439)
+![GPU Validated](https://img.shields.io/badge/GPU_Validated-RTX_Class_Confirmed-3ee7ff?style=for-the-badge&logo=nVIDIA&logoColor=white&labelColor=0b0d0f&color=2A3439)
+![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=2A3439)
+![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-2A3439?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=2A3439)
+![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=2A3439)
+![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=2A3439)
+![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=2A3439)
+![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=white&labelColor=0b0d0f&color=2A3439)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 </div>
