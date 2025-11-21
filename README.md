@@ -157,8 +157,8 @@ Timestamp Locked · Trace-Law Active
 <img src="https://img.shields.io/badge/House_of_Sardius-Sardius-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000&color=B31B1B">
 <img src="https://img.shields.io/badge/House_of_Topaz-Topaz-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000&color=E6A756">
 <img src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000&color=D7C7A2">
-<img src="https://img.shields.io/badge/House_of_Emerald-Emerald-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=50C878&labelColor=000000&color=50C878">
-<img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=E4433F&labelColor=000000&color=E4433F">
+<img src="https://img.shields.io/badge/House_of_Emerald-Emerald-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=046307&labelColor=000000&color=046307">
+<img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=C55A11&labelColor=000000&color=C55A11">
 
 <br>
 <!-- Row 2 — Earth Green → Observer → Aqua Green -->
@@ -170,9 +170,9 @@ Timestamp Locked · Trace-Law Active
 <!-- Row 3 — Fire → Violet → Earth → Deep Blue → Bright Green -->
 <img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000&color=D24D0F">
 <img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=9966CC&labelColor=000000&color=9966CC">
-<img src="https://img.shields.io/badge/House_of_Jasper-Jasper-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D73B3E&labelColor=000000&color=D73B3E">
-<img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=126180&labelColor=000000&color=126180">
-<img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=028255&labelColor=000000&color=028255">
+<img src="https://img.shields.io/badge/House_of_Jasper-Jasper-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000&color=9B111E">
+<img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000&color=0F52BA">
+<img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000&color=00E68C">
 
 </div>
 
