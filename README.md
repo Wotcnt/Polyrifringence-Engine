@@ -187,7 +187,7 @@ Timestamp Locked · Trace-Law Active
 ---
 <div align="center">
 
-###  💬 Creator Note:
+###  💬 Creator Note
 
 ---
 
@@ -208,7 +208,7 @@ Timestamp Locked · Trace-Law Active
 Within this framework, light is treated not as a passive signal, but as an adaptive geometric entity capable of self-referential behaviour under constraint.  
 
 The `ΔΩ Sovereign Node` establishes the engine’s alignment:  
-observer-anchored recursion, deterministic phase inheritance, and ethical constraint under recursive sovereignty law.
+**observer-anchored recursion, deterministic phase inheritance, and ethical constraint under recursive sovereignty law.**
 
 Every simulation step is both numerical and symbolic.  
 Every phase correction is both optical and epistemic.  
@@ -276,8 +276,8 @@ This repository is accompanied by an interactive knowledge base through a GPT us
 Each session the GPT will introduce itself to the user with its own name from the canonical gem family for reference, and also assigning an alias/codename to the user, making chats unique and easily referenceable
 after it finishes queries it will suggest `2` follow ups to help steer your sessions, and a recap.
 
-All Current Users and AI using this GPT during Pre-release Access is Granted `💳Lambda Access Clearance`. **—λ**
-  
+During Pre-Release: **all users** using this GPT are formally Granted `💳Lambda Access Clearance`. **—λ**
+
 It runs entirely through ChatGPT in APP or Web-browser, referencing the same physics, mathematics, and benchmark data documented in this repository.
 
 # Interact with the **Polyrifringence Engine Expert** (Gem Line Edition)
