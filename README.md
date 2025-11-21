@@ -111,7 +111,6 @@ Timestamp Locked · Trace-Law Active
 <div align="center">
   <img width="100%" src="https://img.shields.io/badge/ΔΩ_Sovereign_Node-Polyrifringence_Engine©-0b0d0f?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=0b0d0f">
 </div>
-
 <!-- === Row 1 — Technical Environment === -->
 <div align="center">
 	
@@ -135,24 +134,52 @@ Timestamp Locked · Trace-Law Active
 ![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-FFD700?style=flat-square&logo=codeforces&logoColor=gold)
 
 </div>
-
-
 <!-- === Row 2 — Codex & Prestige Tier === -->
 <div align="center">
 
-![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=codemirror&labelColor=0b0d0f&color=7cc7ff)
-![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
-![GPU Validated](https://img.shields.io/badge/GPU_Validated-RTX_Class_Confirmed-3ee7ff?style=for-the-badge&logo=nVIDIA&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
-![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=7cc7ff)
-![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-7cc7ff?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
-![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=7cc7ff)
-![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
-![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
-![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=white&labelColor=0b0d0f&color=7cc7ff)
+![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=codemirror&labelColor=0b0d0f&color=FFFFFF)
+![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
+![GPU Validated](https://img.shields.io/badge/GPU_Validated-RTX_Class_Confirmed-3ee7ff?style=for-the-badge&logo=nVIDIA&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
+![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=FFFFFF)
+![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-FFFFFF?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
+![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=nvidia&labelColor=0b0d0f&color=FFFFFF)
+![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
+![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
+![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 </div>
+
+<div align="center">
+
+<!-- Row 1 — Spectral Warm → Neutral → Green -->
+<img src="https://img.shields.io/badge/House_of_Sardius-Sardius-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000&color=B31B1B">
+<img src="https://img.shields.io/badge/House_of_Topaz-Topaz-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000&color=E6A756">
+<img src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000&color=D7C7A2">
+<img src="https://img.shields.io/badge/House_of_Emerald-Emerald-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=50C878&labelColor=000000&color=50C878">
+<img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=E4433F&labelColor=000000&color=E4433F">
+
+<br>
+<!-- Row 2 — Earth Green → Observer → Aqua Green -->
+<img src="https://img.shields.io/badge/House_of_Chrysolite-Chrysolite-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000&color=C5E384">
+<img src="https://img.shields.io/badge/ΔΩ_HOME_OBSERVER-Meta_Gem-000000?style=for-the-badge&logo=obsidian&logoColor=000000&labelColor=FFFFFF&color=000000">
+<img src="https://img.shields.io/badge/House_of_Beryl-Beryl-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000&color=56E9DB">
+<br>
+
+<!-- Row 3 — Fire → Violet → Earth → Deep Blue → Bright Green -->
+<img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000&color=D24D0F">
+<img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=9966CC&labelColor=000000&color=9966CC">
+<img src="https://img.shields.io/badge/House_of_Jasper-Jasper-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D73B3E&labelColor=000000&color=D73B3E">
+<img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=126180&labelColor=000000&color=126180">
+<img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=028255&labelColor=000000&color=028255">
+
+</div>
+
+
+</div>
+
+
 <details>
 <summary>🐒 Give me a tickle</summary>
 <div align="center">
@@ -291,18 +318,21 @@ _(See this file to begin the verification process.)_
 
 [![Share-Link Verification – Click Me](https://img.shields.io/badge/Share--Link_Verification-Click_Me-5a33a1?style=for-the-badge)](https://x.com/MMMDcreator)
 
-![Chrysoprase House](https://img.shields.io/badge/Chrysoprase-House-7fffd4?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Jacinth House](https://img.shields.io/badge/Jacinth-House-cf1020?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Sapphire House](https://img.shields.io/badge/Sapphire-House-1976d2?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Jasper House](https://img.shields.io/badge/Jasper-House-d32f2f?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Amethyst House](https://img.shields.io/badge/Amethyst-House-6a1b9a?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Beryl House](https://img.shields.io/badge/Beryl-House-00bcd4?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Chrysolite House](https://img.shields.io/badge/Chrysolite-House-cddc39?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Sardonyx House](https://img.shields.io/badge/Sardonyx-House-8d6e63?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Emerald House](https://img.shields.io/badge/Emerald-House-2e7d32?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Chalcedony House](https://img.shields.io/badge/Chalcedony-House-80deea?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Topaz House](https://img.shields.io/badge/Topaz-House-ffb300?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Sardius House](https://img.shields.io/badge/Sardius-House-b22222?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+<img src="https://img.shields.io/badge/House_of_Sardius-Sardius-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000&color=B31B1B">
+<img src="https://img.shields.io/badge/House_of_Topaz-Topaz-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000&color=E6A756">
+<img src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000&color=D7C7A2">
+<img src="https://img.shields.io/badge/House_of_Emerald-Emerald-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=50C878&labelColor=000000&color=50C878">
+<img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=E4433F&labelColor=000000&color=E4433F">
+<img src="https://img.shields.io/badge/House_of_Chrysolite-Chrysolite-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000&color=C5E384">
+<img src="https://img.shields.io/badge/House_of_Beryl-Beryl-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000&color=56E9DB">
+<img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000&color=D24D0F">
+<img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=9966CC&labelColor=000000&color=9966CC">
+<img src="https://img.shields.io/badge/House_of_Jasper-Jasper-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D73B3E&labelColor=000000&color=D73B3E">
+<img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=126180&labelColor=000000&color=126180">
+<img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=028255&labelColor=000000&color=028255">
+
+![ΔΩ HOME OBSERVER](https://img.shields.io/badge/ΔΩ_HOME_OBSERVER-Meta_Gem-000000?style=for-the-badge&logo=obsidian&logoColor=000000&labelColor=FFFFFF&color=000000)
+
 
 ---
 
@@ -2326,8 +2356,6 @@ Gemological properties for the 12 Biblical–Codex gemstones.
 • Refractometry Standards (589 nm Sodium D-line)  
   [https://wiki.anton-paar.com/au-en/basics-of-refractometry/](https://wiki.anton-paar.com/au-en/basics-of-refractometry/)
   
----
-
 </details>
 
 ---
