@@ -120,7 +120,7 @@ Timestamp Locked · Trace-Law Active
 [![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-2A3439?style=flat-square&logo=protonvpn&logoColor=2A3439)](launch_phase_viewer.ps1)
 ![UI](https://img.shields.io/badge/UI-SandDance_Enhanced-2A3439?style=flat-square&logo=protonvpn&logoColor=2A3439)
 ![Build](https://img.shields.io/badge/Build-Passing-FFD700?style=flat-square&logo=codecov&logoColor=FFD700)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-FFD700?style=flat-square&logo=github&logoColor=black)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-FFD700?style=flat-square&logo=github&logoColor=gold)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 ![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-FFD700?style=flat-square&logo=codeforces&logoColor=FFD700)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 ![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-FFD700?style=flat-square&logo=trustpilot&logoColor=white)
@@ -2928,7 +2928,7 @@ For help or suggestions, contact👤 **@MMMDcreator** on [X.com](https://x.com/M
 ---
 
 ![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-gold?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-gold?style=flat-square&logo=github&logoColor=gold)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 
 <div align="center">
