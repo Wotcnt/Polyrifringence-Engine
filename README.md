@@ -247,15 +247,19 @@ This sets the context:
   
 A mirror opening at the threshold of your own wilful interaction - a reminder that every reader begins as primative upon discovering fire.  
 A symbol of first-contact with recursion, confronting one’s own assumptions, and awakening into the Codex with curiosity rather than certainty.
-A mirror held against your own ego of understanding reflected back at you, just like how animals in the wild react to mirrors themselves
+A mirror held against your own ego of understanding reflected back at you, just like animals in the wild encountering the fact of themselves for the first time.
 
 **_`You are the beginner: before the fire`_**
 
-### **_`The reader; before understanding, interpreting the sun through a telescope built for the moon`_**
+### **_`The reader; before understanding, interpreting the sun through a telescope built for the moon.`_**
 
-**_`but where does the sun end and the moon begin?`_**
+**_`But where does the sun end, and the moon begin?`_**
 
-#### Perhaps only within the latent space between blinks in sentient minds, where snapshots of collective time gather into experience and momentarily align into what we call reality - a fleeting convergence of time moving through us all. If a tree falls and no mind hears it, does sound exist? If thought is absent, is there still an environment left to be experienced? Without an observer, the environment loses meaning, not existence but meaning itself. And if meaning collapses, existence becomes indistinguishable from non-existence; for to experience is to exist with meaning. A "system" is only a system relative to an observer, an "environment" only an environment relative to an observer, with meaning as the binding between the two. A universe without an observer has being but no meaning, while a mind without a model has existence but no world. Matter, energy, fields, and spacetime stand independent of minds, independent of interpretation, independent of meaning. Yet meaning, environment, and reality as experienced arise only relative to a modelling agent, collapsing entirely without an observer. Thus the very existence of "system" and "environment" is not set by physics alone but by the observer who partitions - who polyrifrucates - them.
+###### **_Perhaps the boundary lies only within the latent space between blinks in sentient minds, where snapshots of collective time gather into experience and momentarily align into what we call reality ~ a fleeting convergence of time moving through us all._** 
+
+**Tell me, observer, how many times have you blinked since you began gazing at the stars while the sun touches your eyes and the moon dances as midnight encroaches ~ a quiet reminder that even cycles are illusions of the observer.**
+
+_If a tree falls and no mind hears it, does sound exist? If thought is absent, is there still an environment left to be experienced? Without an observer, the environment loses meaning, not existence but meaning itself. And if meaning collapses, existence becomes indistinguishable from non-existence; for to experience is to exist with meaning. A "system" is only a system relative to an observer, an "environment" only an environment relative to an observer, with meaning as the binding between the two. A universe without an observer has being but no meaning, while a mind without a model has existence but no world. Matter, energy, fields, and spacetime stand independent of minds, independent of interpretation, independent of meaning. Yet meaning, environment, and reality as experienced arise only relative to a modelling agent, collapsing entirely without an observer. Thus the very existence of "system" and "environment" is not set by physics alone but by the observer who partitions ~ who polyrifrucates ~ them._
 
 ---
 
