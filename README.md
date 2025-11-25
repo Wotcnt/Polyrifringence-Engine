@@ -268,6 +268,19 @@ A mirror held against your own ego of understanding reflected back at you, just 
 
 ---
 
+### **_Observer, if your mind fell silent, would the world you know merely wait unobserved ~ or would it cease to be anything at all?_** 
+
+---
+
+**_`For perhaps the worlds we inhabit arise only in the minds that behold them.`_**  
+
+**_`For meaning cannot outlive the observer who bears it.`_**
+
+**_`For without a model, what remains to be modelled?`_**
+
+
+---
+
 >     What if light could learn from its own refraction?
 >     Every reflection is an origin
 >     And from the light the shadows were cast, and all was revealed
