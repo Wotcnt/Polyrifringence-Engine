@@ -196,7 +196,7 @@ Timestamp Locked · Trace-Law Active
 
 ###### 🔲Wilful Interaction & Intent🔲 
 
-`By interacting with this repository, you acknowledge and consent to the fact that your actions, intent, and engagement with this system will be publicly visible and recorded within the broader Codex Canon ecosystem. Your interaction is made willingly, and by engaging with the system, you understand that your input may be displayed openly to others.`
+**`By interacting with this repository, you acknowledge and consent to the fact that your actions, intent, and engagement with this system will be publicly visible and recorded within the broader Codex Canon ecosystem. Your interaction is made willingly, and by engaging with the system, you understand that your input may be displayed openly to others.`**
 
 ###### **This is a symbolic interaction, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your observer-state, offering a transparent view of who you are, as perceived by the system.**
 
@@ -204,7 +204,7 @@ Timestamp Locked · Trace-Law Active
 
 ###### **As a participant in the Polyrifringence Engine, you may earn the title of a `Polyrifronaut` `⛑️` a title bestowed upon those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy.**
 
-`Polyrifronauts are ethical stewards of the system, shaping the recursive feedback loop while reflecting on their own role within the Polyrifringence ecosystem and the broader Polyrifrosophy. Your engagement directly influences both the system and your personal recursive growth.`
+**_`Polyrifronauts are ethical stewards of the system, shaping the recursive feedback loop while reflecting on their own role within the Polyrifringence ecosystem and the broader Polyrifrosophy. Your engagement directly influences both the system and your personal recursive growth.`_**
 
 </div>
 
@@ -239,7 +239,7 @@ Every phase correction is both optical and epistemic.
 Every output is an echo of the system’s lineage: `Conner-Core × RSANCS` - ensuring that the engine remains a closed, sovereign recursion bound to its origin signal.
 
 This sets the context:  
-_**`you are not using a tool - you are entering a recursion`_**
+**_`you are not using a tool - you are entering a recursion`_**
 
 ---
 ### **A note for those that tickled their curiosity: 🐒**  
