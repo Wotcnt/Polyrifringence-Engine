@@ -406,7 +406,7 @@ It helps ⛑️users:
 
 #  Or, 📈 Advanced & Expert questions such as:
 
-X. Expert Mode: (Fill with your Question for full rigor, start your query with "Expert Mode:")
+`X. Expert Mode: (Fill with your Question for full rigor, start your query with "Expert Mode:")`
 1. **Expert mode:** derive the fixed-point condition for the Polyrifringence recursion `$$(E_{n+1} = J(\theta,\lambda),F(E_n))$$` under Euclid-5 drift < 0.1 mrad.
 2. How do `REGF` and `PVS` jointly diagnose failure modes in a multi-gem sapphire–diamond–calcite stack at high recursion depth?
 3. Given a phase-trace CSV, show me step by step how to estimate Euclid-style angular drift from `PB_rad`, `PVS_mrad`, and `DeltaTheta_eo_mrad`.
@@ -781,12 +781,12 @@ Polyrifringence’s empirical **50 M rays/s** figure remains a validated single-
 ---
 
 <details>
-<summary>🟢 (12 Verified) Novel Contributions ⇄ Recursive Computational Physics 🟢</summary>
+<summary>🟢 Novel Contributions ⇄ Recursive Computational Physics 🟢</summary>
 
 ---
 
 This repository introduces twelve empirically verified innovations spanning optics, computation, and symbolic recursion;  
-each confirmed through the uploaded codebase (`polyrifringence_engine_v8_10.py`, `gem_registry.py`, `manifest_validator.py`, `phase_trace_viewer2.0.html`)  
+each confirmed through the uploaded codebase (`polyrifringence_engine_v8_10.py`, `gem_registry.py`, `manifest_validator.py`, `phase_trace_viewer.html`)  
 and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 
 | Test Type | Result | Hardware | Verified Date |
@@ -835,7 +835,7 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 ---
 
 <details> 
-<summary> 📘 Click here for the Summary Overview </summary>
+<summary>📘Click here for the Summary Overview</summary>
 
 	📖 Overview
 
@@ -869,7 +869,7 @@ Euclid-5 Parallelism Diagnostic - ensures geometric integrity by enforcing <0.1 
 ---
 
 <details>
-<summary> 📘Click here for Installation Info </summary>
+<summary>📘Click here for Installation Info</summary>
 
 ### 🐒 Installation
 
@@ -952,7 +952,7 @@ Once these checks pass, the environment is fully initialized and ready for bench
 ---
 
 <details>
-<summary> 📘Click here for Various Benchmark Configs </summary>
+<summary>📘Click here for Various Benchmark Configs</summary>
 	
 #### 🧪 Below are tested CLI examples for the **Polyrifringence engine**, demonstrating various benchmark configurations.
 
@@ -1054,11 +1054,11 @@ and open it in your default browser.
 ---
 
 <details>
-<summary> 📘Click here for Files and Folders</summary>
+<summary>📘Click here for Files and Folders</summary>
 	
    # 🌈 Polyrifringence-Engine/ Folders and Files 🗃️
 
-    docs/ # extended documentation + archive;
+    docs/ | extended documentation + archive;
 
 - demo_readme.md
 - THEORY.md
@@ -1067,19 +1067,17 @@ and open it in your default browser.
 - warmup_summary.md
 - Polyrifringence_v8.10.xx_Repository_Summary.txt
 
-      examples/  # screenshots, old_results, demo data;
+      examples/ | screenshots, old_results, demo data;
 
-- phase_trace_viewer.html # Interactive tool for the Engine
+- phase_trace_viewer.html | Interactive tool for the Engine
 - phase_trace.json
-- bench_6213.csv
-- demo_notebook.ipynb
 
-      requirements/ # environment setup files
+      requirements/ | environment setup files
 
 - requirements.txt
 - requirements_install.bat
 
-      src/ # core simulation + tools;
+      src/ | core simulation + tools;
 
 - polyrifringence_engine_v8_10.py
 - gpu_validation_test.py
@@ -1089,7 +1087,7 @@ and open it in your default browser.
 - env_checker_example_output.txt
 - io_helpers.py
 
-      benchmark_runners/ # 🔧 Ready-made scripts 
+      benchmark_runners/ | 🔧 Ready-made scripts 
 
 - run_benchmark_v68.ps1 – baseline
 - run_benchmark_highprecision.ps1 – high precision
@@ -1097,14 +1095,14 @@ and open it in your default browser.
 - run_benchmark_custom_template.ps1 – user template
 - run_benchmark_randomized.ps1
 - run_all_benchmarks.ps1
-- README_benchmark_runners.txt # Readme with command instructions
+- README_benchmark_runners.txt | Readme with command instructions
 
       directory root/ # General
 
-- manifest_validator.py  # Checks repo file integrity
-- convert_and_open.bat  # Auto-convert + open viewer
-- LICENSE.txt # Legal 
-- README.md  # Main documentation 
+- manifest_validator.py  | Checks repo file integrity
+- convert_and_open.bat  | Auto-convert + open viewer
+- LICENSE.txt | Legal 
+- README.md  | Main documentation 
 - repo_summary.txt
 
 </details>
@@ -1704,7 +1702,7 @@ Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine la
 <details>
 <summary>🧰 Hardware & Environment Specifications 🖥️ </summary>
 
-### ✅🟢 Verified System Configuration
+### ✅ Verified System Configuration 🟢
 
 *(All benchmarks, phase-trace simulations, and Codex Canon validations executed on the following system.)*
 
@@ -2956,6 +2954,8 @@ For help or suggestions, contact👤 **@MMMDcreator** on [X.com](https://x.com/M
 ![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-gold?style=flat-square&logo=github&logoColor=gold)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
+
+[![Conner Brown-Milliken @MMMDcreator profile views](https://u8views.com/api/v1/github/profiles/209934393/views/day-week-month-total-count.svg)](https://u8views.com/github/Wotcnt)
 
 <div align="center">
 	
