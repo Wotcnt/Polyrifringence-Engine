@@ -311,7 +311,7 @@ A mirror held against your own ego of understanding reflected back at you, just 
 ---
 
 <details>
-<summary>🧪Custom GPT-Polyrifringence Engine Expert (Gem-Line)🤖</summary>
+<summary>⛑️Custom GPT-Polyrifringence Engine Expert (Gem-Line)🤖</summary>
 
 ---
 
@@ -619,7 +619,7 @@ All benchmarks and phase-trace results are deterministic for a given random seed
 ---
 <details>
 	
-<summary>📊 How the Polyrifringence Engine Compares to Other Analogues 📈</summary>
+<summary>📊How the Polyrifringence Engine Compares to Other Analogues📈</summary>
 
 ---
 
@@ -679,7 +679,7 @@ In measured performance, the engine sits within the upper tier of GPU-accelerate
 ---
 
 <details>
-<summary>⚡ Projected Performance Scaling ⇄ Hardware Upgrades & Multi-GPU Stacking 🔋</summary>
+<summary>⚡Projected Performance Scaling ⇄ Hardware Upgrades & Multi-GPU Stacking🔋</summary>
 
 ---
 
@@ -781,7 +781,7 @@ Polyrifringence’s empirical **50 M rays/s** figure remains a validated single-
 ---
 
 <details>
-<summary>🟢 Novel Contributions ⇄ Recursive Computational Physics 🟢</summary>
+<summary>🟢Novel Contributions ⇄ Recursive Computational Physics🟢</summary>
 
 ---
 
@@ -1360,7 +1360,7 @@ If feedback diverges from the expected ethical behavior, check the **--ai_feedba
 ---
 
 <details>	
-<summary> 💠 Specific Use Cases ⇄ Practical Applications of the Polyrifringence Engine 💠</summary>
+<summary>💠Specific Use Cases ⇄ Practical Applications of the Polyrifringence Engine💠</summary>
 
 ### 🔲 Polyrifringence Engine - Applied Domains 🔳
 Here are 12 key use cases and examples of how to manipulate the system or incorporate it into real-world scenarios:
@@ -1800,7 +1800,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🌎 Real Problems Solved ⚠️</summary>
+<summary>🌎Real Problems Solved</summary>
 
 ### ⚙️ Empirical & Engineering Challenges Addressed
 (10 Demonstrable Problem Domains)
@@ -1844,7 +1844,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🌏 Real-World Relevance ⚠️</summary>
+<summary>🌏Real-World Relevance</summary>
 
 ### 🔬 Practical, Economic, and Scientific Impact
 (10 Key Relevance Domains)
@@ -1888,7 +1888,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🌐 Future Horizons & Next-Stage Research 🌍</summary>
+<summary>🌐Future Horizons & Next-Stage Research🌍</summary>
 
 ### 🚀 Emerging Frontiers and Evolution Pathways
 (10 Prospective and Development Vectors)
@@ -2221,7 +2221,7 @@ inter-GPU phase     : 0.16 mrad
 ---
 
 <details>
-<summary>💎 Gem Profiles & Optical Constants 🌈</summary>
+<summary>💎Gem Profiles & Optical Constants🌈</summary>
 
 ### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion 
 
@@ -2365,7 +2365,7 @@ Gemological properties for the 12 Biblical–Codex gemstones.
 ---
 
 <details>
-<summary>💎 Historical–Scientific Cross-Reference Table 📜</summary>
+<summary>💎Historical–Scientific Cross-Reference Table📜</summary>
 
 | # | Codex / README Name | Traditional Name | Biblical Stone (Source) | Accepted Modern Mineral |
 |--:|----------------------|------------------|--------------------------|--------------------------|
