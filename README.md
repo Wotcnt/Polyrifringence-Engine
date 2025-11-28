@@ -2359,7 +2359,72 @@ Gemological properties for the 12 Biblical–Codex gemstones.
   [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)  
 • Refractometry Standards (589 nm Sodium D-line)  
   [https://wiki.anton-paar.com/au-en/basics-of-refractometry/](https://wiki.anton-paar.com/au-en/basics-of-refractometry/)
-  
+
+---
+
+### 📘 **Minerals.net – Optical Constants Database**
+
+* Quartz: [https://www.minerals.net/mineral/quartz.aspx](https://www.minerals.net/mineral/quartz.aspx)
+* Beryl: [https://www.minerals.net/mineral/beryl.aspx](https://www.minerals.net/mineral/beryl.aspx)
+* Corundum: [https://www.minerals.net/mineral/corundum.aspx](https://www.minerals.net/mineral/corundum.aspx)
+* Zircon: [https://www.minerals.net/mineral/zircon.aspx](https://www.minerals.net/mineral/zircon.aspx)
+* Olivine/Peridot: [https://www.minerals.net/mineral/olivine.aspx](https://www.minerals.net/mineral/olivine.aspx)
+* Calcite: [https://www.minerals.net/mineral/calcite.aspx](https://www.minerals.net/mineral/calcite.aspx)
+* Gypsum: [https://www.minerals.net/mineral/gypsum.aspx](https://www.minerals.net/mineral/gypsum.aspx)
+
+---
+
+### 📗 **Gemdat.org — Gemological Property Database**
+
+* Quartz (all varieties): [https://www.gemdat.org/gem-3325.html](https://www.gemdat.org/gem-3325.html)
+* Beryl: [https://www.gemdat.org/gem-659.html](https://www.gemdat.org/gem-659.html)
+* Topaz: [https://www.gemdat.org/gem-8099.html](https://www.gemdat.org/gem-8099.html)
+* Zircon: [https://www.gemdat.org/gem-8264.html](https://www.gemdat.org/gem-8264.html)
+
+---
+
+### 📕 **WebMineral.com – Mineral Optical Database**
+
+* Quartz: [https://webmineral.com/data/Quartz.shtml](https://webmineral.com/data/Quartz.shtml)
+* Beryl: [https://webmineral.com/data/Beryl.shtml](https://webmineral.com/data/Beryl.shtml)
+* Corundum: [https://webmineral.com/data/Corundum.shtml](https://webmineral.com/data/Corundum.shtml)
+* Topaz: [https://webmineral.com/data/Topaz.shtml](https://webmineral.com/data/Topaz.shtml)
+* Olivine: [https://webmineral.com/data/Olivine.shtml](https://webmineral.com/data/Olivine.shtml)
+* Zircon: [https://webmineral.com/data/Zircon.shtml](https://webmineral.com/data/Zircon.shtml)
+* Calcite: [https://webmineral.com/data/Calcite.shtml](https://webmineral.com/data/Calcite.shtml)
+
+---
+
+#### ➤ **Minerals.net**
+
+* Quartz: [https://www.minerals.net/mineral/quartz.aspx](https://www.minerals.net/mineral/quartz.aspx)
+* Beryl: [https://www.minerals.net/mineral/beryl.aspx](https://www.minerals.net/mineral/beryl.aspx)
+* Corundum: [https://www.minerals.net/mineral/corundum.aspx](https://www.minerals.net/mineral/corundum.aspx)
+* Topaz: [https://www.minerals.net/mineral/topaz.aspx](https://www.minerals.net/mineral/topaz.aspx)
+* Olivine (Peridot): [https://www.minerals.net/mineral/olivine.aspx](https://www.minerals.net/mineral/olivine.aspx)
+* Zircon: [https://www.minerals.net/mineral/zircon.aspx](https://www.minerals.net/mineral/zircon.aspx)
+* Calcite: [https://www.minerals.net/mineral/calcite.aspx](https://www.minerals.net/mineral/calcite.aspx)
+* Gypsum: [https://www.minerals.net/mineral/gypsum.aspx](https://www.minerals.net/mineral/gypsum.aspx)
+
+#### ➤ **Gemdat.org**
+
+* Quartz family: [https://www.gemdat.org/gem-3325.html](https://www.gemdat.org/gem-3325.html)
+* Beryl: [https://www.gemdat.org/gem-659.html](https://www.gemdat.org/gem-659.html)
+* Topaz: [https://www.gemdat.org/gem-8099.html](https://www.gemdat.org/gem-8099.html)
+* Zircon: [https://www.gemdat.org/gem-8264.html](https://www.gemdat.org/gem-8264.html)
+
+#### ➤ **WebMineral**
+
+* [https://webmineral.com/data/Quartz.shtml](https://webmineral.com/data/Quartz.shtml)
+* [https://webmineral.com/data/Beryl.shtml](https://webmineral.com/data/Beryl.shtml)
+* [https://webmineral.com/data/Corundum.shtml](https://webmineral.com/data/Corundum.shtml)
+* [https://webmineral.com/data/Topaz.shtml](https://webmineral.com/data/Topaz.shtml)
+* [https://webmineral.com/data/Olivine.shtml](https://webmineral.com/data/Olivine.shtml)
+* [https://webmineral.com/data/Zircon.shtml](https://webmineral.com/data/Zircon.shtml)
+* [https://webmineral.com/data/Calcite.shtml](https://webmineral.com/data/Calcite.shtml)
+* [https://webmineral.com/data/Gypsum.shtml](https://webmineral.com/data/Gypsum.shtml)
+
+ 
 </details>
 
 ---
