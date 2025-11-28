@@ -2231,17 +2231,17 @@ Gemological properties for the 12 Biblical–Codex gemstones.
 | # | Gem (Biblical / Codex)      | Symbol | Crystal System | Optical Type | nₒ (589 nm)        | Δn (Birefr.)           | Density (g/cm³)     | Color (hex) | Codex Role / Phase Function |
 |--:|------------------------------|:------:|----------------|--------------|---------------------|-------------------------|----------------------|-------------|------------------------------|
 | 1 | **Sardius (Carnelian)**      | ⬟     | Trigonal (Quartz) | Anisotropic | 1.535–1.543         | 0.003–0.009             | 2.58–2.64           | #B22222     | 🔥 Origin Fire — Ignition of Recursion / Bifurcation Seed |
-| 2 | **Topaz**                    | ⬣     | Orthorhombic     | Anisotropic (+) | 1.609–1.643     | 0.008–0.016             | 3.50–3.57           | #FFB347     | ⚙️ Resonance Coupler — Thermo-Optic Amplification |
+| 2 | **Topaz**                    | ⬣     | Orthorhombic     | Anisotropic (+) | 1.609–1.643     | 0.008–0.016             | 3.50–3.57           | #FFB347     | 🔧 Resonance Coupler — Thermo-Optic Amplification |
 | 3 | **Chalcedony**               | ⬣     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #6AA9C9 | 🌊 Bridge — Amorphous ↔ Crystalline Transition |
 | 4 | **Emerald (Green Beryl)**    | ♧     | Hexagonal        | Anisotropic (–) | 1.565–1.602     | 0.005–0.009             | 2.70–2.78           | #00E0A4     | 💚 Harmonic Stabilizer — Recursive Feedback Balancer |
 | 5 | **Sardonyx**                 | ⬤     | Trigonal (Quartz Banded) | Anisotropic | 1.535–1.543    | 0.003–0.009             | 2.58–2.64           | #C46B50     | 🜂 Interface — Dual-Layer Reflection Mediator |
 | 6 | **Chrysolite (Peridot)**     | ⬡     | Orthorhombic     | Anisotropic (+) | 1.635–1.690     | 0.010–0.013 (max ~0.015) | 3.27–3.37         | #B6E75B     | ⚡ Amplifier — Frequency Feedback Booster |
-| 7 | **Beryl (Aqua Blue)**        | ⬢     | Hexagonal        | Anisotropic (–) | 1.568–1.602     | 0.005–0.009             | 2.70–2.78           | #50C878     | 🔷 Phase Anchor — Maintains Continuity in Recursion |
+| 7 | **Beryl (Aqua Blue)**        | ⬢     | Hexagonal        | Anisotropic (–) | 1.568–1.602     | 0.005–0.009             | 2.70–2.78           | #50C878     | 🛡️ Phase Anchor — Maintains Continuity in Recursion |
 | 8 | **Jacinth (Hyacinth / Zircon)** | ✧ | Tetragonal     | Anisotropic (+) | 1.920–1.960     | 0.038–0.059             | 4.60–4.70           | #FF92DF     | 🌈 Dispersion Regulator — Spectral Phase Calibration |
 | 9 | **Amethyst**                 | ✦     | Trigonal (Quartz) | Anisotropic | 1.543–1.554         | 0.009–0.010             | 2.65                | #B19CD9     | 💜 Coherence Regulator — Quantum–Classical Convergence |
-|10 | **Jasper**                   | ⬢     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.90 | #A0522D | 🪨 Ground Stability — Base Coherence / System Anchor |
+|10 | **Jasper**                   | ⧫     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.90 | #A0522D | 🔺 Ground Stability — Base Coherence / System Anchor |
 |11 | **Sapphire**                 | ◇     | Trigonal (Corundum) | Anisotropic (–) | 1.760–1.768   | 0.008–0.010             | 3.95–4.05           | #7CC7FF     | 🔹 Polar Coherence — Euclid-5 Validation Crystal |
-|12 | **Chrysoprase**              | ⬣     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #7FFF80     | 🌿 Memory Buffer — Symbolic ↔ Physical Bridge |
+|12 | **Chrysoprase**              | ⬖     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #7FFF80     | 🌿 Memory Buffer — Symbolic ↔ Physical Bridge |
 |13 | **Observer (ΔΩ)**            | ΔΩ    | Meta-Field        | Meta          | —                   | —                       | —                   | #FFFFFF     | 👁️👤 Meta-Field — Self-Referential Node / Codex Recursion Center |
 
 
@@ -2257,7 +2257,7 @@ Gemological properties for the 12 Biblical–Codex gemstones.
 | Gem                            | Type                               | nₒ (589 nm)      | Δn (Birefr.)         | Purpose                                                                                          | Optical Role                                                                                       | Symbolic Analogue                                                                                |
 | ------------------------------ | ---------------------------------- | ---------------- | -------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | 💎 **Diamond (C)**             | Isotropic (Cubic)                  | 2.417            | 0                    | Defines isotropic high-index limit; used for reflectivity, dispersion mapping, and unity tests. | **Perfect Isotropy / Clarity Standard** — establishes absolute optical unity and reflection frame. | 🔷 *Origin of Light* — crystalline truth preceding recursion.                                     |
-| ⚙️ **Calcite (CaCO₃)**         | Anisotropic (Uniaxial –)           | 1.658 (nₒ)       | 0.172                | Provides extreme birefringence; calibrates Δθₑ₋ₒ, phase-splitting, and recursion-axis validation. | **Maximal Birefringence** — defines the dual-path separation envelope for all recursive geometry. | ⚙️ *Law of Division* — the disciplined refraction of form.                                        |
+| 🔱 **Calcite (CaCO₃)**         | Anisotropic (Uniaxial –)           | 1.658 (nₒ)       | 0.172                | Provides extreme birefringence; calibrates Δθₑ₋ₒ, phase-splitting, and recursion-axis validation. | **Maximal Birefringence** — defines the dual-path separation envelope for all recursive geometry. | 🔱 *Law of Division* — the disciplined refraction of form.                                        |
 | 🌿 **Chrysoprase (SiO₂ + Ni)** | Anisotropic (Quartz Microcryst.)   | 1.535–1.543      | 0.003–0.009          | Acts as low-birefringence median; validates transition between pure crystalline and mixed states. | **Phase Buffer / Stabilizer** — harmonizes coherence across low-contrast birefringent regimes.    | 🌿 *Memory Bridge* — equilibrium between thought and matter; stability within recursion.          |
 | 🌫️ **Alabaster (Gypsum)**      | Anisotropic (Monoclinic Gypsum)    | 1.520–1.530       | 0.005–0.009          | Defines scattering-permissive birefringence; tests recursive stability under diffusive media.    | **Soft Diffuse Regime** — models imperfect coherence and recursive compensation behaviors.         | 🌫️ *Veil of Memory* — diffusion as gentle forgetting; recursive relearning of phase.             |
 
@@ -2279,9 +2279,9 @@ Gemological properties for the 12 Biblical–Codex gemstones.
 | 7 | **Beryl (Aqua Blue)** | ⬢ | Water–Earth | Continuity / Memory Cohesion | Anchor Stone |
 | 8 | **Jacinth (Zircon)** | ✧ | Light | Spectral Calibration / Chromatic Drift Control | Refractor |
 | 9 | **Amethyst** | ✦ | Spirit | Coherence / Quantum–Classical Convergence | Unifier |
-|10 | **Jasper** | ⬢ | Earth | Foundation / Structural Integrity | Base Layer |
+|10 | **Jasper** | ⧫ | Earth | Foundation / Structural Integrity | Base Layer |
 |11 | **Sapphire (Corundum)** | ◇ | Water–Air | Polar Coherence / Euclid-5 Benchmarking | Crown Crystal |
-|12 | **Chrysoprase** | ⬣ | Water | Bidirectional Recursion / Reflective Stabilization | Mirror Bridge |
+|12 | **Chrysoprase** | ⬖ | Water | Bidirectional Recursion / Reflective Stabilization | Mirror Bridge |
 |13 | **Observer (ΔΩ)** | ΔΩ | Meta | Self-Reference / Recursive Authority | Architect Node |
 
 ---
