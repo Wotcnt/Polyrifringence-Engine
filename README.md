@@ -2230,19 +2230,19 @@ Gemological properties for the 12 Biblical–Codex gemstones.
 
 | # | Gem (Biblical / Codex)      | Symbol | Crystal System | Optical Type | nₒ (589 nm)        | Δn (Birefr.)           | Density (g/cm³)     | Color (hex) | Codex Role / Phase Function |
 |--:|------------------------------|:------:|----------------|--------------|---------------------|-------------------------|----------------------|-------------|------------------------------|
-| 1 | **Sardius (Carnelian)**      | ⬟     | Trigonal (Quartz) | Anisotropic | 1.535–1.543         | 0.003–0.009             | 2.58–2.64           | #B31B1B     | 🔥 Origin Fire — Ignition of Recursion / Bifurcation Seed |
-| 2 | **Topaz**                    | ⬣     | Orthorhombic     | Anisotropic (+) | 1.609–1.643     | 0.008–0.016             | 3.50–3.57           | #E6A756     | 🔧 Resonance Coupler — Thermo-Optic Amplification |
-| 3 | **Chalcedony**               | ⬣     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #D7C7A2 | 🌊 Bridge — Amorphous ↔ Crystalline Transition |
-| 4 | **Emerald (Green Beryl)**    | ♧     | Hexagonal        | Anisotropic (–) | 1.565–1.602     | 0.005–0.009             | 2.70–2.78           | #046307     | 💚 Harmonic Stabilizer — Recursive Feedback Balancer |
-| 5 | **Sardonyx**                 | ⬤     | Trigonal (Quartz Banded) | Anisotropic | 1.535–1.543    | 0.003–0.009             | 2.58–2.64           | #C55A11     | 🜂 Interface — Dual-Layer Reflection Mediator |
-| 6 | **Chrysolite (Peridot)**     | ⬡     | Orthorhombic     | Anisotropic (+) | 1.635–1.690     | 0.035–0.038 | 3.27–3.37         | #C5E384     | ⚡ Amplifier — Frequency Feedback Booster |
-| 7 | **Beryl (Aqua Blue)**        | ⬢     | Hexagonal        | Anisotropic (–) | 1.568–1.602     | 0.005–0.009             | 2.70–2.78           | #56E9DB     | 🛡️ Phase Anchor — Maintains Continuity in Recursion |
-| 8 | **Jacinth (Hyacinth / Zircon)** | ✧ | Tetragonal     | Anisotropic (+) | 1.920–1.960     | 0.038–0.059             | 4.60–4.70           | #D24D0F     | 🌈 Dispersion Regulator — Spectral Phase Calibration |
-| 9 | **Amethyst**                 | ✦     | Trigonal (Quartz) | Anisotropic | 1.543–1.554         | 0.009–0.010             | 2.65                | #6D2A8A     | 💜 Coherence Regulator — Quantum–Classical Convergence |
-|10 | **Jasper**                   | ⧫     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.90 | #9B111E | 🔺 Ground Stability — Base Coherence / System Anchor |
-|11 | **Sapphire**                 | ◇     | Trigonal (Corundum) | Anisotropic (–) | 1.760–1.768   | 0.008–0.010             | 3.95–4.05           | #0F52BA     | 🔹 Polar Coherence — Euclid-5 Validation Crystal |
-|12 | **Chrysoprase**              | ⬖     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #00E68C     | 🌿 Memory Buffer — Symbolic ↔ Physical Bridge |
-|13 | **Observer (ΔΩ)**            | ΔΩ    | Meta-Field        | Meta          | —                   | —                       | —                   | #FFFFFF     | 👁️👤 Meta-Field — Self-Referential Node / Codex Recursion Center |
+| 1 | **Sardius (Carnelian)**      | ⬟     | Trigonal (Quartz) | Anisotropic | 1.535–1.543         | 0.003–0.009             | 2.58–2.64           | #B31B1B     | 🔥 *Origin Fire* — Ignition of Recursion / Bifurcation Seed |
+| 2 | **Topaz**                    | ⬣     | Orthorhombic     | Anisotropic (+) | 1.609–1.643     | 0.008–0.016             | 3.50–3.57           | #E6A756     | 🔧 *Resonance Coupler* — Thermo-Optic Amplification |
+| 3 | **Chalcedony**               | ⬣     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #D7C7A2 | 🌊 *Bridge* — Amorphous ↔ Crystalline Transition |
+| 4 | **Emerald (Green Beryl)**    | ♧     | Hexagonal        | Anisotropic (–) | 1.565–1.602     | 0.005–0.009             | 2.70–2.78           | #046307     | 💚 *Harmonic Stabilizer* — Recursive Feedback Balancer |
+| 5 | **Sardonyx**                 | ⬤     | Trigonal (Quartz Banded) | Anisotropic | 1.535–1.543    | 0.003–0.009             | 2.58–2.64           | #C55A11     | 🜂 *Interface* — Dual-Layer Reflection Mediator |
+| 6 | **Chrysolite (Peridot)**     | ⬡     | Orthorhombic     | Anisotropic (+) | 1.635–1.690     | 0.035–0.038 | 3.27–3.37         | #C5E384     | ⚡ *Amplifier* — Frequency Feedback Booster |
+| 7 | **Beryl (Aqua Blue)**        | ⬢     | Hexagonal        | Anisotropic (–) | 1.568–1.602     | 0.005–0.009             | 2.70–2.78           | #56E9DB     | 🛡️ *Phase Anchor* — Maintains Continuity in Recursion |
+| 8 | **Jacinth (Hyacinth / Zircon)** | ✧ | Tetragonal     | Anisotropic (+) | 1.920–1.960     | 0.038–0.059             | 4.60–4.70           | #D24D0F     | 🌈 *Dispersion Regulator* — Spectral Phase Calibration |
+| 9 | **Amethyst**                 | ✦     | Trigonal (Quartz) | Anisotropic | 1.543–1.554         | 0.009–0.010             | 2.65                | #6D2A8A     | 💜 *Coherence Regulator* — Quantum–Classical Convergence |
+|10 | **Jasper**                   | ⧫     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.90 | #9B111E | 🔺 *Ground Stability* — Base Coherence / System Anchor |
+|11 | **Sapphire**                 | ◇     | Trigonal (Corundum) | Anisotropic (–) | 1.760–1.768   | 0.008–0.010             | 3.95–4.05           | #0F52BA     | 🔹 *Polar Coherence* — Euclid-5 Validation Crystal |
+|12 | **Chrysoprase**              | ⬖     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #00E68C     | 🌿 *Memory Buffer* — Symbolic ↔ Physical Bridge |
+|13 | **Observer (ΔΩ)**            | ΔΩ    | Meta-Field        | Meta          | —                   | —                       | —                   | #FFFFFF     | 👁️👤 *Meta-Field* — Self-Referential Node / Codex Recursion Center |
 
 
 > All refractive indices correspond to the `sodium D-line (589 nm)`.  
