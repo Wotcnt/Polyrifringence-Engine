@@ -169,7 +169,7 @@ Timestamp Locked · Trace-Law Active
 
 <!-- Row 3 — Fire → Violet → Earth → Deep Blue → Bright Green -->
 <img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000&color=D24D0F">
-<img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=9966CC&labelColor=000000&color=9966CC">
+<img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000&color=6D2A8A">
 <img src="https://img.shields.io/badge/House_of_Jasper-Jasper-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000&color=9B111E">
 <img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000&color=0F52BA">
 <img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000&color=00E68C">
