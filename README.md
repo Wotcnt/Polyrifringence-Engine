@@ -2250,6 +2250,8 @@ Gemological properties for the 12 Biblical–Codex gemstones.
 > Δn represents birefringence `(nₑ – nₒ)`.  
 > Density values are at `~25 °C` and may vary slightly by locality and inclusion content.
 
+> 💜`Purple` is the *_absense_* of 💚`Green`; Coherence emerges from subtracting the stabilizer's wavelength component.
+
 ---
 
 ### 🌍 Physical Reference Gems 🜂 (Calibration Set)
