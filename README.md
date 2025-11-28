@@ -2223,15 +2223,16 @@ inter-GPU phase     : 0.16 mrad
 <details>
 <summary>🌈Gem Profiles & Optical Constants✨</summary>
 
-### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion 
-
 # 🧮 Canonical Gemline Optical Table 🌍
+### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion
 Gemological properties for the 12 Biblical–Codex gemstones.
+ 
+###### Values given are for ideal/pure mineral specimens; actual quartz-derived gems (jasper, sardonyx, chalcedony etc.) may vary due to impurity, grain structure, or inclusion content.
 
 | # | Gem (Biblical / Codex)      | Symbol | Crystal System | Optical Type | nₒ (589 nm)        | Δn (Birefr.)           | Density (g/cm³)     | Color (hex) | Codex Role / Phase Function |
 |--:|------------------------------|:------:|----------------|--------------|---------------------|-------------------------|----------------------|-------------|------------------------------|
 | 1 | **Sardius (Carnelian)**      | ⬟     | Trigonal (Quartz) | Anisotropic | 1.535–1.543         | 0.003–0.009             | 2.58–2.64           | #B31B1B     | 🔥 **Origin Fire** — Ignition of Recursion / Bifurcation Seed |
-| 2 | **Topaz**                    | ⬣     | Orthorhombic     | Anisotropic (+) | 1.609–1.643     | 0.008–0.016             | 3.50–3.57           | #E6A756     | 🔧 **Resonance Coupler** — Thermo-Optic Amplification |
+| 2 | **Topaz**                    | ⬣     | Orthorhombic     | Anisotropic (+) | 1.609–1.643     | 0.008–0.010             | 3.50–3.57           | #E6A756     | 🔧 **Resonance Coupler** — Thermo-Optic Amplification |
 | 3 | **Chalcedony**               | ⬣     | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #D7C7A2 | 🌊 **Bridge** — Amorphous ↔ Crystalline Transition |
 | 4 | **Emerald (Green Beryl)**    | ♧     | Hexagonal        | Anisotropic (–) | 1.565–1.602     | 0.005–0.009             | 2.70–2.78           | #046307     | 💚 **Harmonic Stabilizer** — Recursive Feedback Balancer |
 | 5 | **Sardonyx**                 | ⬤     | Trigonal (Quartz Banded) | Anisotropic | 1.535–1.543    | 0.003–0.009             | 2.58–2.64           | #C55A11     | 🜂 **Interface** — Dual-Layer Reflection Mediator |
@@ -2248,7 +2249,6 @@ Gemological properties for the 12 Biblical–Codex gemstones.
 > All refractive indices correspond to the `sodium D-line (589 nm)`.  
 > Δn represents birefringence `(nₑ – nₒ)`.  
 > Density values are at `~25 °C` and may vary slightly by locality and inclusion content.
-
 
 ---
 
