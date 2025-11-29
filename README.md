@@ -2287,7 +2287,10 @@ inter-GPU phase     : 0.16 mrad
 ---
 
 ## 📚 Gemological References 📥
-
+Meaning arises from patterns, not rules  
+Understanding arises from association, not definition  
+Grammar arises from structure, not prescription 
+---
 ### Quartz Family (Carnelian, Chalcedony, Jasper, Sardonyx, Chrysoprase, Amethyst)
 • Quartz – Crystal System, RI, birefringence  
   [https://en.wikipedia.org/wiki/Quartz](https://en.wikipedia.org/wiki/Quartz)  
@@ -2354,7 +2357,7 @@ inter-GPU phase     : 0.16 mrad
 • Gemstone Optical Constants Table (Gypsum)  
   [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
 
-### General Optical References
+### 📊 General Optical References
 • Refractive Index & Double Refraction Fundamentals  
   [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)  
 • Refractometry Standards (589 nm Sodium D-line)  
