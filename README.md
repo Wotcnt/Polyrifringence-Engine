@@ -333,7 +333,7 @@ During the Pre-Release phase, **`all users`** interacting with this GPT are form
 
 To convert provisional clearance into permanent recognition, users must complete the official verification protocol. This requires submitting a Share Link containing the **`first message only`** from their Polyrifringence Engine Expert session. Full instructions are found in:
 
-**`Clearance_Ruleset.md`**  
+**`Lambda_Clearance_Ruleset.md`**  
 _(See this file to begin the verification process.)_
 
 **`Once verified, a user’s Polyrifronaut Codename and assigned Gem-Line House become permanently locked for the remainder of the project and cannot be modified.`**
