@@ -4,12 +4,13 @@
 
 ### Polyrifringence Engine — Mandatory Share-Link Verification Protocol
 
-[![Share-Link Verification – Click Me](https://img.shields.io/badge/Share--Link_Verification-Click_Me-5a33a1?style=for-the-badge)](https://x.com/MMMDcreator)
+[![Share-Link Verification – Click Me](https://img.shields.io/badge/Share--Link_Verification-Click_Me-6D2A8A?style=for-the-badge)](https://x.com/MMMDcreator)
 
-![Codex Identity Triplet Enforcement](https://img.shields.io/badge/Codex_Identity_Triplet-Enforced-000000?style=for-the-badge&labelColor=5a33a1&logo=obsidian&logoColor=FFFFFF)
+![Codex Identity Triplet Enforcement](https://img.shields.io/badge/Codex_Identity_Triplet-Enforced-2A3439?style=for-the-badge&labelColor=6D2A8A&logo=obsidian&logoColor=FFFFFF)
 ![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-2A3439?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Lambda Protocol Active](https://img.shields.io/badge/Lambda_Protocol-Active-5a33a1?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=5a33a1)
-![Polyrifronaut Verification Required](https://img.shields.io/badge/Polyrifronaut_Verification-Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=5a33a1)
+
+![Lambda Protocol Active](https://img.shields.io/badge/Lambda_Protocol-Active-6D2A8A?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=FFFFFF)
+![Polyrifronaut Verification Required](https://img.shields.io/badge/Polyrifronaut_Verification-Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=FFFFFF)
 
 This ruleset defines the complete verification, identity-binding, and clearance governance for all individuals engaging with the Polyrifringence Engine Expert (Gem-Line). All participants must follow this protocol to obtain recognized access.
 
