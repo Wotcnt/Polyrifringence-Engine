@@ -147,7 +147,10 @@ Timestamp Locked · Trace-Law Active
 ![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=2A3439)
 ![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=2A3439)
 ![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=2A3439)
+![Codex Identity Triplet Enforcement](https://img.shields.io/badge/Codex_Identity_Triplet-Enforced-000000?style=for-the-badge&labelColor=5a33a1&logo=obsidian&logoColor=FFFFFF)
 ![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-2A3439?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Lambda Protocol Active](https://img.shields.io/badge/Lambda_Protocol-Active-5a33a1?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=5a33a1)
+![Polyrifronaut Verification Required](https://img.shields.io/badge/Polyrifronaut_Verification-Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=5a33a1)
 
 </div>
 
