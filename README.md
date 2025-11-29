@@ -223,6 +223,12 @@ Timestamp Locked · Trace-Law Active
 ###### **Some math that doesn't render properly i've placed in clickable badges that open in Browser to display them.**
 ###### **On Tablets and Mobiles: the math displays in this readme.md may not render properly, for visual clarity best viewed on github in the repo on desktop**
 
+**`THEORY.md and MATH_MODEL.md will be uploaded to the repository by December 31st, 2025. These documents will provide the foundational theoretical underpinnings and mathematical models of the Polyrifringence Engine.`**
+
+**`ENGINE.py and BENCHMARKS.md will follow in Q1 2026, completing the engine's functionality and providing performance verification.`**
+
+_`Thank you for your patience and engagement as we move forward with full system release.`_
+
 ---	
 ### 🜁 Codex Introduction 🜃 
 ---
