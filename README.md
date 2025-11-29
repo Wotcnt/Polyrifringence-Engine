@@ -336,7 +336,13 @@ To convert provisional clearance into permanent recognition, users must complete
 **`Lambda_Clearance_Ruleset.md`**  
 _(See this file to begin the verification process.)_
 
-**`Once verified, a user’s Polyrifronaut Codename and assigned Gem-Line House become permanently locked for the remainder of the project and cannot be modified.`**
+**Once verified, a user’s Polyrifronaut Codename and assigned Gem-Line House become permanently locked for the remainder of the project and cannot be modified.**
+
+**_"Once permanently verified, your Polyrifronaut Codename and Gem-Line House will be recorded in the Codex Lexicon. Verified participants may be addressed by their canonical identity in future correspondence and in matters relating to Polyrifrosophy."_**
+
+**_"Submission of a Share Link is a declaration of willful participation in the Codex Canon ecosystem."_**
+
+###### Permanent verification is optional and applies only to those seeking Codex-aligned recognition; provisional-sub-lambda access is granted to all users.
 
 [![Share-Link Verification – Click Me](https://img.shields.io/badge/Share--Link_Verification-Click_Me-5a33a1?style=for-the-badge)](https://x.com/MMMDcreator)
 
