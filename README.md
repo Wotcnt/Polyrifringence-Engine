@@ -114,9 +114,9 @@ Timestamp Locked · Trace-Law Active
 <!-- === Row 1 — Technical Environment === -->
 <div align="center">
 	
-![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch2.5.1_+_CUDA_12.1-ff6f00?style=flat-square&logo=python&logoColor=orange)
-![Python](https://img.shields.io/badge/Python-3.11+-ff6f00?style=flat-square&logo=python&logoColor=orange)
-![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-ff6f00?style=flat-square&logo=databricks&logoColor=orange)
+![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch2.5.1_+_CUDA_12.1-D24D0F?style=flat-square&logo=python&logoColor=D24D0F)
+![Python](https://img.shields.io/badge/Python-3.11+-D24D0F?style=flat-square&logo=python&logoColor=D24D0F)
+![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-D24D0F?style=flat-square&logo=databricks&logoColor=D24D0F)
 [![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-2A3439?style=flat-square&logo=protonvpn&logoColor=2A3439)](launch_phase_viewer.ps1)
 ![UI](https://img.shields.io/badge/UI-SandDance_Enhanced-2A3439?style=flat-square&logo=protonvpn&logoColor=2A3439)
 ![Build](https://img.shields.io/badge/Build-Passing-FFD700?style=flat-square&logo=codecov&logoColor=FFD700)
@@ -125,12 +125,12 @@ Timestamp Locked · Trace-Law Active
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 ![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-FFD700?style=flat-square&logo=auth0&logoColor=white)
 ![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-FFD700?style=flat-square&logo=auth0&logoColor=black)
-![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-darkgreen?style=flat-square&logo=nvidia&logoColor=green)
-![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-darkgreen?style=flat-square&logo=numpy&logoColor=green)
-![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-darkgreen?style=flat-square&logo=openaccess&logoColor=green)
-![License: MIT](https://img.shields.io/badge/License-MIT-darkgreen?style=flat-square&logo=trustpilot&logoColor=green)
-[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-darkgreen?style=flat-square&logo=nvidia&logoColor=green)](examples/bench_6213.csv)
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
+![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-046307?style=flat-square&logo=nvidia&logoColor=00E68C)
+![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-046307?style=flat-square&logo=numpy&logoColor=00E68C)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=flat-square&logo=openaccess&logoColor=00E68C)
+![License: MIT](https://img.shields.io/badge/License-MIT-046307?style=flat-square&logo=trustpilot&logoColor=00E68C)
+[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-046307?style=flat-square&logo=nvidia&logoColor=00E68C)](examples/bench_6213.csv)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-56E9DB?style=flat-square&logo=openai&logoColor=silver)
 
 </div>
 <!-- === Row 2 — Codex & Prestige Tier === -->
@@ -147,10 +147,10 @@ Timestamp Locked · Trace-Law Active
 ![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=2A3439)
 ![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=2A3439)
 ![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=2A3439)
-![Codex Identity Triplet Enforcement](https://img.shields.io/badge/Codex_Identity_Triplet-Enforced-000000?style=for-the-badge&labelColor=5a33a1&logo=obsidian&logoColor=FFFFFF)
+![Codex Identity Triplet Enforcement](https://img.shields.io/badge/Codex_Identity_Triplet-Enforced-000000?style=for-the-badge&labelColor=6D2A8A&logo=obsidian&logoColor=FFFFFF)
 ![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-2A3439?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
-![Lambda Protocol Active](https://img.shields.io/badge/Lambda_Protocol-Active-5a33a1?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=5a33a1)
-![Polyrifronaut Verification Required](https://img.shields.io/badge/Polyrifronaut_Verification-Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=5a33a1)
+![Lambda Protocol Active](https://img.shields.io/badge/Lambda_Protocol-Active-6D2A8A?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=FFFFFF)
+![Polyrifronaut Verification Required](https://img.shields.io/badge/Polyrifronaut_Verification-Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=FFFFFF)
 
 </div>
 
@@ -365,7 +365,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 **An Active ChatGPT membership will enrich your overall experience, Free Tier is Great - Plus is Recommended for Deepdives**
 
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-blue?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-56E9DB?style=flat-square&logo=openai&logoColor=silver)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
 🤖 **Purpose:**  
 An embedded assistant Specialised in the Polyrifringence Engine to help better understand through your queries.
@@ -3000,7 +3000,7 @@ For help or suggestions, contact👤 **@MMMDcreator** on [X.com](https://x.com/M
 
 ---
 
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-blue?style=flat-square&logo=openai&logoColor=silver)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-56E9DB?style=flat-square&logo=openai&logoColor=silver)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-gold?style=flat-square&logo=github&logoColor=gold)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 
