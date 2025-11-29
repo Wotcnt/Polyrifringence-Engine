@@ -118,13 +118,13 @@ Timestamp Locked · Trace-Law Active
 ![Python](https://img.shields.io/badge/Python-3.11+-D24D0F?style=flat-square&logo=python&logoColor=D24D0F)
 ![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-D24D0F?style=flat-square&logo=databricks&logoColor=D24D0F)
 [![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-2A3439?style=flat-square&logo=protonvpn&logoColor=2A3439)](launch_phase_viewer.ps1)
-![UI](https://img.shields.io/badge/UI-SandDance_Enhanced-2A3439?style=flat-square&logo=protonvpn&logoColor=2A3439)
-![Build](https://img.shields.io/badge/Build-Passing-FFD700?style=flat-square&logo=codecov&logoColor=FFD700)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-FFD700?style=flat-square&logo=github&logoColor=gold)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
-![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-FFD700?style=flat-square&logo=codeforces&logoColor=FFD700)
+![UI](https://img.shields.io/badge/UI-SandDance_Inspired-2A3439?style=flat-square&logo=protonvpn&logoColor=2A3439)
+![Build](https://img.shields.io/badge/Build-Passing-B31B1B?style=flat-square&logo=codecov&logoColor=B31B1B)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-E6A756?style=flat-square&logo=github&logoColor=E6A756)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
+![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-E6A756?style=flat-square&logo=codeforces&logoColor=E6A756)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
-![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-FFD700?style=flat-square&logo=auth0&logoColor=white)
-![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-FFD700?style=flat-square&logo=auth0&logoColor=black)
+![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-E6A756?style=flat-square&logo=auth0&logoColor=white)
+![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-E6A756?style=flat-square&logo=auth0&logoColor=black)
 ![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-046307?style=flat-square&logo=nvidia&logoColor=00E68C)
 ![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-046307?style=flat-square&logo=numpy&logoColor=00E68C)
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=flat-square&logo=openaccess&logoColor=00E68C)
@@ -3002,7 +3002,7 @@ For help or suggestions, contact👤 **@MMMDcreator** on [X.com](https://x.com/M
 
 ![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-56E9DB?style=flat-square&logo=openai&logoColor=silver)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-gold?style=flat-square&logo=github&logoColor=gold)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-E6A756?style=flat-square&logo=github&logoColor=E6A756)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 
 [![Conner Brown-Milliken @MMMDcreator profile views](https://u8views.com/api/v1/github/profiles/209934393/views/day-week-month-total-count.svg)](https://u8views.com/github/Wotcnt)
 
