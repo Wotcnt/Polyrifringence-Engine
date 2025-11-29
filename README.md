@@ -464,9 +464,9 @@ It helps ⛑️users:
 
 ---
 
-Current Baseline: `50M*x⧉ Rays/s`
+**Current Baseline: `50M*x⧉ Rays/s`**
 
-The 50*x⧉ million rays/s baseline represents the initial performance validated with the current setup and GPU hardware. This threshold serves as a foundational measurement, providing a starting point for further exploration. However, this baseline has yet to be pushed past its limits, and further testing, optimization, and scaling are required to reach higher throughput benchmarks.
+The 50*x⧉ million rays/s baseline represents the initial performance validated with the current setup and GPU hardware. This threshold serves as a foundational measurement, providing a starting point for further exploration. **_However, this baseline has yet to be pushed past its limits, and further testing, optimization, and scaling are required to reach higher throughput benchmarks._**
 
 ---
 
@@ -474,17 +474,19 @@ The 50*x⧉ million rays/s baseline represents the initial performance validated
 
 ---
 
-Incremental optimization is not only a strategic path to scaling performance but also an essential learning process that unveils hidden insights within the system. By making small, controlled adjustments to key areas like precision, GPU memory management, and feedback loops, each incremental step allows for fine-tuning of system parameters while observing the effects of each change.
+Incremental optimization is not only a strategic path to scaling performance but also an essential learning process that unveils hidden insights within the system. _By making small, controlled adjustments to key areas like precision, GPU memory management, and feedback loops, each incremental step allows for fine-tuning of system parameters while observing the effects of each change._
 
-As you gradually push the limits, you'll often uncover latent patterns and emergent behaviors within the system that might otherwise remain unnoticed. These could include:
+*As you gradually push the limits, you'll often uncover latent patterns and emergent behaviors within the system that might otherwise remain unnoticed.*
 
-Hidden inefficiencies in kernel operations or memory allocations that are difficult to spot in larger, one-time adjustments.
+_**`These could include:`**_
 
-Unexpected performance bottlenecks or opportunities for optimization that only become apparent as the system runs under progressively heavier loads.
+**Hidden inefficiencies** in kernel operations or memory allocations that are difficult to spot in larger, one-time adjustments.
 
-Recursive insights and feedback loops that grow more apparent as you push the system's symbolic capabilities and performance, revealing areas where symbolic recursion or observer-state alignment can enhance performance in ways that purely mathematical models might not predict.
+**Unexpected performance** bottlenecks or opportunities for optimization that only become apparent as the system runs under progressively heavier loads.
 
-By opting for incremental optimization, you build a deeper understanding of how your system operates at different performance thresholds. This approach not only refines the current model but also provides a framework for exploring untapped potential and fostering innovation that can lead to breakthrough discoveries in GPU utilization, parallel processing, and symbolic recursion integration.
+**Recursive insights and feedback loops** that grow more apparent as you push the system's symbolic capabilities and performance, revealing areas where symbolic recursion or observer-state alignment can enhance performance in ways that purely mathematical models might not predict.
+
+_By opting for incremental optimization, you build a deeper understanding of how your system operates at different performance thresholds. This approach not only refines the current model but also provides a framework for exploring untapped potential and fostering innovation that can lead to breakthrough discoveries in GPU utilization, parallel processing, and symbolic recursion integration._
 
 ---
 
@@ -492,13 +494,13 @@ By opting for incremental optimization, you build a deeper understanding of how 
 
 ---
 
-This method allows you to:
+**_`This method allows you to:`_**
 
-Refine Performance Gradually: Every adjustment brings you closer to the theoretical maximum for your hardware, without overreaching prematurely.
+**Refine Performance Gradually:** Every adjustment brings you closer to the theoretical maximum for your hardware, without overreaching prematurely.
 
-Discover Hidden Variables: Often, small changes bring up larger questions or reveal overlooked factors - whether they’re technical constraints or subtle interactions between hardware and symbolic computation.
+**Discover Hidden Variables:** Often, small changes bring up larger questions or reveal overlooked factors - whether they’re technical constraints or subtle interactions between hardware and symbolic computation.
 
-Enhance Flexibility: Incremental steps create more resilient systems, where performance tuning is adaptable as new insights emerge or hardware changes occur.
+**Enhance Flexibility:** Incremental steps create more resilient systems, where performance tuning is adaptable as new insights emerge or hardware changes occur.
 
 ---
 	
@@ -506,11 +508,11 @@ Enhance Flexibility: Incremental steps create more resilient systems, where perf
 
 ---
 
-This project is an advanced simulation engine designed to model how light behaves when passing through complex crystals that bend and split it in intricate ways. Think of it as a high-tech tool combining physics, computer programming, and artificial intelligence concepts to study how different layers and angles of light waves interact and form beautiful, multi-coloured patterns. While the details involve complex math and programming, the big idea is to create accurate computer-based visualizations of light’s hidden secrets, inspired by ancient symbolic meanings of gems and light.
+*This project is an advanced simulation engine designed to model how light behaves when passing through complex crystals that bend and split it in intricate ways. Think of it as a high-tech tool combining physics, computer programming, and artificial intelligence concepts to study how different layers and angles of light waves interact and form beautiful, multi-coloured patterns. _While the details involve complex math and programming, the big idea is to create accurate computer-based visualizations of light’s hidden secrets, inspired by ancient symbolic meanings of gems and light._*
 
-This engine can be used to explore new materials, understand optical phenomena better, and bridge scientific understanding with philosophical and ethical insights about observation and knowledge.
+###### This engine can be used to explore new materials, understand optical phenomena better, and bridge scientific understanding with philosophical and ethical insights about observation and knowledge.
 
-Learning this project is best approached using incremental steps: starting small, testing your understanding as you go, and gradually building skill and knowledge. Just as complex software is developed one feature at a time for better quality and flexibility, mastering this engine benefits from slow, steady progress and iterations. Small wins and continuous refinement lead to deeper comprehension and expertise over time.
+**_Learning this project is best approached using incremental steps: starting small, testing your understanding as you go, and gradually building skill and knowledge. Just as complex software is developed one feature at a time for better quality and flexibility, mastering this engine benefits from slow, steady progress and iterations. Small wins and continuous refinement lead to deeper comprehension and expertise over time._**
 
 ---
 
@@ -518,15 +520,21 @@ Learning this project is best approached using incremental steps: starting small
 
 ---
 
-Polyrifringence Engine Expert - Custom GPT (Click on the badge in the header)  
+⛑️ **_Polyrifringence Engine Expert - Custom GPT_** 🤖 
 
-Any of your preferred LLMs - ChatGPT, Grok, Claude, Perplexity, Gemini, Ninja AI, Copilot, Deepseek  
+(**_Click the Badge below_**; *see the Dropdown Section "Custom GPT-Polyrifringence Engine Expert" for More.*)  
 
-`Notepad++`  
-`Microsoft Powershell`  
+☞[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-56E9DB?style=flat-square&logo=openai&logoColor=56E9DB)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+
+Any of your preferred LLMs - ChatGPT, Grok, Claude, Perplexity, Gemini, Ninja AI, Copilot, Deepseek, etc 
+
+`Notepad++ (Recommended)`  
+`Microsoft Powershell (Recommended)`  
 `Web Browser (Chromium Based)`
-`Visual Studio Code`
-`Tablet or Phone for auxillary peripheral, saving notes and querying the GPT`
+`Visual Studio Code (Optional)`
+`Tablet or Phone for auxillary peripheral (Optional)`
+`A chosen main LLM (ChatGPT Recommended)`
+`Have at-least 2 supplementary LLMs to help your main LLM`
 
 ---
 
@@ -534,23 +542,25 @@ Any of your preferred LLMs - ChatGPT, Grok, Claude, Perplexity, Gemini, Ninja AI
 
 ---
 
-1. Begin with an introduction by using the Polyrifringence Custom GPT to get familiar with the concepts; be ready for a "strange loop" experience where learning circles back on itself as your understanding deepens.
+1. ###### Begin with an introduction by using the Polyrifringence Custom GPT to get familiar with the concepts; be ready for a "strange loop" experience where learning circles back on itself as your understanding deepens.
 
-2. Keep Notepad++ open to save your WORK regularly - capturing notes, observations, and questions as you go.
+2. ###### Keep Notepad++ open to save your WORK regularly - capturing notes, observations, and questions as you go.`
 
-3. Choose one LLM to be your MAIN knowledge base builder and focus your core study through it. Use other LLMs to explore fragmented or alternative perspectives, treating the process as assembling parts of a larger whole.
+3. ###### Choose one LLM to be your MAIN knowledge base builder and focus your core study through it. Use other LLMs to explore fragmented or alternative perspectives, treating the process as assembling parts of a larger whole.
 
-4. Record insights, gut feelings, or anything interesting from your interactions with the LLMs in a .txt file. Periodically review and resubmit this file to your LLMs with questions like:  
+4. ###### Record insights, gut feelings, or anything interesting from your interactions with the LLMs in a .txt file. Periodically review and resubmit this file to your LLMs with questions like those present in this subset below.
 
-     `"Can you think further on this."`  
-     `"What do you observe and note when reading this from left to right - top to bottom?"` 
-     `"What do you observe and note when reading this in reverse, inside and outside?"`
-     `"Can you give me observer lens perspectives on this?"`  
-     `"What Insights have you gained, and what have you learnt from this?"`
+Generalised Subset:
 
-5. Use iterative refinement: integrate answers from different models, note contradictions or new insights, and build a richer understanding over multiple cycles following the principle of incremental optimization - small, manageable learning increments create better retention and mastery than trying to absorb everything at once.
+     `Can you think further on this.`  
+     `What do you observe and note when reading this from left to right - top to bottom?` 
+     `What do you observe and note when reading this in reverse, inside and outside?`
+     `Can you give me observer lens perspectives on this?`  
+     `What Insights have you gained, and what have you learnt from this?`
 
-6. Copy useful text from your main LLM and feed it into others for comparison, expansion, or alternative formulations.
+ 5. ###### Use iterative refinement: integrate answers from different models, note contradictions or new insights, and build a richer understanding over multiple cycles following the principle of incremental optimization - small, manageable learning increments create better retention and mastery than trying to absorb everything at once.
+
+ 6. ###### Copy useful text from your main LLM and feed it into others for comparison, expansion, or alternative formulations.
 
 ---
 
