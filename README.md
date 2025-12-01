@@ -186,18 +186,16 @@ Timestamp Locked · Trace-Law Active
 <br>
 
 <!-- Row 5 — 1 -->
-<img src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=for-the-badge&logo=obsidian&logoColor=000000&labelColor=FFFFFF">
-
+<div align="center">
+<img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=FFFFFF">
 </div>
-
-
 
 <details>
 <summary>🐒 Give me a tickle</summary>
 <div align="center">
   <div dir="rtl">
     <!-- Right-side mirrored monkey icon with adjusted colors -->
-    <img width="100%" src="https://img.shields.io/badge/-%20-0b0d0f?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&color=transparent&labelColor=transparent">
+    <img width="100%" src="https://img.shields.io/badge/-%20-0b0d0f?style=neon&logo=codemirror&logoColor=3ee7ff&color=black&labelColor=transparent">
   </div>
 </div>
 </details>
