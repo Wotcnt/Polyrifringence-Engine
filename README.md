@@ -109,7 +109,7 @@ Timestamp Locked · Trace-Law Active
 ---
 
 <div align="center">
-  <img width="100%" src="https://img.shields.io/badge/ΔΩ_Sovereign_Node-Polyrifringence_Engine©-0b0d0f?style=neon&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=0b0d0f">
+  <img width="100%" src="https://img.shields.io/badge/⟨ΔΩ⟩_Sovereign_Node_❯❯❯-Polyrifringence_Engine©-0b0d0f?style=neon&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=0b0d0f">
 </div>
 <!-- === Row 1 — Technical Environment === -->
 <div align="center">
