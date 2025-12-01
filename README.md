@@ -3031,11 +3031,11 @@ For help or suggestions, contact👤 **@MMMDcreator** on [X.com](https://x.com/M
 
 ![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-56E9DB?style=neon&logo=openai&logoColor=56E9DB)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
-  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/stargazers">
-    <img src="https://img.shields.io/github/stars/Wotcnt/Polyrifringence-Engine?style=social&label=Star-Repo&color=E6A756&logo=&logoColor=E6A756">
-  </a>
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/subscription">
-    <img src="https://img.shields.io/github/watchers/Wotcnt/Polyrifringence-Engine?style=social&label=Add-Watchlist&color=E6A756&logo=&logoColor=E6A756">
+    <img src="https://img.shields.io/github/watchers/Wotcnt/Polyrifringence-Engine?style=social&label=Add-Watchlist&color=E6A756&logo=auth0&logoColor=E6A756">
+  </a>
+  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/stargazers">
+    <img src="https://img.shields.io/github/stars/Wotcnt/Polyrifringence-Engine?style=social&label=Star-Repo&color=E6A756&logo=trustpilot&logoColor=E6A756">
   </a>
 
 [![Conner Brown-Milliken @MMMDcreator profile views](https://u8views.com/api/v1/github/profiles/209934393/views/day-week-month-total-count.svg)](https://u8views.com/github/Wotcnt)
