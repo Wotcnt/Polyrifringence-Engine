@@ -125,14 +125,16 @@ Timestamp Locked · Trace-Law Active
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 ![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-E6A756?style=neon&logo=auth0&logoColor=white)
 ![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-E6A756?style=neon&logo=auth0&logoColor=black)
-![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-046307?style=neon&logo=nvidia&logoColor=00E68C)
-![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-046307?style=neon&logo=numpy&logoColor=00E68C)
-![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=openaccess&logoColor=00E68C)
-![License: MIT](https://img.shields.io/badge/License-MIT-046307?style=neon&logo=trustpilot&logoColor=00E68C)
-[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-046307?style=neon&logo=nvidia&logoColor=00E68C)](examples/bench_6213.csv)
+![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-046307?style=neon&logo=nvidia&logoColor=D24D0F)
+![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-046307?style=neon&logo=numpy&logoColor=D24D0F)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=openaccess&logoColor=D24D0F)
+![License: MIT](https://img.shields.io/badge/License-MIT-046307?style=neon&logo=trustpilot&logoColor=D24D0F)
+[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-046307?style=neon&logo=nvidia&logoColor=D24D0F)](examples/bench_6213.csv)
 ![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-56E9DB?style=neon&logo=openai&logoColor=56E9DB)
 
 </div>
+
+---
 <!-- === Row 2 — Codex & Prestige Tier === -->
 <div align="center">
 
