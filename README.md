@@ -378,7 +378,9 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 **An Active ChatGPT membership will enrich your overall experience, Free Tier is Great - Plus is Recommended for Deepdives**
 
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-56E9DB?style=neon&logo=openai&logoColor=56E9DB)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+<a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert">
+  <img src="https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-56E9DB?style=neon&logo=openai&logoColor=56E9DB" width="300">
+</a>
 
 🤖 **Purpose:**  
 An embedded assistant Specialised in the Polyrifringence Engine to help better understand through your queries.
@@ -538,7 +540,10 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 (**_Click the Badge below_**; *see the Dropdown Section "Custom GPT-Polyrifringence Engine Expert" for More.*)  
 
-☞[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-56E9DB?style=flat-square&logo=openai&logoColor=56E9DB)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+<a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert">
+  <img src="https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-56E9DB?style=neon&logo=openai&logoColor=56E9DB" width="300">
+</a>
+
 
 Any of your preferred LLMs - ChatGPT, Grok, Claude, Perplexity, Gemini, Ninja AI, Copilot, Deepseek, etc 
 
