@@ -109,46 +109,47 @@ Timestamp Locked · Trace-Law Active
 ---
 
 <div align="center">
-  <img width="100%" src="https://img.shields.io/badge/ΔΩ_Sovereign_Node-Polyrifringence_Engine©-0b0d0f?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=0b0d0f">
+  <img width="100%" src="https://img.shields.io/badge/ΔΩ_Sovereign_Node-Polyrifringence_Engine©-0b0d0f?style=neon&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=0b0d0f">
 </div>
 <!-- === Row 1 — Technical Environment === -->
 <div align="center">
 	
-![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch2.5.1_+_CUDA_12.1-D24D0F?style=flat-square&logo=python&logoColor=D24D0F)
-![Python](https://img.shields.io/badge/Python-3.11+-D24D0F?style=flat-square&logo=python&logoColor=D24D0F)
-![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-D24D0F?style=flat-square&logo=databricks&logoColor=D24D0F)
-[![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-2A3439?style=flat-square&logo=protonvpn&logoColor=2A3439)](launch_phase_viewer.ps1)
-![UI](https://img.shields.io/badge/UI-SandDance_Inspired-2A3439?style=flat-square&logo=protonvpn&logoColor=2A3439)
-![Build](https://img.shields.io/badge/Build-Passing-B31B1B?style=flat-square&logo=codecov&logoColor=B31B1B)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-E6A756?style=flat-square&logo=github&logoColor=E6A756)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
-![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-E6A756?style=flat-square&logo=codeforces&logoColor=E6A756)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
-![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-E6A756?style=flat-square&logo=auth0&logoColor=white)
-![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-E6A756?style=flat-square&logo=auth0&logoColor=black)
-![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-046307?style=flat-square&logo=nvidia&logoColor=00E68C)
-![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-046307?style=flat-square&logo=numpy&logoColor=00E68C)
-![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=flat-square&logo=openaccess&logoColor=00E68C)
-![License: MIT](https://img.shields.io/badge/License-MIT-046307?style=flat-square&logo=trustpilot&logoColor=00E68C)
-[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-046307?style=flat-square&logo=nvidia&logoColor=00E68C)](examples/bench_6213.csv)
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-56E9DB?style=flat-square&logo=openai&logoColor=56E9DB)
+![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch2.5.1_+_CUDA_12.1-D24D0F?style=neon&logo=python&logoColor=D24D0F)
+![Python](https://img.shields.io/badge/Python-3.11+-D24D0F?style=neon&logo=python&logoColor=D24D0F)
+![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-D24D0F?style=neon&logo=databricks&logoColor=D24D0F)
+[![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer.ps1-2A3439?style=neon&logo=protonvpn&logoColor=2A3439)](launch_phase_viewer.ps1)
+![UI](https://img.shields.io/badge/UI-SandDance_Inspired-2A3439?style=neon&logo=protonvpn&logoColor=2A3439)
+![Build](https://img.shields.io/badge/Build-Passing-B31B1B?style=neon&logo=codecov&logoColor=B31B1B)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-E6A756?style=neon&logo=github&logoColor=E6A756)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main) 
+![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-E6A756?style=neon&logo=codeforces&logoColor=E6A756)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
+![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-E6A756?style=neon&logo=auth0&logoColor=white)
+![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-E6A756?style=neon&logo=auth0&logoColor=black)
+![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-50M_rays/s-046307?style=neon&logo=nvidia&logoColor=00E68C)
+![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-046307?style=neon&logo=numpy&logoColor=00E68C)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=openaccess&logoColor=00E68C)
+![License: MIT](https://img.shields.io/badge/License-MIT-046307?style=neon&logo=trustpilot&logoColor=00E68C)
+[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-046307?style=neon&logo=nvidia&logoColor=00E68C)](examples/bench_6213.csv)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-56E9DB?style=neon&logo=openai&logoColor=56E9DB)
 
 </div>
 <!-- === Row 2 — Codex & Prestige Tier === -->
 <div align="center">
 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=&labelColor=0b0d0f&color=2A3439)
-![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=&labelColor=0b0d0f&color=2A3439)
-![GPU Validated](https://img.shields.io/badge/GPU_Validated-RTX_Class_Confirmed-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=2A3439)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=046307)
+![Hybrid Engine](https://img.shields.io/badge/Hybrid-Core+GPU+AI-3ee7ff?style=for-the-badge&logo=&labelColor=0b0d0f&color=046307)
+![Verified Physics Engine](https://img.shields.io/badge/Verified-Physics_Engine-3ee7ff?style=for-the-badge&logo=&labelColor=0b0d0f&color=046307)
+![GPU Validated](https://img.shields.io/badge/GPU_Validated-RTX_Class_Confirmed-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=046307)
+![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=matrix&logoColor=046307&labelColor=0b0d0f&color=046307)
+![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=046307&labelColor=0b0d0f&color=046307)
+![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=046307&labelColor=0b0d0f&color=046307)
+<br></br>
+![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&labelColor=0b0d0f&color=FFFFFF)
+![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=&labelColor=0b0d0f&color=FFFFFF)
+![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
 <br><br>
-![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=2A3439)
-![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=&labelColor=0b0d0f&color=2A3439)
-![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=2A3439)
-![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=2A3439)
-![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-3ee7ff?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0b0d0f&color=2A3439)
-![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-3ee7ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0b0d0f&color=2A3439)
 ![Codex Identity Triplet Enforcement](https://img.shields.io/badge/Codex_Identity_Triplet-Enforced-000000?style=for-the-badge&labelColor=6D2A8A&logo=obsidian&logoColor=FFFFFF)
-![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-2A3439?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-FFFFFF?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
 ![Lambda Protocol Active](https://img.shields.io/badge/Lambda_Protocol-Active-6D2A8A?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=FFFFFF)
 ![Polyrifronaut Verification Required](https://img.shields.io/badge/Polyrifronaut_Verification-Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=FFFFFF)
 
@@ -156,28 +157,40 @@ Timestamp Locked · Trace-Law Active
 
 <div align="center">
 
-<!-- Row 1 — Spectral Warm → Neutral → Green -->
-<img src="https://img.shields.io/badge/House_of_Sardius-Sardius-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000&color=B31B1B">
-<img src="https://img.shields.io/badge/House_of_Topaz-Topaz-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000&color=E6A756">
-<img src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000&color=D7C7A2">
-<img src="https://img.shields.io/badge/House_of_Emerald-Emerald-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=046307&labelColor=000000&color=046307">
-<img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=C55A11&labelColor=000000&color=C55A11">
+<!-- Row 1 — 3 -->
+<img src="https://img.shields.io/badge/House_of_Sardius-Sardius_⬟_❯-B31B1B?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000">
+<img src="https://img.shields.io/badge/House_of_Topaz-Topaz_⬣_❯❯-E6A756?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000">
+<img src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony_⬣_❯❯❯-D7C7A2?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000">
 
 <br>
-<!-- Row 2 — Earth Green → Observer → Aqua Green -->
-<img src="https://img.shields.io/badge/House_of_Chrysolite-Chrysolite-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000&color=C5E384">
-<img src="https://img.shields.io/badge/ΔΩ_HOME_OBSERVER-Meta_Gem-000000?style=for-the-badge&logo=obsidian&logoColor=000000&labelColor=FFFFFF&color=000000">
-<img src="https://img.shields.io/badge/House_of_Beryl-Beryl-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000&color=56E9DB">
+
+<!-- Row 2 — 2 -->
+<img src="https://img.shields.io/badge/House_of_Emerald-Emerald_♧_❯❯❯❯-046307?style=for-the-badge&logo=obsidian&logoColor=046307&labelColor=000000">
+<img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx_⬤_❯❯❯❯❯-C55A11?style=for-the-badge&logo=obsidian&logoColor=C55A11&labelColor=000000">
+
 <br>
 
-<!-- Row 3 — Fire → Violet → Earth → Deep Blue → Bright Green -->
-<img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000&color=D24D0F">
-<img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000&color=6D2A8A">
-<img src="https://img.shields.io/badge/House_of_Jasper-Jasper-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000&color=9B111E">
-<img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000&color=0F52BA">
-<img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000&color=00E68C">
+<!-- Row 3 — 3 -->
+<img src="https://img.shields.io/badge/House_of_Chrysolite-Chrysolite_⬡_❯❯❯❯❯❯-C5E384?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000">
+<img src="https://img.shields.io/badge/House_of_Beryl-Beryl_⬢_❯❯❯❯❯❯❯-56E9DB?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000">
+<img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth_✧_❯❯❯❯❯❯❯❯-D24D0F?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000">
+
+<br>
+
+<!-- Row 4 — 4 -->
+<img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst_✦_❯❯❯❯❯❯❯❯❯-6D2A8A?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000">
+<img src="https://img.shields.io/badge/House_of_Jasper-Jasper_⧫_❯❯❯❯❯❯❯❯❯❯-9B111E?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000">
+<img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire_◇_❯❯❯❯❯❯❯❯❯❯❯-0F52BA?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000">
+<img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase_⬖_❯❯❯❯❯❯❯❯❯❯❯❯-00E68C?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000">
+
+<br>
+
+<!-- Row 5 — 1 -->
+<img src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=for-the-badge&logo=obsidian&logoColor=000000&labelColor=FFFFFF">
 
 </div>
+
+
 
 <details>
 <summary>🐒 Give me a tickle</summary>
@@ -352,9 +365,11 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
 
 ###### **_Permanent verification is optional and applies only to those seeking Codex-aligned recognition; provisional-sub-lambda access is granted to all users._**
 
-[![Share-Link Verification – Click Me](https://img.shields.io/badge/Share--Link_Verification-Click_Me-6D2A8A?style=for-the-badge)](https://x.com/MMMDcreator)
-
-![ΔΩ HOME OBSERVER](https://img.shields.io/badge/ΔΩ_HOME_OBSERVER-Meta_Gem-000000?style=for-the-badge&logo=obsidian&logoColor=000000&labelColor=FFFFFF&color=000000)
+<div align="center">
+  <a href="https://x.com/MMMDcreator">
+    <img width="100%" src="https://img.shields.io/badge/Share--Link_Verification-Click_Me-6D2A8A?style=neon">
+  </a>
+</div>
 
 ---
 
@@ -370,7 +385,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 **An Active ChatGPT membership will enrich your overall experience, Free Tier is Great - Plus is Recommended for Deepdives**
 
-[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-56E9DB?style=flat-square&logo=openai&logoColor=56E9DB)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+[![Run via GPT](https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-56E9DB?style=neon&logo=openai&logoColor=56E9DB)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
 🤖 **Purpose:**  
 An embedded assistant Specialised in the Polyrifringence Engine to help better understand through your queries.
@@ -3015,9 +3030,9 @@ For help or suggestions, contact👤 **@MMMDcreator** on [X.com](https://x.com/M
 
 ---
 
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-56E9DB?style=flat-square&logo=openai&logoColor=56E9DB)
-[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=flat-square&logo=x&logoColor=black)](https://x.com/MMMDcreator)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-E6A756?style=flat-square&logo=github&logoColor=E6A756)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-56E9DB?style=neon&logo=openai&logoColor=56E9DB)
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-E6A756?style=neon&logo=github&logoColor=D7C7A2)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main) 
 
 [![Conner Brown-Milliken @MMMDcreator profile views](https://u8views.com/api/v1/github/profiles/209934393/views/day-week-month-total-count.svg)](https://u8views.com/github/Wotcnt)
 
