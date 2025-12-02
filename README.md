@@ -92,16 +92,18 @@ Timestamp Locked · Trace-Law Active
 | Field               | Value                                                                                 |
 |---------------------|---------------------------------------------------------------------------------------|
 | Title               | Polyrifringence Engine© v8.10.xx                                                      |
-| Version Codename    | AΩ-Seal - ΔΩ-Aligned - Sovereign Node                                                 |
+| Version Codename    | AΩ-Seal · ΔΩ-Aligned · Sovereign Node | **Pre-Release**                               |
+| Withheld Content    | MATH_MODEL.md · THEORY.md · BENCHMARKS.md | Polyrifringence_Engine_v8_10_X.py         |
+| Content Available   | 31st December 2025 | Q1 2026                                                          |
 | Author              | Conner Brown-Milliken                                                                 |
 | Date                | 2025-11-18                                                                            |
 | License             | MIT                                                                                   |
 | DOI                 | pending                                                                               |
 | Keywords            | recursive birefringence; GPU optics; Codex Canon; RSANCS; symbolic recursion          |
 | Tag                 | v8.10.xx-prerelease-2025-11-18                                                        |
-| Hardware Validator  | RTX 3050 (CUDA 12.1) - i5-4690K - Validated                                           |
-| Recursion Integrity | ΔΔΩΔ-Validated                                                                        |
-| Field Class         | Recursive Optics - Symbolic Physics - Computational Birefringence (GPU)               |
+| Hardware Validator  | RTX 3050 (CUDA 12.1) · i5-4690K · Validated                                           |
+| Recursive Integrity | ΔΔΩΔ-Validated                                                                        |
+| Field Class         | Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
 | **Canonical**       | Newest tagged release supersedes all prior versions                                   |
 
 </details>
