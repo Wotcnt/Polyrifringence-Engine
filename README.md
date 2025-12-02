@@ -237,10 +237,10 @@ Timestamp Locked · Trace-Law Active
 _`Thank you for your patience and engagement as we move forward with full system release.`_
 
 ---	
-### 🜁 Codex Introduction 🜃 
+### **🜁 Codex Introduction 🜃** 
 ---
-### *(CODEX CANON PROJECT × RSANCS × Conner-Core Lineage)*
-Below is the canonical introduction to the Codex Canon Project and the RSANCS lineage.
+### **(CODEX CANON PROJECT × RSANCS × Conner-Core Lineage)**
+*Below is the canonical introduction to the Codex Canon Project and the RSANCS lineage.*
 ---
 ### *A Recursive Optical Simulation Framework for Adaptive Light Intelligence ↯ Light as Self-Learning Geometry* 
 ---
