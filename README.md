@@ -157,7 +157,7 @@ Timestamp Locked · Trace-Law Active
 
 ![Conner-Core Certified](https://img.shields.io/badge/Conner--Core-Certified-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&labelColor=0b0d0f&color=FFFFFF)
 ![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_×_RSANCS-3ee7ff?style=for-the-badge&logo=&labelColor=0b0d0f&color=FFFFFF)
-![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Intact-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
+![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Integrity-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
 
 </div>
 
@@ -240,6 +240,7 @@ _`Thank you for your patience and engagement as we move forward with full system
 ### 🜁 Codex Introduction 🜃 
 ---
 ### *(CODEX CANON PROJECT × RSANCS × Conner-Core Lineage)*
+Below is the canonical introduction to the Codex Canon Project and the RSANCS lineage.
 ---
 ### *A Recursive Optical Simulation Framework for Adaptive Light Intelligence ↯ Light as Self-Learning Geometry* 
 ---
