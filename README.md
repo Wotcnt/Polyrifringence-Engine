@@ -92,10 +92,11 @@ Timestamp Locked · Trace-Law Active
 | Field               | Value                                                                                 |
 |---------------------|---------------------------------------------------------------------------------------|
 | Title               | Polyrifringence Engine© v8.10.xx                                                      |
-| Version Codename    | AΩ-Seal · ΔΩ-Aligned · Sovereign Node | **Pre-Release**                               |
-| Withheld Content    | MATH_MODEL.md · THEORY.md · BENCHMARKS.md | Polyrifringence_Engine_v8_10_X.py         |
-| Content Available   | 31st December 2025 | Q1 2026                                                          |
-| Author              | Conner Brown-Milliken                                                                 |
+| Version Codename    | AΩ-Seal · ΔΩ-Aligned · Sovereign Node · **Pre-Release**                               |
+| Withheld Content    | MATH_MODEL.md · THEORY.md · BENCHMARKS.md · Polyrifringence_Engine_v8.10.XX.py        |
+| Content Available   | 31st December 2025 · Q1 2026                                                          |
+| Author              | Conner Brown-Milliken · @MMMDcreator — X.com · @Wotcnt — GitHub                       |
+| Country             | Australia                                                                             |
 | Date                | 2025-11-18                                                                            |
 | License             | MIT                                                                                   |
 | DOI                 | pending                                                                               |
