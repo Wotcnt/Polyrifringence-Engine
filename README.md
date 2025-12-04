@@ -1999,7 +1999,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🌡 Push the Polyrifringence Engine to its Limits ⇄ Extreme Benchmark & Stability Suite 🔋</summary>
+<summary>🌡Push the Polyrifringence Engine to its Limits ⇄ Extreme Benchmark & Stability Suite🔋</summary>
 
 ---
 
@@ -2354,7 +2354,7 @@ inter-GPU phase     : 0.16 mrad
 ---
 
 <details>
-<summary><strong>🌈 Codex Gemline - Facets, Cuts & Full-System Integration (Canonical Triple-Structure)</strong></summary>
+<summary>🌈Codex Gemline - Facets, Cuts & Full-System Integration (Canonical Triple-Structure)💎</summary>
 
 <br>
 
@@ -2433,7 +2433,7 @@ Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation sh
 ---
 
 <details>
-<summary><strong>Gem References</strong></summary>
+<summary>📔Gem References</summary>
 
 ## 📚 Gemological References 📥
 Meaning arises from patterns, not rules  
@@ -2514,7 +2514,7 @@ Grammar arises from structure, not prescription
 
 ---
 
-### 📘 **Minerals.net – Optical Constants Database**
+### 📘 **Minerals.net - Optical Constants Database**
 
 * Quartz: [https://www.minerals.net/mineral/quartz.aspx](https://www.minerals.net/mineral/quartz.aspx)
 * Beryl: [https://www.minerals.net/mineral/beryl.aspx](https://www.minerals.net/mineral/beryl.aspx)
@@ -2526,7 +2526,7 @@ Grammar arises from structure, not prescription
 
 ---
 
-### 📗 **Gemdat.org — Gemological Property Database**
+### 📗 **Gemdat.org - Gemological Property Database**
 
 * Quartz (all varieties): [https://www.gemdat.org/gem-3325.html](https://www.gemdat.org/gem-3325.html)
 * Beryl: [https://www.gemdat.org/gem-659.html](https://www.gemdat.org/gem-659.html)
@@ -2535,7 +2535,7 @@ Grammar arises from structure, not prescription
 
 ---
 
-### 📕 **WebMineral.com – Mineral Optical Database**
+### 📕 **WebMineral.com - Mineral Optical Database**
 
 * Quartz: [https://webmineral.com/data/Quartz.shtml](https://webmineral.com/data/Quartz.shtml)
 * Beryl: [https://webmineral.com/data/Beryl.shtml](https://webmineral.com/data/Beryl.shtml)
@@ -2550,7 +2550,7 @@ Grammar arises from structure, not prescription
 ---
 
 <details>
-<summary>💎Historical–Scientific Cross-Reference Table📜</summary>
+<summary>💎Historical - Scientific Cross-Reference Table📜</summary>
 
 | # | Codex / README Name | Traditional Name | Biblical Stone (Source) | Accepted Modern Mineral |
 |--:|----------------------|------------------|--------------------------|--------------------------|
@@ -2585,6 +2585,117 @@ Grammar arises from structure, not prescription
   - Calcite → maximal birefringence  
 - **Chrysoprase**, as nickel-bearing chalcedony, sits at the *median birefringence axis*, acting as the symbolic “memory buffer” between crystalline and diffuse coherence states.  
 - All values have been externally verified using GIA, Mindat, GeoLibreTexts, GemSociety, DiamondBuzz, WebMineral, Minerals.net, and Gemdat.org.  
+
+</details>
+
+---
+
+<details>
+<summary><strong>ΔΔΩΔ Canonical Cross-Reference: THEORY.md and MATH_MODEL.md ⎅</strong></summary>
+
+---
+
+# Canonical Cross-Reference  
+### How the README connects to the foundational documents
+
+This section provides a unified map linking the README to the internal technical structure defined in:
+
+- **THEORY.md**, which describes the conceptual and ontological framework  
+- **MATH_MODEL.md**, which defines the formal operators and mathematical laws  
+
+Every symbol and behavioural claim in the README corresponds to a precise definition or derivation in these documents.
+
+---
+
+## Appendix Ω and the Codex Canon
+
+Appendix Ω cross-references the README with the deeper layers of the Codex Canon, ensuring symbolic, theoretical, and mathematical alignment across the engine.
+
+---
+
+# 1. Mathematical Foundations (MATH_MODEL.md)
+
+### λ-Cycle Geometry  
+Stability, decay constants, and cycle timing in the engine originate from:
+
+$$\lambda_{\text{cycle}} = |1 - R_n|$$
+
+with the associated exergy half-life:
+
+$$t_{1/2} = \frac{\ln 2}{\lambda_{\text{cycle}}}$$
+
+and the canonical stability windows:
+
+$$0.0013 < \lambda_{\text{cycle}} < 0.0023$$  
+$$0.18\ \text{s} < t_{1/2} < 0.24\ \text{s}$$
+
+These ranges correspond to the REGF diagnostics and stability envelopes documented throughout the engine.
+
+### ΔΩ Corrective Stability  
+Coherence-return and drift-collapse referenced in the README are governed by:
+
+$$\lambda_{\text{cycle}}^{(\Delta\Omega)} = \lambda_{\text{cycle}} - \Delta\Omega$$
+
+This defines:
+
+- drift correction  
+- coherence restoration  
+- stability-envelope formation  
+
+All convergence behaviour described in the README traces back to this operator.
+
+### Recursive Tensor Formalism  
+Engine iteration follows the tensor update rule:
+
+$$E_{n+1} = T(E_n, \alpha_n) + F(E_n)$$
+
+The stability characteristics referenced conceptually in the README arise from this formulation.
+
+---
+
+# 2. Theoretical Foundations (THEORY.md)
+
+### Symbolic Stability  
+Symbolic stability and glyph dependencies originate from the theory identity:
+
+$$\text{Engine} - \text{Codex Layer} = \text{Generic Tensor Simulation}$$
+
+Removing symbolic structure eliminates:
+
+- ΔΩ-governed collapse  
+- coherence return  
+- stable λ-cycle behaviour  
+
+THEORY.md explains why the symbolic layer is essential for correct engine dynamics.
+
+### Exergy Geometry and Observer Coupling  
+Observer-state recursion and coherence-return behaviour are governed by the exergy evolution conditions:
+
+$$\Delta\phi_n \rightarrow 0$$  
+$$dW_n \rightarrow 0$$  
+$$R_n \rightarrow R_{\text{stable}}$$
+
+These describe why stability emerges after several cycles.
+
+### Phase-Geometric Recursion (Appendix Ω)  
+The manifold behaviour described in the README is formally defined by the unified recursion law:
+
+$$E_{n+1} = \Delta\Omega\Bigg(\sum_{i=1}^{N_f}\sum_{k=1}^{S}P_k\left[R(\theta_i + \delta\theta_i)T_{\text{cut}(i)}J(\theta_i,\lambda)F(E_n)\right]\Bigg)$$
+
+This relation explains multi-path proliferation, ΔΩ-modulated stability, and the characteristic 6–7 cycle convergence window.
+
+---
+
+# 3. Purpose of This Cross-Reference
+
+This appendix clarifies the relationships between all documentation layers. It ensures:
+
+- conceptual elements in the README map directly to the deeper theoretical model  
+- mathematical rules align with observed recursive behaviour  
+- no symbol or operator appears without a precise definition  
+- every stability, invariance, or convergence claim has a formal source  
+
+The documentation and engine now form a complete interpretive loop.
 
 </details>
 
