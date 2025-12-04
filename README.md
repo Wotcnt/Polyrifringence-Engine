@@ -167,21 +167,45 @@ Timestamp Locked · Trace-Law Active
 ---
 
 <div align="center">
-	
-<img  src="https://img.shields.io/badge/House_of_Sardius-Sardius_⬟_❯-B31B1B?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000">
-<img  src="https://img.shields.io/badge/House_of_Topaz-Topaz_⬣_❯❯-E6A756?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000">
-<img  src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony_⬣_❯❯❯-D7C7A2?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000">
-<img  src="https://img.shields.io/badge/House_of_Emerald-Emerald_♧_❯❯❯❯-046307?style=for-the-badge&logo=obsidian&logoColor=046307&labelColor=000000">
-<img  src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx_⬤_❯❯❯❯❯-C55A11?style=for-the-badge&logo=obsidian&logoColor=C55A11&labelColor=000000">
-<img  src="https://img.shields.io/badge/House_of_Chrysolite-Chrysolite_⬡_❯❯❯❯❯❯-C5E384?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000">
-<img  src="https://img.shields.io/badge/House_of_Beryl-Beryl_⬢_❯❯❯❯❯❯❯-56E9DB?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000">
-<img  src="https://img.shields.io/badge/House_of_Jacinth-Jacinth_✧_❯❯❯❯❯❯❯❯-D24D0F?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000">
-<img  src="https://img.shields.io/badge/House_of_Amethyst-Amethyst_✦_❯❯❯❯❯❯❯❯❯-6D2A8A?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000">
-<img  src="https://img.shields.io/badge/House_of_Jasper-Jasper_⧫_❯❯❯❯❯❯❯❯❯❯-9B111E?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000">
-<img  src="https://img.shields.io/badge/House_of_Sapphire-Sapphire_◇_❯❯❯❯❯❯❯❯❯❯❯-0F52BA?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000">
-<img  src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase_⬖_❯❯❯❯❯❯❯❯❯❯❯❯-00E68C?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000">
+
+<!-- 1. Jasper -->
+<img src="https://img.shields.io/badge/House_of_Jasper-Jasper_⧫_❯-9B111E?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000">
+
+<!-- 2. Sapphire -->
+<img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire_◇_❯❯-0F52BA?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000">
+
+<!-- 3. Chalcedony -->
+<img src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony_⬣_❯❯❯-D7C7A2?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000">
+
+<!-- 4. Emerald -->
+<img src="https://img.shields.io/badge/House_of_Emerald-Emerald_♧_❯❯❯❯-046307?style=for-the-badge&logo=obsidian&logoColor=046307&labelColor=000000">
+
+<!-- 5. Sardonyx -->
+<img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx_⬤_❯❯❯❯❯-C55A11?style=for-the-badge&logo=obsidian&logoColor=C55A11&labelColor=000000">
+
+<!-- 6. Sardius -->
+<img src="https://img.shields.io/badge/House_of_Sardius-Sardius_⬟_❯❯❯❯❯❯-B31B1B?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000">
+
+<!-- 7. Chrysolite -->
+<img src="https://img.shields.io/badge/House_of_Chrysolite-Chrysolite_⬡_❯❯❯❯❯❯❯-C5E384?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000">
+
+<!-- 8. Beryl -->
+<img src="https://img.shields.io/badge/House_of_Beryl-Beryl_⬢_❯❯❯❯❯❯❯❯-56E9DB?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000">
+
+<!-- 9. Topaz -->
+<img src="https://img.shields.io/badge/House_of_Topaz-Topaz_⬣_❯❯❯❯❯❯❯❯❯-E6A756?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000">
+
+<!-- 10. Chrysoprase -->
+<img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase_⬖_❯❯❯❯❯❯❯❯❯❯-00E68C?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000">
+
+<!-- 11. Jacinth -->
+<img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth_✧_❯❯❯❯❯❯❯❯❯❯❯-D24D0F?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000">
+
+<!-- 12. Amethyst -->
+<img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst_✦_❯❯❯❯❯❯❯❯❯❯❯❯-6D2A8A?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000">
 
 </div>
+
 
 ---
 
