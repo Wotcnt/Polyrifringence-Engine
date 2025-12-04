@@ -2616,6 +2616,9 @@ Appendix Ω cross-references the README with the deeper layers of the Codex Cano
 # 1. Mathematical Foundations (MATH_MODEL.md)
 
 ### λ-Cycle Geometry  
+
+*Formal definitions from MATH_MODEL.md:*
+
 Stability, decay constants, and cycle timing in the engine originate from:
 
 $$\lambda_{\text{cycle}} = |1 - R_n|$$
