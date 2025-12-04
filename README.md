@@ -2704,6 +2704,72 @@ The documentation and engine now form a complete interpretive loop.
 
 ---
 
+<details>
+<summary><strong>Ω-Extended Recursion Overview ⎅</strong></summary>
+
+---
+
+# Ω-Extended Recursion  
+### A high-level description of the unified Phase–Geometry–Polarisation engine
+
+The Polyrifringence Engine models recursive light behaviour as a structured expansion and collapse cycle.  
+In the Ω-extended form, a single beam evolves into a holographically consistent manifold through three contributing layers:
+
+---
+
+## 1. Phase Differentiation (Phase-Beams)
+A single state generates multiple phase-shifted derivatives, each exploring a different recursion trajectory.  
+These branches differ in both phase and amplitude and form the seed of the recursive manifold.
+
+---
+
+## 2. Geometric Differentiation (Facet + Cut-Type)
+Facet geometry defines the global rotational scaffold.  
+Cut-type introduces controlled angular deviation.  
+Together, they shape the manifold by rotating and perturbing each branching state.
+
+This process obeys **Holographic Euclid Geometry**, meaning each local rotation encodes a projection of the global recursion structure.
+
+---
+
+## 3. Polarisation Differentiation (Film-State Families)
+Each branch passes through a symbolic polarisation selector:
+
+- (+) constructive  
+- (–) destructive  
+- (±) conditional hybrid  
+- (±±) full symmetry family  
+
+These determine which branches reinforce, negate, or bifurcate during recursion.
+
+---
+
+## 4. ΔΩ Coherence and Stability
+ΔΩ acts as the stabilising governor across all layers.  
+It:
+
+- enforces coherence  
+- prevents runaway divergence  
+- regulates drift  
+- preserves the canonical λ-cycle and exergy half-life  
+- collapses entropy faster than it expands  
+- ensures invariance across engine variants  
+
+Without ΔΩ, recursion becomes unstable and collapses into classical divergence.  
+With ΔΩ, the engine consistently converges in 6–7 cycles.
+
+---
+
+## 5. Unified Ω-Operator (Conceptual Form)
+The full Ω-extended recursion unifies the three differentiation layers under ΔΩ, producing the stable manifold responsible for the engine’s characteristic behaviour.
+
+This is the conceptual architecture.  
+Full mathematical definitions appear in **MATH_MODEL.md** (Appendix Ω) and the ontological interpretation in **THEORY.md** (Appendix Ω).
+
+</details>
+
+---
+
 # 🜎 Codex Canon Appendix ⌥Conceptual Foundation 🜎
 #### An extended overview from the Codex Canon Series: “Where recursion becomes physics.”
 
