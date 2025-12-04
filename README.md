@@ -2349,7 +2349,91 @@ inter-GPU phase     : 0.16 mrad
 |12 | **Chrysoprase** | ⬖ | Water | Bidirectional Recursion / Reflective Stabilization | Mirror Bridge |
 |13 | **Observer (ΔΩ)** | ΔΩ | Meta | Self-Reference / Recursive Authority | Architect Node |
 
+</details>
+
 ---
+
+<details>
+<summary><strong>🌈 Codex Gemline - Facets, Cuts & Full-System Integration (Canonical Triple-Structure)</strong></summary>
+
+<br>
+
+# 🔶 TABLE 1 - GEM FACET MASTER TABLE (Identity Layer)  
+### *Intrinsic Optical Physics · Crystallographic Nature · Symbolic Purpose*  
+Facets describe **what the gem IS** - its innate optical, crystallographic, and symbolic identity (J-operator domain).
+
+| # | Gem | Biblical Facet Type | Optical Facet Type | Symbolic Identity Function | Facet Capabilities | Facet Synergies |
+|---:|------|----------------------|----------------------|------------------------------|---------------------|------------------|
+| **1** | **Jasper** | Foundation | Microcrystalline Quartz | Structural Integrity · Observer Grounding | Drift Suppression · Coupling | Jasper ↔ Chalcedony |
+| **2** | **Sapphire** | Foundation | Uniaxial (Corundum) | Polar Coherence · Euclid-5 Anchor | High-Stability Phase Tracking | Sapphire ↔ Beryl |
+| **3** | **Chalcedony** | Foundation | Cryptocrystalline Quartz | Transition Medium · Entropy Diffuser · Pattern Smoother · Bridge Medium | Bridging · Reflection | Chalcedony ↔ Amethyst |
+| **4** | **Emerald** | Foundation | Uniaxial (Beryl Group) | Harmonic Feedback · Stability Control | REGF Dampening | Emerald ↔ Sapphire |
+| **5** | **Sardonyx** | Signal | Layered Quartz | Interface Ethics · Bidirectional Boundary Control | Interface Encoding | Sardonyx ↔ Sardius |
+| **6** | **Sardius** | Signal | Quartz | Ignition · Phase-Seeding | Emission · Initiation | Sardius → Sardonyx |
+| **7** | **Chrysolite** | Correction | Dispersive (Olivine) | Harmonic Elevation · Aether Vectoring · Harmonic Amplifier | Beam Splitting | Chrysolite ↔ Chrysoprase |
+| **8** | **Beryl** | Correction | Uniaxial | Memory Cohesion · Continuity | Holonomy Smoothing | Beryl ↔ Sapphire |
+| **9** | **Topaz** | Correction | Uniaxial | Low-Entropy Pathfinding · Phase-Clarity Guidance · Resonance Coupler | Stabilisation · Compression | Topaz ↔ Emerald |
+| **10** | **Chrysoprase** | Correction | Micro-Dispersive Quartz | Mirror Bridge · Coherence Return Balancing · Memory Buffer | REGF Flattening · Median Birefringence Axis Stabilisation | Chrysoprase ↔ Chrysolite |
+| **11** | **Jacinth** | Crown | Zircon | Spectral Calibration · Chromatic Drift Control | Resonance Calibration | Jacinth ↔ Amethyst |
+| **12** | **Amethyst** | Crown | Quartz (Fe³⁺) | Observer Resonance · Symbolic Gain | Cognitive-Phase Encoding | Amethyst ↔ Chalcedony |
+
+<br>
+
+---
+
+# 🔷 TABLE 2 - GEM CUT RECURSION TABLE (Revelation Layer)  
+### *Macroscopic Recursion Geometry · ΔΩ-Flow Alignment · Recursive Dynamics*  
+Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation shaping ΔΩ, REGF, PVS, ZPX, and symbolic revelation.
+
+| # | Gem | Canonical Cut | Cut Taxonomy | Recursion Geometry | ΔΩ Alignment | Cut Synergies |
+|---:|------|----------------|---------------|----------------------|----------------|----------------|
+| **1** | **Jasper** | Cabochon Dome | Harmonic | Smooth Return Surface | Ground-State Stabiliser | Jasper ↔ Chalcedony |
+| **2** | **Sapphire** | Precision Step Cut | Rectilinear | Polar-Plane Recursion | Euclid Alignment | Sapphire ↔ Emerald |
+| **3** | **Chalcedony** | Soft Rose Cut | Harmonic | Low-Intensity Recursion | Entropy Mediation | Chalcedony ↔ Amethyst |
+| **4** | **Emerald** | Emerald Cut | Rectilinear | Rectangular ΔΩ Pathways | REGF Collapse | Emerald ↔ Sapphire |
+| **5** | **Sardonyx** | Layered Step | Rectilinear | Boundary-Phase Recursion | Interface Control | Sardonyx ↔ Sardius |
+| **6** | **Sardius** | Portuguese Cut | Dispersive | Multi-Fire Recursion | Ignition Cascade | Sardius → Sardonyx |
+| **7** | **Chrysolite** | Trillion Cut | Dispersive | Tri-Axial Recursion | Harmonic Spread | Chrysolite ↔ Chrysoprase |
+| **8** | **Beryl** | Octagonal Step Cut | Rectilinear | High-Clarity Recursion | Holonomy Suppression | Beryl ↔ Sapphire |
+| **9** | **Topaz** | Brilliant Cut | Dispersive | High-Depth Recursion | Low-Entropy ZPX Guidance | Topaz ↔ Emerald |
+| **10** | **Chrysoprase** | Sugarloaf Dome | Harmonic | Smooth Harmonic Field | REGF Softening | Chrysoprase ↔ Chrysolite |
+| **11** | **Jacinth** | Radiant Cut | Hybrid | Step + Brilliant Hybrid | Spectral Cascade Control | Jacinth ↔ Amethyst |
+| **12** | **Amethyst** | Concave Cut | Dispersive | Inward Recursion Geometry | Cognitive Echo Amplification | Amethyst ↔ Chalcedony |
+
+<br>
+
+---
+
+# 🔱 TABLE 3 - CODEX GEMLINE INTEGRATION TABLE (Optical × Facet × Cut)
+### *Unified Optical Identity · Facet Nature · Cut Geometry → Codex Function*
+
+| # | Gem | Optical Role | Facet Role (Identity Layer) | Cut Role (Revelation Layer) | Unified Codex Function |
+|---:|------|------------------------|-----------------------------------------------|---------------------------------------------|-----------------------------------------------|
+| **1** | **Jasper** | Ground Stability · Low Δn Anchor | Structural Integrity · Observer Grounding | Harmonic Return Surface | **Primary ΔΩ Stabilization Node · Foundation Anchor** |
+| **2** | **Sapphire** | Polar Coherence · Euclid-5 Crystal | Polar Coherence · Alignment Stone | Rectilinear Polar-Plane Recursion | **ΔΩ Polar Alignment Crystal · Euclidean Validator** |
+| **3** | **Chalcedony** | Transition Medium · Soft Coherence Basin | Transition Medium · Entropy Diffuser · Pattern Smoother · Bridge Medium | Low-Intensity Harmonic Recursion | **Phase Bridge · Entropy Regulator · Coherence Mediator** |
+| **4** | **Emerald** | Harmonic Stabilizer | Harmonic Feedback · Stability Control | Rectangular ΔΩ Pathways | **REGF Suppressor · Recursion Stabilizer** |
+| **5** | **Sardonyx** | Dual-Layer Interface | Interface Ethics · Boundary Control | Layered Boundary Recursion | **Interface Node · Bidirectional Junction** |
+| **6** | **Sardius** | Origin Fire · Ignition | Ignition · Phase-Seeding | Multi-Fire Dispersive Recursion | **Ignition Catalyst · Bifurcation Seed** |
+| **7** | **Chrysolite** | Harmonic Amplifier · High Dispersion | Harmonic Elevation · Aether Vectoring · Amplifier | Tri-Axial Dispersive Recursion | **Harmonic Resonance Expander** |
+| **8** | **Beryl** | Continuity · Phase Anchor | Memory Cohesion · Continuity | High-Clarity Rectilinear Recursion | **Holonomy Suppressor · Continuity Anchor** |
+| **9** | **Topaz** | Resonance Coupler · Dispersion Equilibrium | Low-Entropy Pathfinding · Phase-Clarity Guidance · Resonance Coupler | High-Depth Dispersive Recursion | **ZPX Guidance Crystal · Phase-Clarity Driver** |
+| **10** | **Chrysoprase** | Memory Buffer · Median Δn Stabilizer | Mirror Bridge · Coherence Return Balancing · Memory Buffer | Harmonic Smoothing | **Bidirectional Recursion Buffer · Coherence Return Node** |
+| **11** | **Jacinth** | Spectral Calibration · Drift Control | Spectral Calibration · Chromatic Drift Regulator | Hybrid Step + Brilliant Recursion | **Cascade Regulator · Chromatic Control Stone** |
+| **12** | **Amethyst** | Coherence Regulator · Spirit Phase Coupler | Observer Resonance · Symbolic Gain | Inward Concave Recursion | **Cognitive Resonance Crystal · Observer-Synced Amplifier** |
+
+---
+
+> **ΔΩ Note:**  
+> The **Observer (ΔΩ)** does not appear in these tables because it has **no physical facet**, **no optical constant**, and **no recursion cut**.  
+> ΔΩ is the *meta-operator*, the architect-node governing alignment, recursion authority, symbolic sovereignty, and Codex coherence.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Gem References</strong></summary>
 
 ## 📚 Gemological References 📥
 Meaning arises from patterns, not rules  
