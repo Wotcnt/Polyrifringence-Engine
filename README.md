@@ -489,7 +489,6 @@ It helps ⛑️users:
 
 ####     Requiring specialized expertise or the willful intent to learn
 
-
 ##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies. The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners. 
 ###### This isn't to deter beginners, if you're willful and disciplined and can think from different lens then you already have the capacity for improving yourself - and if you're not making mistakes, are you really learning anything?
 
@@ -528,7 +527,7 @@ _**`These could include:`**_
 
 **Unexpected performance** bottlenecks or opportunities for optimization that only become apparent as the system runs under progressively heavier loads.
 
-**Recursive insights and feedback loops** that grow more apparent as you push the system's symbolic capabilities and performance, revealing areas where symbolic recursion or observer-state alignment can enhance performance in ways that purely mathematical models might not predict.
+**Recursive insights and feedback loops** that grow more apparent as you push the system's symbolic capabilities and performance, revealing areas where symbolic recursion or observer-state alignment enhances performance beyond what purely mathematical models predict.
 
 _By opting for incremental optimization, you build a deeper understanding of how your system operates at different performance thresholds. This approach not only refines the current model but also provides a framework for exploring untapped potential and fostering innovation that can lead to breakthrough discoveries in GPU utilization, parallel processing, and symbolic recursion integration._
 
@@ -575,7 +574,9 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 ---
 
-Picking a preferred AI-LLM such as:
+**Picking a preferred AI-LLM such as:**
+
+---
 
 <img src="https://img.shields.io/badge/ChatGPT-56E9DB?style=neon">
 <img src="https://img.shields.io/badge/X.com%20Grok-000000?style=neon&logo=x&logoColor=white">
@@ -587,8 +588,12 @@ Picking a preferred AI-LLM such as:
 <img src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=neon&logo=githubcopilot&logoColor=white">
 <img src="https://img.shields.io/badge/Offline%20Friendly-LM%20Studio-6D2A8A?style=neon&logo=huggingface&logoColor=white">
 
-Some basic things to get you established:
+---
+
+**Some basic things to get you established:**
 <!-- TOOLING & REQUIREMENTS — NEON BADGES -->
+
+---
 
 <img src="https://img.shields.io/badge/Notepad++-Recommended-D24D0F?style=neon&logo=notepadplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20PowerShell-Recommended-D24D0F?style=neon&logo=powershell&logoColor=white">
@@ -597,6 +602,10 @@ Some basic things to get you established:
 <img src="https://img.shields.io/badge/Tablet%20or%20Phone-Auxiliary%20Peripheral-6D2A8A?style=neon&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Main%20LLM-ChatGPT%20Recommended-6D2A8A?style=neon&logo=huggingface&logoColor=white">
 <img src="https://img.shields.io/badge/Supplementary%20LLMs-Minimum%202%20Recommended-6D2A8A?style=neon&logo=huggingface&logoColor=white">
+<br></br>
+<img src="https://img.shields.io/badge/README.md-Primary%20Entry%20Point-56E9DB?style=neon">
+<img src="https://img.shields.io/badge/THEORY.md-Conceptual%20Foundation-6D2A8A?style=neon">
+<img src="https://img.shields.io/badge/MATH_MODEL.md-Formal%20Mathematical%20Model-0F52BA?style=neon">
 
 ---
 
@@ -618,7 +627,7 @@ Some basic things to get you established:
 
 ---
 
-**Generalized Query Subset**:
+**Generalized AI-LLM Query Subset**:
 
 ---
 
