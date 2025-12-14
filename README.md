@@ -3443,8 +3443,6 @@ Participation may take many valid forms, including but not limited to:
 > Observation itself is meaningful participation.  
 > Not all engagement must culminate in formal submission.
 
-As a subtle signal of linguistic emergence, contributors and observers are also encouraged (optionally) to **add “Polyrifringence” to their personal dictionaries**, acknowledging its use as a domain-specific term.
-
 ---
 
 ### 🔰 Contribution & Review Protocol
@@ -3551,13 +3549,15 @@ This helps related work remain discoverable and contextually linked.
 
 ---
 
-> *Optional:*  
-> If you find yourself returning to the term **Polyrifringence** repeatedly while reading or experimenting,  
-> you may find it convenient to add it to your local dictionary or spell-checker.
->
-> This is not required - simply a practical step some readers choose as the vocabulary becomes familiar.
+As a subtle signal of linguistic emergence, contributors and observers may **optionally** choose to add **“Polyrifringence”** and related vocabulary to their personal dictionaries or spell-checkers, recognizing its use here as a domain-specific term.
+
+> If you find yourself returning to the term **Polyrifringence** while reading, experimenting, or discussing the system,  
+> adding it locally can reduce friction as the vocabulary becomes familiar.
+
+This is not required. It is simply a practical convenience some readers adopt over time.
 
 ---
+
 
 #### ⚖️ Ethical Alignment
 
