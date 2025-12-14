@@ -575,8 +575,10 @@ _By opting for incremental optimization, you build a deeper understanding of how
 (**_Click the badge below_**; *also see the dropdown section  
 "Custom GPT - Polyrifringence Engine Expert" for more.*)
 
-<a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert">
-  <img src="https://img.shields.io/badge/Open_Custom_Polyrifringence_Engine_Expert_in-ChatGPT-56E9DB?style=neon" width="320">
+<a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert" target="_blank" rel="noopener">
+  <img 
+    src="https://img.shields.io/badge/Open_in_New_Window-Polyrifringence_GPT-56E9DB?style=neon&logo=openai&logoColor=3ee7ff&labelColor=111111&color=3ee7ff" 
+    width="640">
 </a>
 
 ---
