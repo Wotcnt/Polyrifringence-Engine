@@ -133,7 +133,9 @@ Timestamp Locked · Trace Context Declared
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=openaccess&logoColor=D24D0F)
 ![License: MIT](https://img.shields.io/badge/License-MIT-046307?style=neon&logo=trustpilot&logoColor=D24D0F)
 [![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-046307?style=neon&logo=nvidia&logoColor=D24D0F)](examples/bench_6213.csv)
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-56E9DB?style=neon&logo=openai&logoColor=56E9DB)
+
+![Hybrid Framework](https://img.shields.io/badge/Framework-Hybrid_Computational--Optimization-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=0A0C0D&color=111111)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Custom_GPT-56E9DB?style=neon&logo=github&logoColor=56E9DB&labelColor=0A0C0D&color=111111)
 
 </div>
 
