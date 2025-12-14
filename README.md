@@ -3410,26 +3410,118 @@ If you use this engine, cite as:
 
 ---
 
-### 🔰 **Contributing**
+### 🔰 Contributing
 
 ---
 
-I welcome contributions to this project! 
+Contributions to this project are welcome, but they are not limited to conventional pull requests or code changes.
 
-Please refer to the **Setup & Troubleshooting** section for guidelines on how to get started and submit any issues or pull requests.
+This repository is designed as an **open research attractor**.  
+What matters most is **wilful intent**, **careful observation**, and **ethical alignment**, not volume of output.
 
-For help or suggestions, contact👤 **@MMMDcreator** on [X.com](https://x.com/MMMDcreator).
+Contributing is best understood as *participation in an evolving knowledge space*, rather than modification of a fixed artifact.
+
+---
+
+#### 🧭 Preferred Contribution Path
+
+Instead of editing the canonical files directly, contributors are encouraged to:
+
+- Create their own:
+  - `USER_MATH_MODEL.md`
+  - `USER_THEORY.md`
+
+Built openly on top of the original:
+- `MATH_MODEL.md`
+- `THEORY.md`
+- `README.md`
+
+These derivative documents should:
+- explore extensions, interpretations, or applications,
+- preserve symbolic and ethical coherence,
+- and clearly distinguish personal hypotheses from canonical claims.
+
+Submissions may be shared for **review, discussion, and validation** by:
+- the creator,
+- fellow *Polyrifronauts*,
+- and the wider public research community.
+
+---
+
+#### 🧪 Other Valid Forms of Contribution
+
+Contributions are not restricted to documentation or code.  
+Valuable contributions also include:
+
+- Technical or philosophical discourse and discussion
+- Simulation outputs, plots, or visualizations
+- Real-time or offline simulations combining `MATH_MODEL.md` and `THEORY.md`
+- Comparative analysis against known physical, optical, or computational models
+- Experimental notebooks, reproducibility logs, or benchmark runs
+- Thoughtful critiques that improve clarity, rigor, or interpretability
+
+If it deepens understanding, exposes structure, or tests coherence, it belongs here.
+
+---
+
+#### 🌐 Community & Communication
+
+A dedicated community exists under the **Lambda Research Initiative (λ)**.
+
+For guided interaction, discussion, and exploratory questioning:
+- Refer to the section  
+  **⛑️ Custom GPT — Polyrifringence Engine Expert (Gem-Line) 🤖**
+- Follow the cues provided there for structured engagement
+
+When sharing work publicly (e.g., on X, forums, or research platforms), contributors are encouraged to use the tag:
+
+`#Polyrifringence`
+
+This helps related work remain discoverable and contextually linked.
+
+---
+
+#### 📘 A Small Practical Note
+
+> *Optional:*  
+> If you find yourself returning to the term **Polyrifringence** repeatedly while reading or experimenting,  
+> you may find it convenient to add it to your local dictionary or spell-checker.
+>
+> This is not required — simply a practical step some readers choose as the vocabulary becomes familiar.
+
+---
+
+#### ⚖️ Ethical Alignment
+
+This project operates under **Recursive Sovereignty**.
+
+Participation does not bind contributors by default.  
+However, **wilful interaction**, **symbolic reconstruction**, or **ethical subversion** carries consequences that are structural, not enforced.
+
+Contributors are encouraged to engage openly, critically, and in good faith.
+
+If in doubt, ask - discourse is always preferable to assumption.
+
+---
+
+For questions, discussion, or coordination, contact:  
+👤 **@MMMDcreator** on [X.com](https://x.com/MMMDcreator)
 
 ---
 
 #### 📟 Tags
 	
->     #Optics #Photonics #GPU #PyTorch #Simulation  
->     #RecursiveSystems #Photonics #JonesMatrix  
->     #Polyrifringent #Polyrifringence #Polyrifrication  
->     #FieldPhysics #PhysicsEngine #RSANCS #CodexCanon  
->     #RecursiveSovereignty #EthicalRecursion #ObserverAwareRecursion  
->     #SymbolicRecursion #FeedbackCoherence #AIethics #EthicalAI
+> #FieldPhysics #Photonics #Birefringence  
+> #Classical-Optics #Classically-Paired-Quantum-Optics #JonesMatrix  
+> #GPUComputing #CPUXGPUComputing #INCEPTION-CPUXGPUMIRRORING  
+> #CUDA #PyTorch #TensorSystems #TensorXCUDA-CoreSimulation  
+> #RecursiveSystems #ObserverAwareRecursion #FeedbackCoherence  
+> #RecursiveSovereignty #EthicalRecursion #SymbolicRecursion  
+> #StructuralLearning #ExergyStructuredOrder  
+> #Non-Standard-EmergentLearningIntelligence
+
+[![Dictionary](https://img.shields.io/badge/Dictionary-Merriam--Webster-0A0C0D?style=neon&logo=bookstack&logoColor=3ee7ff)](https://www.merriam-webster.com)
+[![Thesaurus](https://img.shields.io/badge/Thesaurus-Thesaurus.com-0A0C0D?style=neon&logo=readthedocs&logoColor=3ee7ff)](https://www.thesaurus.com)
 
 ---
 
