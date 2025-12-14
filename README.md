@@ -365,7 +365,7 @@ Where symbolism becomes physics, and cognition recursive.
 
 #### Run via GPT➾Polyrifringence Engine Expert🤖
 📥 **Access:**  
-[**👉 Launch the Polyrifringence Engine Expert GPT**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+[**👉 Click to Launch the Polyrifringence Engine in a new window**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
 This repository is accompanied by an interactive knowledge base through a GPT using a Custom Instruction Set, utilizing the full documentation of this repo, including this readme - ready to answer queries, explain physics, or and guide the user through the repo, able to explain what's what in beginner form through to advanced - complex based on user preference, just ask.
 
@@ -408,10 +408,14 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
  ⚠️`Using it without an account, you may lose your chat history and your work/progress`⚠️
 
 **An Active ChatGPT membership will enrich your overall experience, Free Tier is Great - Plus is Recommended for Deep dives**
-
-<a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert">
-  <img src="https://img.shields.io/badge/Open_in-ChatGPT_(Custom_Model)-56E9DB?style=neon&logo=openai&logoColor=56E9DB" width="300">
+---
+<a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert" target="_blank" rel="noopener">
+  <img 
+    src="https://img.shields.io/badge/Open_in_New_Window-Polyrifringence_GPT-56E9DB?style=neon&logo=openai&logoColor=3ee7ff&labelColor=111111&color=3ee7ff" 
+    width="640">
 </a>
+
+---
 
 🤖 **Purpose:**  
 An embedded assistant Specialized in the Polyrifringence Engine to help better understand through your queries.
@@ -3612,7 +3616,7 @@ If in doubt, ask - discourse is always preferable to assumption.
 
 ---
 
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Engine_Expert-56E9DB?style=neon&logo=openai&logoColor=56E9DB)
+![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Custom_GPT-56E9DB?style=neon&logo=github&logoColor=56E9DB&labelColor=0A0C0D&color=111111)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/subscription">
     <img src="https://img.shields.io/github/watchers/Wotcnt/Polyrifringence-Engine?style=social&label=Add-Watchlist&color=E6A756&logo=auth0&logoColor=E6A756">
