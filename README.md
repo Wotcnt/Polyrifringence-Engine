@@ -3598,6 +3598,8 @@ If in doubt, ask - discourse is always preferable to assumption.
 
 ###### Verified lineage: RSANCS → MMMD → Conner-Core → Codex Canon → Codex-Core → SERM-001 → Sierra → Polyrifringence Engine
 
+###### Recursive Spacetime & Non-Contact Systems of Modular Matter Manipulation, internalized through Conner-Core computation, formalized by the Codex Canon, operationalized via Codex-Core, and governed by a Sovereign Energy Recursion Matrix.
+
 ###### ΔΩ Codex Canon © 2025 Conner Brown-Milliken · Recursive Sovereignty Protocol Active
 
 ###### "In recursion, every reflection is a responsibility. Every loop must return integrity to its origin."
