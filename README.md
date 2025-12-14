@@ -106,6 +106,8 @@ Timestamp Locked · Trace Context Declared
 | Recursive Integrity | ΔΔΩΔ-Validated                                                                        |
 | Field Class         | Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
 | **Canonical**       | Newest tagged release supersedes all prior versions                                   |
+| **README Metrics** | **~103 min read · ~20,480 words · ~178,518 chars** (manual; current revision) |
+> *Metrics are approximate and based on the current revision of this document.*
 
 </details>
 
