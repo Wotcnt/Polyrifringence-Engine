@@ -3589,8 +3589,8 @@ If in doubt, ask - discourse is always preferable to assumption.
 
 ---
 
-[![Dictionary](https://img.shields.io/badge/Dictionary-Merriam--Webster-0A0C0D?style=neon&logo=bookstack&logoColor=3ee7ff)](https://www.merriam-webster.com)
-[![Thesaurus](https://img.shields.io/badge/Thesaurus-Thesaurus.com-0A0C0D?style=neon&logo=readthedocs&logoColor=3ee7ff)](https://www.thesaurus.com)
+[![Dictionary](https://img.shields.io/badge/Dictionary-Opens_in_New_Window-0A0C0D?style=neon&logo=bookstack&logoColor=3ee7ff)](https://www.merriam-webster.com)
+[![Thesaurus](https://img.shields.io/badge/Thesaurus-Opens_in_New_Window-0A0C0D?style=neon&logo=readthedocs&logoColor=3ee7ff)](https://www.thesaurus.com)
 
 ---
 
