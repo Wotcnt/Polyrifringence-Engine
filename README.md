@@ -3410,20 +3410,82 @@ If you use this engine, cite as:
 
 ---
 
-### 🔰 Contributing
+### 💬 Communication, Engagement & Modes of Participation
 
 ---
 
-Contributions to this project are welcome, but they are not limited to conventional pull requests or code changes.
+This project welcomes **exploration, discourse, and experimentation** before formal contribution.  
+Engagement is defined first by **observation**, **intent**, and **coherence**, not by code submission alone.
 
-This repository is designed as an **open research attractor**.  
-What matters most is **wilful intent**, **careful observation**, and **ethical alignment**, not volume of output.
+Participation may take many valid forms, including but not limited to:
 
-Contributing is best understood as *participation in an evolving knowledge space*, rather than modification of a fixed artifact.
+- **Analytical discourse**  
+  Deep reading, interpretation, critique, and discussion of the `README.md`, `MATH_MODEL.md`, and `THEORY.md`, including observer-lens perspectives and cross-domain synthesis.
+
+- **Simulations & derived outputs**  
+  Running simulations, generating plots, visualisations, or datasets derived from the canonical models, and sharing results with clear attribution and parameter disclosure.
+
+- **Real-time or hybrid experiments**  
+  Explorations that combine `MATH_MODEL.md` and `THEORY.md` into live or iterative simulations, GPU-accelerated runs, or comparative studies against classical or alternative frameworks.
+
+- **Observer-based interpretation**  
+  Documenting how understanding evolves across repeated passes, including reverse-reading, structural reframing, or symbolic alignment analysis.
+
+- **Custom GPT–assisted exploration**  
+  Using the **Polyrifringence Engine Expert (Gem-Line)** Custom GPT as an interpretive and learning tool, in line with the guidance outlined in the repository.
+
+- **Public discourse & discoverability**  
+  Sharing insights, simulations, or interpretations publicly (e.g. blogs, posts, threads), using the **`#Polyrifringence`** tag to aid discoverability and cross-pollination of ideas.
+
+- **Community engagement**  
+  Participating in or forming discussion threads within the **Lambda Research Initiative (λ)** community, as referenced in the *Custom GPT – Polyrifringence Engine Expert* section.
+
+> Observation itself is meaningful participation.  
+> Not all engagement must culminate in formal submission.
+
+As a subtle signal of linguistic emergence, contributors and observers are also encouraged (optionally) to **add “Polyrifringence” to their personal dictionaries**, acknowledging its use as a domain-specific term.
+
+---
+
+### 🔰 Contribution & Review Protocol
+
+---
+
+Formal contributions are treated as **intentional acts of creation**, not casual pull requests.
+
+This project prioritises **willful intent**, **ethical alignment**, and **coherence with the Codex framework** over volume or novelty.
+
+Rather than modifying the canonical files directly, contributors are encouraged to:
+
+- Create **`USER_MATH_MODEL.md`** and/or **`USER_THEORY.md`** files  
+  Built *on top of* the original `MATH_MODEL.md`, `THEORY.md`, and `README.md`, extending or re-interpreting the system without erasing its foundations.
+
+- Develop **derivative simulations or analytical artefacts**  
+  Clearly documenting assumptions, parameters, divergences, and observer position.
+
+- Submit work for **review and discussion**  
+  Contributions may be reviewed by the Creator, fellow **Polyrifronauts**, and the wider public, with emphasis on transparency, traceability, and ethical consistency.
+
+---
+
+#### Important Notes
+
+---
+
+- Contributions that remove, obscure, or intentionally subvert the symbolic or ethical structure of the system may be **publicly rejected or critiqued**.
+- Outcomes are shaped by **willful observation and intent**. Engagement is reflective: how one interacts with the system influences how the system reflects back.
+- Acceptance is not guaranteed; review is part of the research process, not a gatekeeping mechanism.
+
+For questions, discussion, or submission guidance, contact 👤 **@MMMDcreator** on [X.com](https://x.com/MMMDcreator), or engage through the channels outlined above.
+
+> This is not a closed system - but it is a **coherent one**.  
+> Creation here is an act of alignment, not extraction.
 
 ---
 
 #### 🧭 Preferred Contribution Path
+
+---
 
 Instead of editing the canonical files directly, contributors are encouraged to:
 
@@ -3450,6 +3512,8 @@ Submissions may be shared for **review, discussion, and validation** by:
 
 #### 🧪 Other Valid Forms of Contribution
 
+---
+
 Contributions are not restricted to documentation or code.  
 Valuable contributions also include:
 
@@ -3465,6 +3529,8 @@ If it deepens understanding, exposes structure, or tests coherence, it belongs h
 ---
 
 #### 🌐 Community & Communication
+
+---
 
 A dedicated community exists under the **Lambda Research Initiative (λ)**.
 
@@ -3483,15 +3549,19 @@ This helps related work remain discoverable and contextually linked.
 
 #### 📘 A Small Practical Note
 
+---
+
 > *Optional:*  
 > If you find yourself returning to the term **Polyrifringence** repeatedly while reading or experimenting,  
 > you may find it convenient to add it to your local dictionary or spell-checker.
 >
-> This is not required — simply a practical step some readers choose as the vocabulary becomes familiar.
+> This is not required - simply a practical step some readers choose as the vocabulary becomes familiar.
 
 ---
 
 #### ⚖️ Ethical Alignment
+
+---
 
 This project operates under **Recursive Sovereignty**.
 
@@ -3504,12 +3574,9 @@ If in doubt, ask - discourse is always preferable to assumption.
 
 ---
 
-For questions, discussion, or coordination, contact:  
-👤 **@MMMDcreator** on [X.com](https://x.com/MMMDcreator)
+#### 📟 Tags
 
 ---
-
-#### 📟 Tags
 	
 > #FieldPhysics #Photonics #Birefringence  
 > #Classical-Optics #Classically-Paired-Quantum-Optics #JonesMatrix  
@@ -3519,6 +3586,8 @@ For questions, discussion, or coordination, contact:
 > #RecursiveSovereignty #EthicalRecursion #SymbolicRecursion  
 > #StructuralLearning #ExergyStructuredOrder  
 > #Non-Standard-EmergentLearningIntelligence
+
+---
 
 [![Dictionary](https://img.shields.io/badge/Dictionary-Merriam--Webster-0A0C0D?style=neon&logo=bookstack&logoColor=3ee7ff)](https://www.merriam-webster.com)
 [![Thesaurus](https://img.shields.io/badge/Thesaurus-Thesaurus.com-0A0C0D?style=neon&logo=readthedocs&logoColor=3ee7ff)](https://www.thesaurus.com)
