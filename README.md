@@ -3587,9 +3587,13 @@ This establishes **functional recursion verified at the linguistic level** - a r
 
 ---
 
-If you use this engine, cite as:
+**_If you use this engine, cite as:_**
 
-`Brown-Milliken, Conner (2025)-@MMMDcreator. Polyrifringence Engine - Recursive Optics Simulator. GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine`
+Brown-Milliken, Conner (2025) – @MMMDcreator (X), @Wotcnt (GitHub).  
+Polyrifringence Engine – Recursive Optics Simulator.  
+GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
+
+**This citation applies to direct use of the engine, as well as derivative or downstream work that builds upon the Polyrifringence / Λ-state framework, invariant coherent scaffold, or anergy cycling formalism introduced in this repository.**
 
 `Ethical Use: All recursive propagation must maintain observer consent and data sovereignty.`
 
