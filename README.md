@@ -269,7 +269,9 @@ Timestamp Locked · Trace Context Declared
 
 **`THEORY.md and MATH_MODEL.md will be uploaded to the repository by December 31st, 2025. These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`**
 
-**`ENGINE.py and BENCHMARKS.md will follow in Q1 2026, completing the engine implementation and providing performance validation.`**
+**`ENGINE.py, BENCHMARKS.md, Viewer.py will follow in Q1 2026, completing the engine implementation and providing performance validation.`**
+
+`Understanding this engine requires engaging README.md, THEORY.md, and MATH_MODEL.md as a single canonical artifact; partial or siloed readings are non‑canonical and will not yield a valid interpretation of the system.`​
 
 _`Thank you for your patience and engagement as we move toward full system release.`_
 
