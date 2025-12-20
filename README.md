@@ -253,20 +253,25 @@ Timestamp Locked · Trace Context Declared
 ---
 <div align="center">
 
-###  💬 Creator Note
+### 💬 Creator Note
 
 ---
 
-###### **View the README.md on GitHub in the REPO for an interactive experience with drop-down section titles, and clickable badges.**
-###### **Interactive Badges: Authors X.com Profile, GitHub Repo Link, Run Viewer, Polyrifringence Expert GPT.** 
-###### **Some math that doesn't render properly I've placed in clickable badges that open in Browser to display them.**
-###### **On Tablets and Mobiles: the math displays in this readme.md may not render properly, for visual clarity best viewed on GitHub in the repo on desktop**
+###### **View the README.md on GitHub in the REPO for an interactive experience with drop-down section titles and clickable badges.**
+###### **Interactive badges include: Author’s X.com profile, GitHub repository link, Run Viewer, and Polyrifringence Expert GPT.**
+###### **Some mathematical expressions that do not render consistently in markdown have been placed in clickable badges that open in-browser for correct display.**
+###### **On tablets and mobile devices, certain mathematical notation may not render as intended; for best visual clarity, view the README.md on GitHub via desktop.**
 
-**`THEORY.md and MATH_MODEL.md will be uploaded to the repository by December 31st, 2025. These documents will provide the foundational theoretical underpinnings and mathematical models of the Polyrifringence Engine.`**
+> **Note on terminology:**  
+> The term *observer* is used throughout this project in both formal and explanatory contexts.  
+> Its precise mathematical meaning, as a non-anthropic reference frame, boundary condition, or constraint, is defined in **THEORY.md §(Scope & Non-Claims)**.  
+> Narrative references to observers, including users or AI, are semantic conveniences only and do not imply agency, consciousness, or causal influence.
 
-**`ENGINE.py and BENCHMARKS.md will follow in Q1 2026, completing the engine's functionality and providing performance verification.`**
+**`THEORY.md and MATH_MODEL.md will be uploaded to the repository by December 31st, 2025. These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`**
 
-_`Thank you for your patience and engagement as we move forward with full system release.`_
+**`ENGINE.py and BENCHMARKS.md will follow in Q1 2026, completing the engine implementation and providing performance validation.`**
+
+_`Thank you for your patience and engagement as we move toward full system release.`_
 
 ---	
 ### **🜁 Codex Introduction 🜃** 
