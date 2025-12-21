@@ -267,6 +267,13 @@ Timestamp Locked · Trace Context Declared
 > Its precise mathematical meaning, as a non-anthropic reference frame, boundary condition, or constraint, is defined in **THEORY.md §(Scope & Non-Claims)**.  
 > Narrative references to observers, including users or AI, are semantic conveniences only and do not imply agency, consciousness, or causal influence.
 
+> **Note on implementations and benchmarks:**  
+> Engine implementations, benchmarks, and CLI surfaces in this repository are **versioned research artifacts**, not canonical claims. They are intentionally hardware-agnostic and domain-agnostic, and may be **superseded, reimplemented, or independently reproduced** without affecting the canonical theory or mathematical model.
+>
+> Benchmarks are provided as **templates for falsification and independent evaluation**, not as fixed performance assertions. Readers are encouraged to run their own benchmarks, substitute alternative implementations, or test the framework under different substrates, constraints, and execution environments.
+>
+> The canonical reference for this work remains **THEORY.md** and **MATH_MODEL.md**. No revision of an engine implementation alters the underlying theoretical or mathematical claims.
+
 **`THEORY.md and MATH_MODEL.md will be uploaded to the repository by December 31st, 2025. These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`**
 
 **`ENGINE.py, BENCHMARKS.md, Viewer.py will follow in Q1 2026, completing the engine implementation and providing performance validation.`**
@@ -1562,7 +1569,7 @@ Here are 12 key use cases and examples of how to manipulate the system or incorp
    **Example:** Implement the observer-state modulation feature to ensure ethical feedback when interacting with AI systems.  
    - **Code Snippet:**  
      ```bash
-     python polyrifringence_engine_v8_10.py --ai-feedback --gems chalcedony,beryl --num_rays 50000 --out_csv results/observer_feedback.csv
+     python polyrifringence_engine_v8_10.py --ai_feedback --gems chalcedony,beryl --num_rays 50000 --out_csv results/observer_feedback.csv
      ```
 
 7. **Thermal Cavitic Plasma Simulation**  
@@ -1604,7 +1611,7 @@ Here are 12 key use cases and examples of how to manipulate the system or incorp
     **Example:** Deploy the **Observer-Feedback** protocol to enhance cognitive functions in an AI system, ensuring all feedback loops are ethical and aligned with user intent.  
     - **Code Snippet:**  
       ```bash
-      python polyrifringence_engine_v8_10.py --ai-feedback --observer-phase --gems emerald,amethyst --num_rays 150000 --out_csv results/ethical_cognitive_enhancement.csv
+      python polyrifringence_engine_v8_10.py --ai_feedback --observer-phase --gems emerald,amethyst --num_rays 150000 --out_csv results/ethical_cognitive_enhancement.csv
       ```
 
 ---
@@ -2339,7 +2346,7 @@ python src/polyrifringence_engine_v8_10.py \
   --accum kahan \
   --tilts=-10:10:2 \
   --spread_mrad 0.5 \
-  --ai-feedback \
+  --ai_feedback \
   --batch 8 \
   --export_pair \
   --out_csv logs_omega_load.csv
@@ -2358,7 +2365,7 @@ $cfgs = @(
   "--num_rays 5e8 --depth 12 --recursion-feedback 0.85 --precision FP32 --accum kahan",
   "--num_rays 1e9 --depth 14 --recursion-feedback 0.90 --precision TF32 --accum pairwise",
   "--num_rays 2e8 --depth 10 --recursion-feedback 0.95 --precision FP64 --accum neumaier",
-  "--num_rays 3e8 --depth 16 --recursion-feedback 1.00 --precision FP32 --accum kahan --ai-feedback"
+  "--num_rays 3e8 --depth 16 --recursion-feedback 1.00 --precision FP32 --accum kahan --ai_feedback"
 )
 $ts = Get-Date -Format "yyyyMMdd_HHmm"
 $outdir = "examples/Ω_runs/$ts"; New-Item -ItemType Directory -Path $outdir | Out-Null
