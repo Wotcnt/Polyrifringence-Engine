@@ -297,13 +297,32 @@ _`Thank you for your patience and engagement as we move toward full system relea
  **Note on prior knowledge and entry conditions**  
 
 ---
-
 >  
 > This project assumes readers arrive with prior domain knowledge. That knowledge is necessary — but not sufficient.  
 >  
 > Prior knowledge should be treated as **scaffolding, not as a prison**: a temporary structure that enables orientation and entry, not a fixed interpretive frame imposed on the system.  
 >  
 > Readers unwilling to suspend preconceived models long enough to engage with the system on its own terms will inevitably misinterpret it. This is not a failure of explanation, but a failure of entry.
+
+---
+
+ **On engagement and capacity alignment**  
+
+---
+>  
+> Good-faith engagement is not universal engagement.  
+>  
+> It depends on factors such as:
+>  
+>⦃
+>*cognitive style*
+>*interpretive strength*
+>*tolerance for abstraction*
+>*willingness to suspend prior frames*
+>⦄
+>  
+> This is no different from other human domains of understanding.  
+> Just as cooking depends on taste, timing, and feel — not merely following a recipe — meaningful engagement here depends on alignment between the reader’s mode of reasoning and the system’s constraints.
 
 ---	
 ### **🜁 Codex Introduction 🜃** 
