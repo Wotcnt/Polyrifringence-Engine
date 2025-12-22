@@ -287,7 +287,7 @@ All trademarks, names, and logos remain the property of their respective owners 
 ---
 <div align="center">
 
-### 💬 Creator Note
+### 💬 Creator Note:
 
 ---
 
@@ -328,7 +328,7 @@ _`Thank you for your patience and engagement as we move toward full system relea
 
 ---
 
- **Note on prior knowledge and entry conditions**  
+ **Note on prior knowledge and entry conditions:**  
 
 ---
 >  
@@ -340,7 +340,7 @@ _`Thank you for your patience and engagement as we move toward full system relea
 
 ---
 
- **On engagement and capacity alignment**  
+ **Note on engagement and capacity alignment:**  
 
 ---
 >  
