@@ -358,6 +358,28 @@ _`Thank you for your patience and engagement as we move toward full system relea
 > This is no different from other human domains of understanding.  
 > Just as cooking depends on taste, timing, and feel — not merely following a recipe — meaningful engagement here depends on alignment between the reader’s mode of reasoning and the system’s constraints.
 
+---
+
+**Inquiry Policy:**  
+
+---
+>  
+> Public discussion is intentionally limited.  
+>  
+> The README.md, THEORY.md, and MATH_MODEL(RENDER).md are provided for independent verification and falsification.  
+>  
+> Exploratory, speculative, or informal outreach is not responded to.  
+>  
+> Serious inquiries must demonstrate:  
+>  
+>⦃  
+> *familiarity with the full documentation*  
+> *a specific technical question or falsification attempt*  
+> *a clear intent beyond information gathering*  
+>⦄  
+>  
+> Access beyond public materials is granted selectively and at my discretion.
+
 ---	
 ### **🜁 Codex Introduction 🜃** 
 ---
