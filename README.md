@@ -3788,12 +3788,16 @@ If in doubt, ask - discourse is always preferable to assumption.
 	
 > #FieldPhysics #Photonics #Birefringence  
 > #Classical-Optics #Classically-Paired-Quantum-Optics #JonesMatrix  
-> #GPUComputing #CPUXGPUComputing #INCEPTION-CPUXGPUMIRRORING  
-> #CUDA #PyTorch #TensorSystems #TensorXCUDA-CoreSimulation  
-> #RecursiveSystems #ObserverAwareRecursion #FeedbackCoherence  
+> #GPUComputing #HeterogeneousComputing  
+> #CUDA #PyTorch #TensorSystems #TensorCUDA  
+> #RecursiveSystems #FeedbackCoherence #Observer-Constrained-Recursion  
 > #RecursiveSovereignty #EthicalRecursion #SymbolicRecursion  
-> #StructuralLearning #ExergyStructuredOrder  
-> #Non-Standard-EmergentLearningIntelligence
+> #StructuralAdaptation #ExergyStructuredOrder
+
+📘 Conceptual / Canonical Terms
+
+(Formally defined in THEORY.md)
+> #ObserverAwareRecursion #CPUXGPUMirroring
 
 ---
 
