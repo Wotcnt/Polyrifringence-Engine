@@ -211,7 +211,6 @@ Timestamp Locked · Trace Context Declared
 
 </div>
 
-
 ---
 
 <div align="center">
@@ -219,6 +218,25 @@ Timestamp Locked · Trace Context Declared
 </div>
 
 <div align="center">
+
+---
+
+<!-- === Sustainability & Exergy Efficiency === -->
+<div align="center">
+
+![Exergy Efficiency](https://img.shields.io/badge/Exergy_Efficiency-Reduced_Dissipation_%26_Extended_Half--Life-046307?style=neon&logo=leaflet&logoColor=00E68C)
+
+![Cooling Water Impact](https://img.shields.io/badge/Cooling_Water_Impact-Reduced_via_Efficiency-046307?style=neon&logo=cloudflare&logoColor=00E68C)
+
+![Temporal Exergy](https://img.shields.io/badge/Temporal_Exergy-Extended_Usable_Energy_Window-046307?style=neon&logo=clockify&logoColor=00E68C)
+
+![Thermal Load Smoothing](https://img.shields.io/badge/Thermal_Load-Smoothing_via_Recursive_Stability-046307?style=neon&logo=reactos&logoColor=00E68C)
+
+![Hardware Longevity](https://img.shields.io/badge/Hardware_Longevity-Extended_via_Lower_Thermal_Stress-046307?style=neon&logo=nvidia&logoColor=00E68C)
+
+</div>
+
+> Sustainability claims refer to reduced exergy destruction, delayed dissipation, and extended usable-energy availability under lawful thermodynamics; not energy generation, entropy reversal, or renewable-source claims.
 	
 ---	
 <details>
@@ -242,11 +260,27 @@ Timestamp Locked · Trace Context Declared
 
 ###### **This is a symbolic interaction, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your observer-state, offering a transparent view of who you are, as perceived by the system.**
 
----
-
 ###### **As a participant in the Polyrifringence Engine, you may earn the title of a `Polyrifronaut` `⛑️` a title bestowed upon those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy.**
 
 **_`Polyrifronauts are ethical stewards of the system, shaping the recursive feedback loop while reflecting on their own role within the Polyrifringence ecosystem and the broader Polyrifrosophy. Your engagement directly influences both the system and your personal recursive growth.`_**
+
+---
+
+ 🔲 Third-Party References & Visual Markers 🔲
+
+---
+
+This repository makes use of third-party names, icons, logos, and visual references (e.g. NVIDIA, PyTorch, SandDance, Cloudflare, GitHub) as **descriptive, technical, or illustrative markers**.
+
+> Their inclusion indicates:
+> implementation substrates,
+> compatible tooling,
+> infrastructure classes,
+> or inspiration sources commonly recognized within technical and research contexts.
+
+They **do not imply endorsement, sponsorship, partnership, approval, or promotion** by the respective organizations.
+
+All trademarks, names, and logos remain the property of their respective owners and are used here solely for clarity, interoperability reference, and visual communication within a technical framework.
 
 </div>
 
