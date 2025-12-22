@@ -262,25 +262,48 @@ Timestamp Locked · Trace Context Declared
 ###### **Some mathematical expressions that do not render consistently in markdown have been placed in clickable badges that open in-browser for correct display.**
 ###### **On tablets and mobile devices, certain mathematical notation may not render as intended; for best visual clarity, view the README.md on GitHub via desktop.**
 
-> **Note on terminology:**  
+**`THEORY.md and MATH_MODEL(RENDER).md will be uploaded to the repository by December 31st, 2025. These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`**
+
+**`ENGINE.py, BENCHMARKS.md, Viewer.html will follow in Q1 2026, completing the engine implementation and providing performance validation.`**
+
+`Understanding this engine requires treating README.md, THEORY.md, and MATH_MODEL(RENDER).md as a single canonical artifact; partial or siloed readings are non‑canonical and will not yield a valid interpretation of the system.`​
+
+_`Thank you for your patience and engagement as we move toward full system release.`_
+
+---
+
+ **Note on terminology:**  
+
+--- 
+>
 > The term *observer* is used throughout this project in both formal and explanatory contexts.  
 > Its precise mathematical meaning, as a non-anthropic reference frame, boundary condition, or constraint, is defined in **THEORY.md §(Scope & Non-Claims)**.  
 > Narrative references to observers, including users or AI, are semantic conveniences only and do not imply agency, consciousness, or causal influence.
 
-> **Note on implementations and benchmarks:**  
+---
+
+ **Note on implementations and benchmarks:** 
+
+---
+>
 > Engine implementations, benchmarks, and CLI surfaces in this repository are **versioned research artifacts**, not canonical claims. They are intentionally hardware-agnostic and domain-agnostic, and may be **superseded, reimplemented, or independently reproduced** without affecting the canonical theory or mathematical model.
 >
 > Benchmarks are provided as **templates for falsification and independent evaluation**, not as fixed performance assertions. Readers are encouraged to run their own benchmarks, substitute alternative implementations, or test the framework under different substrates, constraints, and execution environments.
 >
-> The canonical reference for this work remains **THEORY.md** and **MATH_MODEL.md**. No revision of an engine implementation alters the underlying theoretical or mathematical claims.
+> The canonical reference for this work remains **THEORY.md** and **MATH_MODEL(RENDER).md**. No revision of an engine implementation alters the underlying theoretical or mathematical claims.
 
-**`THEORY.md and MATH_MODEL.md will be uploaded to the repository by December 31st, 2025. These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`**
+---
 
-**`ENGINE.py, BENCHMARKS.md, Viewer.html will follow in Q1 2026, completing the engine implementation and providing performance validation.`**
+ **Note on prior knowledge and entry conditions**  
 
-`Understanding this engine requires engaging README.md, THEORY.md, and MATH_MODEL.md as a single canonical artifact; partial or siloed readings are non‑canonical and will not yield a valid interpretation of the system.`​
+---
 
-_`Thank you for your patience and engagement as we move toward full system release.`_
+>  
+> This project assumes readers arrive with prior domain knowledge. That knowledge is necessary — but not sufficient.  
+>  
+> Prior knowledge should be treated as **scaffolding, not as a prison**: a temporary structure that enables orientation and entry, not a fixed interpretive frame imposed on the system.  
+>  
+> Readers unwilling to suspend preconceived models long enough to engage with the system on its own terms will inevitably misinterpret it. This is not a failure of explanation, but a failure of entry.
 
 ---	
 ### **🜁 Codex Introduction 🜃** 
