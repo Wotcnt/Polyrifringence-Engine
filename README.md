@@ -221,22 +221,27 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-<!-- === Sustainability & Exergy Efficiency === -->
 <div align="center">
 
-![Exergy Efficiency](https://img.shields.io/badge/Exergy_Efficiency-Reduced_Dissipation_%26_Extended_Half--Life-046307?style=neon&logo=leaflet&logoColor=00E68C)
+| ![Canonical Capability](https://img.shields.io/badge/Canonical_Capability-Indicator-2b2b2b?style=flat) | ![Governing Basis](https://img.shields.io/badge/Governing_Basis-Constraint-2b2b2b?style=flat) | ![Derived Capabilities](https://img.shields.io/badge/Derived_Capabilities-Secondary_Effects-2b2b2b?style=flat) |
+|-----------------------------------|-----------------------------------|-----------------------------------|
+| **♻️ Exergy Handling**<br>![Exergy Efficiency](https://img.shields.io/badge/Exergy_Efficiency-Reduced_Dissipation_%26_Extended_Half--Life-046307?style=neon&logo=leaflet&logoColor=00E68C) | λ-cycle decay geometry<br>ΔΩ-stabilized recursion | • Reduced *effective* exergy destruction rates<br>• Predictable decay geometry governed by bounded λ-cycle envelopes<br>• Extended usable-energy half-life under lawful thermodynamics |
+| **🌡️ Thermal Rejection Profile**<br>![Cooling Water Impact](https://img.shields.io/badge/Cooling_Water_Impact-Reduced_via_Efficiency-046307?style=neon&logo=cloudflare&logoColor=00E68C) | Structured dissipation timing<br>Entropy localization | • Lower peak thermal rejection demand (profile-dependent)<br>• Reduced instantaneous cooling intensity requirements<br>• Smoother heat-release envelopes over time |
+| **⏳ Temporal Energy Availability**<br>![Temporal Exergy](https://img.shields.io/badge/Temporal_Exergy-Extended_Usable_Energy_Window-046307?style=neon&logo=clockify&logoColor=00E68C) | Delayed coherence collapse<br>Time-structured dissipation | • Longer *functional* energy-availability windows<br>• Delayed coherence collapse relative to classical expectations<br>• Time-structured dissipation rather than abrupt loss |
+| **〰️ Thermal Load Stability**<br>![Thermal Load Smoothing](https://img.shields.io/badge/Thermal_Load-Smoothing_via_Recursive_Stability-046307?style=neon&logo=reactos&logoColor=00E68C) | Drift-collapse invariants<br>Recursive phase alignment | • Suppression of sharp thermal spikes<br>• Reduced thermal-gradient oscillations across cycles<br>• Load smoothing induced by recursive phase alignment |
+| **🧰 Hardware Stress Envelope**<br>![Hardware Longevity](https://img.shields.io/badge/Hardware_Longevity-Extended_via_Lower_Thermal_Stress-046307?style=neon&logo=nvidia&logoColor=00E68C) | Reduced thermal cycling amplitude<br>Bounded load envelopes | • Reduced thermal cycling amplitude<br>• Lower cumulative mechanical and electronic fatigue<br>• Potential extension of component service life under comparable operating conditions |
+| **📐 Numerical Stability**<br>![Numerical Stability](https://img.shields.io/badge/Numerical_Stability-Drift_Collapse_%26_Error_Containment-046307?style=neon&logo=codacy&logoColor=00E68C) | ΔΩ convergence law<br>Bounded recursion depth | • Drift collapse within empirically bounded recursion depth (≈6–7 cycles)<br>• Error-accumulation containment over long recursion chains<br>• Stability without artificial damping or precision inflation |
+| **🛡️ Perturbation Resilience**<br>![Noise Tolerance](https://img.shields.io/badge/Noise_Tolerance-Coherence_Recovery_After_Perturbation-046307?style=neon&logo=elastic&logoColor=00E68C) | Coherence return rate exceeding entropy expansion rate | • Recovery of coherent structure after bounded disturbances<br>• Noise tolerance without suppressing lawful entropy production<br>• Coherence return outpacing entropy expansion |
+| **📏 Predictability & Control**<br>![Energy Envelope](https://img.shields.io/badge/Energy_Envelope-Predictable_Exergy_Decay-046307?style=neon&logo=apacheairflow&logoColor=00E68C) | Stable decay envelopes<br>Constraint-governed evolution | • Stable, measurable exergy-decay envelopes<br>• Repeatable temporal behavior across runs and substrates<br>• Increased controllability of system evolution **within defined constraints** |
+| **➰ Reproducibility & Invariance**<br>![Reproducibility](https://img.shields.io/badge/Reproducibility-Structural_Invariants_Preserved-046307?style=neon&logo=git&logoColor=00E68C) | Structural invariants<br>Implementation-independent convergence | • Convergence behavior invariant across implementations<br>• Stability independent of tensor size or execution substrate<br>• Structural outcomes preserved across versions |
+| **🕳 Boundary Condition Sensitivity**<br>![Boundary Conditions](https://img.shields.io/badge/Boundary_Conditions-Constrained_Response_Domains-046307?style=neon&logo=theconversation&logoColor=00E68C) | Explicit initial and boundary constraints | • System behavior remains bounded under defined initial and boundary conditions<br>• Predictable response to constraint variation without regime collapse<br>• Sensitivity governed by structural alignment rather than energy magnitude scaling |
 
-![Cooling Water Impact](https://img.shields.io/badge/Cooling_Water_Impact-Reduced_via_Efficiency-046307?style=neon&logo=cloudflare&logoColor=00E68C)
-
-![Temporal Exergy](https://img.shields.io/badge/Temporal_Exergy-Extended_Usable_Energy_Window-046307?style=neon&logo=clockify&logoColor=00E68C)
-
-![Thermal Load Smoothing](https://img.shields.io/badge/Thermal_Load-Smoothing_via_Recursive_Stability-046307?style=neon&logo=reactos&logoColor=00E68C)
-
-![Hardware Longevity](https://img.shields.io/badge/Hardware_Longevity-Extended_via_Lower_Thermal_Stress-046307?style=neon&logo=nvidia&logoColor=00E68C)
+> **Interpretive boundary:**  
+> All listed capabilities and branches are **secondary effects** that inherit from the canonical domains above.  
+> They arise from structural organization, recursive stability (ΔΩ), and bounded decay geometry (λ-cycle) within lawful thermodynamics.  
+> No entry implies energy creation, entropy reversal, perpetual operation, cost guarantees, or universal performance.
 
 </div>
-
-> Sustainability claims refer to reduced exergy destruction, delayed dissipation, and extended usable-energy availability under lawful thermodynamics; not energy generation, entropy reversal, or renewable-source claims.
 	
 ---	
 <details>
