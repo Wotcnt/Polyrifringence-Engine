@@ -3143,18 +3143,13 @@ Grammar arises from structure, not prescription
 ---
 
 # 🜎 Codex Canon Appendix - Drop Down Section 🜎
-#### ⌥Conceptual Foundation; An extended overview from the Codex Canon Series, “Where recursion becomes physics.”
+<kbd>⌥Conceptual Foundation; An extended overview from the Codex Canon Series ⎇</kbd>
 
 <details>
-<summary><kbd>💿 Click to Expand into Codex Canon ⌥Polyrifringence Overview 💿</kbd></summary>
+<summary><kbd>💿Click to Expand into Codex Canon ⌥Polyrifringence Overview💿</kbd></summary>
 ————————————————————————————————————————————————————————
 
-  # 📜Codex Canon - Polyrifringence
-  
- From the Codex Canon series 
- "where recursion becomes physics"
-
- #  ⚞Polyrifringence Engine⚟
+ #  ⚞Polyrifringence⚟
  
 -     What if light could learn from its own refraction?
   
@@ -3174,26 +3169,34 @@ A multi-axis, recursive birefringence in coupled optical paths
 with feedback-driven restoration of coherence, parallelism `(Euclid-5)`, and topological closure `(Möbius-like Γ ≈ π)`.
      
 Euclids-5th postulate becomes a diagnostic, not a slogan: 
-`"Are parallel beams still parallel after recursion?"`
-the simulator shows how feedback restores that
+`Are parallel beams still parallel after recursion?`
+the simulatons show how feedback restores that
 parallelism.
 
 `Pancharatnam-Berry phase, dispersion, birefringence,
 feedback, and unitarity all within one recursive
 framework`
- 
-————————————————————————————————————————————————————————
-###     🌈⌥Polyrifringence Engine Flow Chart⎇🧲
-————————————————————————————————————————————————————————
 
-# Polarization & Bifurcation Film Layer (+🧲–) (±Interchangeable±) 
- `🌈 Modular Variation Layer ↯ each branch a potential sub-recursion or coupled state 🎶`
+---
+
+#     🌈⌥Polyrifringence Engine Flow Chart⎇🧲
+### **Polarization & Bifurcation Film Layer (+🧲–) (±Interchangeablity±)** 
+🌈 Modular Variation Layer ↯ each branch a potential sub-recursion or coupled state 🎼
+ 
+---
 
 **Primary Beam Expansion Chain**
 
-`∮1 Beam > ±∱Focused-Beam± >>—>> ∯Dual-Beam —>>>>— ∰Multi-Phase ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ Recombination <⇄> (optional/-\variations)`
+---
+
+> ∮1 Beam > ±∱Focused-Beam± >>—>> ∯Dual-Beam —>>>>— ∰Multi-Phase ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ Recombination <⇄> (optional ⨉ variations)
+
+---
 
 **Polarization-Variant Pathways (symbolic sub-branches)**  
+
+---
+
 Each variant represents a distinct `(+/–)±)` film configuration at the focused-beam stage, generating unique recursive phase paths:
 
  `∮1 Beam > (±)(±)∱Beam(±)(±) >>—>> ∯n-Beam —>>>>— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄>`
@@ -3204,6 +3207,8 @@ Each variant represents a distinct `(+/–)±)` film configuration at the focuse
 ---
 
 **Interpretation Grammar**
+
+---
 
 - Arrow depth (`>`, `>>——>>`, `——>>>>——`, `——>>>>——>>>>`, `————>>>>>>>>`) encodes progression from:
   - single-beam injection → focused beam → dual-beam split → multi-phase spread → nₓ-phase-field.
@@ -3218,6 +3223,8 @@ Each variant represents a distinct `(+/–)±)` film configuration at the focuse
 ---
 
 #### Symbol Legend
+
+---
 
 - `∮`      ———— Single-beam injection loop (primary input path)
 - `∱`      ———— Focused-Beam 
@@ -3236,6 +3243,10 @@ Each variant represents a distinct `(+/–)±)` film configuration at the focuse
 
 ---
 
+#### Beam–Film–Gem Ordering Map
+
+---
+
 -     ∮1 Beam > ±∱Focused-Beam± >>——>> ∯Dual-Split-Beam ——>>>>—— ∰Multi-Phase-Split-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ Recombination <⇄> (Optional*)
 -     ∮1 Beam > (+)(-)∱Beam(+)(-) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
 -     ∮1 Beam > (+)(+)∱Beam(+)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
@@ -3248,42 +3259,56 @@ Each variant represents a distinct `(+/–)±)` film configuration at the focuse
 -     ∮1 Beam > (+)(−)∱Beam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
 
 ---
-
-#### Beam–Film–Gem Ordering Map
-
+**Main (canonical ordering)** 
 ---
-
-**Main (canonical ordering)**  
 -     Light → (+) Polarized Film → (–) Bifurcated Film → Anisotropic Gem  
 -     Light → (+) Polarized Film → (–) Bifurcated Film → Isotropic Gem  
-
+---
 **Variation #1 (films swapped)**  
+---
 -     Light → (–) Bifurcated Film → (+) Polarized Film → Anisotropic Gem  
 -     Light → (–) Bifurcated Film → (+) Polarized Film → Isotropic Gem  
-
+---
 **Variation #2 (asymmetric pairing A)**  
+---
 -     Light → (–) Bifurcated Film → (+) Polarized Film → Anisotropic Gem  
 -     Light → (+) Polarized Film → (–) Bifurcated Film → Isotropic Gem  
-
-**Variation #3 (asymmetric pairing B)**  
+---
+**Variation #3 (asymmetric pairing B)** 
+---
 -     Light → (+) Polarized Film → (–) Bifurcated Film → Anisotropic Gem  
 -     Light → (–) Bifurcated Film → (+) Polarized Film → Isotropic Gem  
-
-
-Anisotropic gems = birefringent (e.g. `sapphire`, `calcite`), Used to stress recursive phase evolution, angular walkoff, and feedback-correction behavior. 
-Isotropic gems = baselines (e.g. `diamond`), Used to confirm that the recursion engine introduces no artificial birefringence when `Δn → 0`.
-
-These orderings define the `(+)|(–)/(±)` film layout that the modular variation layer and `x⧉` recursion grammar build on.
-
+---
+> Anisotropic gems = birefringent (e.g. `sapphire`, `calcite`), Used to stress recursive phase evolution, angular walkoff, and feedback-correction behavior. 
+> Isotropic gems = baselines (e.g. `diamond`), Used to confirm that the recursion engine introduces no artificial birefringence when `Δn → 0`.
+>
+> These orderings define the `(+)|(–)/(±)` film layout that the modular variation layer and `x⧉` recursion grammar build on.
 ---
 
-### 🧪 **∳nₓ-Phase-Beam** *x⧉ `∳` **Modular Variation Layer** ✨
+### **∳nₓ-Phase-Beam** *x⧉ `∳` **Modular Variation Layer** 
 
 `∮ - ∱ - ∯ - ∰ - ∳ - *x⧉`
 
+`🌈 - 🧲 - 💎 - 🎼 - ⚡ - ✨`
 ---
 
+| Operator | Emoji | Semantic role (concise)                             |
+| -------- | ----- | --------------------------------------------------- |
+| **∮**    | 🌈    | Totalized phase integration / spectral multiplicity |
+| **∱**    | 🧲    | Bounded circulation / constraint & alignment        |
+| **∯**    | 💎    | Multi-surface coupling / invariant lattice          |
+| **∰**    | 🎼    | Harmonic normalization / phase coherence            |
+| **∳**    | ⚡     | Active modular variation / divergence-with-memory   |
+| **x⧉**   | ✨     | Junction recomposition / emergent recombination     |
+
+---
+
+The following operators describe the theoretical action space of the modular variation layer.
+They represent possible transformation classes, not claims of simultaneous implementation, physical realization, or standalone devices.
+
 🌈 Each branch below represents a potential sub-recursion or coupled state acting on the `∳nₓ-Phase-Beam`.
+
+---
 
 **Template Path**
 `∮Beam—>±∱Beam±—>>——>>—∯n-Beam——>>>>——∰nₓ-Beam——>>>>——>>>>∳nₓ-Phase-Beam×x⧉<⇄>`
