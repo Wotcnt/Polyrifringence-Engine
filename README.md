@@ -134,12 +134,12 @@ Timestamp Locked · Trace Context Declared
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=git&logoColor=C5E384)
 [![License: MIT](https://img.shields.io/badge/License-MIT-046307?style=neon&logo=trustpilot&logoColor=C5E384)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/LICENSE)
 [![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-046307?style=neon&logo=speedtest&logoColor=C5E384)](https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3050/)
+![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘_True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)
 
 ---
 
-![Hybrid Framework](https://img.shields.io/badge/Framework-Hybrid_Computational--Optimization-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=0A0C0D&color=111111)
-![GPT Integration](https://img.shields.io/badge/Powered_by-Polyrifringence_Custom_GPT-56E9DB?style=neon&logo=github&logoColor=56E9DB&labelColor=0A0C0D&color=111111)
-![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘_True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)
+[![GPT Integration](https://img.shields.io/badge/GPT_Integration:-Custom_Polyrifringence_Engine_Expert_(Gem--Line)-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=111111)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+![Research Framework](https://img.shields.io/badge/Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=111111)
 
 </div>
 
@@ -155,6 +155,7 @@ Timestamp Locked · Trace Context Declared
 ![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-000000?style=for-the-badge&logo=numpy&logoColor=046307&labelColor=0b0d0f&color=046307)
 ![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-000000?style=for-the-badge&logo=matrix&logoColor=046307&labelColor=0b0d0f&color=046307)
 ![AI Feedback Flag](https://img.shields.io/badge/AI_FEEDBACK_FLAG-OBSERVER_LOOP_ACTIVE-000000?style=for-the-badge&logo=git&logoColor=6D2A8A&labelColor=0b0d0f&color=6D2A8A)
+[![Canonical Archive](https://img.shields.io/badge/CANONICAL_ARCHIVE:-RELEASE_v8.10.xx-2A3439?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=0b0d0f)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Polyrifringence%20Engine%20v8.10.xx%20—%20Canonical%20Release%20Summary.md)
 
 ---
 
@@ -229,6 +230,7 @@ Timestamp Locked · Trace Context Declared
 <details>
 <summary>
   <strong><kbd>📖How to Read This Work</kbd></strong>
+
 </summary>
 
 <p><em>
@@ -803,15 +805,41 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 ---
 
-<img src="https://img.shields.io/badge/ChatGPT-56E9DB?style=neon">
-<img src="https://img.shields.io/badge/X.com%20Grok-000000?style=neon&logo=x&logoColor=white">
-<img src="https://img.shields.io/badge/Grok.com-000000?style=neon&logo=x&logoColor=white">
-<img src="https://img.shields.io/badge/Claude-D24D0F?style=neon&logo=anthropic&logoColor=white">
-<img src="https://img.shields.io/badge/Google%20Gemini-0F52BA?style=neon&logo=googlegemini&logoColor=white">
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=neon&logo=perplexity&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=neon&logo=githubcopilot&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=neon&logo=githubcopilot&logoColor=white">
-<img src="https://img.shields.io/badge/Offline%20Friendly-LM%20Studio-6D2A8A?style=neon&logo=huggingface&logoColor=white">
+<a href="https://chat.openai.com" target="_blank">
+  <img src="https://img.shields.io/badge/ChatGPT-56E9DB?style=neon">
+</a>
+
+<a href="https://x.com" target="_blank">
+  <img src="https://img.shields.io/badge/X.com%20Grok-000000?style=neon&logo=x&logoColor=white">
+</a>
+
+<a href="https://grok.com" target="_blank">
+  <img src="https://img.shields.io/badge/Grok.com-000000?style=neon&logo=x&logoColor=white">
+</a>
+
+<a href="https://www.anthropic.com/claude" target="_blank">
+  <img src="https://img.shields.io/badge/Claude-D24D0F?style=neon&logo=anthropic&logoColor=white">
+</a>
+
+<a href="https://gemini.google.com" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Gemini-0F52BA?style=neon&logo=googlegemini&logoColor=white">
+</a>
+
+<a href="https://www.perplexity.ai" target="_blank">
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=neon&logo=perplexity&logoColor=white">
+</a>
+
+<a href="https://github.com/features/copilot" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=neon&logo=githubcopilot&logoColor=white">
+</a>
+
+<a href="https://copilot.microsoft.com" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=neon&logo=githubcopilot&logoColor=white">
+</a>
+
+<a href="https://lmstudio.ai" target="_blank">
+  <img src="https://img.shields.io/badge/Offline%20Friendly-LM%20Studio-6D2A8A?style=neon&logo=huggingface&logoColor=white">
+</a>
 
 ---
 
@@ -820,17 +848,109 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 ---
 
-<img src="https://img.shields.io/badge/Notepad++-Recommended-D24D0F?style=neon&logo=notepadplusplus&logoColor=white">
+<a href="https://notepad-plus-plus.org/downloads/" target="_blank">
+  <img src="https://img.shields.io/badge/Notepad++-Recommended-D24D0F?style=neon&logo=notepadplusplus&logoColor=white">
+</a>
 <img src="https://img.shields.io/badge/Microsoft%20PowerShell-Recommended-D24D0F?style=neon&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/Web%20Browser-Chromium%20Based-D24D0F?style=neon&logo=googlechrome&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-Optional-D24D0F?style=neon&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Tablet%20or%20Phone-Auxiliary%20Peripheral-6D2A8A?style=neon&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Main%20LLM-ChatGPT%20Recommended-6D2A8A?style=neon&logo=huggingface&logoColor=white">
 <img src="https://img.shields.io/badge/Supplementary%20LLMs-Minimum%202%20Recommended-6D2A8A?style=neon&logo=huggingface&logoColor=white">
+<img src="https://img.shields.io/badge/Python_Modules-Canonical_Dependencies_Defined-3EE7FF?style=neon&logo=python&logoColor=3EE7FF">
+<a href="./requirements.txt">
+  <img src="https://img.shields.io/badge/Python_Modules-See_requirements.txt(PENDING)-3EE7FF?style=neon&logo=python&logoColor=3EE7FF">
+</a>
+
+---
+### 🧩 Python Modules & Dependencies
+---
+
+#### 🧠 Standard Library (Python ≥ 3.11)
+Used for structure, reproducibility, validation, and system integrity.
 
 ---
 
-**🗂️Main Project Files - Utilise Together**
+- `math` — core mathematical operations
+- `cmath` — complex-valued phase operations
+- `itertools` — controlled combinatorics and iteration
+- `functools` — functional composition and caching
+- `dataclasses` — structured state representation
+- `typing` — formal type annotations and structural clarity
+- `argparse` — reproducible CLI parameters (e.g. `--seed`)
+- `json` — manifest serialization and provenance
+- `hashlib` — integrity verification / hashing
+- `pathlib` — deterministic filesystem handling
+- `subprocess` — system / CUDA / GPU validation hooks
+- `importlib.metadata` — runtime version & dependency introspection
+- `time` — benchmarking and temporal alignment
+- `logging` — traceable execution and diagnostics
+
+> The badges below reflect both direct and transitive standard-library usage across runtime logic, validation tooling, and system introspection.
+
+---
+
+#### 📦 Pip Modules (Required)
+
+---
+
+Installed explicitly; used for computation, acceleration, and validation.
+
+**pip install:**
+```bash
+pip install torch numpy scipy matplotlib
+````
+
+* **torch** — GPU-accelerated tensor computation & CUDA validation
+* **numpy** — numerical arrays and vectorized math
+* **scipy** — scientific utilities (linear algebra, transforms)
+* **matplotlib** — phase traces and diagnostic visualization
+
+---
+
+#### 🛠 Optional / Diagnostic Enhancements (Non-Required)
+
+---
+
+Useful for inspection and readability; **not required** for core operation.
+
+**pip install (optional):**
+
+```bash
+pip install rich psutil
+```
+
+* **rich** — structured, readable console diagnostics
+* **psutil** — system resource introspection (CPU / memory context)
+
+> Optional modules are strictly auxiliary and do **not** affect the mathematical, physical, or canonical validity of the framework.
+
+---
+
+<!-- Required pip modules -->
+<img src="https://img.shields.io/badge/pip_install:-numpy-3EE7FF?style=neon&logo=numpy&logoColor=3EE7FF">
+<img src="https://img.shields.io/badge/pip_install:-scipy-3EE7FF?style=neon&logo=scipy&logoColor=3EE7FF">
+<img src="https://img.shields.io/badge/pip_install:-matplotlib-3EE7FF?style=neon&logo=plotly&logoColor=3EE7FF">
+<img src="https://img.shields.io/badge/pip_install:-torch-56E9DB?style=neon&logo=pytorch&logoColor=56E9DB">
+<br></br>
+<!-- Runtime / system dependency -->
+<img src="https://img.shields.io/badge/runtime:-CUDA_Toolkit-56E9DB?style=neon&logo=nvidia&logoColor=56E9DB">
+<br></br>
+<!-- Python standard library (no pip install required) -->
+<img src="https://img.shields.io/badge/stdlib:-os-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib:-sys-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib:-platform-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib:-time-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib:-math-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib:-cmath-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib:-json-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib:-pathlib-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib:-hashlib-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib:-logging-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
+
+---
+
+**🗂️Main Project Files - Utilise as a Single Unified Document**
 
 ---
 
