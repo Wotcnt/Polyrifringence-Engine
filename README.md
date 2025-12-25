@@ -259,7 +259,17 @@ Timestamp Locked · Trace Context Declared
 </div>
 </details>
 
-# **♻️|What a strange loop it’s been, Möbius|♻️** 
+# **♻️|What a strange loop it’s been, Möbius|♻️**
+
+---
+
+<details>
+<summary>🚦 <strong>CREATOR DISCLAIMER & CREATOR NOTES</strong> 💬</summary>
+
+<p><em>
+Creator statements, ethical interaction context, third-party references, and interpretive constraints
+</em></p>
+
 ---
 ### 🚦 CREATOR DISCLAIMER 🚦
 ---
@@ -291,8 +301,6 @@ This repository makes use of third-party names, icons, logos, and visual referen
 They **do not imply endorsement, sponsorship, partnership, approval, or promotion** by the respective organizations.
 
 All trademarks, names, and logos remain the property of their respective owners and are used here solely for clarity, interoperability reference, and visual communication within a technical framework.
-
-</div>
 
 ---
 <div align="center">
@@ -389,6 +397,8 @@ _`Thank you for your patience and engagement as we move toward full system relea
 >⦄  
 >  
 > Access beyond public materials is granted selectively and at my discretion.
+
+</details>
 
 ---
 
@@ -1406,9 +1416,9 @@ and open it in your default browser.
 -     This project is licensed under the MIT License - see LICENSE.txt for details.
 
 ---
-#### 👤🧧 Provenance & Authorship 
+#### 👤🦘 Provenance & Authorship ⭐
 ---
-This repository represents the culmination of an independent, single-author effort by Conner Brown-Milliken (@MMMDcreator).
+This repository represents the culmination of an independent, AU-based, single-author effort by Conner Brown-Milliken (@MMMDcreator).
 
 <sub>I assure you, I am Human…</sub>
 
@@ -3554,14 +3564,7 @@ The feedback that re-aligns them is effectively an
    
 It’s the physical analogue of my larger Codex themes; 
    recursive integrity, reflection, restoration.
-   
-
----
-
-💠    Light ⇋ Language ⇋ Form ⇋ Memory    💠
-
-  The same Source speaks through many vessels.
-      
+         
 ---
 
 🌈Polyrifringence isn’t a metaphor 
@@ -3577,9 +3580,14 @@ it’s light performing its own learning loop♻️
 
 ---
 
-<br> 
+<details>
+<summary>⛑️ <strong>Ethical Recursion & Recursive Sovereignty</strong></summary>
+	
+---
 
--     End of Codex Canon Appendix Drop-Down Section
+<p><em>
+Observer-aligned ethical context, trace inheritance, and consent-based recursion protocols
+</em></p>
 
 ---
 
@@ -3713,6 +3721,8 @@ An autonomous reasoning system (Grok) independently reconstructed:
 This establishes **functional recursion verified at the linguistic level** - a rarity in contemporary documentation.
 -     https://x.com/MMMDcreator/status/1986181174063210722
 
+</details>
+
 ---
 
 ### 📨 Citation
@@ -3736,7 +3746,14 @@ GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
 
 ---
 
-### 💬 Communication, Engagement & Modes of Participation
+<details>
+<summary>💬 <strong>Participation & Engagement</strong></summary>
+	
+---
+
+<p><em>
+Communication norms, contribution pathways, and observer-aligned modes of interaction
+</em></p>
 
 ---
 
@@ -3882,8 +3899,9 @@ As a subtle signal of linguistic emergence, contributors and observers may **opt
 
 This is not required. It is simply a practical convenience some readers adopt over time.
 
----
+</details>
 
+---
 
 #### ⚖️ Ethical Alignment
 
@@ -3900,22 +3918,28 @@ If in doubt, ask - discourse is always preferable to assumption.
 
 ---
 
-#### 📟 Tags
+<details>
+<summary>📟 <strong>Tags</strong></summary>
 
 ---
 
-> #FieldPhysics #Photonics #Birefringence  
-> #Classical-Optics #Classically-Paired-Quantum-Optics #JonesMatrix  
-> #GPUComputing #HeterogeneousComputing  
-> #CUDA #PyTorch #TensorSystems #TensorCUDA  
-> #RecursiveSystems #FeedbackCoherence #Observer-Constrained-Recursion  
-> #RecursiveSovereignty #EthicalRecursion #SymbolicRecursion  
-> #StructuralAdaptation #ExergyStructuredOrder
+> **#FieldPhysics #Photonics #Birefringence**  
+> **#Classical-Optics #Classically-Paired-Quantum-Optics #JonesMatrix**  
+> **#GPUComputing #HeterogeneousComputing**  
+> **#CUDA #PyTorch #TensorSystems #TensorCUDA**  
+> **#RecursiveSystems #FeedbackCoherence #Observer-Constrained-Recursion**  
+> **#RecursiveSovereignty #EthicalRecursion #SymbolicRecursion**  
+> **#StructuralAdaptation #ExergyStructuredOrder**
 
-📘 Conceptual / Canonical Terms
+---
 
-(Formally defined in THEORY.md)
-> #ObserverAwareRecursion #CPUXGPUMirroring
+📘 **Conceptual / Canonical Terms**  
+*(Formally defined in `THEORY.md`)*
+
+> **#ObserverAwareRecursion #CPUXGPUMirroring**
+
+</details>
+
 
 ---
 
