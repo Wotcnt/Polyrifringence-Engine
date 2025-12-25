@@ -119,22 +119,21 @@ Timestamp Locked · Trace Context Declared
 <!-- === Row 1 — Technical Environment === -->
 <div align="center">
 	
-![Torch GPU](https://img.shields.io/badge/Made_with-PyTorch2.5.1_+_CUDA_12.1-D24D0F?style=neon&logo=python&logoColor=D24D0F)
-![Python](https://img.shields.io/badge/Python-3.11+-D24D0F?style=neon&logo=python&logoColor=D24D0F)
+![Torch GPU](https://img.shields.io/badge/Made_with-PYTORCH_2.5.1_+_CUDA_12.1-D24D0F?style=neon&logo=python&logoColor=D24D0F)
+![Python](https://img.shields.io/badge/PYTHON-3.11+-D24D0F?style=neon&logo=python&logoColor=D24D0F)
 ![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-D24D0F?style=neon&logo=git&logoColor=D24D0F)
-[![Run Viewer](https://img.shields.io/badge/Run-Phase_Trace_Viewer-2A3439?style=neon&logo=protonvpn&logoColor=2A3439)](launch_phase_viewer.ps1)
-![UI](https://img.shields.io/badge/UI-SandDance_Inspired-2A3439?style=neon&logo=protonvpn&logoColor=2A3439)
-![Build](https://img.shields.io/badge/Build-Passing-B31B1B?style=neon&logo=codecov&logoColor=B31B1B)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-E6A756?style=neon&logo=github&logoColor=E6A756)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main) 
-![Scientific Tier](https://img.shields.io/badge/Scientific_Tier-5.7_Research%E2%80%93Lab_Hybrid-E6A756?style=neon&logo=codeforces&logoColor=E6A756)
+![Project Status](https://img.shields.io/badge/Project_Status-Active_Development-D24D0F?style=neon&logo=git&logoColor=D24D0F)
+![VIEWER_UI](https://img.shields.io/badge/Viewer_UI-SandDance_Inspired-2A3439?style=neon&logo=protonvpn&logoColor=2A3439)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-2A3439?style=neon&logo=github&logoColor=3ee7ff)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main) 
+![Scientific Tier](https://img.shields.io/badge/Scientific_Tier:_5.7-Codex_Research-0F52BA?style=neon&logo=codeforces&logoColor=0F52BA)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
-![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-E6A756?style=neon&logo=auth0&logoColor=white)
-![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-E6A756?style=neon&logo=auth0&logoColor=black)
+![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-D7C7A2?style=neon&logo=auth0&logoColor=white)
+![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-D7C7A2?style=neon&logo=auth0&logoColor=black)
 ![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-Intentionally_Clamped-046307?style=neon&logo=nvidia&logoColor=C5E384)
 ![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-046307?style=neon&logo=numpy&logoColor=C5E384)
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=git&logoColor=C5E384)
-![License: MIT](https://img.shields.io/badge/License-MIT-046307?style=neon&logo=trustpilot&logoColor=C5E384)
-[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-046307?style=neon&logo=nvidia&logoColor=C5E384)](examples/bench_6213.csv)
+[![License: MIT](https://img.shields.io/badge/License-MIT-046307?style=neon&logo=trustpilot&logoColor=C5E384)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/LICENSE)
+![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-046307?style=neon&logo=speedtest&logoColor=C5E384)
 
 ---
 
