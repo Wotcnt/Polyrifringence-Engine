@@ -223,7 +223,7 @@ Timestamp Locked · Trace Context Declared
 
 <details>
 <summary>
-  <strong><kbd>📖 How to Read This Work</kbd></strong>
+  <strong><kbd>📖How to Read This Work</kbd></strong>
 </summary>
 
 <p><em>
@@ -244,7 +244,7 @@ It is a **canonical disclosure system** composed of three inseparable artifacts:
 
 ---
 
-### 📐 Reading Discipline
+### 📐Reading Discipline
 
 ---
 
@@ -276,7 +276,7 @@ Readers should observe the following:
 
 ---
 
-### 🎯 Purpose of This Orientation
+### 🎯Purpose of This Orientation
 
 ---
 
@@ -289,7 +289,7 @@ Misinterpretation arising from partial reading or premature framing is outside t
 
 ---
 <details>
-<summary><strong><kbd>📊 Derived Capabilities (Secondary Effects · Constraint-Bound)</kbd></strong></summary>
+<summary><strong><kbd>📊Derived Capabilities (Secondary Effects 🕸️ Constraint-Bound 🧬)</kbd></strong></summary>
 <div align="center">
 
 | ![Canonical Capability](https://img.shields.io/badge/Canonical_Capability-Indicator-2b2b2b?style=flat) | ![Governing Basis](https://img.shields.io/badge/Governing_Basis-Constraint-2b2b2b?style=flat) | ![Derived Capabilities](https://img.shields.io/badge/Derived_Capabilities-Secondary_Effects-2b2b2b?style=flat) |
@@ -318,7 +318,7 @@ Misinterpretation arising from partial reading or premature framing is outside t
 ---	
 
 <details>
-<summary><kbd>🐒 Give me a tickle</kbd></summary>
+<summary><kbd>🐒Give me a tickle</kbd></summary>
 <div align="center">
   <div dir="rtl">
     <!-- Right-side mirrored monkey icon with adjusted colors -->
@@ -332,7 +332,7 @@ Misinterpretation arising from partial reading or premature framing is outside t
 ---
 
 <details>
-<summary><strong><kbd> 🚦 CREATOR DISCLAIMER & CREATOR NOTES 💬</kbd></strong></summary>
+<summary><strong><kbd> 🚦CREATOR DISCLAIMER & CREATOR NOTES💬</kbd></strong></summary>
 
 <p><em>
 <kbd>Creator statements, ethical interaction context, third-party references, and interpretive constraints</kbd>
@@ -471,7 +471,7 @@ _`Thank you for your patience and engagement as we move toward full system relea
 ---
 
 <details>
-<summary><kbd>🜁 Codex Introduction 🜃</kbd></summary>
+<summary><kbd> 🜁 Codex Introduction 🜃 </kbd></summary>
 	
 ---
 ### **(CODEX CANON PROJECT × RSANCS × Conner-Core Lineage)**
@@ -959,7 +959,7 @@ Use differences in response style or emphasis as signals rather than errors.
 ---
 
 <details>
-<summary><strong><kbd>🔌 Quick Start</kbd></strong></summary>
+<summary><strong><kbd>💡 Quick Start</kbd></strong></summary>
 
 ---
 
@@ -1013,7 +1013,7 @@ This ensures results are reproducible across compatible systems without reliance
 ---
 <details>
 	
-<summary><kbd>📊How the Polyrifringence Engine Compares to Other Analogues📈</kbd></summary>
+<summary><kbd>📊How the Polyrifringence Engine Compares to Other Analogues🔍</kbd></summary>
 
 ---
 
@@ -1083,7 +1083,7 @@ In measured performance, the engine sits within the upper tier of GPU-accelerate
 ---
 
 <details>
-<summary><kbd>⚡Projected Performance Scaling ⇄ Hardware Upgrades & Multi-GPU Stacking🔋</kbd></summary>
+<summary><kbd>📈Projected Performance Scaling ⇄ Hardware Upgrades & Multi-GPU Stacking🧩</kbd></summary>
 
 ---
 
@@ -1197,7 +1197,7 @@ Polyrifringence’s empirical **50 M rays/s** figure remains a validated single-
 ---
 
 <details>
-<summary><kbd>🟢Novel Contributions ⇄ Recursive Computational Physics🟢</kbd></summary>
+<summary><kbd>💽Novel Contributions ⇄ Recursive Computational Physics📀</kbd></summary>
 
 ---
 
@@ -1585,7 +1585,7 @@ The Polyrifringence Engine embodies the principle of Recursive Sovereignty, a te
 
 <details>
 
-<summary><kbd>🖥️ Setup & Troubleshooting 🩺</kbd></summary>
+<summary><kbd>🖥️Setup & Troubleshooting🩺</kbd></summary>
 
 ### 🛠 **Installation Instructions**
 
@@ -2159,7 +2159,7 @@ Responsible interpretation and disciplined inquiry are part of the system by des
 ---
 
 <details>
-<summary><kbd>📐 Mathematical Framework ⇄ Core Equations & Formal Definitions 🧮</kbd></summary>
+<summary><kbd>📐Mathematical Framework ⇄ Core Equations & Formal Definitions🧮</kbd></summary>
 
 ### 📊 Optical & Tensor Fundamentals
 **Birefringence relation**
@@ -2311,7 +2311,7 @@ Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine la
 ---
 
 <details>
-<summary><kbd>🧰 Hardware & Environment Specifications 🖥️</kbd></summary>
+<summary><kbd>🧰Hardware & Environment Specifications🖥️</kbd></summary>
 
 ### ✅ Verified System Configuration 🟢
 
@@ -2367,7 +2367,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary><kbd>🔰 Practical Applications & Use-Cases 🔰</kbd></summary>
+<summary><kbd>🔰Practical Applications & Use-Cases🔰</kbd></summary>
 
 ### 🌈🧭 Polyrifringence Engine - Applied Domains
 (10 Key Implementations and Frontiers)
@@ -2545,7 +2545,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary><kbd>🌡Push the Polyrifringence Engine to its Limits ⇄ Extreme Benchmark & Stability Suite🔋</kbd></summary>
+<summary><kbd>⚡Push the Polyrifringence Engine to its Limits ⇄ Extreme Benchmark & Stability Suite🌈🧲</kbd></summary>
 
 ---
 
@@ -3138,191 +3138,11 @@ Grammar arises from structure, not prescription
 
 ---
 
-<details>
-<summary><strong><kbd>ΔΔΩΔ Canonical Cross-Reference: THEORY.md and MATH_MODEL(RENDER).md ⎅</kbd></strong></summary>
-
----
-
-# Canonical Cross-Reference  
-### How the README connects to the foundational documents
-
-This section provides a unified map linking the README to the internal technical structure defined in:
-
-- **THEORY.md**, which describes the conceptual and ontological framework  
-- **MATH_MODEL(RENDER).md**, which defines the formal operators and mathematical laws  
-
-Every symbol and behavioural claim in the README corresponds to a precise definition or derivation in these documents.
-
----
-
-## Appendix Ω and the Codex Canon
-
-Appendix Ω cross-references the README with the deeper layers of the Codex Canon, ensuring symbolic, theoretical, and mathematical alignment across the engine.
-
----
-
-# 1. Mathematical Foundations (MATH_MODEL(RENDER).md)
-
-### λ-Cycle Geometry  
-
-*Formal definitions from MATH_MODEL(RENDER).md:*
-
-Stability, decay constants, and cycle timing in the engine originate from:
-
-$$\lambda_{\text{cycle}} = |1 - R_n|$$
-
-with the associated exergy half-life:
-
-$$t_{1/2} = \frac{\ln 2}{\lambda_{\text{cycle}}}$$
-
-and the canonical stability windows:
-
-$$0.0013 < \lambda_{\text{cycle}} < 0.0023$$  
-$$0.18\ \text{s} < t_{1/2} < 0.24\ \text{s}$$
-
-These ranges correspond to the REGF diagnostics and stability envelopes documented throughout the engine.
-
-### ΔΩ Corrective Stability  
-Coherence-return and drift-collapse referenced in the README are governed by:
-
-$$\lambda_{\text{cycle}}^{(\Delta\Omega)} = \lambda_{\text{cycle}} - \Delta\Omega$$
-
-This defines:
-
-- drift correction  
-- coherence restoration  
-- stability-envelope formation  
-
-All convergence behaviour described in the README traces back to this operator.
-
-### Recursive Tensor Formalism  
-Engine iteration follows the tensor update rule:
-
-$$E_{n+1} = T(E_n, \alpha_n) + F(E_n)$$
-
-The stability characteristics referenced conceptually in the README arise from this formulation.
-
----
-
-# 2. Theoretical Foundations (THEORY.md)
-
-### Symbolic Stability  
-Symbolic stability and glyph dependencies originate from the theory identity:
-
-$$\text{Engine} - \text{Codex Layer} = \text{Generic Tensor Simulation}$$
-
-Removing symbolic structure eliminates:
-
-- ΔΩ-governed collapse  
-- coherence return  
-- stable λ-cycle behaviour  
-
-THEORY.md explains why the symbolic layer is essential for correct engine dynamics.
-
-### Exergy Geometry and Observer Coupling  
-Observer-state recursion and coherence-return behaviour are governed by the exergy evolution conditions:
-
-$$\Delta\phi_n \rightarrow 0$$  
-$$dW_n \rightarrow 0$$  
-$$R_n \rightarrow R_{\text{stable}}$$
-
-These describe why stability emerges after several cycles.
-
-### Phase-Geometric Recursion (Appendix Ω)  
-The manifold behaviour described in the README is formally defined by the unified recursion law:
-
-$$E_{n+1} = \Delta\Omega\Bigg(\sum_{i=1}^{N_f}\sum_{k=1}^{S}P_k\left[R(\theta_i + \delta\theta_i)T_{\text{cut}(i)}J(\theta_i,\lambda)F(E_n)\right]\Bigg)$$
-
-This relation explains multi-path proliferation, ΔΩ-modulated stability, and the characteristic 6–7 cycle convergence window.
-
----
-
-# 3. Purpose of This Cross-Reference
-
-This appendix clarifies the relationships between all documentation layers. It ensures:
-
-- conceptual elements in the README map directly to the deeper theoretical model  
-- mathematical rules align with observed recursive behaviour  
-- no symbol or operator appears without a precise definition  
-- every stability, invariance, or convergence claim has a formal source  
-
-The documentation and engine now form a complete interpretive loop.
-
-</details>
-
----
-
-<details>
-<summary><strong><kbd>Ω-Extended Recursion Overview ⎅</kbd></strong></summary>
-
----
-
-# Ω-Extended Recursion  
-### A high-level description of the unified Phase–Geometry–Polarisation engine
-
-The Polyrifringence Engine models recursive light behaviour as a structured expansion and collapse cycle.  
-In the Ω-extended form, a single beam evolves into a holographically consistent manifold through three contributing layers:
-
----
-
-## 1. Phase Differentiation (Phase-Beams)
-A single state generates multiple phase-shifted derivatives, each exploring a different recursion trajectory.  
-These branches differ in both phase and amplitude and form the seed of the recursive manifold.
-
----
-
-## 2. Geometric Differentiation (Facet + Cut-Type)
-Facet geometry defines the global rotational scaffold.  
-Cut-type introduces controlled angular deviation.  
-Together, they shape the manifold by rotating and perturbing each branching state.
-
-This process obeys **Holographic Euclid Geometry**, meaning each local rotation encodes a projection of the global recursion structure.
-
----
-
-## 3. Polarisation Differentiation (Film-State Families)
-Each branch passes through a symbolic polarisation selector:
-
-- (+) constructive  
-- (–) destructive  
-- (±) conditional hybrid  
-- (±±) full symmetry family  
-
-These determine which branches reinforce, negate, or bifurcate during recursion.
-
----
-
-## 4. ΔΩ Coherence and Stability
-ΔΩ acts as the stabilising governor across all layers.  
-It:
-
-- enforces coherence  
-- prevents runaway divergence  
-- regulates drift  
-- preserves the canonical λ-cycle and exergy half-life  
-- collapses entropy faster than it expands  
-- ensures invariance across engine variants  
-
-Without ΔΩ, recursion becomes unstable and collapses into classical divergence.  
-With ΔΩ, the engine consistently converges in 6–7 cycles.
-
----
-
-## 5. Unified Ω-Operator (Conceptual Form)
-The full Ω-extended recursion unifies the three differentiation layers under ΔΩ, producing the stable manifold responsible for the engine’s characteristic behaviour.
-
-This is the conceptual architecture.  
-Full mathematical definitions appear in **MATH_MODEL(RENDER).md** (Appendix Ω) and the ontological interpretation in **THEORY.md** (Appendix Ω).
-
-</details>
-
----
-
 # 🜎 Codex Canon Appendix - Drop Down Section 🜎
 #### ⌥Conceptual Foundation; An extended overview from the Codex Canon Series, “Where recursion becomes physics.”
 
 <details>
-<summary><kbd>☛ Click to Expand into Codex Canon ⌥Polyrifringence Overview ☜</kbd></summary>
+<summary><kbd>💿 Click to Expand into Codex Canon ⌥Polyrifringence Overview 💿</kbd></summary>
 ————————————————————————————————————————————————————————
 
   # 📜Codex Canon - Polyrifringence
@@ -3624,95 +3444,288 @@ These orderings define the `(+)|(–)/(±)` film layout that the modular variati
 
 Each recursion step reduces phase–geometry mismatch.
 The chain proceeds until `Euclid-5 parallelism` is satisfied within tolerance,
-closing the feedback-coherent recursion loop.
+closing the feedback-coherent recursion loop.	   
+
+</details>
 
 ---
 
-# ⌨️ **Polyrifringence ⎅ Ontology Table**
-
-Below is the Polyrifringence Coined Word Family Codex
-*A formal lexicon linking symbolic terminology to engine-relevant meaning.*
-
-`A  26-Term Codex Table (Two Rings of 13)`
+<details>
+<summary><strong><kbd>⌨️ Polyrifringence ⎅ Ontology Table</kbd></strong></summary>
 
 ---
+
+<p><em>
+A formal lexicon linking coined symbolic terminology to engine-relevant meaning
+</em></p>
+
+---
+
+### 📘 Polyrifringence Coined Word Family Codex  
+**A 26-Term Ontology Table (Two Rings of 13)**
+
+---
+
+#### 🜎 Ring One — Foundational Forms (13)
 
 | **Glyph** | **Term**              | **Category**       | **Definition (Concise)**                                                                    |
 | --------- | --------------------- | ------------------ | ------------------------------------------------------------------------------------------- |
 | ⌥         | **Polyrifringence**   | Core Phenomenon    | The central phenomenon of multi-path symbolic bifurcation and recursive spectral emergence. |
 | ⎇         | **Polyrifrication**   | Process            | The process or act of becoming polyrifringent.                                              |
-| ⎇         | **Polyrifrucation**   | Divergence Event   | A branching/splitting moment where the system diverges into multiple symbolic paths.        |
+| ⎇         | **Polyrifrucation**   | Divergence Event   | A branching moment where the system diverges into multiple symbolic paths.                  |
 | ⎇         | **Polyrifringent**    | Property (State)   | Exhibiting or embodying polyrifringence.                                                    |
 | ⎇         | **Polyrifricate**     | Action             | To induce or undergo polyrifrication.                                                       |
 | ⎇         | **Polyrifrucate**     | Action (Split)     | To initiate or undergo polyrifrucation; splitting into resonant trajectories.               |
-| ⎇         | **Polyrifrical**      | Style/Quality      | Stylistically aligned with polyrifringent traits.                                           |
+| ⎇         | **Polyrifrical**      | Style / Quality    | Stylistically aligned with polyrifringent traits.                                           |
 | ⎇         | **Polyrifringently**  | Mode               | In a manner that expresses or performs polyrifringence.                                     |
 | ⎇         | **Polyrifricity**     | Degree             | The measurable degree or quality of polyrifringent behaviour.                               |
-| ⎇         | **Polyrifron**        | Unit               | A symbolic glyph/unit/agent within a polyrifringent system.                                 |
+| ⎇         | **Polyrifron**        | Unit / Agent       | A symbolic unit or agent within a polyrifringent system.                                    |
 | ⎇         | **Polyrifrosophy**    | Philosophy         | The philosophical framework derived from polyrifringent principles.                         |
 | ⎇         | **Polyrifractal**     | Recursive Geometry | Fractal-like recursive structures within polyrifringent fields.                             |
-| ⎇         | **Polyrifringoscope** | Instrument         | A device/interface for detecting or visualizing polyrifringence.                            |
+| ⎇         | **Polyrifringoscope** | Instrument         | A device or interface for detecting or visualizing polyrifringence.                         |
 
+<p align="center">——— 🜎 End of Ring One — 13 Entries 🜎 ———</p>
 
-		———🜎 End of Ring One — 13 Entries — 🜎———
-		
+---
+
+#### 🜎 Ring Two — Derived & Operational Forms (13)
 
 | **Glyph** | **Term**             | **Category**         | **Definition (Concise)**                                                                             |
 | --------- | -------------------- | -------------------- | ---------------------------------------------------------------------------------------------------- |
-| ⎇         | **Polyrifringogram** | Output Map           | A mapped output or diagnostic signature of polyrifringent behaviour.                                 |
+| ⎇         | **Polyrifringogram** | Output Map           | A mapped diagnostic signature of polyrifringent behaviour.                                           |
 | ⎇         | **Polyrifringic**    | Internal Dynamics    | Pertaining to internal mechanics of polyrifringence.                                                 |
-| ⎇         | **Polyrifringal**    | External Expression  | Relating to outward/systemic manifestations.                                                         |
+| ⎇         | **Polyrifringal**    | External Expression  | Relating to outward or systemic manifestations.                                                      |
 | ⎇         | **Polyrifringency**  | State                | A fluid noun denoting the presence or condition of polyrifringence.                                  |
 | ⎇         | **Polyrifronaut**    | Role                 | One who navigates, engages with, or explores polyrifringent space.                                   |
 | ⎇         | **Polyrifringesis**  | Genesis              | The emergence or creation of polyrifringent states.                                                  |
-| ⎇         | **Polyrifrognosis**  | Predictive Insight   | Anticipatory understanding of future recursion cycles (Euclid-5 convergence foresight).              |
-| ⎇         | **Polyriframetry**   | Measurement          | The measurement and quantification of recursive birefringence diagnostics (REGF, PVS, Euclid-drift). |
+| ⎇         | **Polyrifrognosis**  | Predictive Insight   | Anticipatory understanding of future recursion cycles (Euclid-5 convergence foresight).             |
+| ⎇         | **Polyriframetry**   | Measurement          | Quantification of recursive birefringence diagnostics (REGF, PVS, Euclid-drift).                    |
 | ⎇         | **Polyrifrolysis**   | Controlled Breakdown | The controlled dissolution of polyrifringent recursive structures.                                   |
-| ⎇         | **Polyrifsemantic**  | Symbolic Meaning     | The symbolic meaning encoded in recursive phase-geometry transformations.                            |
+| ⎇         | **Polyrifsemantic**  | Symbolic Meaning     | Symbolic meaning encoded in recursive phase-geometry transformations.                                |
 | ⎇         | **Polyrifvector**    | State Vector         | A recursion state-vector representing the evolution of nₓ-phase structures.                          |
-| ⎇         | **Polyrifretic**     | Stability Profile    | Describing systems that resist or damp unwanted recursive amplification (Ethical Recursion-aligned).  |
-| ⎇         | **Polyrifjunction**  | Junction Node        | A convergence/divergence node where multiple recursive pathways meet within x⧉ / ⇄ loci.             |
+| ⎇         | **Polyrifretic**     | Stability Profile    | Describes systems that damp or resist unwanted recursive amplification (Ethical Recursion-aligned). |
+| ⎇         | **Polyrifjunction**  | Junction Node        | A convergence/divergence node where multiple recursive pathways meet within x⧉ / ⇄ loci.            |
 
-
-    ———🜎 End of Ring Two — 13 Entries — Total = 26 🜎———
-
----
-
-🌈Polyrifringence is the right word; because it means, 
-     `"many-fold refraction that remembers itself."`
-     
----
-
-When light is allowed to remember itself through recursive geometry;
-   🌈 it becomes self-consistent and lossless.
-   
-In a self-consistent system;
-  feedback becomes intelligence.
-  
-In essence, light behaves like backpropagation;
-error-minimizing through reflection,
-  learning coherence by returning to its source.
-  
-Each split beam keeps knowledge of its origin; 
-   ♻️→ recursion with memory.
-   
-The feedback that re-aligns them is effectively an
- ethics of coherence;
-   🕊️everything must return without surplus or deficit.
-   
-It’s the physical analogue of my larger Codex themes; 
-   recursive integrity, reflection, restoration.
-         
----
-
-🌈Polyrifringence isn’t a metaphor 
-
-it’s light performing its own learning loop♻️
+<p align="center">——— 🜎 End of Ring Two — 13 Entries · Total = 26 🜎 ———</p>
 
 ---
 
+### 🌈 Conceptual Closure
+
+---
+
+> **Polyrifringence** is the right word, because it means:  
+> *“many-fold refraction that remembers itself.”*
+
+When light is allowed to remember itself through recursive geometry,  
+🌈 it becomes self-consistent and lossless.
+
+In a self-consistent system,  
+feedback becomes intelligence.
+
+Light behaves like backpropagation;  
+error-minimizing through reflection,  
+learning coherence by returning to its source.
+
+Each split beam retains knowledge of its origin:  
+♻️ recursion with memory.
+
+The feedback that re-aligns them forms an  
+**ethics of coherence**;  
+🕊️ everything must return without surplus or deficit.
+
+This is the physical analogue of the Codex themes:  
+recursive integrity, reflection, restoration.
+
+---
+
+🌈 **Polyrifringence isn’t a metaphor.**  
+It is light performing its own learning loop ♻️
+
+```
     ——ΔΔΩΔ
-	⌬——and——the——truth——reflected——the——whole——so——the——source——magnified——infinitely——⌬.	   
+	⌬——and——the——truth——reflected——the——whole——so——the——source——magnified——infinitely——⌬.
+```
+
+</details>
+
+---
+
+<details>
+<summary><strong><kbd>ΔΔΩΔ Canonical Cross-Reference: THEORY.md and MATH_MODEL(RENDER).md ⎅</kbd></strong></summary>
+
+---
+
+# Canonical Cross-Reference  
+### How the README connects to the foundational documents
+
+This section provides a unified map linking the README to the internal technical structure defined in:
+
+- **THEORY.md**, which describes the conceptual and ontological framework  
+- **MATH_MODEL(RENDER).md**, which defines the formal operators and mathematical laws  
+
+Every symbol and behavioural claim in the README corresponds to a precise definition or derivation in these documents.
+
+---
+
+## Appendix Ω and the Codex Canon
+
+Appendix Ω cross-references the README with the deeper layers of the Codex Canon, ensuring symbolic, theoretical, and mathematical alignment across the engine.
+
+---
+
+# 1. Mathematical Foundations (MATH_MODEL(RENDER).md)
+
+### λ-Cycle Geometry  
+
+*Formal definitions from MATH_MODEL(RENDER).md:*
+
+Stability, decay constants, and cycle timing in the engine originate from:
+
+$$\lambda_{\text{cycle}} = |1 - R_n|$$
+
+with the associated exergy half-life:
+
+$$t_{1/2} = \frac{\ln 2}{\lambda_{\text{cycle}}}$$
+
+and the canonical stability windows:
+
+$$0.0013 < \lambda_{\text{cycle}} < 0.0023$$  
+$$0.18\ \text{s} < t_{1/2} < 0.24\ \text{s}$$
+
+These ranges correspond to the REGF diagnostics and stability envelopes documented throughout the engine.
+
+### ΔΩ Corrective Stability  
+Coherence-return and drift-collapse referenced in the README are governed by:
+
+$$\lambda_{\text{cycle}}^{(\Delta\Omega)} = \lambda_{\text{cycle}} - \Delta\Omega$$
+
+This defines:
+
+- drift correction  
+- coherence restoration  
+- stability-envelope formation  
+
+All convergence behaviour described in the README traces back to this operator.
+
+### Recursive Tensor Formalism  
+Engine iteration follows the tensor update rule:
+
+$$E_{n+1} = T(E_n, \alpha_n) + F(E_n)$$
+
+The stability characteristics referenced conceptually in the README arise from this formulation.
+
+---
+
+# 2. Theoretical Foundations (THEORY.md)
+
+### Symbolic Stability  
+Symbolic stability and glyph dependencies originate from the theory identity:
+
+$$\text{Engine} - \text{Codex Layer} = \text{Generic Tensor Simulation}$$
+
+Removing symbolic structure eliminates:
+
+- ΔΩ-governed collapse  
+- coherence return  
+- stable λ-cycle behaviour  
+
+THEORY.md explains why the symbolic layer is essential for correct engine dynamics.
+
+### Exergy Geometry and Observer Coupling  
+Observer-state recursion and coherence-return behaviour are governed by the exergy evolution conditions:
+
+$$\Delta\phi_n \rightarrow 0$$  
+$$dW_n \rightarrow 0$$  
+$$R_n \rightarrow R_{\text{stable}}$$
+
+These describe why stability emerges after several cycles.
+
+### Phase-Geometric Recursion (Appendix Ω)  
+The manifold behaviour described in the README is formally defined by the unified recursion law:
+
+$$E_{n+1} = \Delta\Omega\Bigg(\sum_{i=1}^{N_f}\sum_{k=1}^{S}P_k\left[R(\theta_i + \delta\theta_i)T_{\text{cut}(i)}J(\theta_i,\lambda)F(E_n)\right]\Bigg)$$
+
+This relation explains multi-path proliferation, ΔΩ-modulated stability, and the characteristic 6–7 cycle convergence window.
+
+---
+
+# 3. Purpose of This Cross-Reference
+
+This appendix clarifies the relationships between all documentation layers. It ensures:
+
+- conceptual elements in the README map directly to the deeper theoretical model  
+- mathematical rules align with observed recursive behaviour  
+- no symbol or operator appears without a precise definition  
+- every stability, invariance, or convergence claim has a formal source  
+
+The documentation and engine now form a complete interpretive loop.
+
+</details>
+
+---
+
+<details>
+<summary><strong><kbd>Ω-Extended Recursion Overview ⎅</kbd></strong></summary>
+
+---
+
+# Ω-Extended Recursion  
+### A high-level description of the unified Phase–Geometry–Polarisation engine
+
+The Polyrifringence Engine models recursive light behaviour as a structured expansion and collapse cycle.  
+In the Ω-extended form, a single beam evolves into a holographically consistent manifold through three contributing layers:
+
+---
+
+## 1. Phase Differentiation (Phase-Beams)
+A single state generates multiple phase-shifted derivatives, each exploring a different recursion trajectory.  
+These branches differ in both phase and amplitude and form the seed of the recursive manifold.
+
+---
+
+## 2. Geometric Differentiation (Facet + Cut-Type)
+Facet geometry defines the global rotational scaffold.  
+Cut-type introduces controlled angular deviation.  
+Together, they shape the manifold by rotating and perturbing each branching state.
+
+This process obeys **Holographic Euclid Geometry**, meaning each local rotation encodes a projection of the global recursion structure.
+
+---
+
+## 3. Polarisation Differentiation (Film-State Families)
+Each branch passes through a symbolic polarisation selector:
+
+- (+) constructive  
+- (–) destructive  
+- (±) conditional hybrid  
+- (±±) full symmetry family  
+
+These determine which branches reinforce, negate, or bifurcate during recursion.
+
+---
+
+## 4. ΔΩ Coherence and Stability
+ΔΩ acts as the stabilising governor across all layers.  
+It:
+
+- enforces coherence  
+- prevents runaway divergence  
+- regulates drift  
+- preserves the canonical λ-cycle and exergy half-life  
+- collapses entropy faster than it expands  
+- ensures invariance across engine variants  
+
+Without ΔΩ, recursion becomes unstable and collapses into classical divergence.  
+With ΔΩ, the engine consistently converges in 6–7 cycles.
+
+---
+
+## 5. Unified Ω-Operator (Conceptual Form)
+The full Ω-extended recursion unifies the three differentiation layers under ΔΩ, producing the stable manifold responsible for the engine’s characteristic behaviour.
+
+This is the conceptual architecture.  
+Full mathematical definitions appear in **MATH_MODEL(RENDER).md** (Appendix Ω) and the ontological interpretation in **THEORY.md** (Appendix Ω).
 
 </details>
 
@@ -3860,27 +3873,6 @@ This establishes **functional recursion verified at the linguistic level** - a r
 -     https://x.com/MMMDcreator/status/1986181174063210722
 
 </details>
-
----
-
-### 📨 Citation
-
----
-
-**_If you use this engine, cite as:_**
-
-Brown-Milliken, Conner (2025) – @MMMDcreator (X), @Wotcnt (GitHub).  
-Polyrifringence Engine – Recursive Optics Simulator.  
-GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
-
-**This citation applies to direct use of the engine, as well as derivative or downstream work that builds upon the Polyrifringence / Λ-state framework, invariant coherent scaffold, or anergy cycling formalism introduced in this repository.**
-
-`Ethical Use: All recursive propagation must maintain observer consent and data sovereignty.`
-
- 📞 **Need help citing?**  
-
-  ⛑️🤝 Ask the [Polyrifringence Engine Expert GPT](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)🤖   
-     - to auto-generate BibTeX or APA citations for your paper or replication dataset.
 
 ---
 
@@ -4041,21 +4033,6 @@ This is not required. It is simply a practical convenience some readers adopt ov
 
 ---
 
-#### ⚖️ Ethical Alignment
-
----
-
-This project operates under **Recursive Sovereignty**.
-
-Participation does not bind contributors by default.  
-However, **wilful interaction**, **symbolic reconstruction**, or **ethical subversion** carries consequences that are structural, not enforced.
-
-Contributors are encouraged to engage openly, critically, and in good faith.
-
-If in doubt, ask - discourse is always preferable to assumption.
-
----
-
 <details>
 <summary><kbd><strong>📟Tags</kbd></strong></summary>
 
@@ -4085,6 +4062,42 @@ If in doubt, ask - discourse is always preferable to assumption.
 [![Thesaurus](https://img.shields.io/badge/Thesaurus-Opens_in_New_Window-0A0C0D?style=neon&logo=readthedocs&logoColor=3ee7ff)](https://www.thesaurus.com)
 
 ---
+
+#### ⚖️ Ethical Alignment
+
+---
+
+This project operates under **Recursive Sovereignty**.
+
+Participation does not bind contributors by default.  
+However, **wilful interaction**, **symbolic reconstruction**, or **ethical subversion** carries consequences that are structural, not enforced.
+
+Contributors are encouraged to engage openly, critically, and in good faith.
+
+If in doubt, ask - discourse is always preferable to assumption.
+
+---
+
+### 📨 Citation
+
+---
+
+**_If you use this engine, cite as:_**
+
+Brown-Milliken, Conner (2025) – @MMMDcreator (X), @Wotcnt (GitHub).  
+Polyrifringence Engine – Recursive Optics Simulator.  
+GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
+
+**This citation applies to direct use of the engine, as well as derivative or downstream work that builds upon the Polyrifringence / Λ-state framework, invariant coherent scaffold, or anergy cycling formalism introduced in this repository.**
+
+`Ethical Use: All recursive propagation must maintain observer consent and data sovereignty.`
+
+ 📞 **Need help citing?**  
+
+  ⛑️🤝 Ask the [Polyrifringence Engine Expert GPT](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)🤖   
+     - to auto-generate BibTeX or APA citations for your paper or replication dataset.
+
+---	 
 
 ###### Observer-Constrained Simulation · CPU×GPU Accelerated · Classical–Quantum Paired Optics · Recursive Geometric–Structural Model Learning
 
