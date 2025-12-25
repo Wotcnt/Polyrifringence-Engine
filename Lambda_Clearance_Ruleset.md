@@ -2,15 +2,15 @@
 
 # 🔐 Lambda Clearance Ruleset  ⛑️🤝🤖
 
-### Polyrifringence Engine — Mandatory Share-Link Verification Protocol
+### Polyrifringence Engine - Mandatory Share-Link Verification Protocol
 
 [![Share-Link Verification – Click Me](https://img.shields.io/badge/Share--Link_Verification-Click_Me-6D2A8A?style=for-the-badge)](https://x.com/MMMDcreator)
 
-![Codex Identity Triplet Enforcement](https://img.shields.io/badge/Codex_Identity_Triplet-Enforced-2A3439?style=for-the-badge&labelColor=6D2A8A&logo=obsidian&logoColor=FFFFFF)
-![Polyrifronaut Tier – Lambda](https://img.shields.io/badge/Polyrifronaut_Tier-Lambda-2A3439?style=for-the-badge&labelColor=0b0d0f&logo=obsidian)
+![Lambda Ledger – In Effect](https://img.shields.io/badge/Lambda_Ledger:-In_Effect-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF)
+![Codex Identity Triplet Enforcement](https://img.shields.io/badge/Codex_Identity_Triplet:_⧉-Enforced-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=FFFFFF)
 
-![Lambda Protocol Active](https://img.shields.io/badge/Lambda_Protocol-Active-6D2A8A?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=FFFFFF)
-![Polyrifronaut Verification Required](https://img.shields.io/badge/Polyrifronaut_Verification-Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=obsidian&logoColor=FFFFFF)
+![Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Polyrifronaut_Tier:-Provisional_Sub--Lambda-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)
+![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Verification_Sync_Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)
 
 This ruleset defines the complete verification, identity-binding, and clearance governance for all individuals engaging with the Polyrifringence Engine Expert (Gem-Line). All participants must follow this protocol to obtain recognized access.
 
