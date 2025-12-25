@@ -236,11 +236,11 @@ This project is **not a quick-start README**, software manual, or standalone pap
 
 It is a **canonical disclosure system** composed of three inseparable artifacts:
 
-- **README.md** — (THIS FILE) — contextual integration, provenance, ethical framing, and system overview  
-- **THEORY.md** — formal scope, constraints, definitions, and non-claims  
-- **MATH_MODEL(RENDER).md** — mathematical structure, relations, and model formalism  
+- 1️⃣ **README.md** ⌥ (THIS FILE), contextual integration, provenance, ethical framing, and system overview  
+- 2️⃣ **THEORY.md** ⌥ formal scope, constraints, definitions, and non-claims  
+- 3️⃣ **MATH_MODEL(RENDER).md** ⌥ mathematical structure, relations, and model formalism  
 
-These documents are intended to be interpreted **only as a unified whole**.
+⎇ These documents are intended to be interpreted **only as a unified whole**.
 
 ---
 
@@ -700,11 +700,11 @@ It helps ⛑️users:
 
 ---
 
-###    📈Project Complexity Level: Advanced ⇄ Multi-Disciplinary, Non-Standard, High Complexity
+###    📈Project Complexity Level: Advanced ⇄ Multi-Disciplinary, Non-Standard, High Complexity🎼
 
 ---
 
-####     Requiring specialized expertise or the willful intent to learn
+####    📛 Requiring specialized expertise or the willful intent to learn 📛
 
 ##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies. The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners. 
 ###### This isn't to deter beginners, if you're willful and disciplined and can think from different lens then you already have the capacity for improving yourself - and if you're not making mistakes, are you really learning anything?
@@ -720,7 +720,7 @@ It helps ⛑️users:
 	
 ---
 
-### Incremental Performance Push
+### 🎚️ Incremental Performance Push
 
 ---
 
@@ -730,7 +730,7 @@ The 50*x⧉ million rays/s baseline represents the initial performance validated
 
 ---
 
-### Why Incremental Optimization Matters
+### 🎛️ Why Incremental Optimization Matters
 
 ---
 
@@ -750,7 +750,7 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 ---
 
-### The Value of Small Steps
+###  🎹 The Value of Small Steps
 
 ---
 
@@ -793,7 +793,7 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 ---
 
-**Picking a preferred AI-LLM such as:**
+**🤖Picking a preferred AI-LLM such as:**
 
 ---
 
@@ -809,7 +809,7 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 ---
 
-**Some basic things to get you established:**
+**🗜️Some basic things to get you established:**
 <!-- TOOLING & REQUIREMENTS — NEON BADGES -->
 
 ---
@@ -821,10 +821,16 @@ _By opting for incremental optimization, you build a deeper understanding of how
 <img src="https://img.shields.io/badge/Tablet%20or%20Phone-Auxiliary%20Peripheral-6D2A8A?style=neon&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Main%20LLM-ChatGPT%20Recommended-6D2A8A?style=neon&logo=huggingface&logoColor=white">
 <img src="https://img.shields.io/badge/Supplementary%20LLMs-Minimum%202%20Recommended-6D2A8A?style=neon&logo=huggingface&logoColor=white">
-<br></br>
-<img src="https://img.shields.io/badge/README.md-Primary%20Entry%20Point-56E9DB?style=neon">
-<img src="https://img.shields.io/badge/THEORY.md-Conceptual%20Foundation-6D2A8A?style=neon">
-<img src="https://img.shields.io/badge/MATH_MODEL(RENDER).md-Formal%20Mathematical%20Model-0F52BA?style=neon">
+
+---
+
+**🗂️Main Project Files - Utilise Together**
+
+---
+
+<img src="https://img.shields.io/badge/README.md-Primary%20Entry%20Point-046307?style=neon">
+<img src="https://img.shields.io/badge/THEORY.md-Conceptual%20Foundation-FFD600?style=neon">
+<img src="https://img.shields.io/badge/MATH_MODEL(RENDER).md-Formal%20Mathematical%20Model-D50000?style=neon">
 
 ---
 
@@ -846,7 +852,7 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 ---
 
-**Generalized AI-LLM Query Subset**:
+**📎 Generalized AI-LLM Query Subset**:
 
 ---
 
@@ -953,26 +959,55 @@ Use differences in response style or emphasis as signals rather than errors.
 ---
 
 <details>
-<summary><kbd>🔌 Quick Start</kbd></summary>
+<summary><strong><kbd>🔌 Quick Start</kbd></strong></summary>
 
 ---
 
 ### 🛠 Quick Start Summary
 
--     git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
--     cd Polyrifringence-Engine
--     python src/gpu_validation_test.py
-[▶️ Launch GPU Validation](src/gpu_validation_test.py) · [📊 Run Benchmarks](benchmark%20runners/run_all_benchmarks.ps1) · [🌈 Open Phase Viewer](examples/phase_trace_viewer.html)
+---
 
-✅ 1. Run gpu_validation_test.py ➩ PASS  
-✅ 2. Launch Phase Viewer ➩ Opens  
-✅ 3. Manifest Validator ➩ Hashes Match
+This quick start verifies that your environment can execute the **canonical GPU path**
+and reproduce reference behaviour. It is a *sanity check*, not a full system walkthrough.
+
+```bash
+git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
+cd Polyrifringence-Engine
+python src/gpu_validation_test.py
+```
+
+[![Launch GPU Validation](https://img.shields.io/badge/▶️_GPU_Validation-Run_Test-046307?style=flat)](LINK_GPU_VALIDATION)
+[![Run Benchmarks](https://img.shields.io/badge/📊_Benchmarks-Run_All-FFD600?style=flat)](LINK_RUN_BENCHMARKS)
+[![Open Phase Viewer](https://img.shields.io/badge/🌈_Phase_Viewer-Open_UI-D50000?style=flat)](LINK_PHASE_VIEWER)
+
+---
+
+### ✅ Expected Outcomes
+
+---
+
+- ✅ **GPU Validation** → PASS  
+- ✅ **Phase Viewer** → Launches correctly  
+- ✅ **Manifest Validation** → Hashes match  
+
+If any step fails, the environment is not aligned with the reference configuration.
+
+---
 
 ### 🕵️ Reproducibility Note
-All benchmarks and phase-trace results are deterministic for a given random seed.
--     Use `--seed 42` to reproduce published outputs.
--     All reported results were reproduced from deterministic seeds under CUDA 12.1 with manifest hash alignment.
+
 ---
+
+All benchmarks and phase-trace outputs are **deterministic** for a given random seed.
+
+- Use `--seed 42` to reproduce published reference outputs.
+- All reported results were reproduced under:
+  - **CUDA 12.1**
+  - **Deterministic seeds**
+  - **Manifest hash alignment**
+
+This ensures results are reproducible across compatible systems without reliance on stochastic variance.
+
 </details>
 
 ---
@@ -984,12 +1019,16 @@ All benchmarks and phase-trace results are deterministic for a given random seed
 
 ### 👁️ Context
 
+---
+
 While several **GPU-accelerated optical simulation frameworks** exist, none unify **recursive birefringence**, **symbolic recursion**, and **observer-aware feedback** into a single open-source system.
 The Polyrifringence Engine therefore occupies a unique intersection between **scientific simulation**, **AI-driven recursion**, and **ethical computation**.
 
 ---
 
 ### 📊 Comparative Benchmark Overview
+
+---
 
 | **Tool / Framework**                                   | **Focus / Domain**                            | **Throughput / Benchmark Metric**                                                                                                                                                                                                                                               | **Core Limitations**                                             | **How Polyrifringence Differs / Extends**                                                                                                          |
 | ------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1003,6 +1042,8 @@ The Polyrifringence Engine therefore occupies a unique intersection between **sc
 ---
 
 ### 📈 Comparative Summary
+
+---
 
 **Polyrifringence Engine** introduces a synthesis unseen in other systems:
 
@@ -1020,6 +1061,8 @@ The Polyrifringence Engine therefore occupies a unique intersection between **sc
 
 ### 💡 Interpretation
 
+---
+
 Commercial and academic frameworks achieve remarkable GPU speed-ups but remain **linear** and **deterministic**, lacking recursive feedback and observer-phase integration.
 The **Polyrifringence Engine** extends this tradition by treating light as a self-referential computational medium - a tensor field that remembers its own refraction.
 
@@ -1028,6 +1071,8 @@ In measured performance, the engine sits within the upper tier of GPU-accelerate
 ---
 
 ### 📊 Summary Statement
+
+---
 
 > “Compared to existing optical simulators (FREDmpc, Speos, OptiX, etc.), the Polyrifringence Engine achieves comparable or greater throughput while introducing novel physics - recursive birefringence, symbolic geometry, and observer-aware feedback - rendering it not only a simulation tool but a new class of recursive physical AI engine.”
 
@@ -1043,6 +1088,8 @@ In measured performance, the engine sits within the upper tier of GPU-accelerate
 ---
 
 ### 📐 Model Overview
+
+---
 
 To project performance beyond the verified baseline on the **RTX 3050 (50 M rays / s)**, the following roofline-style model blends compute and memory scaling with multi-GPU efficiency:
 
@@ -1067,6 +1114,8 @@ $$
 
 ### 📊 Verified External Benchmarks
 
+---
+
 Independent optical and GPU-raytracing benchmarks provide reference context:
 
 | Reference                                       | Hardware         | Reported Throughput                               | Domain                            | Source                                                                                                                                  |
@@ -1084,6 +1133,8 @@ Thus, Polyrifringence’s verified **50 M rays / s** on an RTX 3050 lies in the 
 ---
 
 ### 📊 Quantified Scaling Projections
+
+---
 
 Using NVIDIA published hardware ratios (approximate):
 
@@ -1105,6 +1156,8 @@ Adjust upward (~ +5 %) if compute-bound (w=0.7) or downward (~ −5 %) if bandwi
 
 ### 📈 Interpretation
 
+---
+
 * **Linear Scaling Regime:** Up to 4 GPUs, scaling ≈ linear (η ≥ 0.9).
 * **Diminishing Returns:** Beyond 8 GPUs, PCIe overheads reduce gains unless NVLink or PCIe 5.0 is used.
 * **Projected Ceiling:** Eight 4090-class GPUs over NVLink → ≈ **1.8 B rays / s**, an order-of-magnitude gain over baseline.
@@ -1115,6 +1168,8 @@ Adjust upward (~ +5 %) if compute-bound (w=0.7) or downward (~ −5 %) if bandwi
 
 ### 💡 Practical Considerations
 
+---
+
 * **VRAM Headroom:** Maintain ≥ 10–15 % free memory for optimal throughput.
 * **Batching:** Use independent phase-trace batches per GPU → near-linear acceleration.
 * **I/O Bottlenecks:** Aggregate CSV/JSON logs per device and merge post-run.
@@ -1124,6 +1179,8 @@ Adjust upward (~ +5 %) if compute-bound (w=0.7) or downward (~ −5 %) if bandwi
 ---
 
 ### ⚠️ Validation Notes
+
+---
 
 These projections derive from public GPU benchmarks and simple roofline analysis, not official vendor endorsements.
 Actual throughput will vary with:
@@ -1175,6 +1232,8 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 ---
 
 ### 🧩 Implementation Alignment
+
+---
 
 | Feature / Flag | Status | Origin | Notes |
 |-----------------|---------|--------|-------|
@@ -1230,13 +1289,20 @@ Euclid-5 Parallelism Diagnostic - ensures geometric integrity by enforcing <0.1 
 <details>
 <summary><kbd>📘Click here for Installation Info</kbd></summary>
 
+---
+
 ### 🐒 Installation
+
+---
 
 Install the **Polyrifringence Engine** locally and prepare the runtime environment.
 
 ---
 
 #### 🗳️ Requirements Overview
+
+---
+
 - **Python 3.11.8 Baseline or higher (recommended)**
 - **PyTorch 2.5.1 + CUDA 12.1 Toolkit Baseline or newer** 
 - **NVIDIA Geforce RTX 3050 GPU Baseline or-(RTX 20-series or later)**  
@@ -1247,6 +1313,8 @@ Ensure `pip`, `git`, and GPU drivers are up-to-date before cloning.
 ---
 
 #### 🩺 Quick Install Commands
+
+---
 
 ```
 git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
@@ -1312,8 +1380,12 @@ Once these checks pass, the environment is fully initialized and ready for bench
 
 <details>
 <summary><kbd>📘Click here for Various Benchmark Configs</kbd></summary>
-	
+
+---
+
 #### 🧪 Below are tested CLI examples for the **Polyrifringence engine**, demonstrating various benchmark configurations.
+
+---
 
 ### Basic Matrix-Sweep Benchmark:
 ```bash
@@ -3048,6 +3120,8 @@ Grammar arises from structure, not prescription
 ---
 
 ### 📋 Notes 
+
+---
 
 - The **Codex Twelve + One Gemline** unifies ancient canonical gemstones with modern optical physics and Codex symbolic recursion.  
 - Gems **1 → 12** correspond directly to the High Priest’s Breastplate (Exodus 28) and the Foundation Stones (Revelation 21).  
