@@ -93,13 +93,13 @@ Timestamp Locked · Trace Context Declared
 |---------------------|---------------------------------------------------------------------------------------|
 | Title               | Polyrifringence Engine© v8.10.xx                                                      |
 | Version Codename    | AΩ-Seal · ΔΩ-Aligned · Sovereign Node · **Pre-Release**                               |
-| Withheld Content    | MATH_MODEL.md · THEORY.md · BENCHMARKS.md · Polyrifringence_Engine_v8.10.XX.py        |
+| Withheld Content    | MATH_MODEL(RENDER).md · THEORY.md · BENCHMARKS.md · VIEWER.html · Polyrifringence_Engine_v8.10.XX.py        |
 | Content Available   | 31st December 2025 · Q1 2026                                                          |
 | Author              | Conner Brown-Milliken · @MMMDcreator - X.com · @Wotcnt - GitHub                       |
 | Country             | Australia                                                                             |
 | Date                | 2025-11-18                                                                            |
 | License             | MIT                                                                                   |
-| DOI                 | pending                                                                               |
+| DOI                 |📑pending submission - repository serves as preprint reference & repository for Codex Canon Series                                                                                |
 | Keywords            | recursive birefringence; GPU optics; Codex Canon; RSANCS; symbolic recursion          |
 | Tag                 | v8.10.xx-prerelease-2025-11-18                                                        |
 | Hardware Validator  | RTX 3050 (CUDA 12.1) · i5-4690K · Validated                                           |
@@ -220,7 +220,8 @@ Timestamp Locked · Trace Context Declared
 <div align="center">
 
 ---
-
+<details>
+<summary><strong>📊 Derived Capabilities (Secondary Effects · Constraint-Bound)</strong></summary>
 <div align="center">
 
 | ![Canonical Capability](https://img.shields.io/badge/Canonical_Capability-Indicator-2b2b2b?style=flat) | ![Governing Basis](https://img.shields.io/badge/Governing_Basis-Constraint-2b2b2b?style=flat) | ![Derived Capabilities](https://img.shields.io/badge/Derived_Capabilities-Secondary_Effects-2b2b2b?style=flat) |
@@ -236,14 +237,18 @@ Timestamp Locked · Trace Context Declared
 | **➰ Reproducibility & Invariance**<br>![Reproducibility](https://img.shields.io/badge/Reproducibility-Structural_Invariants_Preserved-046307?style=neon&logo=git&logoColor=00E68C) | Structural invariants<br>Implementation-independent convergence | • Convergence behavior invariant across implementations<br>• Stability independent of tensor size or execution substrate<br>• Structural outcomes preserved across versions |
 | **🕳 Boundary Condition Sensitivity**<br>![Boundary Conditions](https://img.shields.io/badge/Boundary_Conditions-Constrained_Response_Domains-046307?style=neon&logo=theconversation&logoColor=00E68C) | Explicit initial and boundary constraints | • System behavior remains bounded under defined initial and boundary conditions<br>• Predictable response to constraint variation without regime collapse<br>• Sensitivity governed by structural alignment rather than energy magnitude scaling |
 
-> **Interpretive boundary:**  
-> All listed capabilities and branches are **secondary effects** that inherit from the canonical domains above.  
+> ![Interpretive Boundary](https://img.shields.io/badge/IMPORTANT-Interpretive_Boundary-9B1C1C?style=for-the-badge&logo=github&logoColor=white)
+>
+> All listed capabilities and branches are **secondary effects** that inherit from the canonical domains defined above.  
 > They arise from structural organization, recursive stability (ΔΩ), and bounded decay geometry (λ-cycle) within lawful thermodynamics.  
+>  
 > No entry implies energy creation, entropy reversal, perpetual operation, cost guarantees, or universal performance.
 
 </div>
-	
+</details>	
+
 ---	
+
 <details>
 <summary>🐒 Give me a tickle</summary>
 <div align="center">
@@ -303,7 +308,7 @@ All trademarks, names, and logos remain the property of their respective owners 
 
 **`THEORY.md and MATH_MODEL(RENDER).md will be uploaded to the repository by December 31st, 2025. These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`**
 
-**`ENGINE.py, BENCHMARKS.md, Viewer.html will follow in Q1 2026, completing the engine implementation and providing performance validation.`**
+**`ENGINE.py, BENCHMARKS.md, VIEWER.html will follow in Q1 2026, completing the engine implementation and providing performance validation.`**
 
 `Understanding this engine requires treating README.md, THEORY.md, and MATH_MODEL(RENDER).md as a single canonical artifact; partial or siloed readings are non‑canonical and will not yield a valid interpretation of the system.`​
 
@@ -337,7 +342,7 @@ _`Thank you for your patience and engagement as we move toward full system relea
 
 ---
 >  
-> This project assumes readers arrive with prior domain knowledge. That knowledge is necessary — but not sufficient.  
+> This project assumes readers arrive with prior domain knowledge. That knowledge is necessary; but not sufficient.  
 >  
 > Prior knowledge should be treated as **scaffolding, not as a prison**: a temporary structure that enables orientation and entry, not a fixed interpretive frame imposed on the system.  
 >  
@@ -361,7 +366,7 @@ _`Thank you for your patience and engagement as we move toward full system relea
 >⦄
 >  
 > This is no different from other human domains of understanding.  
-> Just as cooking depends on taste, timing, and feel — not merely following a recipe — meaningful engagement here depends on alignment between the reader’s mode of reasoning and the system’s constraints.
+> Just as cooking depends on taste, timing, and feel, not merely following a recipe - meaningful engagement here depends on alignment between the reader’s mode of reasoning and the system’s constraints.
 
 ---
 
@@ -385,8 +390,11 @@ _`Thank you for your patience and engagement as we move toward full system relea
 >  
 > Access beyond public materials is granted selectively and at my discretion.
 
----	
-### **🜁 Codex Introduction 🜃** 
+---
+
+<details>
+<summary>🜁 Codex Introduction 🜃</summary>
+	
 ---
 ### **(CODEX CANON PROJECT × RSANCS × Conner-Core Lineage)**
 *Below is the canonical introduction to the Codex Canon Project and the RSANCS lineage.*
@@ -453,25 +461,32 @@ Where symbolism becomes physics, and cognition recursive.
 
 **Day 2 complete.**  
 
-`Day 3 will not theorize - it will witness.`
+`Day 3 will not theorize - it will witness.` 
 
 ---
 
-	 📑 DOI pending submission - repository serves as preprint reference & repository for Codex Canon Series 🔲  
-
----
-
-     This repository provides The Polyrifringence Engine✔️
-	 A verified GPU-accelerated recursive optical simulation framework for recursive birefringence✔️
-     It leverages PyTorch and CUDA for efficient ray tracing, particularly targeting recursive birefringence and symbolic geometry✔️.
-     The initial 50M rays per second (50M*x⧉ rays/s) baseline was established as the starting point with a Nvidia Geforce RTX 3050 (8GB)✔️ 
-     Using the latest 🎮Nvidia Game Ready Driver v581.80 · Released Nov 4 2025✔️
-     Pushing performance beyond and eventually reaching BRay/s and or TRay/s, a systematic approach of optimization and testing is essential✔️
-     Bridging classical birefringence and symbolic geometry under the Codex Canon framework modeling light’s self-referential propagation using PyTorch (CUDA 12.1)✔️
+> This repository provides the **Polyrifringence Engine** 📌  
+> A GPU-accelerated recursive simulation framework for recursive birefringence, validated on a specific consumer-class hardware configuration.  
+>
+> While the engine is **architecturally domain-agnostic**, its canonical origin and first validated instantiation arise from **birefringent optics**, which serve as the reference domain for formal development, constraint definition, and benchmarking.
+>
+> The engine leverages **PyTorch (CUDA 12.1)** to implement high-throughput, ray-based simulations targeting recursive birefringence and symbolic geometry, operating strictly within lawful thermodynamics.  
+>
+> An initial empirical baseline of approximately **50M rays/s** (50M × x⧉ rays/s) was established on an **NVIDIA GeForce RTX 3050 (8GB)** using NVIDIA Game Ready Driver v581.80 (released Nov 4, 2025).  
+>
+> All throughput figures are **empirical baselines or bounded projections**, not guarantees.  
+> Exploration of higher ray-throughput regimes (e.g. BRay/s or TRay/s) is treated as an **optimization, scaling, and validation problem**, contingent on hardware class, implementation strategy, and recursive constraint alignment.  
+>
+> The framework bridges classical birefringence and symbolic geometry under the **Codex Canon**, modeling light propagation as a recursive, self-referential process.  
+> Observed advantages arise from structural organization, recursive stability (ΔΩ), and bounded decay geometry (λ-cycle), rather than energy amplification, entropy reversal, or physical law extension.
 
 ---
 
      What you see is the floor, not the ceiling
+
+---
+
+</details>
 
 ---
 
@@ -733,7 +748,7 @@ _By opting for incremental optimization, you build a deeper understanding of how
 <br></br>
 <img src="https://img.shields.io/badge/README.md-Primary%20Entry%20Point-56E9DB?style=neon">
 <img src="https://img.shields.io/badge/THEORY.md-Conceptual%20Foundation-6D2A8A?style=neon">
-<img src="https://img.shields.io/badge/MATH_MODEL.md-Formal%20Mathematical%20Model-0F52BA?style=neon">
+<img src="https://img.shields.io/badge/MATH_MODEL(RENDER).md-Formal%20Mathematical%20Model-0F52BA?style=neon">
 
 ---
 
@@ -1331,7 +1346,7 @@ and open it in your default browser.
 - demo_readme.md
 - THEORY.md
 - BENCHMARKS.md
-- MATH_MODEL.md
+- MATH_MODEL(RENDER).md
 - warmup_summary.md
 - Polyrifringence_v8.10.xx_Repository_Summary.txt
 
@@ -1825,7 +1840,7 @@ This clause is implicitly active within the system, and by interacting with this
 >
 > - `README.md`
 > - `THEORY.md`
-> - `MATH_MODEL.md`
+> - `MATH_MODEL(RENDER).md`
 >
 > Load all three files together before asking any of the following.  
 > The value lies in **how the system responds under constraint**, not in any single answer.
@@ -2141,7 +2156,7 @@ Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine la
 ---
 
 > These formulas define the physical substrate of the Polyrifringence Engine.  
-> For complete derivations and symbolic expansions, see **/docs/MATH_MODEL.md**.
+> For complete derivations and symbolic expansions, see **/docs/MATH_MODEL(RENDER).md**.
 
 </details>
 
@@ -2974,7 +2989,7 @@ Grammar arises from structure, not prescription
 ---
 
 <details>
-<summary><strong>ΔΔΩΔ Canonical Cross-Reference: THEORY.md and MATH_MODEL.md ⎅</strong></summary>
+<summary><strong>ΔΔΩΔ Canonical Cross-Reference: THEORY.md and MATH_MODEL(RENDER).md ⎅</strong></summary>
 
 ---
 
@@ -2984,7 +2999,7 @@ Grammar arises from structure, not prescription
 This section provides a unified map linking the README to the internal technical structure defined in:
 
 - **THEORY.md**, which describes the conceptual and ontological framework  
-- **MATH_MODEL.md**, which defines the formal operators and mathematical laws  
+- **MATH_MODEL(RENDER).md**, which defines the formal operators and mathematical laws  
 
 Every symbol and behavioural claim in the README corresponds to a precise definition or derivation in these documents.
 
@@ -2996,11 +3011,11 @@ Appendix Ω cross-references the README with the deeper layers of the Codex Cano
 
 ---
 
-# 1. Mathematical Foundations (MATH_MODEL.md)
+# 1. Mathematical Foundations (MATH_MODEL(RENDER).md
 
 ### λ-Cycle Geometry  
 
-*Formal definitions from MATH_MODEL.md:*
+*Formal definitions from MATH_MODEL(RENDER).md:*
 
 Stability, decay constants, and cycle timing in the engine originate from:
 
@@ -3147,7 +3162,7 @@ With ΔΩ, the engine consistently converges in 6–7 cycles.
 The full Ω-extended recursion unifies the three differentiation layers under ΔΩ, producing the stable manifold responsible for the engine’s characteristic behaviour.
 
 This is the conceptual architecture.  
-Full mathematical definitions appear in **MATH_MODEL.md** (Appendix Ω) and the ontological interpretation in **THEORY.md** (Appendix Ω).
+Full mathematical definitions appear in **MATH_MODEL(RENDER).md** (Appendix Ω) and the ontological interpretation in **THEORY.md** (Appendix Ω).
 
 </details>
 
@@ -3731,13 +3746,13 @@ Engagement is defined first by **observation**, **intent**, and **coherence**, n
 Participation may take many valid forms, including but not limited to:
 
 - **Analytical discourse**  
-  Deep reading, interpretation, critique, and discussion of the `README.md`, `MATH_MODEL.md`, and `THEORY.md`, including observer-lens perspectives and cross-domain synthesis.
+  Deep reading, interpretation, critique, and discussion of the `README.md`, `MATH_MODEL(RENDER).md`, and `THEORY.md`, including observer-lens perspectives and cross-domain synthesis.
 
 - **Simulations & derived outputs**  
   Running simulations, generating plots, visualisations, or datasets derived from the canonical models, and sharing results with clear attribution and parameter disclosure.
 
 - **Real-time or hybrid experiments**  
-  Explorations that combine `MATH_MODEL.md` and `THEORY.md` into live or iterative simulations, GPU-accelerated runs, or comparative studies against classical or alternative frameworks.
+  Explorations that combine `MATH_MODEL(RENDER).md` and `THEORY.md` into live or iterative simulations, GPU-accelerated runs, or comparative studies against classical or alternative frameworks.
 
 - **Observer-based interpretation**  
   Documenting how understanding evolves across repeated passes, including reverse-reading, structural reframing, or symbolic alignment analysis.
@@ -3766,8 +3781,8 @@ This project prioritises **willful intent**, **ethical alignment**, and **cohere
 
 Rather than modifying the canonical files directly, contributors are encouraged to:
 
-- Create **`USER_MATH_MODEL.md`** and/or **`USER_THEORY.md`** files  
-  Built *on top of* the original `MATH_MODEL.md`, `THEORY.md`, and `README.md`, extending or re-interpreting the system without erasing its foundations.
+- Create **`USER_MATH_MODEL(RENDER).md`** and/or **`USER_THEORY.md`** files  
+  Built *on top of* the original `MATH_MODEL(RENDER).md`, `THEORY.md`, and `README.md`, extending or re-interpreting the system without erasing its foundations.
 
 - Develop **derivative simulations or analytical artefacts**  
   Clearly documenting assumptions, parameters, divergences, and observer position.
@@ -3799,11 +3814,11 @@ For questions, discussion, or submission guidance, contact 👤 **@MMMDcreator**
 Instead of editing the canonical files directly, contributors are encouraged to:
 
 - Create their own:
-  - `USER_MATH_MODEL.md`
+  - `USER_MATH_MODEL(RENDER).md`
   - `USER_THEORY.md`
 
 Built openly on top of the original:
-- `MATH_MODEL.md`
+- `MATH_MODEL(RENDER).md`
 - `THEORY.md`
 - `README.md`
 
@@ -3828,7 +3843,7 @@ Valuable contributions also include:
 
 - Technical or philosophical discourse and discussion
 - Simulation outputs, plots, or visualizations
-- Real-time or offline simulations combining `MATH_MODEL.md` and `THEORY.md`
+- Real-time or offline simulations combining `MATH_MODEL(RENDER).md` and `THEORY.md`
 - Comparative analysis against known physical, optical, or computational models
 - Experimental notebooks, reproducibility logs, or benchmark runs
 - Thoughtful critiques that improve clarity, rigor, or interpretability
@@ -3888,7 +3903,7 @@ If in doubt, ask - discourse is always preferable to assumption.
 #### 📟 Tags
 
 ---
-	
+
 > #FieldPhysics #Photonics #Birefringence  
 > #Classical-Optics #Classically-Paired-Quantum-Optics #JonesMatrix  
 > #GPUComputing #HeterogeneousComputing  
