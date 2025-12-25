@@ -716,7 +716,7 @@ It helps ⛑️users:
 ---
 
 <details>
-<summary><kbd>🐒Where to begin?</kdb></summary>
+<summary><kbd>🐒Where to begin?</kbd></summary>
 	
 ---
 
