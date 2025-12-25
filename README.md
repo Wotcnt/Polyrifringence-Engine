@@ -239,10 +239,10 @@ Timestamp Locked · Trace Context Declared
 
 > ![Interpretive Boundary](https://img.shields.io/badge/IMPORTANT-Interpretive_Boundary-9B1C1C?style=for-the-badge&logo=github&logoColor=white)
 >
-> All listed capabilities and branches are **secondary effects** that inherit from the canonical domains defined above.  
-> They arise from structural organization, recursive stability (ΔΩ), and bounded decay geometry (λ-cycle) within lawful thermodynamics.  
->  
-> No entry implies energy creation, entropy reversal, perpetual operation, cost guarantees, or universal performance.
+> All listed capabilities, behaviours, and branches are **secondary effects** inheriting from the canonical domains defined in THEORY.md and MATH_MODEL(RENDER).md.  
+> They arise exclusively from structural organization, recursive stability (ΔΩ), and bounded decay geometry (λ-cycle) operating within lawful thermodynamics.
+>
+> No statement implies energy creation, entropy reversal, perpetual operation, guaranteed performance, or universal applicability.
 
 </div>
 </details>	
@@ -466,7 +466,7 @@ Where symbolism becomes physics, and cognition recursive.
 ---
 
 > This repository provides the **Polyrifringence Engine** 📌  
-> A GPU-accelerated recursive simulation framework for recursive birefringence, validated on a specific consumer-class hardware configuration.  
+> A GPU-accelerated recursive simulation framework for birefringent phase recursion, validated on a specific consumer-class hardware configuration.  
 >
 > While the engine is **architecturally domain-agnostic**, its canonical origin and first validated instantiation arise from **birefringent optics**, which serve as the reference domain for formal development, constraint definition, and benchmarking.
 >
