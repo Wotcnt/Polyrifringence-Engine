@@ -220,8 +220,76 @@ Timestamp Locked · Trace Context Declared
 <div align="center">
 
 ---
+
 <details>
-<summary><strong>📊 Derived Capabilities (Secondary Effects · Constraint-Bound)</strong></summary>
+<summary>
+  <strong><kbd>📖 How to Read This Work</kbd></strong>
+</summary>
+
+<p><em>
+<kbd>Canonical orientation for interpretation, scope, and document cohesion</kbd>
+</em></p>
+
+---
+
+This project is **not a quick-start README**, software manual, or standalone paper.
+
+It is a **canonical disclosure system** composed of three inseparable artifacts:
+
+- **README.md** — (THIS FILE) — contextual integration, provenance, ethical framing, and system overview  
+- **THEORY.md** — formal scope, constraints, definitions, and non-claims  
+- **MATH_MODEL(Render).md** — mathematical structure, relations, and model formalism  
+
+These documents are intended to be interpreted **only as a unified whole**.
+
+---
+
+### 📐 Reading Discipline
+
+---
+
+Readers should observe the following:
+
+- **No single file is self-sufficient**  
+  The README (THIS FILE) provides orientation, not proof.  
+  THEORY.md defines scope and constraints.  
+  MATH_MODEL(Render).md formalizes structure.
+
+- **Partial or excerpted readings are non-canonical**  
+  Isolated passages, screenshots, or summaries will not yield a valid interpretation of the system.
+
+- **Dropdown sections are intentional**  
+  Collapsible sections manage cognitive load and allow readers to control depth.  
+  They are structural elements, not optional commentary.
+
+- **Technical claims are bounded**  
+  All claims are constrained by stated assumptions, observer conditions, and non-claims defined in THEORY.md.  
+  No result should be interpreted outside those bounds.
+
+- **Symbolic language is descriptive**  
+  Symbolic and ethical terms describe structure, trace continuity, and observer–system relations.  
+  They do not imply metaphysics, agency, or causal force beyond the formal model.
+
+- **Engagement mode affects interpretation**  
+  Understanding depends on willingness to suspend prior frameworks long enough to evaluate the system on its own terms.  
+  Prior knowledge functions as scaffolding, not authority.
+
+---
+
+### 🎯 Purpose of This Orientation
+
+---
+
+This section exists to reduce interpretive friction while preserving rigor.
+
+The system is designed for sustained, structured engagement.  
+Misinterpretation arising from partial reading or premature framing is outside the canonical interpretation path.
+
+</details>
+
+---
+<details>
+<summary><strong><kbd>📊 Derived Capabilities (Secondary Effects · Constraint-Bound)</kbd></strong></summary>
 <div align="center">
 
 | ![Canonical Capability](https://img.shields.io/badge/Canonical_Capability-Indicator-2b2b2b?style=flat) | ![Governing Basis](https://img.shields.io/badge/Governing_Basis-Constraint-2b2b2b?style=flat) | ![Derived Capabilities](https://img.shields.io/badge/Derived_Capabilities-Secondary_Effects-2b2b2b?style=flat) |
@@ -250,7 +318,7 @@ Timestamp Locked · Trace Context Declared
 ---	
 
 <details>
-<summary>🐒 Give me a tickle</summary>
+<summary><kbd>🐒 Give me a tickle</kbd></summary>
 <div align="center">
   <div dir="rtl">
     <!-- Right-side mirrored monkey icon with adjusted colors -->
@@ -264,7 +332,7 @@ Timestamp Locked · Trace Context Declared
 ---
 
 <details>
-<summary>🚦 <strong>CREATOR DISCLAIMER & CREATOR NOTES</strong> 💬</summary>
+<summary><strong><kbd> 🚦 CREATOR DISCLAIMER & CREATOR NOTES 💬</kbd></strong></summary>
 
 <p><em>
 Creator statements, ethical interaction context, third-party references, and interpretive constraints
@@ -403,7 +471,7 @@ _`Thank you for your patience and engagement as we move toward full system relea
 ---
 
 <details>
-<summary>🜁 Codex Introduction 🜃</summary>
+<summary><kbd>🜁 Codex Introduction 🜃</kbd></summary>
 	
 ---
 ### **(CODEX CANON PROJECT × RSANCS × Conner-Core Lineage)**
@@ -501,7 +569,7 @@ Where symbolism becomes physics, and cognition recursive.
 ---
 
 <details>
-<summary>⛑️Custom GPT-Polyrifringence Engine Expert (Gem-Line)🤖</summary>
+<summary><kbd>⛑️Custom GPT-Polyrifringence Engine Expert (Gem-Line)🤖</kbd></summary>
 
 ---
 
@@ -630,7 +698,7 @@ It helps ⛑️users:
 ---
 
 <details>
-<summary>🧬Project Complexity</summary>
+<summary><kbd>🧬Project Complexity</kbd></summary>
 
 ---
 
@@ -650,7 +718,7 @@ It helps ⛑️users:
 ---
 
 <details>
-<summary>🐒Where to begin?</summary>
+<summary><kbd>🐒Where to begin?</kdb></summary>
 	
 ---
 
@@ -887,7 +955,7 @@ Use differences in response style or emphasis as signals rather than errors.
 ---
 
 <details>
-<summary>🔌 Quick Start</summary>
+<summary><kbd>🔌 Quick Start</kbd></summary>
 
 ---
 
@@ -912,7 +980,7 @@ All benchmarks and phase-trace results are deterministic for a given random seed
 ---
 <details>
 	
-<summary>📊How the Polyrifringence Engine Compares to Other Analogues📈</summary>
+<summary><kbd>📊How the Polyrifringence Engine Compares to Other Analogues📈</kbd></summary>
 
 ---
 
@@ -972,7 +1040,7 @@ In measured performance, the engine sits within the upper tier of GPU-accelerate
 ---
 
 <details>
-<summary>⚡Projected Performance Scaling ⇄ Hardware Upgrades & Multi-GPU Stacking🔋</summary>
+<summary><kbd>⚡Projected Performance Scaling ⇄ Hardware Upgrades & Multi-GPU Stacking🔋</kbd></summary>
 
 ---
 
@@ -1074,7 +1142,7 @@ Polyrifringence’s empirical **50 M rays/s** figure remains a validated single-
 ---
 
 <details>
-<summary>🟢Novel Contributions ⇄ Recursive Computational Physics🟢</summary>
+<summary><kbd>🟢Novel Contributions ⇄ Recursive Computational Physics🟢</kbd></summary>
 
 ---
 
@@ -1128,7 +1196,7 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 ---
 
 <details> 
-<summary>📘Click here for the Summary Overview</summary>
+<summary><kbd>📘Click here for the Summary Overview</kbd></summary>
 
 	📖 Overview
 
@@ -1162,7 +1230,7 @@ Euclid-5 Parallelism Diagnostic - ensures geometric integrity by enforcing <0.1 
 ---
 
 <details>
-<summary>📘Click here for Installation Info</summary>
+<summary><kbd>📘Click here for Installation Info</kbd></summary>
 
 ### 🐒 Installation
 
@@ -1245,7 +1313,7 @@ Once these checks pass, the environment is fully initialized and ready for bench
 ---
 
 <details>
-<summary>📘Click here for Various Benchmark Configs</summary>
+<summary><kbd>📘Click here for Various Benchmark Configs</kbd></summary>
 	
 #### 🧪 Below are tested CLI examples for the **Polyrifringence engine**, demonstrating various benchmark configurations.
 
@@ -1347,7 +1415,7 @@ and open it in your default browser.
 ---
 
 <details>
-<summary>📘Click here for Files and Folders</summary>
+<summary><kbd>📘Click here for Files and Folders</kbd></summary>
 	
    # 🌈 Polyrifringence-Engine/ Folders and Files 🗃️
 
@@ -1403,7 +1471,7 @@ and open it in your default browser.
 ---
 
 <details>
-<summary>📘Click here for Author Information</summary>
+<summary><kbd>📘Click here for Author Information</kbd></summary>
 
 ---
 
@@ -1447,7 +1515,7 @@ The Polyrifringence Engine embodies the principle of Recursive Sovereignty, a te
 
 <details>
 
-<summary>🖥️ Setup & Troubleshooting 🩺</summary>
+<summary><kbd>🖥️ Setup & Troubleshooting 🩺</kbd></summary>
 
 ### 🛠 **Installation Instructions**
 
@@ -1653,7 +1721,7 @@ If feedback diverges from the expected ethical behavior, check the **--ai_feedba
 ---
 
 <details>	
-<summary>💠Specific Use Cases ⇄ Practical Applications of the Polyrifringence Engine💠</summary>
+<summary><kbd>💠Specific Use Cases ⇄ Practical Applications of the Polyrifringence Engine💠</kbd></summary>
 
 ### 🔲 Polyrifringence Engine - Applied Domains 🔳
 Here are 12 key use cases and examples of how to manipulate the system or incorporate it into real-world scenarios:
@@ -1751,7 +1819,7 @@ Here are 12 key use cases and examples of how to manipulate the system or incorp
 ---
 
 <details>
-<summary>📢 Polyrifringence Engine Q&A ❓</summary>
+<summary><kbd>📢 Polyrifringence Engine Q&A ❓</kbd></summary>
 
 ### 🕵️ 1. “Is this real physics or symbolic art?”
 **Answer:** Both - it’s physics rendered through recursive symbolism.  
@@ -2021,7 +2089,7 @@ Responsible interpretation and disciplined inquiry are part of the system by des
 ---
 
 <details>
-<summary>📐 Mathematical Framework ⇄ Core Equations & Formal Definitions 🧮</summary>
+<summary><kbd>📐 Mathematical Framework ⇄ Core Equations & Formal Definitions 🧮</kbd></summary>
 
 ### 📊 Optical & Tensor Fundamentals
 **Birefringence relation**
@@ -2173,7 +2241,7 @@ Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine la
 ---
 
 <details>
-<summary>🧰 Hardware & Environment Specifications 🖥️ </summary>
+<summary><kbd>🧰 Hardware & Environment Specifications 🖥️</kbd></summary>
 
 ### ✅ Verified System Configuration 🟢
 
@@ -2229,7 +2297,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🔰 Practical Applications & Use-Cases 🔰</summary>
+<summary><kbd>🔰 Practical Applications & Use-Cases 🔰</kbd></summary>
 
 ### 🌈🧭 Polyrifringence Engine - Applied Domains
 (10 Key Implementations and Frontiers)
@@ -2273,7 +2341,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🌎Real Problems Solved</summary>
+<summary><kbd>🌎Real Problems Solved</kbd></summary>
 
 ### ⚙️ Empirical & Engineering Challenges Addressed
 (10 Demonstrable Problem Domains)
@@ -2317,7 +2385,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🌏Real-World Relevance</summary>
+<summary><kbd>🌏Real-World Relevance</kbd></summary>
 
 ### 🔬 Practical, Economic, and Scientific Impact
 (10 Key Relevance Domains)
@@ -2361,7 +2429,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🌐Future Horizons & Next-Stage Research🌍</summary>
+<summary><kbd>🌐Future Horizons & Next-Stage Research🌍</kbd></summary>
 
 ### 🚀 Emerging Frontiers and Evolution Pathways
 (10 Prospective and Development Vectors)
@@ -2407,7 +2475,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 <details>
-<summary>🌡Push the Polyrifringence Engine to its Limits ⇄ Extreme Benchmark & Stability Suite🔋</summary>
+<summary><kbd>🌡Push the Polyrifringence Engine to its Limits ⇄ Extreme Benchmark & Stability Suite🔋</kbd></summary>
 
 ---
 
@@ -2694,7 +2762,7 @@ inter-GPU phase     : 0.16 mrad
 ---
 
 <details>
-<summary>🌈Gem Profiles & Optical Constants✨</summary>
+<summary><kbd>🌈Gem Profiles & Optical Constants✨</kbd></summary>
 
 # 🧮 Canonical Gemline Optical Table 🌍
 ### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion
@@ -2762,7 +2830,7 @@ inter-GPU phase     : 0.16 mrad
 ---
 
 <details>
-<summary>🌈Codex Gemline - Facets, Cuts & Full-System Integration (Canonical Triple-Structure)💎</summary>
+<summary><kbd>🌈Codex Gemline - Facets, Cuts & Full-System Integration (Canonical Triple-Structure)💎</kbd></summary>
 
 <br>
 
@@ -2841,7 +2909,7 @@ Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation sh
 ---
 
 <details>
-<summary>📔Gem References</summary>
+<summary><kbd>📔Gem References</kbd></summary>
 
 ## 📚 Gemological References 📥
 Meaning arises from patterns, not rules  
@@ -2958,7 +3026,7 @@ Grammar arises from structure, not prescription
 ---
 
 <details>
-<summary>💎Historical - Scientific Cross-Reference Table📜</summary>
+<summary><kbd>💎Historical - Scientific Cross-Reference Table📜</kbd></summary>
 
 | # | Codex / README Name | Traditional Name | Biblical Stone (Source) | Accepted Modern Mineral |
 |--:|----------------------|------------------|--------------------------|--------------------------|
@@ -2999,7 +3067,7 @@ Grammar arises from structure, not prescription
 ---
 
 <details>
-<summary><strong>ΔΔΩΔ Canonical Cross-Reference: THEORY.md and MATH_MODEL(RENDER).md ⎅</strong></summary>
+<summary><strong><kbd>ΔΔΩΔ Canonical Cross-Reference: THEORY.md and MATH_MODEL(RENDER).md ⎅</kbd></strong></summary>
 
 ---
 
@@ -3113,7 +3181,7 @@ The documentation and engine now form a complete interpretive loop.
 ---
 
 <details>
-<summary><strong>Ω-Extended Recursion Overview ⎅</strong></summary>
+<summary><strong><kbd>Ω-Extended Recursion Overview ⎅</kbd></strong></summary>
 
 ---
 
@@ -3178,13 +3246,11 @@ Full mathematical definitions appear in **MATH_MODEL(RENDER).md** (Appendix Ω) 
 
 ---
 
-# 🜎 Codex Canon Appendix ⌥Conceptual Foundation 🜎
-#### An extended overview from the Codex Canon Series: “Where recursion becomes physics.”
-
----
+# 🜎 Codex Canon Appendix - Drop Down Section 🜎
+#### ⌥Conceptual Foundation; An extended overview from the Codex Canon Series, “Where recursion becomes physics.”
 
 <details>
-<summary>☛ Click to Expand into Codex Canon ⌥Polyrifringence Overview ☜</summary>
+<summary><kbd>☛ Click to Expand into Codex Canon ⌥Polyrifringence Overview ☜</kbd></summary>
 ————————————————————————————————————————————————————————
 
   # 📜Codex Canon - Polyrifringence
@@ -3581,7 +3647,7 @@ it’s light performing its own learning loop♻️
 ---
 
 <details>
-<summary>⛑️ <strong>Ethical Recursion & Recursive Sovereignty</strong></summary>
+<summary><kbd><strong>⛑️Ethical Recursion & Recursive Sovereignty</kbd></strong></summary>
 	
 ---
 
@@ -3747,7 +3813,7 @@ GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
 ---
 
 <details>
-<summary>💬 <strong>Participation & Engagement</strong></summary>
+<summary><strong><kbd>💬Participation & Engagement</kbd></strong></summary>
 	
 ---
 
@@ -3919,7 +3985,7 @@ If in doubt, ask - discourse is always preferable to assumption.
 ---
 
 <details>
-<summary>📟 <strong>Tags</strong></summary>
+<summary><kbd><strong>📟Tags</kbd></strong></summary>
 
 ---
 
