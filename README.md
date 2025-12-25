@@ -120,7 +120,7 @@ Timestamp Locked · Trace Context Declared
 <div align="center">
 	
 ![Torch GPU](https://img.shields.io/badge/Made_with-PYTORCH_2.5.1_+_CUDA_12.1-D24D0F?style=neon&logo=python&logoColor=D24D0F)
-![Python](https://img.shields.io/badge/PYTHON-3.11+-D24D0F?style=neon&logo=python&logoColor=D24D0F)
+[![Python](https://img.shields.io/badge/PYTHON-3.11.8+-D24D0F?style=neon&logo=python&logoColor=D24D0F)](https://www.python.org/downloads/release/python-3118/)
 ![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-D24D0F?style=neon&logo=git&logoColor=D24D0F)
 ![Project Status](https://img.shields.io/badge/Project_Status-Active_Development-D24D0F?style=neon&logo=git&logoColor=D24D0F)
 ![VIEWER_UI](https://img.shields.io/badge/Viewer_UI-SandDance_Inspired-2A3439?style=neon&logo=protonvpn&logoColor=2A3439)
@@ -133,7 +133,7 @@ Timestamp Locked · Trace Context Declared
 ![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-046307?style=neon&logo=numpy&logoColor=C5E384)
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=git&logoColor=C5E384)
 [![License: MIT](https://img.shields.io/badge/License-MIT-046307?style=neon&logo=trustpilot&logoColor=C5E384)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/LICENSE)
-![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-046307?style=neon&logo=speedtest&logoColor=C5E384)
+[![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-046307?style=neon&logo=speedtest&logoColor=C5E384)](https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3050/)
 
 ---
 
@@ -217,7 +217,9 @@ Timestamp Locked · Trace Context Declared
 ---
 
 <div align="center">
-<img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=FFFFFF">
+  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md">
+    <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=FFFFFF">
+  </a>
 </div>
 
 <div align="center">
@@ -343,6 +345,7 @@ Misinterpretation arising from partial reading or premature framing is outside t
 
 ---
 ### 🚦 CREATOR DISCLAIMER 🚦
+[![Creator Disclaimer](https://img.shields.io/badge/CREATOR_DISCLAIMER-LINK-6D2A8A?style=neon&logo=git&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md)
 ---
 
 ###### 🔲Willful Interaction & Intent🔲 
