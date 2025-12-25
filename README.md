@@ -238,7 +238,7 @@ It is a **canonical disclosure system** composed of three inseparable artifacts:
 
 - **README.md** — (THIS FILE) — contextual integration, provenance, ethical framing, and system overview  
 - **THEORY.md** — formal scope, constraints, definitions, and non-claims  
-- **MATH_MODEL(Render).md** — mathematical structure, relations, and model formalism  
+- **MATH_MODEL(RENDER).md** — mathematical structure, relations, and model formalism  
 
 These documents are intended to be interpreted **only as a unified whole**.
 
@@ -253,7 +253,7 @@ Readers should observe the following:
 - **No single file is self-sufficient**  
   The README (THIS FILE) provides orientation, not proof.  
   THEORY.md defines scope and constraints.  
-  MATH_MODEL(Render).md formalizes structure.
+  MATH_MODEL(RENDER).md formalizes structure.
 
 - **Partial or excerpted readings are non-canonical**  
   Isolated passages, screenshots, or summaries will not yield a valid interpretation of the system.
@@ -335,7 +335,7 @@ Misinterpretation arising from partial reading or premature framing is outside t
 <summary><strong><kbd> 🚦 CREATOR DISCLAIMER & CREATOR NOTES 💬</kbd></strong></summary>
 
 <p><em>
-Creator statements, ethical interaction context, third-party references, and interpretive constraints
+<kbd>Creator statements, ethical interaction context, third-party references, and interpretive constraints</kbd>
 </em></p>
 
 ---
@@ -575,8 +575,6 @@ Where symbolism becomes physics, and cognition recursive.
 
 # ⛑️🤝 **Connect with the Recursive AI Guide** 🤖
 
-#### Run via GPT➾Polyrifringence Engine Expert🤖
-📥 **Access:**  
 [**👉 Click to Launch the Polyrifringence Engine in a new window**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
 This repository is accompanied by an interactive knowledge base through a GPT using a Custom Instruction Set, utilizing the full documentation of this repo, including this readme - ready to answer queries, explain physics, or and guide the user through the repo, able to explain what's what in beginner form through to advanced - complex based on user preference, just ask.
@@ -3089,7 +3087,7 @@ Appendix Ω cross-references the README with the deeper layers of the Codex Cano
 
 ---
 
-# 1. Mathematical Foundations (MATH_MODEL(RENDER).md
+# 1. Mathematical Foundations (MATH_MODEL(RENDER).md)
 
 ### λ-Cycle Geometry  
 
