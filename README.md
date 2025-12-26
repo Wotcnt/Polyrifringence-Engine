@@ -4226,6 +4226,7 @@ This is not required. It is simply a practical convenience some readers adopt ov
 
 [![Dictionary](https://img.shields.io/badge/Dictionary-Opens_in_New_Window-0A0C0D?style=neon&logo=bookstack&logoColor=3ee7ff)](https://www.merriam-webster.com)
 [![Thesaurus](https://img.shields.io/badge/Thesaurus-Opens_in_New_Window-0A0C0D?style=neon&logo=readthedocs&logoColor=3ee7ff)](https://www.thesaurus.com)
+[![Search Context](https://img.shields.io/badge/Search-Google_Scholar_Context-4285F4?style=neon&logo=wikipedia&logoColor=FFFFFF)](https://scholar.google.com/scholar?q=recursive+birefringence+exergy+coherence)
 
 ---
 
@@ -4262,6 +4263,12 @@ GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
 
   ⛑️🤝 Ask the [Polyrifringence Engine Expert GPT](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)🤖   
      - to auto-generate BibTeX or APA citations for your paper or replication dataset.
+
+[![Cite This Work](https://img.shields.io/badge/Cite-This_Repository_(Placeholder)-046307?style=neon&logo=academia&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CITATION.cff)
+[![Archive Snapshot](https://img.shields.io/badge/View_on-Internet_Archive-0b0d0f?style=neon&logo=internetarchive&logoColor=FFFFFF)](https://web.archive.org/save/https://github.com/Wotcnt/Polyrifringence-Engine)
+[![License Summary](https://img.shields.io/badge/Read-OpenSource_License_Summary_(MIT)-000000?style=neon&logo=opensourceinitiative&logoColor=gold)](https://choosealicense.com/licenses/mit/)
+[![License: MIT](https://img.shields.io/badge/Repo_License-MIT-046307?style=neon&logo=opensourceinitiative&logoColor=C5E384)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/LICENSE)
+[![Start a Discussion](https://img.shields.io/badge/Start-Technical_Discussion-0F52BA?style=neon&logo=github&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/discussions)
 
 ---	 
 
