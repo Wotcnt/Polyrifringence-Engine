@@ -196,41 +196,65 @@ Timestamp Locked · Trace Context Declared
 
 <div align="center">
 
-<!-- 1. Jasper -->
-<img src="https://img.shields.io/badge/House_of_Jasper-Jasper_⧫_❯-9B111E?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000">
+<!-- 1. Jasper (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Jasper-Jasper_⧫_❯-9B111E?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000">
+</a>
 
-<!-- 2. Sapphire -->
-<img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire_◇_❯❯-0F52BA?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000">
+<!-- 2. Sapphire (Corundum) -->
+<a href="https://www.minerals.net/mineral/corundum.aspx">
+  <img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire_◇_❯❯-0F52BA?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000">
+</a>
 
-<!-- 3. Chalcedony -->
-<img src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony_⬣_❯❯❯-D7C7A2?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000">
+<!-- 3. Chalcedony (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony_⬣_❯❯❯-D7C7A2?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000">
+</a>
 
-<!-- 4. Emerald -->
-<img src="https://img.shields.io/badge/House_of_Emerald-Emerald_♧_❯❯❯❯-046307?style=for-the-badge&logo=obsidian&logoColor=046307&labelColor=000000">
+<!-- 4. Emerald (Beryl) -->
+<a href="https://www.minerals.net/mineral/beryl.aspx">
+  <img src="https://img.shields.io/badge/House_of_Emerald-Emerald_♧_❯❯❯❯-046307?style=for-the-badge&logo=obsidian&logoColor=046307&labelColor=000000">
+</a>
 
-<!-- 5. Sardonyx -->
-<img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx_⬤_❯❯❯❯❯-C55A11?style=for-the-badge&logo=obsidian&logoColor=C55A11&labelColor=000000">
+<!-- 5. Sardonyx (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx_⬤_❯❯❯❯❯-C55A11?style=for-the-badge&logo=obsidian&logoColor=C55A11&labelColor=000000">
+</a>
 
-<!-- 6. Sardius -->
-<img src="https://img.shields.io/badge/House_of_Sardius-Sardius_⬟_❯❯❯❯❯❯-B31B1B?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000">
+<!-- 6. Sardius (Quartz family / Carnelian variant) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Sardius-Sardius_⬟_❯❯❯❯❯❯-B31B1B?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000">
+</a>
 
-<!-- 7. Chrysolite -->
-<img src="https://img.shields.io/badge/House_of_Chrysolite-Chrysolite_⬡_❯❯❯❯❯❯❯-C5E384?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000">
+<!-- 7. Chrysolite (Olivine / Peridot) -->
+<a href="https://www.minerals.net/mineral/olivine.aspx">
+  <img src="https://img.shields.io/badge/House_of_Chrysolite-Chrysolite_⬡_❯❯❯❯❯❯❯-C5E384?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000">
+</a>
 
 <!-- 8. Beryl -->
-<img src="https://img.shields.io/badge/House_of_Beryl-Beryl_⬢_❯❯❯❯❯❯❯❯-56E9DB?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000">
+<a href="https://www.minerals.net/mineral/beryl.aspx">
+  <img src="https://img.shields.io/badge/House_of_Beryl-Beryl_⬢_❯❯❯❯❯❯❯❯-56E9DB?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000">
+</a>
 
 <!-- 9. Topaz -->
-<img src="https://img.shields.io/badge/House_of_Topaz-Topaz_⬣_❯❯❯❯❯❯❯❯❯-E6A756?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000">
+<a href="https://www.minerals.net/mineral/topaz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Topaz-Topaz_⬣_❯❯❯❯❯❯❯❯❯-E6A756?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000">
+</a>
 
-<!-- 10. Chrysoprase -->
-<img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase_⬖_❯❯❯❯❯❯❯❯❯❯-00E68C?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000">
+<!-- 10. Chrysoprase (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase_⬖_❯❯❯❯❯❯❯❯❯❯-00E68C?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000">
+</a>
 
-<!-- 11. Jacinth -->
-<img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth_✧_❯❯❯❯❯❯❯❯❯❯❯-D24D0F?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000">
+<!-- 11. Jacinth (Zircon) -->
+<a href="https://www.minerals.net/mineral/zircon.aspx">
+  <img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth_✧_❯❯❯❯❯❯❯❯❯❯❯-D24D0F?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000">
+</a>
 
-<!-- 12. Amethyst -->
-<img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst_✦_❯❯❯❯❯❯❯❯❯❯❯❯-6D2A8A?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000">
+<!-- 12. Amethyst (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst_✦_❯❯❯❯❯❯❯❯❯❯❯❯-6D2A8A?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000">
+</a>
 
 </div>
 
@@ -405,8 +429,7 @@ All trademarks, names, and logos remain the property of their respective owners 
 ---
 
 ###### **View the README.md on GitHub in the REPO for an interactive experience with drop-down section titles and clickable badges.**
-###### **Interactive badges include: Author’s X.com profile, GitHub repository link, Run Viewer, and Polyrifringence Expert GPT.**
-###### **Some mathematical expressions that do not render consistently in markdown have been placed in clickable badges that open in-browser for correct display.**
+###### **Clickable/Functional Readme Badges throughout this file for added interactivity and qol enhancement**
 ###### **On tablets and mobile devices, certain mathematical notation may not render as intended; for best visual clarity, view the README.md on GitHub via desktop.**
 
 **`THEORY.md and MATH_MODEL(RENDER).md will be uploaded to the repository by December 31st, 2025. These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`**
@@ -2306,24 +2329,22 @@ Responsible interpretation and disciplined inquiry are part of the system by des
 <details>
 <summary><kbd>📐Mathematical Framework ⇄ Core Equations & Formal Definitions🧮</kbd></summary>
 
+---
+
 ### 📊 Optical & Tensor Fundamentals
 **Birefringence relation**
 
+---
 
  $$\Delta n = n_e - n_o$$
 
-
 **Phase difference through thickness t** *(with λ and t in the same units)*
-
 
 $$\Delta \phi = \frac{2\pi\, t\, \Delta n}{\lambda}$$
 
-
 **Jones matrix for an anisotropic element**
 
-[![Jones Matrix](https://img.shields.io/badge/Equation-Jones%20Matrix-blue?logo=latex&logoColor=white)](https://latex.codecogs.com/svg.image?J(\theta,\Delta\phi)=\begin{bmatrix}\cos^2\theta&plus;e^{i\Delta\phi}\sin^2\theta&(1-e^{i\Delta\phi})\sin\theta\cos\theta\\(1-e^{i\Delta\phi})\sin\theta\cos\theta&e^{i\Delta\phi}\cos^2\theta&plus;\sin^2\theta\end{bmatrix})
-
-> _Note: Click the badge above for the full "**Jones matrix for an anisotropic element**"_
+[![Jones Matrix](https://img.shields.io/badge/Click_for_the_Jones%20Matrix-Equation-blue?style=for-the-badge&logo=latex&logoColor=white)](https://latex.codecogs.com/svg.image?J(%5Ctheta,%5CDelta%5Cphi)%3D%5Cbegin%7Bbmatrix%7D%5Ccos%5E2%5Ctheta%2Be%5E%7Bi%5CDelta%5Cphi%7D%5Csin%5E2%5Ctheta%26(1-e%5E%7Bi%5CDelta%5Cphi%7D)%5Csin%5Ctheta%5Ccos%5Ctheta%5C%5C(1-e%5E%7Bi%5CDelta%5Cphi%7D)%5Csin%5Ctheta%5Ccos%5Ctheta%26e%5E%7Bi%5CDelta%5Cphi%7D%5Ccos%5E2%5Ctheta%2B%5Csin%5E2%5Ctheta%5Cend%7Bbmatrix%7D)
 
 | Element | Expression |
 |:--:|:--:|
@@ -2337,26 +2358,24 @@ $$\Delta \phi = \frac{2\pi\, t\, \Delta n}{\lambda}$$
 ### ♾️ Recursive Propagation Model
 **Recursive feedback law**
 
+---
 
 $$E_{k+1} = f(J_k \, E_k) + \alpha(E_k - E_{k-1})$$
-
 
 where α is the feedback-coherence coefficient controlling phase restoration.
 
 **Energy-Conservation Constraint**
 
-
 $$\lVert E_{k+1}\rVert^2 \le \lVert E_k\rVert^2\quad\Rightarrow\quad T \le 1$$
-
 
 ---
 
 ### 💫 Recursive Learning Analogy
 Mapping optical recursion to gradient descent:
 
+---
 
 $$E_{k+1} = E_k - \eta \nabla_{\phi} \, \mathcal{L}(E_k)$$
-
 
 with $$\(\mathcal{L}(E)\)$$ representing phase-error cost and η analogous to the feedback gain.
 
@@ -2364,22 +2383,24 @@ with $$\(\mathcal{L}(E)\)$$ representing phase-error cost and η analogous to th
 
 ### 🔺 Phase–Geometry Closure (Euclid-5 Diagnostic)
 
+---
 
 $$\text{Drift} = \tan^{-1}\!\left(\frac{\Delta y}{L}\right) \approx 0.1\,\text{mrad}$$
-
 
 ensuring parallelism is preserved after each recursion loop.
 
 ---
 
 **Approximate Unitarity (lossless element)**
-
+---
 
 $$J^\dagger J \approx I$$
 
 ---
 
 # ⌬ Codex Symbol Table ⎅ Stability, Exergy, Recursion ⌬
+
+---
 
 Canonical glyphs used across the Polyrifringence Engine, RSANCS, and Codex Canon.
 These symbols define the operational, mathematical, and ethical layers underlying all computation, coherence, and recursion behaviours within the architecture.
@@ -2400,6 +2421,8 @@ These symbols define the operational, mathematical, and ethical layers underlyin
 
 #  🔰 Codex Lexicon ⎅ Core Glyph Definitions 🔰
 #### ΔΩ - Exergy Coherence Operator (Canonical, True Form)
+
+---
 
 The foundational glyph of the Polyrifringence Engine and RSANCS recursion law.
 
@@ -2426,6 +2449,8 @@ It is the pure operator.
 ---
 
 # 𝛌⃝ Exergy Half-Life Sigil (Lambda in a Coherence Cycle)  𝛌⃝
+
+---
 
 Definition:
 A lambda decay constant enclosed within a bounded coherence cycle.
@@ -2458,7 +2483,11 @@ Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine la
 <details>
 <summary><kbd>🧰Hardware & Environment Specifications🖥️</kbd></summary>
 
+---
+
 ### ✅ Verified System Configuration 🟢
+
+---
 
 *(All benchmarks, phase-trace simulations, and Codex Canon validations executed on the following system.)*
 
@@ -2485,6 +2514,8 @@ Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine la
 
 ### ⚙️ System Validation Summary
 
+---
+
 | Test               | Result | Validation Tool                                        |
 | ------------------ | ------ | ------------------------------------------------------ |
 | GPU Integrity      | ✅ PASS | `gpu_validation_test.py` (CUDA tensor precision < 1 %) |
@@ -2495,6 +2526,8 @@ Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine la
 ---
 
 ### 🧬 Codex Integration Node (Reference Sovereign System)
+
+---
 
 This configuration serves as the **Codex Canon Reference Node**, utilized for:
 
@@ -2514,8 +2547,12 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 <details>
 <summary><kbd>🔰Practical Applications & Use-Cases🔰</kbd></summary>
 
+---
+
 ### 🌈🧭 Polyrifringence Engine - Applied Domains
 (10 Key Implementations and Frontiers)
+
+---
 
 1. **Optical Simulation & Materials Science**  
    Validate birefringent materials, thin-film coatings, or multi-crystal lenses through recursive phase-trace comparison.
@@ -2558,8 +2595,12 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 <details>
 <summary><kbd>🌎Real Problems Solved</kbd></summary>
 
+---
+
 ### ⚙️ Empirical & Engineering Challenges Addressed
 (10 Demonstrable Problem Domains)
+
+---
 
 1. **Phase Drift in High-Precision Optics**  
    Resolves cumulative angular deviation (< 0.1 mrad) through recursive feedback restoration and Euclid-5 diagnostics.
@@ -2602,8 +2643,12 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 <details>
 <summary><kbd>🌏Real-World Relevance</kbd></summary>
 
+---
+
 ### 🔬 Practical, Economic, and Scientific Impact
 (10 Key Relevance Domains)
+
+---
 
 1. **Aerospace & Satellite Imaging**  
    Enhances polarization-based sensors and lens systems through recursive coherence correction and Euclid drift tracking.
@@ -2646,8 +2691,12 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 <details>
 <summary><kbd>🌐Future Horizons & Next-Stage Research🌍</kbd></summary>
 
+---
+
 ### 🚀 Emerging Frontiers and Evolution Pathways
 (10 Prospective and Development Vectors)
+
+---
 
 1. **Hybrid Optical–AI Processing Units**  
    Integrate recursive birefringence feedback directly into neuromorphic chipsets for self-correcting optical computation.
@@ -2696,6 +2745,8 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 
 ### ⛑️ Purpose
 
+---
+
 To rigorously characterize the **true operating envelope** of the Polyrifringence Engine by driving it through:
 
 * **Throughput ceilings** (rays·s⁻¹ vs. VRAM tiling and kernel launch overhead),
@@ -2709,6 +2760,8 @@ To rigorously characterize the **true operating envelope** of the Polyrifringenc
 
 ### 💡 Key Questions
 
+---
+
 1. Where does **VRAM pressure** force sub-linear scaling and tiling stalls?
 2. Which **(α, depth)** regions exhibit limit cycles vs. stable fixed points?
 3. Does **mixed precision** introduce systematic drift; can compensated accumulation fix it?
@@ -2718,6 +2771,8 @@ To rigorously characterize the **true operating envelope** of the Polyrifringenc
 ---
 
 ### 📊 Test Matrix (Canonical)
+
+---
 
 | Axis             | Values                                   | Notes                     |
 | ---------------- | ---------------------------------------- | ------------------------- |
@@ -2736,6 +2791,8 @@ To rigorously characterize the **true operating envelope** of the Polyrifringenc
 
 ### 🛡️ Safety & Integrity Guardrails
 
+---
+
 * **Thermal cap**: abort when GPU temp > **84 °C** sustained for 30 s.
 * **Power cap**: abort if board power > **TDP×1.1** for 10 s.
 * **Numerical cap**: abort if `Δφ_rms > 2.0 mrad` or `||J†J − I||_F > 1e−3`.
@@ -2745,6 +2802,8 @@ To rigorously characterize the **true operating envelope** of the Polyrifringenc
 ---
 
 ### ⚙️ Canonical Ω-Load (Single-GPU Max)
+
+---
 
 ```bash
 python src/polyrifringence_engine_v8_10.py \
@@ -2768,6 +2827,8 @@ python src/polyrifringence_engine_v8_10.py \
 ---
 
 ### 🧰 Extreme Runner (PowerShell, ready-use)
+
+---
 
 ```powershell
 # benchmark_runners/run_extreme_suite.ps1
@@ -2794,6 +2855,8 @@ foreach ($c in $cfgs) {
 
 ### 🧪 Precision & Compensation Protocol
 
+---
+
 * **FP16/TF32**: enable dynamic **loss scaling**; keep **FP32/FP64 accumulators**.
 * **Compensation**: prefer **Kahan** or **Neumaier** in recursion sums to preserve energy closure.
 * **Invariant checks** (per iteration):
@@ -2804,6 +2867,8 @@ foreach ($c in $cfgs) {
 ---
 
 ### 🧮 Stability Map & Lyapunov Scan
+
+---
 
 **Recursion law**
 $$[
@@ -2822,6 +2887,8 @@ $$[
 
 ### 🧭 Adaptive-α Controller (pseudocode)
 
+---
+
 ```python
 # inside recursion loop
 # target_rms = desired phase drift (e.g., 0.1 mrad)
@@ -2835,6 +2902,8 @@ err_prev = err
 ---
 
 ### 🔁 Mixed-Precision Recipe (Python snippet)
+
+---
 
 ```python
 torch.backends.cudnn.deterministic = True
@@ -2855,6 +2924,8 @@ for v in values:
 
 ### 🔌 Multi-GPU Coherence & Transport
 
+---
+
 * **Batch-split** rays per device; **no cross-device sync** within inner loop.
 * Post-reduce phase fields; verify inter-GPU **phase offset ≤ 0.2 mrad**.
 * Prefer **NVLink** for 4–8 GPUs; PCIe ok ≤ 4.
@@ -2864,6 +2935,8 @@ for v in values:
 
 ### 🧪 Observer-Feedback Stress (ΔΩ)
 
+---
+
 * **Locked**: deterministic prompts → confirm steady α and drift < 0.1 mrad @ depth ≥ 8.
 * **Entropy-stim**: randomized prompts (bounded) every N steps → ensure recovery < 3 iterations.
 * Record: `(prompt_hash, α, drift_rms, λ, recovery_steps)`.
@@ -2871,6 +2944,8 @@ for v in values:
 ---
 
 ### 📈 Metrics & Acceptance
+
+---
 
 | Metric                     | Pass (Stable)               | Warn (Edge)        | Fail (Break)            |        |        |
 | -------------------------- | --------------------------- | ------------------ | ----------------------- | ------ | ------ |
@@ -2885,6 +2960,8 @@ for v in values:
 ---
 
 ### 🔭 Telemetry Capture (ready-use)
+
+---
 
 **Windows PowerShell (NV telemetry + logs)**
 
@@ -2902,6 +2979,8 @@ Stop-Process -Id $nvsmi.Id
 
 ### 🧾 Log Schema (JSONL)
 
+---
+
 ```json
 {"ts":"2025-11-06T04:12:33Z","run_id":"Ω/20251106_0412/01","gpu":"RTX 3050","num_rays":500000000,"depth":12,"alpha":0.85,"precision":"FP32","accum":"kahan","tilts":"-10:10:2","batch":8,"ai_feedback":true,"throughput_mrs":61.2,"drift_rms_mrad":0.09,"lyapunov":-0.12,"power_w":146,"temp_c":78,"eta_rays_per_ws":4.19e5,"energy_closure":7.2e-7,"manifest_hash":"sha256:…"}
 ```
@@ -2909,6 +2988,8 @@ Stop-Process -Id $nvsmi.Id
 ---
 
 ### 🧮 Roofline Update (with precision weights)
+
+---
 
 $$[
 T \approx T_0 \cdot \big( w C_r + (1-w) B_r \big) \cdot \gamma_p \cdot \eta(N)
@@ -2920,6 +3001,8 @@ T \approx T_0 \cdot \big( w C_r + (1-w) B_r \big) \cdot \gamma_p \cdot \eta(N)
 ---
 
 ### 🧪 Edge Experiments (Ω-Codes)
+
+---
 
 |   Code  | Experiment                               | What it reveals                             |
 | :-----: | ---------------------------------------- | ------------------------------------------- |
@@ -2933,6 +3016,8 @@ T \approx T_0 \cdot \big( w C_r + (1-w) B_r \big) \cdot \gamma_p \cdot \eta(N)
 ---
 
 ### 🧠 Example Extreme Result (Condensed)
+
+---
 
 ```
 Ω-C α-Sweep — RTX 4090 × 4 (NVLink), depth=12, FP32+kahan
@@ -2948,7 +3033,9 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-### 🔬 Analysis Workflow (Phase-Trace Viewer 2.0)
+### 🔬 Analysis Workflow (Phase-Trace Viewer)
+
+---
 
 1. **Load** run JSON/CSV → enable **Euclid-Drift Overlay**.
 2. **Compare** channels: FP32 vs FP64; **toggle compensated sums**.
@@ -2959,6 +3046,8 @@ inter-GPU phase     : 0.16 mrad
 
 ### 🧭 Findings Playbook (typical)
 
+---
+
 * **VRAM knee** ~ **3–5×** your 3050 baseline batch; tiling then dominates.
 * **Stable α** sits **0.70–0.90** for depth 8–12; avoid α→1.00.
 * **Kahan** restores closure in FP32/TF32 to FP64-adjacent quality.
@@ -2967,10 +3056,8 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-### 🜎 Reflection
-
-`Beyond the divide, the system shows you its laws.`
-`Hold it there just long enough to learn, not to break.`
+> Beyond the divide, the system shows you its laws.
+> Hold it there just long enough to learn, not to break.
 
 </details>
 
@@ -2979,8 +3066,12 @@ inter-GPU phase     : 0.16 mrad
 <details>
 <summary><kbd>🌈Gem Profiles & Optical Constants✨</kbd></summary>
 
+---
+
 # 🧮 Canonical Gemline Optical Table 🌍
 ### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion
+
+---
 
 ###### Gemological properties for the 12 Biblical–Codex gemstones. 
 ###### Values given are for ideal/pure mineral specimens; actual quartz-derived gems (jasper, sardonyx, chalcedony etc.) may vary due to impurity, grain structure, or inclusion content.
@@ -3010,6 +3101,8 @@ inter-GPU phase     : 0.16 mrad
 
 ### 🌍 Physical Reference Gems 🜂 (Calibration Set)
 
+---
+
 | Gem | Type | nₒ | Δn | Purpose | Optical Role | Symbolic Analogue |
 |------|--------|--------|--------|-----------|--------------------|--------------------|
 | 💎 **Diamond (C)** | Isotropic | 2.417 | 0 | High-index reference; dispersion mapping | **Perfect Isotropy** | 🔷 Origin of Light |
@@ -3023,6 +3116,8 @@ inter-GPU phase     : 0.16 mrad
 ---
 
 ### 🜂 Codex Gemline — Symbolic Alignment Map 🗺️
+
+---
 
 | # | Gem Name | Symbol | Elemental Aspect | Phase Function | Codex Tier Role |
 |--:|-----------|:------:|------------------|----------------|------------------|
@@ -3049,9 +3144,13 @@ inter-GPU phase     : 0.16 mrad
 
 <br>
 
+---
+
 # 🔶 TABLE 1 - GEM FACET MASTER TABLE (Identity Layer)  
 ### *Intrinsic Optical Physics · Crystallographic Nature · Symbolic Purpose*  
 Facets describe **what the gem IS** - its innate optical, crystallographic, and symbolic identity (J-operator domain).
+
+---
 
 | # | Gem | Biblical Facet Type | Optical Facet Type | Symbolic Identity Function | Facet Capabilities | Facet Synergies |
 |---:|------|----------------------|----------------------|------------------------------|---------------------|------------------|
@@ -3076,6 +3175,8 @@ Facets describe **what the gem IS** - its innate optical, crystallographic, and 
 ### *Macroscopic Recursion Geometry · ΔΩ-Flow Alignment · Recursive Dynamics*  
 Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation shaping ΔΩ, REGF, PVS, ZPX, and symbolic revelation.
 
+---
+
 | # | Gem | Canonical Cut | Cut Taxonomy | Recursion Geometry | ΔΩ Alignment | Cut Synergies |
 |---:|------|----------------|---------------|----------------------|----------------|----------------|
 | **1** | **Jasper** | Cabochon Dome | Harmonic | Smooth Return Surface | Ground-State Stabiliser | Jasper ↔ Chalcedony |
@@ -3095,8 +3196,11 @@ Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation sh
 
 ---
 
-# 🔱 TABLE 3 - CODEX GEMLINE INTEGRATION TABLE (Optical × Facet × Cut)
+# 🔱 TABLE 3 - CODEX GEMLINE INTEGRATION TABLE 
+### **(Optical × Facet × Cut)**
 ### *Unified Optical Identity · Facet Nature · Cut Geometry → Codex Function*
+
+---
 
 | # | Gem | Optical Role | Facet Role (Identity Layer) | Cut Role (Revelation Layer) | Unified Codex Function |
 |---:|------|------------------------|-----------------------------------------------|---------------------------------------------|-----------------------------------------------|
@@ -3126,12 +3230,19 @@ Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation sh
 <details>
 <summary><kbd>📔Gem References</kbd></summary>
 
+---
+
 ## 📚 Gemological References 📥
 Meaning arises from patterns, not rules  
 Understanding arises from association, not definition  
 Grammar arises from structure, not prescription 
+
 ---
+
 ### Quartz Family (Carnelian, Chalcedony, Jasper, Sardonyx, Chrysoprase, Amethyst)
+
+---
+
 • Quartz – Crystal System, RI, birefringence  
   [https://en.wikipedia.org/wiki/Quartz](https://en.wikipedia.org/wiki/Quartz)  
 • Quartz (Gemology / Optical Properties)  
@@ -3141,7 +3252,12 @@ Grammar arises from structure, not prescription
 • Gemstone RI Table (Quartz entries)  
   [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
 
+---
+
 ### Zircon (Jacinth / Hyacinth)
+
+---
+
 • Zircon – Crystal System, RI, birefringence  
   [https://en.wikipedia.org/wiki/Zircon](https://en.wikipedia.org/wiki/Zircon)  
 • GIA Zircon Gemological Overview  
@@ -3149,7 +3265,12 @@ Grammar arises from structure, not prescription
 • Gemstone RI & Double Refraction Table (Zircon)  
   [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)
 
+---
+
 ### Sapphire (Corundum)
+
+---
+
 • Sapphire – Crystal System, RI, birefringence  
   [https://en.wikipedia.org/wiki/Sapphire](https://en.wikipedia.org/wiki/Sapphire)  
 • GIA Sapphire Guide  
@@ -3157,7 +3278,12 @@ Grammar arises from structure, not prescription
 • RI Table (Corundum entries)  
   [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
 
+---
+
 ### Topaz
+
+---
+
 • Topaz – Optical Properties, Crystal System  
   [https://en.wikipedia.org/wiki/Topaz](https://en.wikipedia.org/wiki/Topaz)  
 • Gemology Project: Topaz  
@@ -3165,7 +3291,12 @@ Grammar arises from structure, not prescription
 • Refractive Index Reference (Topaz)  
   [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
 
+---
+
 ### Beryl / Emerald
+
+---
+
 • Beryl – Crystal Structure, Optical Properties  
   [https://en.wikipedia.org/wiki/Beryl](https://en.wikipedia.org/wiki/Beryl)  
 • GIA Emerald Gemological Data  
@@ -3173,31 +3304,56 @@ Grammar arises from structure, not prescription
 • RI Table (Beryl entries)  
   [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)
 
+---
+
 ### Peridot (Chrysolite / Olivine)
+
+---
+
 • Peridot – Crystal Structure, RI  
   [https://en.wikipedia.org/wiki/Peridot](https://en.wikipedia.org/wiki/Peridot)  
 • GemSociety RI Table (Olivine/Peridot)  
   [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
 
+---
+
 ### Diamond (Reference Standard)
+
+---
+
 • Diamond – Optical Properties, RI, dispersion  
   [https://en.wikipedia.org/wiki/Diamond](https://en.wikipedia.org/wiki/Diamond)  
 • GIA Diamond Quality Factors  
   [https://www.gia.edu/diamond-quality-factor](https://www.gia.edu/diamond-quality-factor)
 
+---
+
 ### Calcite (Reference Extreme Birefringence)
+
+---
+
 • Calcite – Birefringence and Optical Behavior  
   [https://en.wikipedia.org/wiki/Calcite](https://en.wikipedia.org/wiki/Calcite)  
 • GemSociety Calcite Optical Data  
   [https://www.gemsociety.org/article/calcite/](https://www.gemsociety.org/article/calcite/)
 
+---
+
 ### Gypsum / Alabaster (Diffuse Calibration Medium)
+
+---
+
 • Gypsum (Alabaster variant) – Crystal Structure, RI  
   [https://en.wikipedia.org/wiki/Gypsum](https://en.wikipedia.org/wiki/Gypsum)  
 • Gemstone Optical Constants Table (Gypsum)  
   [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
 
+---
+
 ### 📊 General Optical References
+
+---
+
 • Refractive Index & Double Refraction Fundamentals  
   [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)  
 • Refractometry Standards (589 nm Sodium D-line)  
@@ -3206,6 +3362,8 @@ Grammar arises from structure, not prescription
 ---
 
 ### 📘 **Minerals.net - Optical Constants Database**
+
+---
 
 * Quartz: [https://www.minerals.net/mineral/quartz.aspx](https://www.minerals.net/mineral/quartz.aspx)
 * Beryl: [https://www.minerals.net/mineral/beryl.aspx](https://www.minerals.net/mineral/beryl.aspx)
@@ -3219,6 +3377,8 @@ Grammar arises from structure, not prescription
 
 ### 📗 **Gemdat.org - Gemological Property Database**
 
+---
+
 * Quartz (all varieties): [https://www.gemdat.org/gem-3325.html](https://www.gemdat.org/gem-3325.html)
 * Beryl: [https://www.gemdat.org/gem-659.html](https://www.gemdat.org/gem-659.html)
 * Topaz: [https://www.gemdat.org/gem-8099.html](https://www.gemdat.org/gem-8099.html)
@@ -3227,6 +3387,8 @@ Grammar arises from structure, not prescription
 ---
 
 ### 📕 **WebMineral.com - Mineral Optical Database**
+
+---
 
 * Quartz: [https://webmineral.com/data/Quartz.shtml](https://webmineral.com/data/Quartz.shtml)
 * Beryl: [https://webmineral.com/data/Beryl.shtml](https://webmineral.com/data/Beryl.shtml)
@@ -3243,6 +3405,12 @@ Grammar arises from structure, not prescription
 <details>
 <summary><kbd>💎Historical - Scientific Cross-Reference Table📜</kbd></summary>
 
+---
+
+### High Priest’s Breastplate (Exodus 28) Mineralogical Cross-Reference
+
+---
+
 | # | Codex / README Name | Traditional Name | Biblical Stone (Source) | Accepted Modern Mineral |
 |--:|----------------------|------------------|--------------------------|--------------------------|
 | 1 | **Sardius (Carnelian)** | Sard / Odem | [Ex 28:17](https://www.biblegateway.com/passage/?search=Exodus+28%3A17&version=NASB1995) · [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Carnelian (Chalcedony var.) |
@@ -3258,7 +3426,6 @@ Grammar arises from structure, not prescription
 | 11 | **Sapphire** | Sapir | [Ex 28:18](https://www.biblegateway.com/passage/?search=Exodus+28%3A18&version=NASB1995) · [Rev 21:19](https://www.biblegateway.com/passage/?search=Revelation+21%3A19&version=NASB1995) | Corundum (Al₂O₃) |
 | 12 | **Chrysoprase** | Chrysoprasos | [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Nickel Chalcedony (SiO₂ + Ni) |
 | 13 | **Observer (ΔΩ)** | — | — | Symbolic Meta-Node (Observer State) |
-
 
 > **Purpose:** Establishes historical and mineralogical provenance for the Codex Canon 12 + 1 Gemline, verifying each entry’s biblical and scientific lineage.
 
