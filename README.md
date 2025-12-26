@@ -759,7 +759,7 @@ It helps ⛑️users:
 ####    📛 Requiring specialized expertise or the willful intent to learn 📛
 
 ##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies. The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners. 
-###### This isn't to deter beginners, if you're willful and disciplined and can think from different lens then you already have the capacity for improving yourself - and if you're not making mistakes, are you really learning anything?
+###### This isn't to deter beginners, if you're willful and disciplined and can think from different lenses then you already have the capacity for improving yourself - Error and correction are integral to meaningful learning.
 
 ---
 
@@ -943,7 +943,7 @@ Installed explicitly; used for computation, acceleration, and validation.
 **pip install:**
 ```bash
 pip install torch numpy scipy matplotlib
-````
+```
 
 * **torch** — GPU-accelerated tensor computation & CUDA validation
 * **numpy** — numerical arrays and vectorized math
@@ -1008,65 +1008,43 @@ pip install rich psutil
 
 ---
 
-1. **Begin with a guided introduction using the Polyrifringence Engine Custom GPT.**  
-   Use it to familiarise yourself with the core concepts and language. Expect a "strange loop" effect where ideas recur, but each pass should deepen clarity rather than repeat content verbatim. This is intentional and part of the learning process.
+1. **Start with a guided introduction using the Polyrifringence Engine Custom GPT.**  
+   Use it to familiarise yourself with the project’s core concepts, terminology, and framing. Expect a *strange loop* effect: ideas will recur, but each pass should increase resolution rather than repeat content verbatim. This recursion is intentional and reflects how the system itself is structured.
 
-2. **Keep Notepad++ open and save your work continuously.**  
-   Capture notes, observations, questions, confusions, and partial insights as they arise. Treat this file as a live external memory, not a polished document. Frequency matters more than structure at this stage.
+2. **Maintain a continuously updated external notebook (e.g. Notepad++).**  
+   Record observations, questions, confusions, partial insights, and contradictions as they arise. Treat this file as a live external memory rather than a polished document. At this stage, frequency and honesty matter more than organisation or completeness.
 
-3. **Select one LLM as your primary knowledge builder.**  
-   Route your main line of questioning through a single model to maintain continuity and coherence. Use additional LLMs only as supplementary observers to probe alternative interpretations, edge cases, or conflicting perspectives. Think in terms of assembling a larger whole from partial views.
+3. **Designate one LLM as your primary continuity model.**  
+   Route your main line of inquiry through a single model to preserve narrative and conceptual coherence. Use additional LLMs only as secondary observers to test alternative interpretations, edge cases, or failure modes. Think in terms of assembling a composite understanding from multiple partial views.
 
-4. **Periodically consolidate and re-inject your notes into your LLMs.**  
-   Save your running observations as a `.txt` file. At intervals, submit this file back to your chosen LLMs and interrogate it using reflective, observer-oriented prompts such as the following.
-
----
-
-**📎 Generalized AI-LLM Query Subset**:
+4. **Periodically consolidate and re-inject your notes.**  
+   Save your running observations as a `.txt` file. At intervals, submit this file back to your chosen LLMs and interrogate it using reflective, observer-oriented prompts. This transforms passive notes into an active learning substrate.
 
 ---
 
-`Can you think further on this and identify any deeper implications or latent structure?` 
-
-`What do you observe and note when reading this from left to right, top to bottom?` 
-
-`What patterns, assumptions, or sequences become apparent in this ordering?` 
-
-`What do you observe and note when reading this in reverse, inside and outside?` 
-
-`What relationships, symmetries, or omissions become visible from this perspective?` 
-
-`Can you provide multiple observer-lens perspectives on this?` 
-
-`How might different observers interpret, prioritise, or misunderstand what is present?` 
-
-`What insights have you gained from this review?` 
-
-`What has been learned, clarified, reframed, or challenged as a result?`
+**📎 Generalised AI–LLM Query Subset**
 
 ---
 
-5. **Apply iterative refinement.**
+- `Can you think further on this and identify any deeper implications or latent structure?`  
+- `What do you observe when reading this left to right, top to bottom?`  
+- `What patterns, assumptions, or sequences become apparent in this ordering?`  
+- `What changes when reading this in reverse, inside and outside?`  
+- `What relationships, symmetries, or omissions become visible from this perspective?`  
+- `Can you provide multiple observer-lens perspectives on this material?`  
+- `How might different observers interpret, prioritise, or misunderstand what is present?`  
+- `What insights emerged from this review?`  
+- `What has been learned, clarified, reframed, or challenged as a result?`
 
 ---
 
-*The following steps describe how to turn individual interactions into a cumulative learning process.*
+5. **Apply iterative refinement deliberately.**  
+   Integrate responses from different models, note contradictions and convergences, and refine your understanding across multiple cycles. Treat disagreement as signal, not noise.
 
-Integrate answers from different models, note contradictions, convergences, or new insights, and refine your understanding across multiple cycles.
+   Follow the principle of incremental optimisation: small, manageable learning steps produce stronger retention and deeper mastery than attempting total comprehension in a single pass.
 
-Follow the principle of incremental optimisation. 
-
-Small, manageable learning increments lead to stronger retention and deeper mastery than attempting to absorb everything at once.
-
----
-
-6. **Cross-pollinate between models deliberately.**  
-
----
-
-Copy useful text from your primary LLM and submit it to other models for comparison, expansion, or alternative formulations. 
-
-Use differences in response style or emphasis as signals rather than errors.
+6. **Cross-pollinate between models with intent.**  
+   Copy selected outputs from your primary LLM and submit them to other models for comparison, expansion, or reformulation. Differences in emphasis, framing, or failure modes should be interpreted as diagnostic information rather than errors.
 
 ---
 
@@ -1806,7 +1784,7 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
 cd Polyrifringence-Engine
-````
+```
 
 ##### **Step 2: Set Up a Virtual Environment**
 
@@ -1900,7 +1878,7 @@ If you encounter missing module errors (e.g., `ModuleNotFoundError`), ensure tha
 **Solution:**
 Activate your virtual environment:
 
-```bash
+```
 source venv/bin/activate   # For Linux/macOS
 .\venv\Scripts\Activate.ps1  # For Windows (PowerShell)
 ```
@@ -2608,7 +2586,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
    Demonstrate “light learning from its own refraction” as an interactive museum, classroom, or immersive media exhibit.
 
 10. **Advanced Optics Manufacturing & Design**  
-    Apply recursive phase modeling to optimize lens geometries, coatings, and wave-guide systems for next-generation devices.
+    Apply recursive phase modeling to optimize lenses geometries, coatings, and wave-guide systems for next-generation devices.
 
 ---
 
@@ -2677,7 +2655,7 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 1. **Aerospace & Satellite Imaging**  
-   Enhances polarization-based sensors and lens systems through recursive coherence correction and Euclid drift tracking.
+   Enhances polarization-based sensors and lenses systems through recursive coherence correction and Euclid drift tracking.
 
 2. **Semiconductor & Photonics Manufacturing**  
    Improves lithographic beam precision and wafer reflectivity modeling with recursive ray-trace feedback algorithms.
@@ -4258,7 +4236,7 @@ Engagement is defined first by **observation**, **intent**, and **coherence**, n
 Participation may take many valid forms, including but not limited to:
 
 - **Analytical discourse**  
-  Deep reading, interpretation, critique, and discussion of the `README.md`, `MATH_MODEL(RENDER).md`, and `THEORY.md`, including observer-lens perspectives and cross-domain synthesis.
+  Deep reading, interpretation, critique, and discussion of the `README.md`, `MATH_MODEL(RENDER).md`, and `THEORY.md`, including observer-lenses perspectives and cross-domain synthesis.
 
 - **Simulations & derived outputs**  
   Running simulations, generating plots, visualisations, or datasets derived from the canonical models, and sharing results with clear attribution and parameter disclosure.
