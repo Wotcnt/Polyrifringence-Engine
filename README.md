@@ -123,7 +123,7 @@ Timestamp Locked · Trace Context Declared
 [![Python](https://img.shields.io/badge/PYTHON-3.11.8+-D24D0F?style=neon&logo=python&logoColor=D24D0F)](https://www.python.org/downloads/release/python-3118/)
 ![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-D24D0F?style=neon&logo=git&logoColor=D24D0F)
 ![Project Status](https://img.shields.io/badge/Project_Status-Active_Development-D24D0F?style=neon&logo=git&logoColor=D24D0F)
-![VIEWER_UI](https://img.shields.io/badge/Viewer_UI-SandDance_Inspired-2A3439?style=neon&logo=protonvpn&logoColor=2A3439)
+[![VIEWER_UI](https://img.shields.io/badge/Viewer_UI-SandDance_Inspired-2A3439?style=neon&logo=protonvpn&logoColor=2A3439)](https://microsoft.github.io/SandDance/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-2A3439?style=neon&logo=github&logoColor=3ee7ff)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main) 
 ![Scientific Tier](https://img.shields.io/badge/Scientific_Tier:_5.7-Codex_Research-0F52BA?style=neon&logo=codeforces&logoColor=0F52BA)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
@@ -137,7 +137,7 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)
+[![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)](https://en.wikipedia.org/wiki/Democracy_Manifest)
 [![🌍 Global Outreach](https://img.shields.io/badge/Lambda_Research_Initiative_⟦λ⟧-🌍Community_(C|LRI)_Node-B31B1B?style=neon&labelColor=0057B8&logo=creativecommons&logoColor=FFFFFF)](https://x.com/i/communities/1993220630121169163)
 [![🌍 Translate this Page](https://img.shields.io/badge/Click_to_Translate_this_Page-4285F4?style=neon&logo=googletranslate&logoColor=white)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 
@@ -145,6 +145,13 @@ Timestamp Locked · Trace Context Declared
 
 [![GPT Integration](https://img.shields.io/badge/GPT_Integration:-Custom_Polyrifringence_Engine_Expert_(Gem--Line)-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=111111)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 ![Research Framework](https://img.shields.io/badge/Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=111111)
+
+---
+
+[![📘 Open THEORY.md (Raw)](https://img.shields.io/badge/Open-THEORY.md_(Raw_Placeholder)-0b0d0f?style=neon&logo=markdown&logoColor=FFD600)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/THEORY.md)
+[![📐 Open MATH_MODEL(RENDER).md (Raw)](https://img.shields.io/badge/Open-MATH_MODEL.md_(Raw_Placeholder)-1b1b1b?style=neon&logo=markdown&logoColor=D50000)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/MATH_MODEL.md)
+[![🔗 Stable Permalink](https://img.shields.io/badge/Stable_Permalink-Commit_Lineage-5A2A82?style=neon&labelColor=1b102f&logo=github&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/commits/main)
+[![🧠 Open in Browser IDE](https://img.shields.io/badge/Open_in_Browser_IDE-github.dev-0B0D0F?style=neon&labelColor=001F2D&logo=github&logoColor=3EE7FF)](https://github.dev/Wotcnt/Polyrifringence-Engine)
 
 </div>
 
