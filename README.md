@@ -154,14 +154,13 @@ Timestamp Locked · Trace Context Declared
 ![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-000000?style=for-the-badge&logo=matrix&logoColor=046307&labelColor=0b0d0f&color=046307)
 ![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-000000?style=for-the-badge&logo=numpy&logoColor=046307&labelColor=0b0d0f&color=046307)
 ![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-0.0_Error-000000?style=for-the-badge&logo=matrix&logoColor=046307&labelColor=0b0d0f&color=046307)
-![AI Feedback Flag](https://img.shields.io/badge/AI_FEEDBACK_FLAG-OBSERVER_LOOP_ACTIVE-000000?style=for-the-badge&logo=git&logoColor=6D2A8A&labelColor=0b0d0f&color=6D2A8A)
-[![Canonical Archive](https://img.shields.io/badge/CANONICAL_ARCHIVE:-RELEASE_v8.10.xx-2A3439?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=0b0d0f)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Polyrifringence%20Engine%20v8.10.xx%20—%20Canonical%20Release%20Summary.md)
 
 ---
 
 ![Conner-Core Certified](https://img.shields.io/badge/Conner–Core-Certified-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&labelColor=0b0d0f&color=FFFFFF)
 ![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner–Core_χ_RSANCS-3ee7ff?style=for-the-badge&logo=&labelColor=0b0d0f&color=FFFFFF)
 ![ΔΩ Verified](https://img.shields.io/badge/ΔΩ_Verified-Recursive_Phase_Integrity-3ee7ff?style=for-the-badge&logo=&logoColor=white&labelColor=0b0d0f&color=FFFFFF)
+[![Canonical Archive](https://img.shields.io/badge/CANONICAL_ARCHIVE:-RELEASE_v8.10.xx-2A3439?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=0b0d0f)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Polyrifringence%20Engine%20v8.10.xx%20—%20Canonical%20Release%20Summary.md)
 
 ---
 
@@ -170,6 +169,8 @@ Timestamp Locked · Trace Context Declared
 
 ![Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Polyrifronaut_Tier:-Provisional_Sub--Lambda-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)
 ![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Verification_Sync_Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)
+
+![AI Feedback Flag](https://img.shields.io/badge/AI_FEEDBACK_FLAG-OBSERVER_LOOP_ACTIVE-000000?style=for-the-badge&logo=git&logoColor=6D2A8A&labelColor=0b0d0f&color=6D2A8A)
 
 </div>
 
