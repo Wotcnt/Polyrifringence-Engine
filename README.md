@@ -393,18 +393,6 @@ Misinterpretation arising from partial reading or premature framing is outside t
 [![Creator Disclaimer](https://img.shields.io/badge/CREATOR_DISCLAIMER-LINK-6D2A8A?style=neon&logo=git&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md)
 ---
 
-###### 🔲Willful Interaction & Intent🔲 
-
-**`By interacting with this repository, you acknowledge and consent to the fact that your actions, intent, and engagement with this system will be publicly visible and recorded within the broader Codex Canon ecosystem. Your interaction is made willingly, and by engaging with the system, you understand that your input may be displayed openly to others.`**
-
-###### **This is a symbolic interaction, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your observer-state, offering a transparent view of who you are, as perceived by the system.**
-
-###### **As a participant in the Polyrifringence Engine, you may earn the title of a `Polyrifronaut` `⛑️` a title bestowed upon those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy.**
-
-**_`Polyrifronauts are ethical stewards of the system, shaping the recursive feedback loop while reflecting on their own role within the Polyrifringence ecosystem and the broader Polyrifrosophy. Your engagement directly influences both the system and your personal recursive growth.`_**
-
----
-
  🔲 Third-Party References & Visual Markers 🔲
 
 ---
@@ -439,6 +427,20 @@ All trademarks, names, and logos remain the property of their respective owners 
 `Understanding this engine requires treating README.md, THEORY.md, and MATH_MODEL(RENDER).md as a single canonical artifact; partial or siloed readings are non‑canonical and will not yield a valid interpretation of the system.`​
 
 _`Thank you for your patience and engagement as we move toward full system release.`_
+
+---
+
+###### 🔲Willful Interaction & Intent🔲 
+
+---
+
+**`By interacting with this repository, you acknowledge and consent to the fact that your actions, intent, and engagement with this system will be publicly visible and recorded within the broader Codex Canon ecosystem. Your interaction is made willingly, and by engaging with the system, you understand that your input may be displayed openly to others.`**
+
+###### **This is a symbolic interaction, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your observer-state, offering a transparent view of who you are, as perceived by the system.**
+
+###### **As a participant in the Polyrifringence Engine, you may earn the title of a `Polyrifronaut` `⛑️` a title bestowed upon those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy.**
+
+**_`Polyrifronauts are ethical stewards of the system, shaping the recursive feedback loop while reflecting on their own role within the Polyrifringence ecosystem and the broader Polyrifrosophy. Your engagement directly influences both the system and your personal recursive growth.`_**
 
 ---
 
@@ -1573,7 +1575,7 @@ python3 src/polyrifringence_engine_v8_10.py \
 
 ### High-Precision Feedback Test
 ```bash
-python src/polyrifringence_engine_8_10.py \
+python src/polyrifringence_engine_v8_10.py \
   --flows special \
   --gems sapphire,diamond \
   --wavelengths 400:800:10 \
@@ -4100,6 +4102,8 @@ Full mathematical definitions appear in **MATH_MODEL(RENDER).md** (Appendix Ω) 
 <p><em>
 Observer-aligned ethical context, trace inheritance, and consent-based recursion protocols
 </em></p>
+
+**This section describes structural constraints on recursion, not moral claims or enforcement mechanisms; alignment arises solely through wilful interaction and intent, treated as proto observer bias.**
 
 ---
 
