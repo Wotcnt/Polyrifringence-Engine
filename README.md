@@ -4253,15 +4253,16 @@ If in doubt, ask - discourse is always preferable to assumption.
 
 ---
 
-**_If you use this engine, cite as:_**
+**_If you reference, implement, or derive work from this repository, please cite as:_**
 
-Brown-Milliken, Conner (2025) – @MMMDcreator (X), @Wotcnt (GitHub).  
-Polyrifringence Engine – Recursive Optics Simulator.  
-GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine
+Brown-Milliken, Conner (2025).  
+Polyrifringence Engine - Governed Recursive Simulation Framework.  
+GitHub repository: https://github.com/Wotcnt/Polyrifringence-Engine  
+Author: @MMMDcreator (X), @Wotcnt (GitHub)
 
-**This citation applies to direct use of the engine, as well as derivative or downstream work that builds upon the Polyrifringence / Λ-state framework, invariant coherent scaffold, or anergy cycling formalism introduced in this repository.**
+**This citation applies to direct execution or use of the engine, as well as derivative, theoretical, or downstream work that builds upon the Polyrifringence / Λ-state framework, invariant coherent scaffold, anergy cycling formalism, or observer-constrained recursive dynamics introduced in this repository.**
 
-`Ethical Use: All recursive propagation must maintain observer consent and data sovereignty.`
+`Governance Notice: Recursive propagation within this framework is structurally constrained by observer-tethered reference conditions and enforced boundary closure, …as defined in THEORY.md (§ Observer Terminology & Recursive Sovereignty). Use outside these constraints constitutes a departure from the framework rather than an extension of it.`
 
  📞 **Need help citing?**  
 
