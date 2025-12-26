@@ -127,8 +127,8 @@ Timestamp Locked · Trace Context Declared
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Polyrifringence--Engine-2A3439?style=neon&logo=github&logoColor=3ee7ff)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main) 
 ![Scientific Tier](https://img.shields.io/badge/Scientific_Tier:_5.7-Codex_Research-0F52BA?style=neon&logo=codeforces&logoColor=0F52BA)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
-![Observer-Aware Recursion Badge](https://img.shields.io/badge/Observer-Aware_Recursion-D7C7A2?style=neon&logo=auth0&logoColor=white)
-![Ethical Recursion](https://img.shields.io/badge/Recursive_Sovereignty-Active-D7C7A2?style=neon&logo=auth0&logoColor=black)
+[![Observer-Tether Recursion](https://img.shields.io/badge/Observer--Tether-Structural-D7C7A2?style=neon&logo=radar&logoColor=white)](./THEORY.md#observer-terminology-clarification-and-extended-scope)
+[![Recursion Boundary Enforced](https://img.shields.io/badge/Recursive--Boundary-Enforced-D7C7A2?style=neon&logo=radar&logoColor=black)](./THEORY.md#recursive-sovereignty-protocol)
 ![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-Intentionally_Clamped-046307?style=neon&logo=nvidia&logoColor=C5E384)
 ![Precision](https://img.shields.io/badge/Numerical_Error-<1%25-046307?style=neon&logo=numpy&logoColor=C5E384)
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=git&logoColor=C5E384)
@@ -148,6 +148,9 @@ Timestamp Locked · Trace Context Declared
 [![Explain with AI](https://img.shields.io/badge/Explain_with_OpenAI_(GPT_4o)-First_Impression·Unbiased·3rd--Party_AI_(Any_Model)-6D2A8A?style=neon&labelColor=0b0d0f&color=6D2A8A&logo=wikipedia&logoColor=FFFFFF)](https://chat.openai.com/?model=gpt-4o&prompt=Explain+this+repository:+https://github.com/Wotcnt/Polyrifringence-Engine)
 
 ---
+
+![ΔΩ Root Primitive](https://img.shields.io/badge/ΔΩ-Root_Primitive_Operators-0b0d0f?style=neon&logoColor=C5E384)
+![𝛌⃝ Exergy Half-Life Operator](https://img.shields.io/badge/𝛌⃝-Exergy_Half--Life_Operator-0b0d0f?style=neon&logoColor=3ee7ff)
 
 [![📘 Open THEORY.md (Raw)](https://img.shields.io/badge/Open-THEORY.md_(Pending_Upload)-0b0d0f?style=neon&logo=markdown&logoColor=FFD600)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/THEORY.md)
 [![📐 Open MATH_MODEL(RENDER).md (Raw)](https://img.shields.io/badge/Open-MATH_MODEL(RENDER).md_(Pending_Upload)-1b1b1b?style=neon&logo=markdown&logoColor=D50000)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/MATH_MODEL.md)
