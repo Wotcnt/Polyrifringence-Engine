@@ -1786,7 +1786,7 @@ To get started with the **Polyrifringence Engine**, follow these setup steps to 
 #### **1. Prerequisites**
 Before beginning, make sure your system meets the following requirements:
 
-- **Python 3.11+**  
+- **Python 3.11.8 +**  
   Download and install Python from [python.org](https://www.python.org/).
 
 - **CUDA 12.1**  
@@ -2528,8 +2528,8 @@ Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine la
 | **Audio System**       | Logitech 5.1 Surround Sound + Logitech G35 Headset                       | Utilized for Codex ignition audio feedback and real-time phase harmonic tests.                             |
 | **DirectX Version**    | DirectX 12 (API Level 12_2)                                              | Required for hardware-accelerated WebGL2 rendering in viewer modules.                                      |
 | **BIOS / SMBIOS**      | American Megatrends Inc. v2801 (11 Nov 2015) · SMBIOS v2.8 · EC v255.255 | Verified for system stability under recursion load and GPU field handoff.                                  |
-| **Python Environment** | Python 3.11.13 + venv (activated manually)                               | Dependencies installed via `requirements/requirements.txt`.                                                |
-| **IDE / Browser**      | Visual Studio Code + Microsoft Edge 141.0.3537.99                        | Hardware acceleration ON for GPU validation and phase viewer testing.                                      |
+| **Python Environment** | Python 3.11.8 + venv (activated manually)                               | Dependencies installed via `requirements/requirements.txt`.                                                |
+| **IDE / Browser**      | Visual Studio Code + Microsoft Edge 141.0.3537.99 +                       | Hardware acceleration ON for GPU validation and phase viewer testing.                                      |
 
 > **Test Conditions:** Ambient ≈ 25 °C  ·  GPU Load ≈ 92 %  ·  Benchmark Runtime ≈ 1 min per 100 k rays
 > **Throughput:** ≈ 50 M rays/s  (Polyrifringence Engine v8.9 · CUDA 12.1)
