@@ -134,7 +134,12 @@ Timestamp Locked · Trace Context Declared
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=git&logoColor=C5E384)
 [![License: MIT](https://img.shields.io/badge/License-MIT-046307?style=neon&logo=trustpilot&logoColor=C5E384)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/LICENSE)
 [![Benchmark Verified](https://img.shields.io/badge/Benchmark-Validated_(RTX_3050)-046307?style=neon&logo=speedtest&logoColor=C5E384)](https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3050/)
-![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘_True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)
+
+---
+
+![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)
+[![🌍 Translate this Page](https://img.shields.io/badge/Translate_this_Page-4285F4?style=neon&logo=googletranslate&logoColor=white)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
+[![🌍 Global Outreach](https://img.shields.io/badge/Global_Research-🌍Initative-B31B1B?style=neon&labelColor=0057B8&logo=wikipedia&logoColor=FFFFFF)](https://www.wikipedia.org)
 
 ---
 
@@ -2305,7 +2310,7 @@ $$\Delta \phi = \frac{2\pi\, t\, \Delta n}{\lambda}$$
 
 [![Jones Matrix](https://img.shields.io/badge/Equation-Jones%20Matrix-blue?logo=latex&logoColor=white)](https://latex.codecogs.com/svg.image?J(\theta,\Delta\phi)=\begin{bmatrix}\cos^2\theta&plus;e^{i\Delta\phi}\sin^2\theta&(1-e^{i\Delta\phi})\sin\theta\cos\theta\\(1-e^{i\Delta\phi})\sin\theta\cos\theta&e^{i\Delta\phi}\cos^2\theta&plus;\sin^2\theta\end{bmatrix})
 
-> _Note: Click the badge above for the full "**Jones matrix for an anisotropic element**"
+> _Note: Click the badge above for the full "**Jones matrix for an anisotropic element**"_
 
 | Element | Expression |
 |:--:|:--:|
