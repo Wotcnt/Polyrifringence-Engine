@@ -151,8 +151,10 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-![ΔΩ Root Primitive](https://img.shields.io/badge/ΔΩ-Root_Primitive_Operators-0b0d0f?style=neon&logoColor=C5E384)
-![𝛌⃝ Exergy Half-Life Operator](https://img.shields.io/badge/𝛌⃝-Exergy_Half--Life_Operator-0b0d0f?style=neon&logoColor=3ee7ff)
+![QED](https://img.shields.io/badge/Q.E.D.-Quod%20Erat%20Demonstrandum-0b0d0f?style=neon&logo=academia&logoColor=FFFFFF)
+![ΔΩ Root Primitive](https://img.shields.io/badge/ΔΩ-Root_Primitive_Operators-0b0d0f?style=neon)
+![𝛌⃝ Exergy Half-Life Operator](https://img.shields.io/badge/𝛌⃝-Exergy_Half--Life_Operator-0b0d0f?style=neon)
+
 [![📘 Open THEORY.md (Raw)](https://img.shields.io/badge/Open-THEORY.md_(Pending_Upload)-0b0d0f?style=neon&logo=markdown&logoColor=FFD600)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/THEORY.md)
 [![📐 Open MATH_MODEL(RENDER).md (Raw)](https://img.shields.io/badge/Open-MATH_MODEL(RENDER).md_(Pending_Upload)-1b1b1b?style=neon&logo=markdown&logoColor=D50000)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/MATH_MODEL.md)
 
