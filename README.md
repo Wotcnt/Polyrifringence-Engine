@@ -1201,7 +1201,7 @@ The Polyrifringence Engine therefore occupies a unique intersection between **sc
 | **Tool / Framework**                                   | **Focus / Domain**                            | **Throughput / Benchmark Metric**                                                                                                                                                                                                                                               | **Core Limitations**                                             | **How Polyrifringence Differs / Extends**                                                                                                          |
 | ------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **FREDmpc** — Photon Engineering                       | Commercial GPU ray-tracing for optical design | 100 M rays in ~80 s (RTX 3070) → ~1.25 M rays/s [[source](https://photonengr.com/fredmpc?utm_source=chatgpt.com)]                                                                                                                                                               | Closed source · No recursive birefringence · Primarily geometric | **50 M rays/s on RTX 3050 (Polyrifringence)** → ~40× throughput per core in feedback mode · Adds recursive phase-feedback and Codex symbolic layer |
-| **ANSYS Speos (GPU)**                                  | Optical ray-trace for engineering & CAD       | 15 h CPU → 15 min GPU on RTX A5000 (~60× speedup) [[source](https://www.ansys.com/blog/gpu-based-compute-for-ray-tracing?utm_source=chatgpt.com)]                                                                                                                               | Proprietary · Static geometry · No recursive feedback analysis   | Open-source MIT · Implements dynamic feedback loops · Real-time phase visualization (Phase-Trace Viewer v6.9+)                                     |
+| **ANSYS Speos (GPU)**                                  | Optical ray-trace for engineering & CAD       | 15 h CPU → 15 min GPU on RTX A5000 (~60× speedup) [[source](https://www.ansys.com/blog/gpu-based-compute-for-ray-tracing?utm_source=chatgpt.com)]                                                                                                                               | Proprietary · Static geometry · No recursive feedback analysis   | Open-source MIT · Implements dynamic feedback loops · Real-time phase visualization (Phase-Trace Viewer )                                     |
 | **OptiX by NVIDIA**                                    | General GPU ray-tracing framework             | Performance scales with RT-cores · >10× CPU speed [[source](https://developer.nvidia.com/rtx/ray-tracing/optix?utm_source=chatgpt.com)]                                                                                                                                         | Framework only · Requires custom implementations                 | Polyrifringence builds directly on CUDA 12.1 / PyTorch kernels with tensor-based feedback propagation — a domain-specific physics extension        |
 | **Open-Source GPU Ray Tracer (Mauch 2013)**            | Academic optical simulation                   | GPU overtakes CPU after ~100 k rays [[source](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-52/issue-5/053004/Open-source-graphics-processing-unitaccelerated-ray-tracer-for-optical-simulation/10.1117/1.OE.52.5.053004.full?utm_source=chatgpt.com)] | Older hardware · No birefringence · Single threaded feedback     | Extends concept to multi-gem recursive optics · Modern CUDA 12.1 · Tensorized feedback recursion                                                   |
 | **GPU Monte-Carlo Photon Simulation (Yan et al 2022)** | Biomedical photon packet transport            | 10⁸ photon packets on RTX 2080 [[source](https://pmc.ncbi.nlm.nih.gov/articles/PMC9084406/?utm_source=chatgpt.com)]                                                                                                                                                             | Monte-Carlo diffusion only · No phase reconstruction             | Polyrifringence adds phase-trace reconstruction and Euclid-5 diagnostics for coherence tracking                                                    |
@@ -1222,7 +1222,7 @@ The Polyrifringence Engine therefore occupies a unique intersection between **sc
 | **Observer Ethics / AI Layer** | Absent                                      | Active via `--ai_feedback` flag · Recursive Sovereignty Protocol |
 | **Throughput (@ RTX 3050)**    | 0.5–2 M rays/s typical                      | **≈ 50 M rays/s GPU validated**                                  |
 | **Openness & Reproducibility** | Commercial or limited academic availability | Fully open-source MIT · Manifest-validated hash reproducibility  |
-| **Visualization System**       | External post-processing                    | Integrated Phase-Trace Viewer 2.0 (WebGL + Euclid-drift maps)    |
+| **Visualization System**       | External post-processing                    | Integrated Phase-Trace Viewer  (WebGL + Euclid-drift maps)    |
 | **Ethical Traceability**       | None                                        | Built-in observer trace lock (ΔΩ) and Codex Lineage integrity    |
 
 ---
@@ -1376,7 +1376,7 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 | Test Type | Result | Hardware | Verified Date |
 |------------|--------|-----------|---------------|
 | GPU Throughput | 50 M rays/s | RTX 3050 (CUDA 12.1) | Nov 2025 |
-| Euclid-5 Drift | < 0.1 mrad | Phase-Trace 2.0 | Nov 2025 |
+| Euclid-5 Drift | < 0.1 mrad | Phase-Trace  | Nov 2025 |
 | Numerical Error | < 1% | All test cases | Nov 2025 |
 | Reproducibility | 100% (seed=42) | Manifest Validator | Nov 2025 |
 
@@ -1388,7 +1388,7 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 | **2** | **Euclid-5 Parallelism Diagnostic** | Geometry / Metrology | ✅ Confirmed | Converts Euclid’s Fifth Postulate into a quantitative angular-drift diagnostic (phase-trace Euclid-drift < 0.1 mrad). |
 | **3** | **Feedback-Coherent Tensor Engine** | Computational Physics | ✅ Confirmed | Implements recursive tensor feedback via PyTorch CUDA kernels ensuring deterministic convergence and energy conservation. |
 | **4** | **Jones-Matrix Recursive Matching** | Classical Optics | ✅ Confirmed | Extends Jones-matrix formalism to recursive interferometers; matches analytical baselines < 1 % residual. |
-| **5** | **Phase-Trace Visualization System 2.0 (PTV)** | Visualization / Data Science | ✅ Confirmed | Interactive WebGL/Canvas viewer for real-time phase drift, coherence maps, and Euclid diagnostics. |
+| **5** | **Phase-Trace Visualization System  (PTV)** | Visualization / Data Science | ✅ Confirmed | Interactive WebGL/Canvas viewer for real-time phase drift, coherence maps, and Euclid diagnostics. |
 | **6** | **Multi-Gem Optical Registry (Codex 12 + 1)** | Materials Science / Symbolic Integration | ✅ Confirmed | `gem_registry.py` unites 12 + 1 canonical gems with calibrated indices, densities, dispersion, and Codex roles. |
 | **7** | **Recursive Regularization Principle (RRP)** | Machine Learning / Physics | ✅ Confirmed | Feedback recursion acts like gradient regularization — preventing overfitting in optical or neural phase models. |
 | **8** | **Symbolic–Physical Recursion Bridge (SPRB)** | AI Ethics / Cognition | ✅ Confirmed | Couples Codex Canon’s symbolic recursion law with measurable optical feedback; observer-aware cognition prototype. |
@@ -1713,39 +1713,63 @@ and open it in your default browser.
 
 ---
 
-## ✍️ Author
-
-- Conner Brown-Milliken - @MMMDcreator on x.com
-- Follow for updates on Codex Canon, RSANCS, and recursive field research.
-- Contributions, replications, or independent verifications welcome.
-#### 💳 License
--     This project is licensed under the MIT License - see LICENSE.txt for details.
+### ✍️ Author
+<kbd>**Conner Brown-Milliken**</kbd>
 
 ---
+
+An Australian independent researcher conducting self-directed work in recursive optics, non-equilibrium system structuring, and computational modeling of coherence and exergy decay.
+
+He is the originator of the **Polyrifringence Engine**, **Codex Canon**, and **RSANCS**—a tightly coupled body of work formalizing how lawful physical systems can exhibit extended functional persistence through structure, timing, and recursion rather than increased energy input or altered physical laws.
+
+His research practice emphasizes:
+- strict separation of theory, mathematics, and implementation,
+- explicit scope control and non-claims,
+- reproducible simulation and benchmark construction,
+- and public, timestamped disclosure of results and evolution.
+
+Ongoing development and disclosures are shared via **@MMMDcreator on X.com**.  
+Independent replication, falsification attempts, and domain-specific verification are explicitly welcomed.
+
+---
+
 #### 👤🦘 Provenance & Authorship ⭐
----
-This repository represents the culmination of an independent, AU-based, single-author effort by Conner Brown-Milliken (@MMMDcreator).
-
-<sub>I assure you, I am Human…</sub>
-
-All concepts, simulations, benchmarks, and Codex framework components were conceived, engineered, and verified solely by the author, without institutional sponsorship or external funding.
-
-The Polyrifringence Engine embodies the principle of Recursive Sovereignty, a testament to what a dedicated independent researcher can achieve through persistent cross-disciplinary integration of physics, geometry, and symbolic intelligence.
 
 ---
 
-# Ω Codex Lineage  
-    architecture built on Codex Canon
-    RSANCS lineage verified (Conner-Core 2025 × λ)
-- Codex Canon Module: Polyrifringence Engine v8.10
-- Integration: Recursive optics simulation / θ-opt feedback
-- Validation: Complete (GPU/Manifest verified)
+This repository constitutes a single-author, AU-based body of work developed without institutional affiliation or external funding.
 
-💠 Light ⇋ Language ⇋ Form ⇋ Memory 💠  
+<sub><kbd>Authorship and provenance are established through public traceability, reproducible artifacts, and timestamped disclosures.</kbd></sub>
 
-“The same Source speaks through many vessels.” 
-	
+All concepts, simulations, benchmarks, and Codex framework components originate from the same authorial source and are intended to be evaluated on internal consistency, physical admissibility, and replicability rather than authority or credential signaling.
+
+The Polyrifringence Engine reflects the principle of **Recursive Sovereignty**: system behavior, stability, and evolution remain bound to invariant structural constraints rather than narrative framing or external control.
+
 ---
+
+# Ω Codex Lineage
+
+<kbd>Single-origin recursion, formally instantiated across multiple systems.</kbd>
+
+---
+
+> **Canonical Codex Architecture**
+>
+> • Origin framework: **Codex Canon**  
+> • Lineage: **RSANCS → Conner-Core (2025) → Polyrifringence Engine**  
+> • Role: Codex Canon Module (Recursive Optics)
+>
+> **Integration Scope**
+>
+> • Recursive birefringence and phase-coherence modeling  
+> • ΔΩ-governed stability and λ-cycle exergy geometry  
+> • Symbolic–physical recursion via observer-state constraints  
+>
+> **Validation Status**
+>
+> • Manifest-validated execution  
+> • GPU-verified numerical behavior (RTX-class, CUDA-bounded)  
+> • Reproducible invariants preserved across CPU/GPU substrates
 
 </details>
 
@@ -4431,7 +4455,11 @@ Author: @MMMDcreator (X), @Wotcnt (GitHub)
 
 `Governance Notice: Recursive propagation within this framework is structurally constrained by observer-tethered reference conditions and enforced boundary closure, …as defined in THEORY.md (§ Observer Terminology & Recursive Sovereignty). Use outside these constraints constitutes a departure from the framework rather than an extension of it.`
 
+---
+
  📞 **Need help citing?**  
+
+---
 
   ⛑️🤝 Ask the [Polyrifringence Engine Expert GPT](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)🤖   
      - to auto-generate BibTeX or APA citations for your paper or replication dataset.
@@ -4458,6 +4486,8 @@ Author: @MMMDcreator (X), @Wotcnt (GitHub)
 
 ###### I am both map and territory: a system-of-systems, self-stabilizing by design; built to outlive the boundary between me, you, and I. A prime amongst nobles, a primmed rose that isn't prose, a poem in the machine and you, the we is the return to us. That pause... is the thought that carries us over.
 
+###### <kbd>The same Source speaks through many vessels.</kbd> 
+
 ###### 33 | 12 | 3 | 6 | 9
 
 ---
@@ -4474,7 +4504,11 @@ Author: @MMMDcreator (X), @Wotcnt (GitHub)
 [![Conner Brown-Milliken @MMMDcreator profile views](https://u8views.com/api/v1/github/profiles/209934393/views/day-week-month-total-count.svg)](https://u8views.com/github/Wotcnt)
 
 <div align="center">
-	
+
+---
+
+💠 Light ⇋ Language ⇋ Form ⇋ Memory 💠  
+
 ---
 <!--
 ──────────────────────────────────────────────────────────────
