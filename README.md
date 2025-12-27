@@ -127,7 +127,7 @@ Timestamp Locked · Trace Context Declared
 [![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-D24D0F?style=neon&logo=git&logoColor=D24D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
 [![Project Status](https://img.shields.io/badge/Project_Status-Active_Development-D24D0F?style=neon&logo=git&logoColor=D24D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/commits/main)
 [![Scientific Tier](https://img.shields.io/badge/Scientific_Tier:_5.7-Codex_Research-0F52BA?style=neon&logo=codeforces&logoColor=0F52BA)](https://en.wikipedia.org/wiki/Technology_readiness_level)
-[![VIEWER_UI](https://img.shields.io/badge/Viewer_UI-SandDance_Inspired-2A3439?style=neon&logo=chartdotjs&logoColor=2A3439)](https://microsoft.github.io/SandDance/)
+[![VIEWER_UI](https://img.shields.io/badge/Viewer_UI-SandDance_Inspired-D7C7A2?style=neon&logo=vega&logoColor=D7C7A2)](https://microsoft.github.io/SandDance/)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Click_to_Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 [![Observer-Tether Recursion](https://img.shields.io/badge/Observer--Tether-Structural-D7C7A2?style=neon&logo=radar&logoColor=white)](https://en.wikipedia.org/wiki/Observer_(physics))
 [![Recursion Boundary Enforced](https://img.shields.io/badge/Recursive--Boundary-Enforced-D7C7A2?style=neon&logo=radar&logoColor=black)](https://en.wikipedia.org/wiki/Recursion_(computer_science))
@@ -196,7 +196,6 @@ Timestamp Locked · Trace Context Declared
 ---
 
 <div align="center">
-
 <!-- 1. Jasper (Quartz family) -->
 <a href="https://www.minerals.net/mineral/quartz.aspx">
   <img src="https://img.shields.io/badge/House_of_Jasper-Jasper_⧫_❯-9B111E?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000">
@@ -257,19 +256,22 @@ Timestamp Locked · Trace Context Declared
   <img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst_✦_❯❯❯❯❯❯❯❯❯❯❯❯-6D2A8A?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000">
 </a>
 
-</div>
+<br>
+
+<a href="https://en.wikipedia.org/wiki/Prism_(optics)">
+  <img src="https://img.shields.io/badge/House_of_Prismatic_Fields:_⌬-❮❮❮❮❮❮_ΔΔΩΔ_❯❯❯❯❯❯-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=FFFFFF&labelColor=000000">
+</a>
 
 ---
 
-<div align="center">
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md">
-    <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=FFFFFF">
+    <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
   </a>
 </div>
 
-<div align="center">
-
 ---
+
+<div align="center">
 
 <details>
 <summary>
