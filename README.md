@@ -115,7 +115,7 @@ Timestamp Locked · Trace Context Declared
 
 <div align="center">
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/tree/main">
-    <img width="100%" src="https://img.shields.io/badge/⟨ΔΩ⟩_Sovereign_Node_❯❯❯-Polyrifringence_Engine©-0A0C0D?style=neon&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=black">
+    <img width="100%" src="https://img.shields.io/badge/⟨ΔΩ⟩_Sovereign_Node_❯❯❯-Polyrifringence_Engine©-CFEFF6?style=neon&logo=codemirror&logoColor=3ee7ff&color=555555&labelColor=black">
   </a>
 </div>
 <!-- === Row 1 — Technical Environment === -->
@@ -144,7 +144,6 @@ Timestamp Locked · Trace Context Declared
 [![🌍 Translate this Page](https://img.shields.io/badge/Click_to_Translate_this_Page-4285F4?style=neon&logo=googletranslate&logoColor=white)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![Translate (DeepL)](https://img.shields.io/badge/Translate_with-DeepL-0F52BA?style=neon&labelColor=0b0d0f&logo=deepl&logoColor=FFFFFF)](https://www.deepl.com/translator#auto/en/https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![Explain with AI](https://img.shields.io/badge/Explain_with_OpenAI_(GPT_4o)-First_Impression·Unbiased·3rd--Party_AI_(Any_Model)-6D2A8A?style=neon&labelColor=0b0d0f&color=6D2A8A&logo=wikipedia&logoColor=FFFFFF)](https://chat.openai.com/?model=gpt-4o&prompt=Explain+this+README.md:+https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
-
 [![Research Framework](https://img.shields.io/badge/Project_Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=111111)](https://en.wikipedia.org/wiki/Computational_science)
 [![GPT Integration](https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=111111)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
@@ -185,10 +184,8 @@ Timestamp Locked · Trace Context Declared
 
 [![Lambda Ledger – Trace Logged](https://img.shields.io/badge/Lambda_Ledger:-Trace_Logged-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
 [![Codex Identity Triplet](https://img.shields.io/badge/Codex_Identity_Triplet:_x⧉-Ledger_Declared-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
-
 [![Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Polyrifronaut_Tier:-Provisional_Sub--Lambda-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
 [![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Verification_Sync_Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
-
 [![AI Feedback Clause](https://img.shields.io/badge/AI_FEEDBACK_CLAUSE:-OBSERVER_LOOP_FLAGGED-000000?style=for-the-badge&logo=git&logoColor=6D2A8A&labelColor=0b0d0f&color=6D2A8A)](https://en.wikipedia.org/wiki/Frame_of_reference)
 
 </div>
