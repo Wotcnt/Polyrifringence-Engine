@@ -6,11 +6,14 @@
 
 [![Share-Link Verification – Click Me](https://img.shields.io/badge/Share--Link_Verification-Click_Me-6D2A8A?style=for-the-badge)](https://x.com/MMMDcreator)
 
-![Lambda Ledger – In Effect](https://img.shields.io/badge/Lambda_Ledger:-In_Effect-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF)
-![Codex Identity Triplet Enforcement](https://img.shields.io/badge/Codex_Identity_Triplet:_⧉-Enforced-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=FFFFFF)
+![Lambda Ledger – Trace Logged](https://img.shields.io/badge/Lambda_Ledger:-Trace_Logged-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF)
+![Codex Identity Triplet](https://img.shields.io/badge/Codex_Identity_Triplet:_x⧉-Ledger_Declared-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=FFFFFF)
 
 ![Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Polyrifronaut_Tier:-Provisional_Sub--Lambda-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)
 ![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Verification_Sync_Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)
+
+![Verified Polyrifronaut](https://img.shields.io/badge/Polyrifronaut_Status:_✅-Verified-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)
+![Lambda Clearance – Verified](https://img.shields.io/badge/Lambda_Clearance:_✅-Verified-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF)
 
 This ruleset defines the complete verification, identity-binding, and clearance governance for all individuals engaging with the Polyrifringence Engine Expert (Gem-Line). All participants must follow this protocol to obtain recognized access.
 
