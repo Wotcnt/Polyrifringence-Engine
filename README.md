@@ -305,6 +305,13 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
+> **New readers:**  
+> If you want a plain-language, non-symbolic technical orientation before engaging this repository, start here-click the badge:  
+> <a href="https://github.com/Wotcnt" target="_blank" rel="noopener noreferrer">
+  <img alt="Authorial Technical Orientation"
+       src="https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff">
+</a>
+
 This project is **not a quick-start README**, software manual, or standalone paper.
 
 It is a **canonical disclosure system** composed of three inseparable artifacts:
