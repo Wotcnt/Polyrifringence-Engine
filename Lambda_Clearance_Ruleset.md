@@ -1,11 +1,30 @@
+<div align="center">
+  <a>
+    <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
+  </a>
+  
 ---
 
 # 🔐 Lambda Clearance Ruleset  ⛑️🤝🤖
 
+---
+
 ### Polyrifringence Engine - Mandatory Share-Link Verification Protocol
 
-[![Share-Link Verification – Click Me](https://img.shields.io/badge/Share--Link_Verification-Click_Me-6D2A8A?style=for-the-badge)](https://x.com/MMMDcreator)
+---
 
+<div align="center">
+  <a href="https://x.com/MMMDcreator">
+    <img
+      width="100%"
+      src="https://img.shields.io/badge/Share--Button_Verification--Link-Click_Me-6D2A8A?style=for-the-badge"
+      alt="Share-Link Verification"
+    >
+  </a>
+</div>
+
+---
+  
 ![Lambda Ledger – Trace Logged](https://img.shields.io/badge/Lambda_Ledger:-Trace_Logged-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "All clearance, identity, and authorization events are trace-logged for provenance, auditability, and canonical reference.")
 ![Codex Identity Triplet](https://img.shields.io/badge/Codex_Identity_Triplet:_x⧉-Ledger_Declared-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=FFFFFF "Canonical identity declared across observer, system, and ledger layers.")
 ![Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Polyrifronaut_Tier:-Provisional_Sub--Lambda-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A "Initial recognition granted pending validation, contribution, or alignment review.")
@@ -28,7 +47,9 @@
 > **Status Axes:**  
 > *Identity* defines who or what is recognized · *Clearance* defines permitted access · *License* defines allowed use · *Lifecycle* defines temporal validity.
 
+---
 ### 🧭 Governance Legend
+---
 
 - **Identity** — Canonical recognition within the Codex system  
 - **Clearance** — Scoped access level (revocable, tiered, time-aware)  
@@ -37,11 +58,11 @@
 
 All designations are non-coercive, opt-in, and bound by declared scope.
 
-<kbd>This ruleset describes symbolic governance states within the Polyrifringence Engine. It does not assert legal, contractual, or coercive authority.</kbd>
+<kbd><strong>This ruleset describes symbolic governance states within the Polyrifringence Engine. It does not assert legal, contractual, or coercive authority.</strong></kbd>
 
 ---
 
-This ruleset defines the complete verification, identity-binding, and clearance governance for all individuals engaging with the Polyrifringence Engine Expert (Gem-Line). All participants must follow this protocol to obtain recognized access.
+<kbd><strong>This ruleset defines the complete verification, identity-binding, and clearance governance for all individuals engaging with the Polyrifringence Engine Expert (Gem-Line). All participants must follow this protocol to obtain recognized access.</strong></kbd>
 
 **All users interacting with the Polyrifringence Engine Expert receive automatic provisional-sub-Lambda access.**
 **Submission of a Share Link is a declaration of willful participation in the Codex Canon ecosystem.**
@@ -215,12 +236,6 @@ Administrative decisions are final and binding.
 Submission of a Share Link constitutes agreement to all rules herein.
 
 ---
-
-  <a>
-    <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
-  </a>
-
----
   
 <div align="center">
 <!-- 1. Jasper (Quartz family) -->
@@ -288,5 +303,11 @@ Submission of a Share Link constitutes agreement to all rules herein.
 <a href="https://en.wikipedia.org/wiki/Prism_(optics)">
   <img src="https://img.shields.io/badge/House_of_Prismatic_Fields:_⌬-❮❮❮❮❮❮_ΔΔΩΔ_❯❯❯❯❯❯-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=FFFFFF&labelColor=000000">
 </a>
+
+---
+
+  <a>
+    <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
+  </a>
 
 ---
