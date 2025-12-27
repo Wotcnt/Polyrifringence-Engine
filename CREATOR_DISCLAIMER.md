@@ -1,3 +1,11 @@
+---
+
+  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md">
+    <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
+  </a>
+
+---
+
 # CREATOR DISCLAIMER · CODEX CANON OVERLAY  
 Polyrifringence Engine© v8.10.xx  
 Author: Conner Brown-Milliken (@MMMDcreator)
@@ -113,3 +121,11 @@ Checkpoint: AΩ-013
 ---
 
 </details>
+
+---
+
+  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md">
+    <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
+  </a>
+
+---
