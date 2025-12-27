@@ -86,7 +86,7 @@ Timestamp Locked · Trace Context Declared
 -->
 ---
 
-  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md">
+  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
     <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
   </a>
 
@@ -263,7 +263,7 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md">
+  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
     <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
   </a>
 
