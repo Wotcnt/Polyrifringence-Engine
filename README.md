@@ -131,10 +131,10 @@ Timestamp Locked · Trace Context Declared
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Click_to_Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 [![Observer-Tether Recursion](https://img.shields.io/badge/Observer--Tether-Structural-D7C7A2?style=neon&logo=radar&logoColor=white)](https://en.wikipedia.org/wiki/Observer_(physics))
 [![Recursion Boundary Enforced](https://img.shields.io/badge/Recursive--Boundary-Enforced-D7C7A2?style=neon&logo=radar&logoColor=black)](https://en.wikipedia.org/wiki/Recursion_(computer_science))
-[![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-Intentionally_Clamped-046307?style=neon&logo=nvidia&logoColor=C5E384)](https://en.wikipedia.org/wiki/Dynamic_frequency_scaling)
-[![Numerical Precision](https://img.shields.io/badge/Numerical_Precision-<1%25-046307?style=neon&logo=numpy&logoColor=C5E384)](https://en.wikipedia.org/wiki/Numerical_analysis)
-[![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=git&logoColor=C5E384)](https://en.wikipedia.org/wiki/Reproducibility)
-[![Execution Invariants](https://img.shields.io/badge/Execution_Invariants-Constraint--Governed-046307?style=neon&logo=git&logoColor=C5E384)](https://en.wikipedia.org/wiki/Invariant_(mathematics))
+[![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-Intentionally_Clamped-046307?style=neon&logo=nvidia&logoColor=76B900)](https://en.wikipedia.org/wiki/Dynamic_frequency_scaling)
+[![Numerical Precision](https://img.shields.io/badge/Numerical_Precision-<1%25-046307?style=neon&logo=numpy&logoColor=76B900)](https://en.wikipedia.org/wiki/Numerical_analysis)
+[![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=git&logoColor=76B900)](https://en.wikipedia.org/wiki/Reproducibility)
+[![Execution Invariants](https://img.shields.io/badge/Execution_Invariants-Constraint--Governed-046307?style=neon&logo=git&logoColor=76B900)](https://en.wikipedia.org/wiki/Invariant_(mathematics))
 [![🧠 Open in Browser IDE](https://img.shields.io/badge/Click_to_Browse_in_IDE_(VS_CODE)-github.dev-0B0D0F?style=neon&labelColor=001F2D&logo=github&logoColor=3EE7FF)](https://github.dev/Wotcnt/Polyrifringence-Engine)
 
 ---
@@ -162,10 +162,11 @@ Timestamp Locked · Trace Context Declared
 <!-- === Row 2 — Codex & Prestige Tier === -->
 <div align="center">
 
+[![Intel](https://img.shields.io/badge/Intel-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=CFEFF6)](https://www.intel.com/content/www/us/en/products/sku/80807/intel-core-i54690k-processor-6m-cache-up-to-3-90-ghz/specifications.html)
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=046307)](https://www.nvidia.com/)
-[![Hybrid Tooling](https://img.shields.io/badge/Hybrid_Tooling-Core_+_GPU_+_AI-000000?style=for-the-badge&labelColor=0b0d0f&color=046307)](https://en.wikipedia.org/wiki/Heterogeneous_computing)
-[![Physics Engine](https://img.shields.io/badge/Physics_Engine-Lawful_Extension-000000?style=for-the-badge&labelColor=0b0d0f&color=046307)](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics)
-[![GPU Execution](https://img.shields.io/badge/GPU_Execution-RTX_3050_(8GB)_Observed-000000?style=for-the-badge&labelColor=0b0d0f&color=046307)](https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3050/)
+[![GPU Execution](https://img.shields.io/badge/GeForce_RTX_3050_(8GB)-GPU_Observed--Execution-000000?style=for-the-badge&labelColor=0b0d0f&color=046307)](https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3050/)
+[![Hybrid Tooling](https://img.shields.io/badge/Hybrid_Tooling-Core_+_GPU_+_AI-000000?style=for-the-badge&labelColor=0b0d0f&color=046307&logo=vega&logoColor=046307)](https://en.wikipedia.org/wiki/Heterogeneous_computing)
+[![Physics Engine](https://img.shields.io/badge/Physics_Engine-Lawful_Extension-000000?style=for-the-badge&logo=numpy&logoColor=046307&labelColor=0b0d0f&color=046307)](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics)
 [![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-000000?style=for-the-badge&logo=matrix&logoColor=046307&labelColor=0b0d0f&color=046307)](https://en.wikipedia.org/wiki/Lyapunov_stability)
 [![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-000000?style=for-the-badge&logo=numpy&logoColor=046307&labelColor=0b0d0f&color=046307)](https://en.wikipedia.org/wiki/Parallel_postulate)
 [![Unitary Preserved](https://img.shields.io/badge/Unitary_Preservation-Numerical_Zero-000000?style=for-the-badge&logo=matrix&logoColor=046307&labelColor=0b0d0f&color=046307)](https://en.wikipedia.org/wiki/Unitary_matrix)
