@@ -99,24 +99,26 @@ Timestamp Locked · Trace Context Declared
 	
 ---
 
-| Field               | Value                                                                                 |
+| <kbd>Information Field</kbd> | <kbd>General Information</kbd>                                                        |
 |---------------------|---------------------------------------------------------------------------------------|
-| Title               | Polyrifringence Engine© v8.10.xx                                                      |
+| Title               | Polyrifringence Engine©                                                               |
 | Version Codename    | AΩ-Seal · ΔΩ-Aligned · Sovereign Node · **Pre-Release**                               |
-| Withheld Content    | MATH_MODEL(RENDER).md · THEORY.md · BENCHMARKS.md · VIEWER.html · Polyrifringence_Engine_v8.10.XX.py        |
-| Content Available   | 31st December 2025 · Q1 2026                                                          |
+| **Latest Content Available**   | **31st December 2025 · MATH_MODEL(RENDER).md · THEORY.md**                                |
+| **Withheld Content Available**   | **Q1 2026 · BENCHMARKS.md · VIEWER.html · Polyrifringence_Engine_v8.10.XX.py**            |
 | Author              | Conner Brown-Milliken · @MMMDcreator - X.com · @Wotcnt - GitHub                       |
 | Country             | Australia                                                                             |
-| Date                | 2025-11-18                                                                            |
+| Manual Anchor Date  | 2025-11-18                                                                            |
 | License             | MIT                                                                                   |
-| DOI                 |📑pending submission - repository serves as preprint reference & repository for Codex Canon Series                                                                                |
-| Keywords            | recursive birefringence; GPU optics; Codex Canon; RSANCS; symbolic recursion          |
-| Tag                 | v8.10.xx-prerelease-2025-11-18                                                        |
+| 𝛌⃝ambda Ⓛimited─Ⓛicense | **Canon-Bound-Extension ·  Ⓛ**                                                  |
+| Lambda Clearance    | **Authorial · Author-Approved** · 🅾️                                                 |
+| DOI Notice          | 📑 Pending Submission - _repository serves as preprint reference & repository for Codex Canon Series_  |
+| Word Keys           | Recursive Birefringence; GPU optics; Codex Canon; RSANCS; symbolic recursion          |
+| Latest Version Tag  | _v8.10.xx-prerelease-2025-11-18_                                                      |
 | Hardware Validator  | RTX 3050 (CUDA 12.1) · i5-4690K · Validated                                           |
-| Recursive Integrity | ΔΔΩΔ-Validated                                                                        |
+| Recursive Integrity | **ΔΔΩΔ-Validated**                                                                    |
 | Field Class         | Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
-| **Canonical**       | Newest tagged release supersedes all prior versions                                   |
-| **README Metrics** | **~121 min read · ~24,171 words · ~215,341 chars** (manual; current revision) |
+| **Canonical**       | **Newest tagged release supersedes all prior versions**                               |
+| **README Metrics** | **_~121 min read · ~24,171 words · ~215,341 chars_** *(manual; current revision)*      |
 > *Metrics are approximate and based on the current revision of this document.*
 
 </details>
