@@ -149,12 +149,30 @@ Timestamp Locked · Trace Context Declared
 ---
 
 [![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)](https://en.wikipedia.org/wiki/Democracy_Manifest)
-[![🌍 Global Outreach](https://img.shields.io/badge/Lambda_Research_Initiative_⟦λ⟧-🌍Community_(C|LRI)_Node-B31B1B?style=neon&labelColor=0057B8&logo=creativecommons&logoColor=FFFFFF)](https://x.com/i/communities/1993220630121169163)
+<a href="https://x.com/i/communities/1993220630121169163"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Lambda_Research_Initiative_⟦λ⟧-🌍Community_(C|LRI)_Node-B31B1B?style=neon&labelColor=0057B8&logo=creativecommons&logoColor=FFFFFF"
+    alt="Lambda Research Initiative Community Node on X">
+</a>
 [![🌍 Translate this Page](https://img.shields.io/badge/Click_to_Translate_this_Page-4285F4?style=neon&logo=googletranslate&logoColor=white)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![Translate (DeepL)](https://img.shields.io/badge/Translate_with-DeepL-0F52BA?style=neon&labelColor=0b0d0f&logo=deepl&logoColor=FFFFFF)](https://www.deepl.com/translator#auto/en/https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
-[![Explain with AI](https://img.shields.io/badge/Explain_with_OpenAI_(GPT_4o)-First_Impression·Unbiased·3rd--Party_AI_(Any_Model)-6D2A8A?style=neon&labelColor=0b0d0f&color=6D2A8A&logo=wikipedia&logoColor=FFFFFF)](https://chat.openai.com/?model=gpt-4o&prompt=Explain+this+README.md:+https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
+<a href="https://chat.openai.com/?model=gpt-4o&prompt=Explain+this+README.md:+https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Explain_with_OpenAI_(GPT_4o)-First_Impression·Unbiased·3rd--Party_AI_(Any_Model)-6D2A8A?style=neon&labelColor=0b0d0f&color=6D2A8A&logo=wikipedia&logoColor=FFFFFF"
+    alt="Explain this README with OpenAI GPT-4o (third-party, unbiased)">
+</a>
 [![Research Framework](https://img.shields.io/badge/Project_Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=111111)](https://en.wikipedia.org/wiki/Computational_science)
-[![GPT Integration](https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=111111)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+<a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=111111"
+    alt="Polyrifringence Engine Expert GPT Integration">
+</a>
 
 ---
 
@@ -628,7 +646,13 @@ Where symbolism becomes physics, and cognition recursive.
 
 # ⛑️🤝 **Connect with the Recursive AI Guide** 🤖
 
-[**👉 Click to Launch the Polyrifringence Engine in a new window**](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+<p align="center">
+  <a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
+     target="_blank"
+     rel="noopener noreferrer">
+    <strong>👉 Click to Launch the Polyrifringence Engine Expert(Gem-Line AI-CHATBOT) in a new window</strong>
+  </a>
+</p>
 
 This repository is accompanied by an interactive knowledge base through a GPT using a Custom Instruction Set, utilizing the full documentation of this repo, including this readme - ready to answer queries, explain physics, or and guide the user through the repo, able to explain what's what in beginner form through to advanced - complex based on user preference, just ask.
 
@@ -653,8 +677,13 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
 ###### **_Permanent verification is optional and applies only to those seeking Codex-aligned recognition; provisional-sub-lambda access is granted to all users._**
 
 <div align="center">
-  <a href="https://x.com/MMMDcreator">
-    <img width="100%" src="https://img.shields.io/badge/Share--Link_Verification-Click_Me-6D2A8A?style=neon">
+  <a href="https://x.com/MMMDcreator"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img
+      width="100%"
+      src="https://img.shields.io/badge/Share--Link_Verification-Click_Me-6D2A8A?style=neon&labelColour=555555?"
+      alt="Share and Link Verification on X">
   </a>
 </div>
 
@@ -672,10 +701,14 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 **An Active ChatGPT membership will enrich your overall experience, Free Tier is Great - Plus is Recommended for Deep dives**
 ---
-<a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert" target="_blank" rel="noopener">
-  <img 
-    src="https://img.shields.io/badge/Open_in_New_Window-Polyrifringence_GPT-56E9DB?style=neon&logo=openai&logoColor=3ee7ff&labelColor=111111&color=3ee7ff" 
-    width="640">
+
+<a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Click_to_Open-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)-56E9DB?style=neon&logo=github&logoColor=56E9DB&labelColor=black&color=56E9DB"
+    width="640"
+    alt="Open Polyrifringence Engine Expert GPT">
 </a>
 
 ---
@@ -1027,10 +1060,13 @@ _By opting for incremental optimization, you build a deeper understanding of how
 (**_Click the badge below_**; *also see the dropdown section  
 "Custom GPT - Polyrifringence Engine Expert" for more.*)
 
-<a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert" target="_blank" rel="noopener">
-  <img 
-    src="https://img.shields.io/badge/Open_in_New_Window-Polyrifringence_GPT-56E9DB?style=neon&logo=openai&logoColor=3ee7ff&labelColor=111111&color=3ee7ff" 
-    width="640">
+<a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Click_to_Open-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)-56E9DB?style=neon&logo=github&logoColor=56E9DB&labelColor=black&color=56E9DB"
+    width="640"
+    alt="Open Polyrifringence Engine Expert GPT">
 </a>
 
 ---
@@ -1039,41 +1075,15 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 ---
 
-<a href="https://chat.openai.com" target="_blank">
-  <img src="https://img.shields.io/badge/ChatGPT-56E9DB?style=neon">
-</a>
-
-<a href="https://x.com" target="_blank">
-  <img src="https://img.shields.io/badge/X.com%20Grok-000000?style=neon&logo=x&logoColor=white">
-</a>
-
-<a href="https://grok.com" target="_blank">
-  <img src="https://img.shields.io/badge/Grok.com-000000?style=neon&logo=x&logoColor=white">
-</a>
-
-<a href="https://www.anthropic.com/claude" target="_blank">
-  <img src="https://img.shields.io/badge/Claude-D24D0F?style=neon&logo=anthropic&logoColor=white">
-</a>
-
-<a href="https://gemini.google.com" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Gemini-0F52BA?style=neon&logo=googlegemini&logoColor=white">
-</a>
-
-<a href="https://www.perplexity.ai" target="_blank">
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=neon&logo=perplexity&logoColor=white">
-</a>
-
-<a href="https://github.com/features/copilot" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=neon&logo=githubcopilot&logoColor=white">
-</a>
-
-<a href="https://copilot.microsoft.com" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=neon&logo=githubcopilot&logoColor=white">
-</a>
-
-<a href="https://lmstudio.ai" target="_blank">
-  <img src="https://img.shields.io/badge/Offline%20Friendly-LM%20Studio-6D2A8A?style=neon&logo=huggingface&logoColor=white">
-</a>
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-56E9DB?style=neon&labelColor=0b0d0f&logo=googlechrome&logoColor=white)](https://chat.openai.com)
+[![Grok](https://img.shields.io/badge/Grok-X.com-000000?style=neon&labelColor=0b0d0f&logo=x&logoColor=white)](https://x.com)
+[![Grok.com](https://img.shields.io/badge/Grok.com-xAI-000000?style=neon&labelColor=0b0d0f&logo=x&logoColor=white)](https://grok.com)
+[![Claude](https://img.shields.io/badge/Claude-Anthropic-D24D0F?style=neon&labelColor=0b0d0f&logo=anthropic&logoColor=D24D0F)](https://www.anthropic.com/claude)
+[![Google Gemini](https://img.shields.io/badge/Gemini-Google-0F52BA?style=neon&labelColor=0b0d0f&logo=googlegemini&logoColor=0F52BA)](https://gemini.google.com)
+[![Perplexity](https://img.shields.io/badge/Perplexity-AI-1FB8CD?style=neon&labelColor=0b0d0f&logo=perplexity&logoColor=1FB8CD)](https://www.perplexity.ai)
+[![GitHub Copilot](https://img.shields.io/badge/Copilot-GitHub-0078D4?style=neon&labelColor=0b0d0f&logo=githubcopilot&logoColor=0078D4)](https://github.com/features/copilot)
+[![Microsoft Copilot](https://img.shields.io/badge/Copilot-Microsoft-0078D4?style=neon&labelColor=0b0d0f&logo=githubcopilot&logoColor=0078D4)](https://copilot.microsoft.com)
+[![LM Studio](https://img.shields.io/badge/LM_Studio-Offline_Models-6D2A8A?style=neon&labelColor=0b0d0f&logo=huggingface&logoColor=6D2A8A)](https://lmstudio.ai)
 
 ---
 
@@ -1082,19 +1092,16 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 ---
 
-<a href="https://notepad-plus-plus.org/downloads/" target="_blank">
-  <img src="https://img.shields.io/badge/Notepad++-Recommended-D24D0F?style=neon&logo=notepadplusplus&logoColor=white">
-</a>
-<img src="https://img.shields.io/badge/Microsoft%20PowerShell-Recommended-D24D0F?style=neon&logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/Web%20Browser-Chromium%20Based-D24D0F?style=neon&logo=googlechrome&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-Optional-D24D0F?style=neon&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Tablet%20or%20Phone-Auxiliary%20Peripheral-6D2A8A?style=neon&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/Main%20LLM-ChatGPT%20Recommended-6D2A8A?style=neon&logo=huggingface&logoColor=white">
-<img src="https://img.shields.io/badge/Supplementary%20LLMs-Minimum%202%20Recommended-6D2A8A?style=neon&logo=huggingface&logoColor=white">
-<img src="https://img.shields.io/badge/Python_Modules-Canonical_Dependencies_Defined-3EE7FF?style=neon&logo=python&logoColor=3EE7FF">
-<a href="./requirements.txt">
-  <img src="https://img.shields.io/badge/Python_Modules-See_requirements.txt(PENDING)-3EE7FF?style=neon&logo=python&logoColor=3EE7FF">
-</a>
+[![Notepad++](https://img.shields.io/badge/Notepad++-Recommended-D24D0F?style=neon&labelColor=0b0d0f&logo=notepadplusplus&logoColor=white)](https://notepad-plus-plus.org/downloads/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-Microsoft-D24D0F?style=neon&labelColor=0b0d0f&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+[![Web Browser](https://img.shields.io/badge/Web_Browser-Chromium_Based-D24D0F?style=neon&labelColor=0b0d0f&logo=googlechrome&logoColor=white)](https://www.chromium.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-Optional-D24D0F?style=neon&labelColor=0b0d0f&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Tablet or Phone](https://img.shields.io/badge/Auxiliary_Device-Tablet_or_Phone-6D2A8A?style=neon&labelColor=0b0d0f&logo=android&logoColor=white)](#)
+[![Primary LLM](https://img.shields.io/badge/Primary_LLM-ChatGPT_Recommended-6D2A8A?style=neon&labelColor=0b0d0f&logo=openai&logoColor=white)](https://chat.openai.com)
+[![Supplementary LLMs](https://img.shields.io/badge/Supplementary_LLMs-Minimum_2_Recommended-6D2A8A?style=neon&labelColor=0b0d0f&logo=huggingface&logoColor=white)](#)
+[![Python Dependencies](https://img.shields.io/badge/Python_Modules-Canonical_Dependencies-3EE7FF?style=neon&labelColor=0b0d0f&logo=python&logoColor=3EE7FF)](#)
+[![requirements.txt](https://img.shields.io/badge/Python_Modules-requirements.txt-3EE7FF?style=neon&labelColor=0b0d0f&logo=python&logoColor=3EE7FF)](./requirements.txt)
+
 
 ---
 ### 🧩 Python Modules & Dependencies
@@ -1161,26 +1168,23 @@ pip install rich psutil
 
 ---
 
-<!-- Required pip modules -->
-<img src="https://img.shields.io/badge/pip_install:-numpy-3EE7FF?style=neon&logo=numpy&logoColor=3EE7FF">
-<img src="https://img.shields.io/badge/pip_install:-scipy-3EE7FF?style=neon&logo=scipy&logoColor=3EE7FF">
-<img src="https://img.shields.io/badge/pip_install:-matplotlib-3EE7FF?style=neon&logo=plotly&logoColor=3EE7FF">
-<img src="https://img.shields.io/badge/pip_install:-torch-56E9DB?style=neon&logo=pytorch&logoColor=56E9DB">
-<br></br>
-<!-- Runtime / system dependency -->
-<img src="https://img.shields.io/badge/runtime:-CUDA_Toolkit-56E9DB?style=neon&logo=nvidia&logoColor=56E9DB">
-<br></br>
-<!-- Python standard library (no pip install required) -->
-<img src="https://img.shields.io/badge/stdlib:-os-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib:-sys-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib:-platform-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib:-time-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib:-math-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib:-cmath-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib:-json-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib:-pathlib-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib:-hashlib-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib:-logging-6D2A8A?style=neon&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/pip_install-numpy-3EE7FF?style=neon&labelColor=0b0d0f&logo=numpy&logoColor=3EE7FF">
+<img src="https://img.shields.io/badge/pip_install-scipy-3EE7FF?style=neon&labelColor=0b0d0f&logo=scipy&logoColor=3EE7FF">
+<img src="https://img.shields.io/badge/pip_install-matplotlib-3EE7FF?style=neon&labelColor=0b0d0f&logo=matplotlib&logoColor=3EE7FF">
+<img src="https://img.shields.io/badge/pip_install-torch-56E9DB?style=neon&labelColor=0b0d0f&logo=pytorch&logoColor=56E9DB">
+<br>
+<img src="https://img.shields.io/badge/runtime-CUDA_Toolkit-56E9DB?style=neon&labelColor=0b0d0f&logo=nvidia&logoColor=56E9DB">
+<br>
+<img src="https://img.shields.io/badge/stdlib-os-6D2A8A?style=neon&labelColor=0b0d0f&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib-sys-6D2A8A?style=neon&labelColor=0b0d0f&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib-platform-6D2A8A?style=neon&labelColor=0b0d0f&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib-time-6D2A8A?style=neon&labelColor=0b0d0f&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib-math-6D2A8A?style=neon&labelColor=0b0d0f&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib-cmath-6D2A8A?style=neon&labelColor=0b0d0f&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib-json-6D2A8A?style=neon&labelColor=0b0d0f&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib-pathlib-6D2A8A?style=neon&labelColor=0b0d0f&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib-hashlib-6D2A8A?style=neon&labelColor=0b0d0f&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib-logging-6D2A8A?style=neon&labelColor=0b0d0f&logo=python&logoColor=6D2A8A">
 
 ---
 
@@ -4457,8 +4461,15 @@ Author: @MMMDcreator (X), @Wotcnt (GitHub)
 
 ---
 
-  ⛑️🤝 Ask the [Polyrifringence Engine Expert GPT](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)🤖   
-     - to auto-generate BibTeX or APA citations for your paper or replication dataset.
+<p align="center">
+  <a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
+     target="_blank"
+     rel="noopener noreferrer">
+    <strong>Click to Ask the Polyrifringence Engine Expert GPT(Gem-Line AI-CHATBOT) Opens in a new window</strong>
+  </a>
+</p>
+
+> Query the GPT to auto-generated BibTeX or APA citations for your paper or replication dataset.
 
 [![Cite This Work](https://img.shields.io/badge/Cite-This_Repository_(Placeholder)-046307?style=neon&logo=academia&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CITATION.cff)
 [![Archive Snapshot](https://img.shields.io/badge/View_on-Internet_Archive-0b0d0f?style=neon&logo=internetarchive&logoColor=FFFFFF)](https://web.archive.org/save/https://github.com/Wotcnt/Polyrifringence-Engine)
