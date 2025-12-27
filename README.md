@@ -99,11 +99,11 @@ Timestamp Locked · Trace Context Declared
 	
 ---
 
-| <kbd>Information Field</kbd> | <kbd>General Information</kbd>                                                        |
+| <kbd>Information Field</kbd> | <kbd>General Information</kbd>                                               |
 |---------------------|---------------------------------------------------------------------------------------|
 | Title               | Polyrifringence Engine©                                                               |
 | Version Codename    | AΩ-Seal · ΔΩ-Aligned · Sovereign Node · **Pre-Release**                               |
-| **Latest Content Available**   | **31st December 2025 · MATH_MODEL(RENDER).md · THEORY.md**                                |
+| **Latest Content Available**   | **31st December 2025 · MATH_MODEL(RENDER).md · THEORY.md**                 |
 | **Withheld Content Available**   | **Q1 2026 · BENCHMARKS.md · VIEWER.html · Polyrifringence_Engine_v8.10.XX.py**            |
 | Author              | Conner Brown-Milliken · @MMMDcreator - X.com · @Wotcnt - GitHub                       |
 | Country             | Australia                                                                             |
@@ -115,7 +115,7 @@ Timestamp Locked · Trace Context Declared
 | Word Keys           | Recursive Birefringence; GPU optics; Codex Canon; RSANCS; symbolic recursion          |
 | Latest Version Tag  | _v8.10.xx-prerelease-2025-11-18_                                                      |
 | Hardware Validator  | RTX 3050 (CUDA 12.1) · i5-4690K · Validated                                           |
-| Recursive Integrity | **ΔΔΩΔ-Validated**                                                                    |
+| Canonical Recursive Phase Integrity  | ΔΩ · **ΔΔΩΔ-Validated**                                              |
 | Field Class         | Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
 | **Canonical**       | **Newest tagged release supersedes all prior versions**                               |
 | **README Metrics** | **_~121 min read · ~24,171 words · ~215,341 chars_** *(manual; current revision)*      |
