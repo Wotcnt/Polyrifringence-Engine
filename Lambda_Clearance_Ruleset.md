@@ -216,23 +216,77 @@ Submission of a Share Link constitutes agreement to all rules herein.
 
 ---
 
-![ΔΩ HOME OBSERVER](https://img.shields.io/badge/ΔΩ_HOME_OBSERVER-Meta_Gem-000000?style=for-the-badge\&logo=obsidian\&logoColor=000000\&labelColor=FFFFFF\&color=000000)
+  <a>
+    <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
+  </a>
 
 ---
   
 <div align="center">
-<img src="https://img.shields.io/badge/House_of_Sardius-Sardius-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000&color=B31B1B">
-<img src="https://img.shields.io/badge/House_of_Topaz-Topaz-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000&color=E6A756">
-<img src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000&color=D7C7A2">
-<img src="https://img.shields.io/badge/House_of_Emerald-Emerald-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=046307&labelColor=000000&color=046307">
-<img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=C55A11&labelColor=000000&color=C55A11">
-<img src="https://img.shields.io/badge/House_of_Chrysolite-Chrysolite-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000&color=C5E384">
-<img src="https://img.shields.io/badge/House_of_Beryl-Beryl-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000&color=56E9DB">
-<img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000&color=D24D0F">
-<img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000&color=6D2A8A">
-<img src="https://img.shields.io/badge/House_of_Jasper-Jasper-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000&color=9B111E">
-<img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000&color=0F52BA">
-<img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000&color=00E68C">
-</div>
+<!-- 1. Jasper (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Jasper-Jasper_⧫_❯-9B111E?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000">
+</a>
+
+<!-- 2. Sapphire (Corundum) -->
+<a href="https://www.minerals.net/mineral/corundum.aspx">
+  <img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire_◇_❯❯-0F52BA?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000">
+</a>
+
+<!-- 3. Chalcedony (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony_⬣_❯❯❯-D7C7A2?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000">
+</a>
+
+<!-- 4. Emerald (Beryl) -->
+<a href="https://www.minerals.net/mineral/beryl.aspx">
+  <img src="https://img.shields.io/badge/House_of_Emerald-Emerald_♧_❯❯❯❯-046307?style=for-the-badge&logo=obsidian&logoColor=046307&labelColor=000000">
+</a>
+
+<!-- 5. Sardonyx (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx_⬤_❯❯❯❯❯-C55A11?style=for-the-badge&logo=obsidian&logoColor=C55A11&labelColor=000000">
+</a>
+
+<!-- 6. Sardius (Quartz family / Carnelian variant) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Sardius-Sardius_⬟_❯❯❯❯❯❯-B31B1B?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000">
+</a>
+
+<!-- 7. Chrysolite (Olivine / Peridot) -->
+<a href="https://www.minerals.net/mineral/olivine.aspx">
+  <img src="https://img.shields.io/badge/House_of_Chrysolite-Chrysolite_⬡_❯❯❯❯❯❯❯-C5E384?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000">
+</a>
+
+<!-- 8. Beryl -->
+<a href="https://www.minerals.net/mineral/beryl.aspx">
+  <img src="https://img.shields.io/badge/House_of_Beryl-Beryl_⬢_❯❯❯❯❯❯❯❯-56E9DB?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000">
+</a>
+
+<!-- 9. Topaz -->
+<a href="https://www.minerals.net/mineral/topaz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Topaz-Topaz_⬣_❯❯❯❯❯❯❯❯❯-E6A756?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000">
+</a>
+
+<!-- 10. Chrysoprase (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase_⬖_❯❯❯❯❯❯❯❯❯❯-00E68C?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000">
+</a>
+
+<!-- 11. Jacinth (Zircon) -->
+<a href="https://www.minerals.net/mineral/zircon.aspx">
+  <img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth_✧_❯❯❯❯❯❯❯❯❯❯❯-D24D0F?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000">
+</a>
+
+<!-- 12. Amethyst (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst_✦_❯❯❯❯❯❯❯❯❯❯❯❯-6D2A8A?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000">
+</a>
+
+<br>
+
+<a href="https://en.wikipedia.org/wiki/Prism_(optics)">
+  <img src="https://img.shields.io/badge/House_of_Prismatic_Fields:_⌬-❮❮❮❮❮❮_ΔΔΩΔ_❯❯❯❯❯❯-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=FFFFFF&labelColor=000000">
+</a>
 
 ---
