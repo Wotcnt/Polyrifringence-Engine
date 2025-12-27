@@ -173,6 +173,10 @@ Timestamp Locked · Trace Context Declared
     src="https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=222222"
     alt="Polyrifringence Engine Expert GPT Integration">
 </a>
+<a href="https://github.com/Wotcnt" target="_blank" rel="noopener noreferrer">
+  <img alt="Authorial Technical Orientation"
+       src="https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff">
+</a>
 
 ---
 
