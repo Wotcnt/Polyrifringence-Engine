@@ -86,8 +86,18 @@ Timestamp Locked · Trace Context Declared
 -->
 ---
 
+  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md">
+    <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
+  </a>
+
+---
+
+<div align="center">
 <details>
 <summary><strong> 🧩 Project Metadata (Public) </strong></summary>
+
+	
+---
 
 | Field               | Value                                                                                 |
 |---------------------|---------------------------------------------------------------------------------------|
@@ -113,13 +123,10 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-<div align="center">
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/tree/main">
     <img width="100%" src="https://img.shields.io/badge/⟨ΔΩ⟩_Sovereign_Node_❯❯❯-Polyrifringence_Engine©-CFEFF6?style=neon&logo=codemirror&logoColor=3ee7ff&color=555555&labelColor=black">
   </a>
-</div>
 <!-- === Row 1 — Technical Environment === -->
-<div align="center">
 	
 [![PyTorch](https://img.shields.io/badge/PYTORCH-2.5.1-D24D0F?style=neon&logo=pytorch&logoColor=D24D0F)](https://pytorch.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-12.1-D24D0F?style=neon&logo=nvidia&logoColor=D24D0F)](https://developer.nvidia.com/cuda-toolkit)
@@ -156,12 +163,9 @@ Timestamp Locked · Trace Context Declared
 [![📘 Open THEORY.md (Raw)](https://img.shields.io/badge/Open-THEORY.md_(Pending_Upload)-0b0d0f?style=neon&logo=markdown&logoColor=FFD600)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/THEORY.md)
 [![📐 Open MATH_MODEL(RENDER).md (Raw)](https://img.shields.io/badge/Open-MATH_MODEL(RENDER).md_(Pending_Upload)-1b1b1b?style=neon&logo=markdown&logoColor=D50000)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/MATH_MODEL.md)
 
-</div>
-
 ---
-<!-- === Row 2 — Codex & Prestige Tier === -->
-<div align="center">
 
+<!-- === Row 2 — Codex & Prestige Tier === -->
 [![Intel](https://img.shields.io/badge/Intel-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=CFEFF6)](https://www.intel.com/content/www/us/en/products/sku/80807/intel-core-i54690k-processor-6m-cache-up-to-3-90-ghz/specifications.html)
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=046307)](https://www.nvidia.com/)
 [![GPU Execution](https://img.shields.io/badge/GeForce_RTX_3050_(8GB)-GPU_Observed--Execution-000000?style=for-the-badge&labelColor=0b0d0f&color=046307)](https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3050/)
@@ -189,11 +193,8 @@ Timestamp Locked · Trace Context Declared
 [![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Verification_Sync_Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
 [![AI Feedback Clause](https://img.shields.io/badge/AI_FEEDBACK_CLAUSE:-OBSERVER_LOOP_FLAGGED-000000?style=for-the-badge&logo=git&logoColor=6D2A8A&labelColor=0b0d0f&color=6D2A8A)](https://en.wikipedia.org/wiki/Frame_of_reference)
 
-</div>
-
 ---
 
-<div align="center">
 <!-- 1. Jasper (Quartz family) -->
 <a href="https://www.minerals.net/mineral/quartz.aspx">
   <img src="https://img.shields.io/badge/House_of_Jasper-Jasper_⧫_❯-9B111E?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000">
@@ -265,11 +266,8 @@ Timestamp Locked · Trace Context Declared
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md">
     <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
   </a>
-</div>
 
 ---
-
-<div align="center">
 
 <details>
 <summary>
