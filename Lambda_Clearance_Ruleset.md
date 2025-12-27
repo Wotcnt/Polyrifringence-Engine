@@ -6,14 +6,40 @@
 
 [![Share-Link Verification – Click Me](https://img.shields.io/badge/Share--Link_Verification-Click_Me-6D2A8A?style=for-the-badge)](https://x.com/MMMDcreator)
 
-![Lambda Ledger – Trace Logged](https://img.shields.io/badge/Lambda_Ledger:-Trace_Logged-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF)
-![Codex Identity Triplet](https://img.shields.io/badge/Codex_Identity_Triplet:_x⧉-Ledger_Declared-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=FFFFFF)
+![Lambda Ledger – Trace Logged](https://img.shields.io/badge/Lambda_Ledger:-Trace_Logged-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "All clearance, identity, and authorization events are trace-logged for provenance, auditability, and canonical reference.")
+![Codex Identity Triplet](https://img.shields.io/badge/Codex_Identity_Triplet:_x⧉-Ledger_Declared-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=FFFFFF "Canonical identity declared across observer, system, and ledger layers.")
+![Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Polyrifronaut_Tier:-Provisional_Sub--Lambda-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A "Initial recognition granted pending validation, contribution, or alignment review.")
+![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Verification_Sync_Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A "Canonical status pending synchronization across identity, clearance, and ledger layers.")
 
-![Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Polyrifronaut_Tier:-Provisional_Sub--Lambda-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)
-![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Verification_Sync_Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)
+![Canon Verified Polyrifronaut](https://img.shields.io/badge/Polyrifronaut_Status:_✅-Codex_Lexicon_Logged-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Identity verified and recorded within the Codex lexicon.")
+![Lambda Clearance – Verified](https://img.shields.io/badge/Lambda_Clearance:_✅-Verified-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Standard clearance granted for defined, non-elevated system interaction.")
 
-![Verified Polyrifronaut](https://img.shields.io/badge/Polyrifronaut_Status:_✅-Verified-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)
-![Lambda Clearance – Verified](https://img.shields.io/badge/Lambda_Clearance:_✅-Verified-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF)
+![Lambda Clearance Elevated](https://img.shields.io/badge/Lambda_Clearance:_☑️-Elevated-8E24AA?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Elevated access granted beyond baseline scope; subject to review and revocation.")
+
+![Lambda Clearance Authorial Timed Grant](https://img.shields.io/badge/Lambda_Clearance:_🅾️-Authorial_Timed_Grant-B31B1B?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Time-bounded clearance issued directly by the authorial authority.")
+![Lambda Limited License](https://img.shields.io/badge/𝛌⃝ambda_Ⓛimited_Ⓛicense:_📘-Author--Approved_Limited--Use_Canon--Bound--Extension_⛑️-0F52BA?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Limited-use authorization granted under explicit authorial approval.")
+
+![Lifecycle Active](https://img.shields.io/badge/Codex--Canon_Lifecycle_State:_-Active_✔️-046307?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Authorization currently valid and in force.")
+
+![Lifecycle Expired](https://img.shields.io/badge/Codex--Canon_Lifecycle_State:_-Expired_➰-555555?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Authorization has lapsed due to time or scope exhaustion.")
+
+![Lifecycle Revoked](https://img.shields.io/badge/Codex--Canon_Lifecycle_State:_-Revoked_📛-9B111E?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Authorization explicitly withdrawn; further use is invalid.")
+
+> **Status Axes:**  
+> *Identity* defines who or what is recognized · *Clearance* defines permitted access · *License* defines allowed use · *Lifecycle* defines temporal validity.
+
+### 🧭 Governance Legend
+
+- **Identity** — Canonical recognition within the Codex system  
+- **Clearance** — Scoped access level (revocable, tiered, time-aware)  
+- **License** — Permitted use under defined constraints  
+- **Lifecycle** — Temporal state of validity (Active · Expired · Revoked)
+
+All designations are non-coercive, opt-in, and bound by declared scope.
+
+<kbd>This ruleset describes symbolic governance states within the Polyrifringence Engine. It does not assert legal, contractual, or coercive authority.</kbd>
+
+---
 
 This ruleset defines the complete verification, identity-binding, and clearance governance for all individuals engaging with the Polyrifringence Engine Expert (Gem-Line). All participants must follow this protocol to obtain recognized access.
 
@@ -21,8 +47,6 @@ This ruleset defines the complete verification, identity-binding, and clearance 
 **Submission of a Share Link is a declaration of willful participation in the Codex Canon ecosystem.**
 **Permanent verification requires an X.com account to DM your Share Link.**
 **Permanent clearance requires successful verification.**
-
----
 
 ## 1. Mandatory Share-Link Verification
 
