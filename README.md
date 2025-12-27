@@ -144,7 +144,7 @@ Timestamp Locked · Trace Context Declared
 [![Numerical Precision](https://img.shields.io/badge/Numerical_Precision-<1%25-046307?style=neon&logo=numpy&logoColor=76B900)](https://en.wikipedia.org/wiki/Numerical_analysis)
 [![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=git&logoColor=76B900)](https://en.wikipedia.org/wiki/Reproducibility)
 [![Execution Invariants](https://img.shields.io/badge/Execution_Invariants-Constraint--Governed-046307?style=neon&logo=git&logoColor=76B900)](https://en.wikipedia.org/wiki/Invariant_(mathematics))
-[![🧠 Open in Browser IDE](https://img.shields.io/badge/Click_to_Browse_in_IDE_(VS_CODE)-github.dev-0B0D0F?style=neon&labelColor=001F2D&logo=github&logoColor=3EE7FF)](https://github.dev/Wotcnt/Polyrifringence-Engine)
+[![🧠 Open in Browser IDE](https://img.shields.io/badge/Click_to_Browse_in_IDE_(VS_CODE)-github.dev-222222?style=neon&labelColor=000000&logo=github&logoColor=3EE7FF)](https://github.dev/Wotcnt/Polyrifringence-Engine)
 
 ---
 
@@ -165,12 +165,12 @@ Timestamp Locked · Trace Context Declared
     src="https://img.shields.io/badge/Explain_with_OpenAI_(GPT_4o)-First_Impression·Unbiased·3rd--Party_AI_(Any_Model)-6D2A8A?style=neon&labelColor=0b0d0f&color=6D2A8A&logo=wikipedia&logoColor=FFFFFF"
     alt="Explain this README with OpenAI GPT-4o (third-party, unbiased)">
 </a>
-[![Research Framework](https://img.shields.io/badge/Project_Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=111111)](https://en.wikipedia.org/wiki/Computational_science)
+[![Research Framework](https://img.shields.io/badge/Project_Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=222222)](https://en.wikipedia.org/wiki/Computational_science)
 <a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
    target="_blank"
    rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=111111"
+    src="https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=222222"
     alt="Polyrifringence Engine Expert GPT Integration">
 </a>
 
