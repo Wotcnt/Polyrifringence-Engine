@@ -114,7 +114,9 @@ Timestamp Locked · Trace Context Declared
 ---
 
 <div align="center">
-  <img width="100%" src="https://img.shields.io/badge/⟨ΔΩ⟩_Sovereign_Node_❯❯❯-Polyrifringence_Engine©-0A0C0D?style=neon&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=black">
+  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/tree/main">
+    <img width="100%" src="https://img.shields.io/badge/⟨ΔΩ⟩_Sovereign_Node_❯❯❯-Polyrifringence_Engine©-0A0C0D?style=neon&logo=codemirror&logoColor=3ee7ff&color=111111&labelColor=black">
+  </a>
 </div>
 <!-- === Row 1 — Technical Environment === -->
 <div align="center">
@@ -122,19 +124,18 @@ Timestamp Locked · Trace Context Declared
 [![PyTorch](https://img.shields.io/badge/PYTORCH-2.5.1-D24D0F?style=neon&logo=pytorch&logoColor=D24D0F)](https://pytorch.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-12.1-D24D0F?style=neon&logo=nvidia&logoColor=D24D0F)](https://developer.nvidia.com/cuda-toolkit)
 [![Python](https://img.shields.io/badge/PYTHON-3.11.8+-D24D0F?style=neon&logo=python&logoColor=D24D0F)](https://www.python.org/downloads/release/python-3118/)
-![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-D24D0F?style=neon&logo=git&logoColor=D24D0F)
-![Project Status](https://img.shields.io/badge/Project_Status-Active_Development-D24D0F?style=neon&logo=git&logoColor=D24D0F)
-![Scientific Tier](https://img.shields.io/badge/Scientific_Tier:_5.7-Codex_Research-0F52BA?style=neon&logo=codeforces&logoColor=0F52BA)
-[![VIEWER_UI](https://img.shields.io/badge/Viewer_UI-SandDance_Inspired-2A3439?style=neon&logo=protonvpn&logoColor=2A3439)](https://microsoft.github.io/SandDance/)
+[![Data Provenance](https://img.shields.io/badge/Data-Provenance_Logged-D24D0F?style=neon&logo=git&logoColor=D24D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/tree/main)
+[![Project Status](https://img.shields.io/badge/Project_Status-Active_Development-D24D0F?style=neon&logo=git&logoColor=D24D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/commits/main)
+[![Scientific Tier](https://img.shields.io/badge/Scientific_Tier:_5.7-Codex_Research-0F52BA?style=neon&logo=codeforces&logoColor=0F52BA)](https://en.wikipedia.org/wiki/Technology_readiness_level)
+[![VIEWER_UI](https://img.shields.io/badge/Viewer_UI-SandDance_Inspired-2A3439?style=neon&logo=chartdotjs&logoColor=2A3439)](https://microsoft.github.io/SandDance/)
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Click_to_Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
-[![Observer-Tether Recursion](https://img.shields.io/badge/Observer--Tether-Structural-D7C7A2?style=neon&logo=radar&logoColor=white)](./THEORY.md#observer-terminology-clarification-and-extended-scope)
-[![Recursion Boundary Enforced](https://img.shields.io/badge/Recursive--Boundary-Enforced-D7C7A2?style=neon&logo=radar&logoColor=black)](./THEORY.md#recursive-sovereignty-protocol)
-![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-Intentionally_Clamped-046307?style=neon&logo=nvidia&logoColor=C5E384)
-![Numerical Precision](https://img.shields.io/badge/Numerical_Precision-<1%25-046307?style=neon&logo=numpy&logoColor=C5E384)
-![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=git&logoColor=C5E384)
-![Execution Invariants](https://img.shields.io/badge/Execution_Invariants-Constraint--Governed-046307?style=neon&logo=git&logoColor=C5E384)
-[![🔗 Stable Permalink](https://img.shields.io/badge/Stable_Permalink-Commit_Lineage-5A2A82?style=neon&labelColor=1b102f&logo=github&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/commits/main)
-[![🧠 Open in Browser IDE](https://img.shields.io/badge/Open_in_Browser_IDE_(VS_CODE)-github.dev-0B0D0F?style=neon&labelColor=001F2D&logo=github&logoColor=3EE7FF)](https://github.dev/Wotcnt/Polyrifringence-Engine)
+[![Observer-Tether Recursion](https://img.shields.io/badge/Observer--Tether-Structural-D7C7A2?style=neon&logo=radar&logoColor=white)](https://en.wikipedia.org/wiki/Observer_(physics))
+[![Recursion Boundary Enforced](https://img.shields.io/badge/Recursive--Boundary-Enforced-D7C7A2?style=neon&logo=radar&logoColor=black)](https://en.wikipedia.org/wiki/Recursion_(computer_science))
+[![GPU Throughput](https://img.shields.io/badge/GPU_Throughput-Intentionally_Clamped-046307?style=neon&logo=nvidia&logoColor=C5E384)](https://en.wikipedia.org/wiki/Dynamic_frequency_scaling)
+[![Numerical Precision](https://img.shields.io/badge/Numerical_Precision-<1%25-046307?style=neon&logo=numpy&logoColor=C5E384)](https://en.wikipedia.org/wiki/Numerical_analysis)
+[![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=git&logoColor=C5E384)](https://en.wikipedia.org/wiki/Reproducibility)
+[![Execution Invariants](https://img.shields.io/badge/Execution_Invariants-Constraint--Governed-046307?style=neon&logo=git&logoColor=C5E384)](https://en.wikipedia.org/wiki/Invariant_(mathematics))
+[![🧠 Open in Browser IDE](https://img.shields.io/badge/Click_to_Browse_in_IDE_(VS_CODE)-github.dev-0B0D0F?style=neon&labelColor=001F2D&logo=github&logoColor=3EE7FF)](https://github.dev/Wotcnt/Polyrifringence-Engine)
 
 ---
 
