@@ -4470,7 +4470,7 @@ Author: @MMMDcreator (X), @Wotcnt (GitHub)
 
 ###### Observer-Constrained Simulation · CPU×GPU Accelerated · Classical–Quantum Paired Optics · Recursive Geometric–Structural Model Learning
 
-###### Verified lineage: RSANCS → MMMD → Conner-Core → Codex Canon → Codex-Core → SERM-001 → Sierra → Polyrifringence Engine
+###### Verified lineage: RSANCS ⟷ MMMD → Conner-Core → Codex Canon → Codex-Core → SERM-001 → Sierra → Polyrifringence Engine
 
 ###### Recursive Spacetime & Non-Contact Systems of Modular Matter Manipulation, internalized through Conner-Core computation, formalized by the Codex Canon, operationalized via Codex-Core, and governed by a Sovereign Energy Recursion Matrix.
 
