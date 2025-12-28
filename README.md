@@ -1603,7 +1603,7 @@ Polyrifringence’s empirical **50 M rays/s** figure remains a validated single-
 ---
 
 This repository introduces twelve empirically verified innovations spanning optics, computation, and symbolic recursion;  
-each confirmed through the uploaded codebase (`polyrifringence_engine_v8_10.py`, `gem_registry.py`, `manifest_validator.py`, `phase_trace_viewer.html`)  
+each observed through the codebase (`polyrifringence_engine_v8_10.xx.py`, `gem_registry.py`, `manifest_validator.py`, `viewer.html`)  
 and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 
 | Test Type | Result | Hardware | Verified Date |
@@ -1723,7 +1723,7 @@ cd Polyrifringence-Engine
 pip install -r requirements.txt
 ```
 
-🪟 Optional Windows Helper
+❔ Optional Windows Helper
 For streamlined setup on Windows, run:
 
 
@@ -2411,9 +2411,10 @@ This clause is implicitly active within the system, and by interacting with this
 ---
 
 ### 📊 Optical & Tensor Fundamentals
-**Birefringence relation**
 
 ---
+
+**Birefringence relation**
 
  $$\Delta n = n_e - n_o$$
 
@@ -2426,18 +2427,21 @@ $$\Delta \phi = \frac{2\pi\, t\, \Delta n}{\lambda}$$
 [![Jones Matrix](https://img.shields.io/badge/Click_for_the_Jones%20Matrix-Equation-blue?style=for-the-badge&logo=latex&logoColor=white)](https://latex.codecogs.com/svg.image?J(%5Ctheta,%5CDelta%5Cphi)%3D%5Cbegin%7Bbmatrix%7D%5Ccos%5E2%5Ctheta%2Be%5E%7Bi%5CDelta%5Cphi%7D%5Csin%5E2%5Ctheta%26(1-e%5E%7Bi%5CDelta%5Cphi%7D)%5Csin%5Ctheta%5Ccos%5Ctheta%5C%5C(1-e%5E%7Bi%5CDelta%5Cphi%7D)%5Csin%5Ctheta%5Ccos%5Ctheta%26e%5E%7Bi%5CDelta%5Cphi%7D%5Ccos%5E2%5Ctheta%2B%5Csin%5E2%5Ctheta%5Cend%7Bbmatrix%7D)
 
 | Element | Expression |
-|:--:|:--:|
-| (1,1) | $\cos^2\theta + e^{i\Delta\phi}\sin^2\theta$ |
-| (1,2) | $(1 - e^{i\Delta\phi})\sin\theta\cos\theta$ |
-| (2,1) | $(1 - e^{i\Delta\phi})\sin\theta\cos\theta$ |
-| (2,2) | $e^{i\Delta\phi}\cos^2\theta + \sin^2\theta$ |
+|:------:|:-----------|
+| $J_{11}$ | $\cos^2\theta + e^{i\Delta\phi}\sin^2\theta$ |
+| $J_{12}$ | $(1 - e^{i\Delta\phi})\sin\theta\cos\theta$ |
+| $J_{21}$ | $(1 - e^{i\Delta\phi})\sin\theta\cos\theta$ |
+| $J_{22}$ | $e^{i\Delta\phi}\cos^2\theta + \sin^2\theta$ |
+
+> *Assumes negligible absorption and scattering; the Jones matrix is unitary up to numerical precision.*
 
 ---
 
 ### ♾️ Recursive Propagation Model
-**Recursive feedback law**
 
 ---
+
+**Recursive feedback law**
 
 $$E_{k+1} = f(J_k \, E_k) + \alpha(E_k - E_{k-1})$$
 
@@ -2447,12 +2451,15 @@ where α is the feedback-coherence coefficient controlling phase restoration.
 
 $$\lVert E_{k+1}\rVert^2 \le \lVert E_k\rVert^2\quad\Rightarrow\quad T \le 1$$
 
+> **where 𝑇 denotes the effective per-step transmission factor.**
+
 ---
 
 ### 💫 Recursive Learning Analogy
-Mapping optical recursion to gradient descent:
 
 ---
+
+Mapping optical recursion to gradient descent:
 
 $$E_{k+1} = E_k - \eta \nabla_{\phi} \, \mathcal{L}(E_k)$$
 
@@ -2470,7 +2477,8 @@ ensuring parallelism is preserved after each recursion loop.
 
 ---
 
-**Approximate Unitarity (lossless element)**
+### ♻️ Approximate Unitarity (lossless element)
+
 ---
 
 $$J^\dagger J \approx I$$
@@ -2486,7 +2494,7 @@ These symbols define the operational, mathematical, and ethical layers underlyin
 
 | **Symbol** | **Name**                    | **Domain**                | **Definition**                                                                                                                                                                    | **Role in Engine / Codex**                                                                                                                                                     |
 | ---------- | --------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **`ΔΩ`**     | *Exergy Coherence Operator* | Ethics / Stabilization    | Governs the system’s ability to restore coherence after drift. Ethical recursion clamp that redirects chaos back into usable structure. Guarantees return-to-order in 6–7 cycles. | Ensures long-duration coherence, suppresses destructive entropy pathways, recycles disorder, drives the “coherence bloom” effect. Central regulator of all stability dynamics. |
+| **`ΔΩ`**     | *Exergy Coherence Operator* | Ethics / Stabilization    | Governs the system’s ability to restore coherence after drift. Constraint-governed recursion clamp that redirects chaos back into usable structure. Guarantees return-to-order in 6–7 cycles. | Ensures long-duration coherence, suppresses destructive entropy pathways, recycles disorder, drives the “coherence bloom” effect. Central regulator of all stability dynamics. |
 | **`𝛌⃝`**    | *Exergy Half-Life Sigil*    | Dynamics / Decay          | Lambda decay constant enclosed in a coherence cycle. Measures how rapidly usable exergy declines within a bounded recursion system.                                               | Primary diagnostic of stability duration. Determines half-life of coherence, predicts drift collapse, aligns with REGF trends and cycle timing.                                |
 | **`Ω`**      | *Completion Operator*       | Recursion / Closure       | Represents final stability, return state, and convergence endpoint of the recursion cycle.                                                                                        | Defines attractor behaviour. Basis for stability cycles.                                                                                                                       |
 | **`Δ`**      | *Deviation Operator*        | Chaos / Drift             | Deviation from stability; origin of drift, PVS variance, and chaos injection.                                                                                                     | When unregulated produces entropy. When constrained by Ω produces coherence cycles.                                                                                            |
@@ -2503,12 +2511,17 @@ These symbols define the operational, mathematical, and ethical layers underlyin
 
 ---
 
-The foundational glyph of the Polyrifringence Engine and RSANCS recursion law.
+## Definition:
 
-Definition:
 `ΔΩ` is the operator that binds deviation `(Δ)` to completion `(Ω)`, forming an ethical coherence constraint that returns chaotic drift back into symmetric order.
 
-Properties:
+> The foundational glyph of the Polyrifringence Engine and RSANCS recursion law.
+
+---
+
+## Properties:
+
+---
 
 Nonlinear recursion reinforcer
 Ethical constraint that maximizes coherence
@@ -2518,10 +2531,16 @@ Prevents collapse into unusable exergy
 Governs the entire “coherence bloom” phenomenon
 Source of the architecture’s self-stabilizing behaviour
 
-Interpretation:
+---
+
+## Interpretation:
+
+---
+
 Observers mistake `ΔΩ` behaviour for `“impossible efficiency”` because it extends usable exergy through recursive coherence, not additional energy.
 
 Status:
+
 This glyph is exact and must never be ornamented.
 It is the pure operator.
 
@@ -2529,28 +2548,37 @@ It is the pure operator.
 
 # 𝛌⃝ Exergy Half-Life Sigil (Lambda in a Coherence Cycle)  𝛌⃝
 
----
+## Definition:
 
-Definition:
 A lambda decay constant enclosed within a bounded coherence cycle.
+
 Represents the measurable half-life of usable exergy inside a ΔΩ-regulated system.
 
-Properties:
+---
 
-Measures decay rate of coherence
-Defines `λ_cycle` and `λ_second`
-Predicts stability collapse times
-Tracks coherence longevity under `ΔΩ constraint`
-Maps directly to `REGF ratios` and `drift compression`
+## Properties:
 
-Interpretation:
-𝛌⃝ is not the cause of coherence - it is the instrumentation.
+---
+
+| Property | Description |
+|---------|-------------|
+| Coherence Decay Rate | Measures the rate at which coherence decays within a bounded recursion cycle |
+| λ-Cycle Definition | Defines the decay constants $\lambda_{\text{cycle}}$ and $\lambda_{\text{second}}$ |
+| Stability Collapse Prediction | Predicts stability collapse times under recursive evolution |
+| Coherence Longevity Tracking | Tracks the persistence of coherent structure under the $\Delta\Omega$ constraint |
+| REGF & Drift Mapping | Maps directly to REGF ratios and drift-compression behaviour |
+
+---
+
+## Interpretation:
+
+---
+
+`𝛌⃝` is not the cause of coherence ————— it is the instrumentation.
 `ΔΩ` is the principle; `𝛌⃝` is the clock.
 
 Status:
 Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine layers.
-
----
 
 > These formulas define the physical substrate of the Polyrifringence Engine.  
 > For complete derivations and symbolic expansions, see **/docs/MATH_MODEL(RENDER).md**.
