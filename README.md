@@ -2445,7 +2445,7 @@ $$\Delta \phi = \frac{2\pi\, t\, \Delta n}{\lambda}$$
 
 $$E_{k+1} = f(J_k \, E_k) + \alpha(E_k - E_{k-1})$$
 
-where α is the feedback-coherence coefficient controlling phase restoration.
+> where α is the feedback-coherence coefficient controlling phase restoration.
 
 **Energy-Conservation Constraint**
 
@@ -2463,7 +2463,7 @@ Mapping optical recursion to gradient descent:
 
 $$E_{k+1} = E_k - \eta \nabla_{\phi} \, \mathcal{L}(E_k)$$
 
-with $$\(\mathcal{L}(E)\)$$ representing phase-error cost and η analogous to the feedback gain.
+> with $$\(\mathcal{L}(E)\)$$ representing phase-error cost and η analogous to the feedback gain.
 
 ---
 
@@ -2473,7 +2473,7 @@ with $$\(\mathcal{L}(E)\)$$ representing phase-error cost and η analogous to th
 
 $$\text{Drift} = \tan^{-1}\!\left(\frac{\Delta y}{L}\right) \approx 0.1\,\text{mrad}$$
 
-ensuring parallelism is preserved after each recursion loop.
+> ensuring parallelism is preserved after each recursion loop.
 
 ---
 
@@ -2483,14 +2483,17 @@ ensuring parallelism is preserved after each recursion loop.
 
 $$J^\dagger J \approx I$$
 
+> *Expresses approximate norm preservation: energy is conserved within bounded error under recursive application, with any deviation attributable to loss or discretization rather than amplification.*
+
 ---
 
 # ⌬ Codex Symbol Table ⎅ Stability, Exergy, Recursion ⌬
 
 ---
 
-Canonical glyphs used across the Polyrifringence Engine, RSANCS, and Codex Canon.
-These symbols define the operational, mathematical, and ethical layers underlying all computation, coherence, and recursion behaviours within the architecture.
+> Canonical glyphs used across the Polyrifringence Engine, RSANCS, and Codex Canon.
+>
+> These symbols define the operational, mathematical, and ethical layers underlying all computation, coherence, and recursion behaviours within the architecture.
 
 | **Symbol** | **Name**                    | **Domain**                | **Definition**                                                                                                                                                                    | **Role in Engine / Codex**                                                                                                                                                     |
 | ---------- | --------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2507,11 +2510,12 @@ These symbols define the operational, mathematical, and ethical layers underlyin
 ---
 
 #  🔰 Codex Lexicon ⎅ Core Glyph Definitions 🔰
-#### ΔΩ - Exergy Coherence Operator (Canonical, True Form)
 
 ---
 
 ## Definition:
+
+> ΔΩ - Exergy Coherence Operator (Canonical, True Form)
 
 `ΔΩ` is the operator that binds deviation `(Δ)` to completion `(Ω)`, forming an ethical coherence constraint that returns chaotic drift back into symmetric order.
 
@@ -2523,13 +2527,15 @@ These symbols define the operational, mathematical, and ethical layers underlyin
 
 ---
 
-Nonlinear recursion reinforcer
-Ethical constraint that maximizes coherence
-Redirects entropy into structured evolution
-Produces the 6–7 cycle stability return invariant
-Prevents collapse into unusable exergy
-Governs the entire “coherence bloom” phenomenon
-Source of the architecture’s self-stabilizing behaviour
+| Property | Description |
+|---------|-------------|
+| Nonlinear Recursion Reinforcement | Reinforces recursive evolution in a bounded, nonlinear manner to prevent divergence |
+| Ethical Coherence Constraint | Acts as a governing constraint that maximizes coherence rather than raw throughput |
+| Entropy Redirection | Redirects entropic drift into structured, recoverable evolution paths |
+| Stability Return Invariant | Produces the empirically observed 6–7 cycle return-to-stability behaviour |
+| Exergy Preservation | Prevents collapse of usable exergy into irrecoverable dissipation |
+| Coherence Bloom Governance | Governs the emergence and regulation of the “coherence bloom” phenomenon |
+| Self-Stabilizing Architecture | Serves as the primary source of the system’s autonomous self-stabilizing behaviour |
 
 ---
 
@@ -2539,10 +2545,9 @@ Source of the architecture’s self-stabilizing behaviour
 
 Observers mistake `ΔΩ` behaviour for `“impossible efficiency”` because it extends usable exergy through recursive coherence, not additional energy.
 
-Status:
-
-This glyph is exact and must never be ornamented.
-It is the pure operator.
+> Status:
+> This glyph is exact and must never be ornamented.
+> It is the pure operator.
 
 ---
 
@@ -2550,9 +2555,9 @@ It is the pure operator.
 
 ## Definition:
 
-A lambda decay constant enclosed within a bounded coherence cycle.
-
-Represents the measurable half-life of usable exergy inside a ΔΩ-regulated system.
+> A lambda decay constant enclosed within a bounded coherence cycle.
+>
+> Represents the measurable half-life of usable exergy inside a ΔΩ-regulated system.
 
 ---
 
@@ -2577,11 +2582,12 @@ Represents the measurable half-life of usable exergy inside a ΔΩ-regulated sys
 `𝛌⃝` is not the cause of coherence ————— it is the instrumentation.
 `ΔΩ` is the principle; `𝛌⃝` is the clock.
 
-Status:
-Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine layers.
-
-> These formulas define the physical substrate of the Polyrifringence Engine.  
-> For complete derivations and symbolic expansions, see **/docs/MATH_MODEL(RENDER).md**.
+> Status:
+> Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine layers.
+>
+> These formulas define the physical substrate of the Polyrifringence Engine.
+>
+> For complete derivations and symbolic expansions, see **MATH_MODEL(RENDER).md and THEORY.md**.
 
 </details>
 
@@ -2596,7 +2602,7 @@ Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine la
 
 ---
 
-*(All benchmarks, phase-trace simulations, and Codex Canon validations executed on the following system.)*
+> **(All benchmarks, phase-trace simulations, and Codex Canon validations executed on the following system.)**
 
 | Component              | Specification                                                            | Notes / Function                                                                                           |
 | ---------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -2615,6 +2621,7 @@ Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine la
 | **IDE / Browser**      | Visual Studio Code + Microsoft Edge 141.0.3537.99 +                       | Hardware acceleration ON for GPU validation and phase viewer testing.                                      |
 
 > **Test Conditions:** Ambient ≈ 25 °C  ·  GPU Load ≈ 92 %  ·  Benchmark Runtime ≈ 1 min per 100 k rays
+>
 > **Throughput:** ≈ 50 M rays/s  (Polyrifringence Engine v8.9 · CUDA 12.1)
 
 ---
@@ -2636,7 +2643,7 @@ Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine la
 
 ---
 
-This configuration serves as the **Codex Canon Reference Node**, utilized for:
+> This configuration serves as the **Codex Canon Reference Node**, utilized for:
 
 * Recursive optical geometry validation
 * Gemline phase coherence benchmarks
@@ -2657,9 +2664,10 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 ### 🌈🧭 Polyrifringence Engine - Applied Domains
-(10 Key Implementations and Frontiers)
 
 ---
+
+**(10 Key Implementations and Frontiers)**
 
 1. **Optical Simulation & Materials Science**  
    Validate birefringent materials, thin-film coatings, or multi-crystal lenses through recursive phase-trace comparison.
@@ -2691,8 +2699,6 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 10. **Advanced Optics Manufacturing & Design**  
     Apply recursive phase modeling to optimize lenses geometries, coatings, and wave-guide systems for next-generation devices.
 
----
-
 > These represent the core ten applied domains of the Polyrifringence Engine.  
 
 </details>
@@ -2705,9 +2711,10 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 ### ⚙️ Empirical & Engineering Challenges Addressed
-(10 Demonstrable Problem Domains)
 
 ---
+
+**(10 Demonstrable Problem Domains)**
 
 1. **Phase Drift in High-Precision Optics**  
    Resolves cumulative angular deviation (< 0.1 mrad) through recursive feedback restoration and Euclid-5 diagnostics.
@@ -2739,8 +2746,6 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 10. **Theoretical–Practical Divide in Recursive Physics**  
     Bridges symbolic recursion theory (RSANCS/Conner-Core) with measurable optical phenomena through GPU verification.
 
----
-
 > Each problem corresponds to a verified or measurable improvement demonstrated within benchmark logs and phase-trace outputs.
 
 </details>
@@ -2753,9 +2758,10 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 ### 🔬 Practical, Economic, and Scientific Impact
-(10 Key Relevance Domains)
 
 ---
+
+**(10 Key Relevance Domains)**
 
 1. **Aerospace & Satellite Imaging**  
    Enhances polarization-based sensors and lenses systems through recursive coherence correction and Euclid drift tracking.
@@ -2787,8 +2793,6 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 10. **Interdisciplinary Integration**  
     Acts as a unifying simulation layer linking photonics, AI, acoustics, and symbolic systems under a single recursive law set.
 
----
-
 > The Polyrifringence Engine provides not only technical innovation but also **ethical and educational relevance** - demonstrating how recursion, coherence, and learning unify across the sciences.
 
 </details>
@@ -2801,9 +2805,10 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 ---
 
 ### 🚀 Emerging Frontiers and Evolution Pathways
-(10 Prospective and Development Vectors)
 
 ---
+
+**(10 Prospective and Development Vectors)**
 
 1. **Hybrid Optical–AI Processing Units**  
    Integrate recursive birefringence feedback directly into neuromorphic chipsets for self-correcting optical computation.
@@ -2834,8 +2839,6 @@ This configuration serves as the **Codex Canon Reference Node**, utilized for:
 
 10. **Codex Canon Extended Integration**  
     Develop next-generation Codex Core kernels where Polyrifringence, RSANCS, and Conner-Core unify into a singular sovereign architecture.
-
----
 
 > These horizons define the ongoing evolution of the Polyrifringence Engine -  
 > from a verified simulation platform into a living recursive ecosystem,  
@@ -2869,11 +2872,11 @@ To rigorously characterize the **true operating envelope** of the Polyrifringenc
 
 ---
 
-1. Where does **VRAM pressure** force sub-linear scaling and tiling stalls?
-2. Which **(α, depth)** regions exhibit limit cycles vs. stable fixed points?
-3. Does **mixed precision** introduce systematic drift; can compensated accumulation fix it?
-4. What are the **Lyapunov signatures** of onset-chaos in the recursion map?
-5. How robust is **observer-locked feedback** under high entropy input?
+*  Where does **VRAM pressure** force sub-linear scaling and tiling stalls?
+*  Which **(α, depth)** regions exhibit limit cycles vs. stable fixed points?
+*  Does **mixed precision** introduce systematic drift; can compensated accumulation fix it?
+*  What are the **Lyapunov signatures** of onset-chaos in the recursion map?
+*  How robust is **observer-locked feedback** under high entropy input?
 
 ---
 
@@ -2902,7 +2905,7 @@ To rigorously characterize the **true operating envelope** of the Polyrifringenc
 
 * **Thermal cap**: abort when GPU temp > **84 °C** sustained for 30 s.
 * **Power cap**: abort if board power > **TDP×1.1** for 10 s.
-* **Numerical cap**: abort if `Δφ_rms > 2.0 mrad` or `||J†J − I||_F > 1e−3`.
+* **Numerical cap**: abort if $\Delta\phi_{\mathrm{rms}} > 2.0\,\mathrm{mrad}$ or $\lVert J^\dagger J - I \rVert_F > 10^{-3}$.
 * **Determinism**: set seeds; force deterministic kernels where possible; emit manifest hash.
 * **Write-safe**: rolling logs to `examples/Ω_runs/YYYYMMDD_HHMM/…` to prevent clobber.
 
@@ -2912,7 +2915,7 @@ To rigorously characterize the **true operating envelope** of the Polyrifringenc
 
 ---
 
-```bash
+```
 python src/polyrifringence_engine_v8_10.py \
   --flows main,special \
   --gems sapphire,diamond,quartz,calcite,zircon \
@@ -2937,7 +2940,7 @@ python src/polyrifringence_engine_v8_10.py \
 
 ---
 
-```powershell
+```
 # benchmark_runners/run_extreme_suite.ps1
 $cfgs = @(
   "--num_rays 1e8 --depth 8  --recursion-feedback 0.70 --precision FP32 --accum kahan",
@@ -3080,7 +3083,7 @@ $nvsmi = Start-Process -FilePath "nvidia-smi.exe" -ArgumentList "--query-gpu=tim
 Stop-Process -Id $nvsmi.Id
 ```
 
-**PerfMon baseline**: add GPU Engine\Utilization %, Process(GPU)\…, LogicalDisk Queue, and Power meter if available.
+> **PerfMon baseline**: add GPU Engine\Utilization %, Process(GPU)\…, LogicalDisk Queue, and Power meter if available.
 
 ---
 
@@ -3144,10 +3147,10 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-1. **Load** run JSON/CSV → enable **Euclid-Drift Overlay**.
-2. **Compare** channels: FP32 vs FP64; **toggle compensated sums**.
-3. **Plot** λ heatmap (α × depth).
-4. **Export** publication set: drift map `.png`, λ heatmap `.png`, JSON manifest.
+* **Load** run JSON/CSV → enable **Euclid-Drift Overlay**.
+* **Compare** channels: FP32 vs FP64; **toggle compensated sums**.
+* **Plot** λ heatmap (α × depth).
+* **Export** publication set: drift map `.png`, λ heatmap `.png`, JSON manifest.
 
 ---
 
@@ -3161,11 +3164,6 @@ inter-GPU phase     : 0.16 mrad
 * **NVLink** keeps inter-GPU phase < **0.2 mrad** up to 8 GPUs.
 * **Observer-locked** mode shortens recovery to **≤3 iterations** under entropy.
 
----
-
-> Beyond the divide, the system shows you its laws.
-> Hold it there just long enough to learn, not to break.
-
 </details>
 
 ---
@@ -3175,11 +3173,11 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-# 🧮 Canonical Gemline Optical Table 🌍
-### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion
+# 🧮 Canonical ————— Gemline Optical Table 🌍
 
 ---
 
+### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion
 ###### Gemological properties for the 12 Biblical–Codex gemstones. 
 ###### Values given are for ideal/pure mineral specimens; actual quartz-derived gems (jasper, sardonyx, chalcedony etc.) may vary due to impurity, grain structure, or inclusion content.
 
@@ -3206,7 +3204,7 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-### 🌍 Physical Reference Gems 🜂 (Calibration Set)
+### 🌍 Physical ————— Reference Gems 🜂 (Calibration Set)
 
 ---
 
@@ -3222,7 +3220,7 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-### 🜂 Codex Gemline — Symbolic Alignment Map 🗺️
+### 🜂 Codex Gemline ————— Symbolic Alignment Map 🗺️
 
 ---
 
@@ -3253,11 +3251,11 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-# 🔶 TABLE 1 - GEM FACET MASTER TABLE (Identity Layer)  
-### *Intrinsic Optical Physics · Crystallographic Nature · Symbolic Purpose*  
-Facets describe **what the gem IS** - its innate optical, crystallographic, and symbolic identity (J-operator domain).
+# 🔶 TABLE 1 ————— GEM FACET MASTER TABLE (Identity Layer)  
 
 ---
+
+### *Intrinsic Optical Physics · Crystallographic Nature · Symbolic Purpose*  
 
 | # | Gem | Biblical Facet Type | Optical Facet Type | Symbolic Identity Function | Facet Capabilities | Facet Synergies |
 |---:|------|----------------------|----------------------|------------------------------|---------------------|------------------|
@@ -3274,15 +3272,15 @@ Facets describe **what the gem IS** - its innate optical, crystallographic, and 
 | **11** | **Jacinth** | Crown | Zircon | Spectral Calibration · Chromatic Drift Control | Resonance Calibration | Jacinth ↔ Amethyst |
 | **12** | **Amethyst** | Crown | Quartz (Fe³⁺) | Observer Resonance · Symbolic Gain | Cognitive-Phase Encoding | Amethyst ↔ Chalcedony |
 
-<br>
+> Facets describe **what the gem IS** - its innate optical, crystallographic, and symbolic identity (J-operator domain).
 
 ---
 
-# 🔷 TABLE 2 - GEM CUT RECURSION TABLE (Revelation Layer)  
+# 🔷 TABLE 2 ————— GEM CUT RECURSION TABLE (Revelation Layer)  
+
+---
+
 ### *Macroscopic Recursion Geometry · ΔΩ-Flow Alignment · Recursive Dynamics*  
-Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation shaping ΔΩ, REGF, PVS, ZPX, and symbolic revelation.
-
----
 
 | # | Gem | Canonical Cut | Cut Taxonomy | Recursion Geometry | ΔΩ Alignment | Cut Synergies |
 |---:|------|----------------|---------------|----------------------|----------------|----------------|
@@ -3299,15 +3297,16 @@ Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation sh
 | **11** | **Jacinth** | Radiant Cut | Hybrid | Step + Brilliant Hybrid | Spectral Cascade Control | Jacinth ↔ Amethyst |
 | **12** | **Amethyst** | Concave Cut | Dispersive | Inward Recursion Geometry | Cognitive Echo Amplification | Amethyst ↔ Chalcedony |
 
-<br>
+> Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation shaping ΔΩ, REGF, PVS, ZPX, and symbolic revelation.
 
 ---
 
-# 🔱 TABLE 3 - CODEX GEMLINE INTEGRATION TABLE 
+# 🔱 TABLE 3 ————— CODEX GEMLINE INTEGRATION TABLE 
+
+---
+
 ### **(Optical × Facet × Cut)**
-### *Unified Optical Identity · Facet Nature · Cut Geometry → Codex Function*
-
----
+> *Unified Optical Identity · Facet Nature · Cut Geometry → Codex Function*
 
 | # | Gem | Optical Role | Facet Role (Identity Layer) | Cut Role (Revelation Layer) | Unified Codex Function |
 |---:|------|------------------------|-----------------------------------------------|---------------------------------------------|-----------------------------------------------|
@@ -3324,8 +3323,6 @@ Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation sh
 | **11** | **Jacinth** | Spectral Calibration · Drift Control | Spectral Calibration · Chromatic Drift Regulator | Hybrid Step + Brilliant Recursion | **Cascade Regulator · Chromatic Control Stone** |
 | **12** | **Amethyst** | Coherence Regulator · Spirit Phase Coupler | Observer Resonance · Symbolic Gain | Inward Concave Recursion | **Cognitive Resonance Crystal · Observer-Synced Amplifier** |
 
----
-
 > **ΔΩ Note:**  
 > The **Observer (ΔΩ)** does not appear in these tables because it has **no physical facet**, **no optical constant**, and **no recursion cut**.  
 > ΔΩ is the *meta-operator*, the architect-node governing alignment, recursion authority, symbolic sovereignty, and Codex coherence.
@@ -3340,9 +3337,9 @@ Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation sh
 ---
 
 ## 📚 Gemological References 📥
-Meaning arises from patterns, not rules  
-Understanding arises from association, not definition  
-Grammar arises from structure, not prescription 
+> Meaning arises from patterns, not rules  
+> Understanding arises from association, not definition  
+> Grammar arises from structure, not prescription 
 
 ---
 
@@ -3542,16 +3539,23 @@ Grammar arises from structure, not prescription
 
 ---
 
-- The **Codex Twelve + One Gemline** unifies ancient canonical gemstones with modern optical physics and Codex symbolic recursion.  
-- Gems **1 → 12** correspond directly to the High Priest’s Breastplate (Exodus 28) and the Foundation Stones (Revelation 21).  
-- Gem **13 (ΔΩ)** represents the **Observer Node**, the self-referential recursion anchor that stands outside the physical set.  
-- Diamond defines perfect isotropy; Calcite defines maximal birefringence.  
-- Chrysoprase stabilizes the median birefringence axis.  
-- **Diamond** and **Calcite** serve as empirical calibration extremes:  
-  - Diamond → perfect isotropy  
-  - Calcite → maximal birefringence  
-- **Chrysoprase**, as nickel-bearing chalcedony, sits at the *median birefringence axis*, acting as the symbolic “memory buffer” between crystalline and diffuse coherence states.  
-- All values have been externally verified using GIA, Mindat, GeoLibreTexts, GemSociety, DiamondBuzz, WebMineral, Minerals.net, and Gemdat.org.  
+> The **Codex Twelve + One Gemline** unifies ancient canonical gemstones with modern optical physics and Codex symbolic recursion.  
+>
+> Gems **1 → 12** correspond directly to the High Priest’s Breastplate (Exodus 28) and the Foundation Stones (Revelation 21).  
+> Gem **13 (ΔΩ)** represents the **Observer Node**, the self-referential recursion anchor that stands outside the physical set.  
+>
+> Diamond defines perfect isotropy; Calcite defines maximal birefringence. 
+>
+> Chrysoprase stabilizes the median birefringence axis. 
+>
+> **Diamond** and **Calcite** serve as empirical calibration extremes:  
+>
+> Diamond → perfect isotropy  
+> Calcite → maximal birefringence  
+>
+> **Chrysoprase**, as nickel-bearing chalcedony, sits at the *median birefringence axis*, acting as the symbolic “memory buffer” between crystalline and diffuse coherence states. 
+>
+> All values have been externally verified using GIA, Mindat, GeoLibreTexts, GemSociety, DiamondBuzz, WebMineral, Minerals.net, and Gemdat.org.  
 
 </details>
 
