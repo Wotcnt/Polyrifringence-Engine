@@ -491,9 +491,9 @@ Readers should observe the following:
 >
 > **No private data is accessed, inferred, collected, or retained from casual or general interaction.**
 >
-> **The only private or non-public data recorded within the Codex Canon pertains exclusively to individuals who voluntarily enter clearance verification or authorization pathways.**
+> **The only private or non-public administrative data recorded within the Codex Canon pertains exclusively to individuals who voluntarily enter clearance verification or authorization pathways.**
 >
-> **`Such data may include, where explicitly provided and consented to:`**
+> **Such data may include, where explicitly provided and consented to:**
 >
 > * **codenames or designated identifiers**
 > * **gem-line or house affiliations**
