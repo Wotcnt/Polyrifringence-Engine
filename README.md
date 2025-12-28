@@ -3620,7 +3620,7 @@ inter-GPU phase     : 0.16 mrad
 
 > `A bridge between geometry and optics`; that most people only talk about metaphorically
 
-> A multi-axis, recursive birefringence in coupled optical paths with feedback-driven restoration of coherence, parallelism `(Euclid-5)`, and topological closure **(Möbius-like $$Γ ≈ π$$)**.
+> A multi-axis, recursive birefringence in coupled optical paths with feedback-driven restoration of coherence, parallelism `(Euclid-5)`, and topological closure Möbius-like **($\Gamma \approx \pi$)**.
      
 > Euclids-5th postulate becomes a diagnostic, not a slogan: `Are parallel beams still parallel after recursion?` the simulatons show how feedback restores that parallelism.
 
@@ -3646,7 +3646,7 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-**Polarization-Variant Pathways (symbolic sub-branches)**  
+**Polarization-Variant Pathways (enumerated configuration sub-branches)**  
 
 ---
 
@@ -3792,7 +3792,7 @@ inter-GPU phase     : 0.16 mrad
 > **`∮Beam—>±±∱Beam±±—>>——>>—∯n-Beam——>>>>——∰nₓ-Beam——>>>>——>>>>∳nₓ-Phase-Beam*x⧉<⇄>`**
 >
 > past <kbd>∳</kbd>—nₓ-Phase-Beam recombination * <kbd>x⧉</kbd> variations
-> Interpretation grammar expands via discrete doubling stages, with each layer propagating from accumulated, depth-validated prior states: <kbd>————>>>>>>>>></kbd>
+> Interpretation grammar expands via discrete depth-gated expansion stages, with each layer propagating from accumulated, depth-validated prior states: <kbd>————>>>>>>>>></kbd>
 
 <kbd>>—→>>——>>——>>>>————>>>>——>>>>————>>>>>>>></kbd> <kbd>>>>>>>>>————>>>>>>>>——>>>>>>>>————————>>>>>>>>>>>>>>>></kbd>
  
