@@ -3598,43 +3598,50 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-# 🜎 Codex Canon Appendix - Drop Down Section 🜎
-<kbd>⌥Conceptual Foundation; An extended overview from the Codex Canon Series ⎇</kbd>
-
 <details>
 <summary><kbd>💿Click to Expand into Codex Canon ⌥Polyrifringence Overview💿</kbd></summary>
 
 ---
 
- #  ⚞Polyrifringence⚟
+# 🜎 Codex Canon Appendix - Drop Down Section 🜎
 
 ---
- 
--     What if light could learn from its own refraction?
-  
-> `Polyrifringence` = Recursive Birefringence + feedback-coherent restoration
 
-> A framework for a GPU-accelerated recursive interferometer matching classical optics to within `<1% residual error`.
+#  ⚞Polyrifringence⚟
+<kbd>⌥Conceptual Foundation; An extended overview from the Codex Canon Series ⎇</kbd>
 
-> Polyrifringence is a recursive optics engine where light learns from its own refraction.
+---
 
-> `A bridge between geometry and optics`; that most people only talk about metaphorically
-
-> A multi-axis, recursive birefringence in coupled optical paths with feedback-driven restoration of coherence, parallelism `(Euclid-5)`, and topological closure Möbius-like **($\Gamma \approx \pi$)**.
-     
-> Euclids-5th postulate becomes a diagnostic, not a slogan: `Are parallel beams still parallel after recursion?` the simulatons show how feedback restores that parallelism.
-
-> `Pancharatnam-Berry phase`, `dispersion`, `birefringence`, `feedback` , and `unitarity` all within one recursive framework
+> **_What if light could condition its own propagation?_**
+>  
+> **`Polyrifringence`** = Recursive birefringence + feedback-coherent restoration under explicit constraints.
+>
+> A framework for a GPU-accelerated recursive interferometer whose behavior matches classical optics to within **`<1% residual error`** under validated operating envelopes.
+>
+> Polyrifringence models light propagation as a **constraint-governed recursive process**, where phase, geometry, and polarization are repeatedly transformed, measured, and corrected rather than assumed static.
+>
+> The system implements **multi-axis recursive birefringence** in coupled optical paths, with feedback-driven restoration of coherence, preservation of parallelism **`(Euclid-5 diagnostic)`**, and closed-loop topological behavior (Möbius-like, **$\Gamma \approx \pi$**).
+>     
+> Euclid’s Fifth Postulate is treated as a **measurable diagnostic**, not a metaphor:  
+> *_Are parallel beams still parallel after recursion?_*  
+> Simulations explicitly track how feedback restores or fails to restore that parallelism under stress.
+>
+> **`Pancharatnam–Berry phase`**, **`dispersion`**, **`birefringence`**, **`feedback`**, and **`approximate unitarity`** are unified within a single recursive, constraint-driven execution framework.
 
 ---
 
 #     <kbd>🌈</kbd>⌥Polyrifringence Engine Flow Chart⎇<kbd>🧲</kbd>
+**This grammar is closed under ΔΩ; invalid configurations do not propagate.**
 
-> **Polarization & Bifurcation Film <kbd>(±)(±)</kbd> (Interchangeablity) Layer**
+> **Polarization & Bifurcation Film Layer <kbd>(±)(±)</kbd>**  
+> Enumerated film-configuration space defining constrained phase-state variation at the focused-beam stage.
 >
-> <kbd>🌈</kbd> **Modular Variation Layer <kbd><strong>↯</strong></kbd> each branch a potential sub-recursion or coupled state** <kbd>🎼</kbd>
+> <kbd>🌈</kbd> **Modular Variation Layer <kbd><strong>↯</strong></kbd>**  
+> Each branch represents a depth-gated, configuration-valid sub-recursion or coupled state, subject to ΔΩ stability enforcement. <kbd>🎼</kbd>
 >
-> Flow chart reflects canonical execution order; no steps are symbolic.
+> **Flow chart reflects canonical execution order and grammar.**  
+> Arrow depth encodes recursion order; film layers encode configuration state.  
+> No steps are illustrative or symbolic.
 
 ---
 
@@ -3660,107 +3667,217 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-**Interpretation Grammar**
+## **Symbolic–Mathematical Interpretation Grammar**
 
 ---
 
-> Arrow depth (<kbd>></kbd>, <kbd>>>——>></kbd>, <kbd>——>>>>——</kbd>, <kbd>——>>>>——>>>></kbd>, <kbd>————>>>>>>>></kbd>) encodes progression from:
+> **Arrow depth**  
+> (<kbd>></kbd>, <kbd>>>——>></kbd>, <kbd>——>>>>——</kbd>, <kbd>——>>>>——>>>></kbd>, <kbd>————>>>>>>>></kbd>)  
+> encodes **recursion depth and execution order**, progressing through:
 >
-> single-beam injection → focused beam → dual-beam split → multi-phase spread → nₓ-phase-field.
+> single-beam injection → focused beam → dual-beam split → multi-phase spread → nₓ-phase-field expansion.
 >
-> Polarity tags:
-> <kbd>(+)/(–)</kbd> denote polarized / bifurcated film states applied at a given stage.
+> **Film polarity tags**  
+> <kbd>(+)</kbd> / <kbd>(–)</kbd> denote polarized versus bifurcated film states applied at a given stage.
 >
-> <kbd>(±)(±)</kbd> denotes the full symmetry family of film pairings in compact form.
+> <kbd>(±)(±)</kbd> denotes the **enumerated symmetry family** of all valid film-pair configurations, expressed in compact form.
 >
-> <kbd>x⧉</kbd> marks:
-> the locus where variation branches can be inserted, **and** multiplicative phase-space expansion under recursive correction.
+> **Variation node**  
+> <kbd>x⧉</kbd> marks both:
+> - the insertion locus for configuration-valid sub-branches, **and**
+> - multiplicative phase-space expansion under recursive correction.
 >
-> <kbd><⇄></kbd> denotes:
-> toggled recombination versus continued recursion, **and** an entry/exit portal for higher-order variation routes or coupled subsystems.
+> **Recombination / recursion toggle**  
+> <kbd><⇄></kbd> denotes controlled recombination versus continued recursion, and functions as an entry/exit portal for higher-order variation routes or coupled subsystems.
+>
+> **Grammar constraint:**  
+> All symbols map to executable states or transitions.  
+> No element is decorative, illustrative, or symbolic-only.
 
 ---
 
-#### Symbol Legend
+#### **Mathematical Symbol & Execution Notation Legend**
 
 ---
 
-> <kbd>∮</kbd>      ———— Single-beam injection loop (primary input path)
+> <kbd>∮</kbd> ———— Single-beam injection loop; primary input and phase initialization state.
 >
-> <kbd>∱</kbd>      ———— Focused-Beam 
+> <kbd>∱</kbd> ———— Focused-beam stage; constrained propagation prior to bifurcation.
 >
-> <kbd>∯</kbd>      ———— Dual-beam | n-beam split manifold 
+> <kbd>∯</kbd> ———— Dual-beam / n-beam split manifold; first-order recursive branching surface.
 >
-> <kbd>∰</kbd>      ———— Multi-phase propagation surface (nₓ-beam spread)  
+> <kbd>∰</kbd> ———— Multi-phase propagation surface; nₓ-beam phase-field expansion domain.
 >
-> <kbd>∳</kbd>      ———— Recombination / collection basin (post-recursion merge)
+> <kbd>∳</kbd> ———— Recombination / collection basin; post-recursion merge and stabilization locus.
 >
-> <kbd>(+)</kbd>    ———— Polarized film state 
+> <kbd>(+)</kbd> ———— Polarized film state applied at a given recursion stage.
 >
-> <kbd>(–)</kbd>    ———— Bifurcated film state  
+> <kbd>(–)</kbd> ———— Bifurcated film state applied at a given recursion stage.
 >
-> <kbd>(±)(±)</kbd> ———— Compact notation for all four film-pair symmetry combinations  
+> <kbd>(±)(±)</kbd> ———— Compact notation representing the **enumerated symmetry family** of all valid film-pair configurations.
 >
-> <kbd>x⧉</kbd>     ———— Variation node and phase-space multiplier under recursion  
+> <kbd>x⧉</kbd> ———— Variation node and multiplicative phase-space expansion locus under recursion.
 >
-> <kbd><⇄></kbd>    ———— Recombination toggle, recursion gateway, and variation entry point
+> <kbd><⇄></kbd> ———— Controlled recombination toggle and recursion gateway; entry/exit point for higher-order variation routes or coupled subsystems.
 >
-> <kbd>></kbd>      ———— Single Recursion step  
+> <kbd>></kbd> ———— Single recursion step; minimal depth increment.
 > 
-> <kbd>>>——>></kbd> ———— Dual Stage Focused-beam
+> <kbd>>>——>></kbd> ———— Dual-stage focused-beam propagation; early depth amplification.
 >
-> <kbd>——>>>>——</kbd>     ———— Dual Stage Focused-beam  
+> <kbd>——>>>>——</kbd> ———— Dual-stage beam expansion; validated recursive depth increase.
 >
-> <kbd>——>>>>——>>>></kbd>   ———— nₓDepth propagation / phase-stack amplification
+> <kbd>——>>>>——>>>></kbd> ———— nₓ-depth propagation and phase-stack amplification.
 >
-> <kbd>————>>>>>>>></kbd>  ———— Exceeding past depth - nₓcascade stack propagation amplification
+> <kbd>————>>>>>>>></kbd> ———— Exceeding validated depth; nₓ-cascade stack propagation amplification under strict ΔΩ enforcement.
 
 ---
 
-#### Beam–Film–Gem Ordering Map
+#### **Stage-Local Beam–Film–Gem Execution Map** *(enumerated execution configurations)*
 
 ---
->     ∮1—Beam > ±∱Focused-Beam± >>——>> ∯Dual-Split-Beam ——>>>>—— ∰Multi-Phase-Split-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ Recombination <⇄> (Optional*)
->     ∮1—Beam > (+)(-)∱Beam(+)(-) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
->     ∮1—Beam > (+)(+)∱Beam(+)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
->     ∮1—Beam > (−)(−)∱Beam(−)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
->     ∮1—Beam > (+)(−)∱Beam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
->     ∮1—Beam > (+)(−)∱Beam(−)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
->     ∮1—Beam > (−)(+)∱Beam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
->     ∮1—Beam > (−)(+)∱Beam(−)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
->     ∮1—Beam > (+)(−)∱Beam(−)(+) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
->     ∮1—Beam > (+)(−)∱Beam(+)(−) >>——>> ∯n-Beam ——>>>>—— ∰nₓ-Beam ——>>>>——>>>> ∳nₓ-Phase-Beam × x⧉ <⇄> Variation
----
-**Main (canonical ordering)** 
----
->     Light → (+) Polarized Film → (–) Bifurcated Film → Anisotropic Gem  
->     Light → (+) Polarized Film → (–) Bifurcated Film → Isotropic Gem  
----
-**Variation #1 (films swapped)**  
----
->     Light → (–) Bifurcated Film → (+) Polarized Film → Anisotropic Gem  
->     Light → (–) Bifurcated Film → (+) Polarized Film → Isotropic Gem  
----
-**Variation #2 (asymmetric pairing A)**  
----
->     Light → (–) Bifurcated Film → (+) Polarized Film → Anisotropic Gem  
->     Light → (+) Polarized Film → (–) Bifurcated Film → Isotropic Gem  
----
-**Variation #3 (asymmetric pairing B)** 
----
->     Light → (+) Polarized Film → (–) Bifurcated Film → Anisotropic Gem  
->     Light → (–) Bifurcated Film → (+) Polarized Film → Isotropic Gem  
+
+> <kbd>∮1</kbd>—<kbd>Beam</kbd> <kbd>></kbd> <kbd>±</kbd><kbd>∱</kbd><kbd>Focused-Beam</kbd><kbd>±</kbd> <kbd>>>——>></kbd> <kbd>∯</kbd><kbd>Dual-Split-Beam</kbd> <kbd>————>>>>——</kbd> <kbd>∰</kbd><kbd>Multi-Phase-Split-Beam</kbd> <kbd>————>>>>——>>>> </kbd> <kbd>∳</kbd><kbd>nₓ-Phase-Beam</kbd> × <kbd>x⧉</kbd> <kbd>Recombination</kbd> <kbd><⇄></kbd> <kbd>(optional)</kbd>
+>
+> <kbd>∮1</kbd>—<kbd>Beam</kbd> <kbd>></kbd> <kbd>(+)(−)</kbd><kbd>∱</kbd><kbd>Beam</kbd><kbd>(+)(−)</kbd> <kbd>>>——>></kbd> <kbd>∯</kbd><kbd>n-Beam</kbd> <kbd>————>>>>——</kbd> <kbd>∰</kbd><kbd>nₓ-Beam</kbd> <kbd>————>>>>——>>>> </kbd> <kbd>∳</kbd><kbd>nₓ-Phase-Beam</kbd> × <kbd>x⧉</kbd> <kbd><⇄></kbd> <kbd>variation</kbd>
+>
+> <kbd>∮1</kbd>—<kbd>Beam</kbd> <kbd>></kbd> <kbd>(+)(+)</kbd><kbd>∱</kbd><kbd>Beam</kbd><kbd>(+)(+)</kbd> <kbd>>>——>></kbd> <kbd>∯</kbd><kbd>n-Beam</kbd> <kbd>————>>>>——</kbd> <kbd>∰</kbd><kbd>nₓ-Beam</kbd> <kbd>————>>>>——>>>> </kbd> <kbd>∳</kbd><kbd>nₓ-Phase-Beam</kbd> × <kbd>x⧉</kbd> <kbd><⇄></kbd> <kbd>variation</kbd>
+>
+> <kbd>∮1</kbd>—<kbd>Beam</kbd> <kbd>></kbd> <kbd>(−)(−)</kbd><kbd>∱</kbd><kbd>Beam</kbd><kbd>(−)(−)</kbd> <kbd>>>——>></kbd> <kbd>∯</kbd><kbd>n-Beam</kbd> <kbd>————>>>>——</kbd> <kbd>∰</kbd><kbd>nₓ-Beam</kbd> <kbd>————>>>>——>>>> </kbd> <kbd>∳</kbd><kbd>nₓ-Phase-Beam</kbd> × <kbd>x⧉</kbd> <kbd><⇄></kbd> <kbd>variation</kbd>
+
 ---
 
-> Anisotropic gems = `birefringent` (e.g. <kbd>💎—Sapphire</kbd>, <kbd>💎—Calcite</kbd>)
+## **Film–Gem Interaction Canon (Stage-Invariant, Entry/Gem/Exit)**
+
+This section enumerates the **canonical film-wrapping configurations** applied at any execution stage  
+(<kbd>∮</kbd>, <kbd>∱</kbd>, <kbd>∯</kbd>, <kbd>∰</kbd>, <kbd>∳</kbd>, <kbd>x⧉</kbd>).  
+Each configuration conditions phase-state on **entry and exit** of the same stage without increasing recursion depth.
+
+---
+
+### **Single-Wrapped Film — Canonical & Variations**
+
+#### **Canonical Film–Gem Ordering (Single-Wrapped)**
+
+| Path | Entry Film | Gem Type | Exit Film |
+| ---- | ---------- | -------- | --------- |
+| 1 | <kbd>(+)</kbd> <kbd>Polarized-Film</kbd> | <kbd>Anisotropic-Gem</kbd> | <kbd>(−)</kbd> <kbd>Bifurcated-Film</kbd> |
+| 2 | <kbd>(+)</kbd> <kbd>Polarized-Film</kbd> | <kbd>Isotropic-Gem</kbd> | <kbd>(−)</kbd> <kbd>Bifurcated-Film</kbd> |
+
+---
+
+#### **Variation #1 — Films Swapped**
+
+| Path | Entry Film | Gem Type | Exit Film |
+| ---- | ---------- | -------- | --------- |
+| 1 | <kbd>(−)</kbd> <kbd>Bifurcated-Film</kbd> | <kbd>Anisotropic-Gem</kbd> | <kbd>(+)</kbd> <kbd>Polarized-Film</kbd> |
+| 2 | <kbd>(−)</kbd> <kbd>Bifurcated-Film</kbd> | <kbd>Isotropic-Gem</kbd> | <kbd>(+)</kbd> <kbd>Polarized-Film</kbd> |
+
+---
+
+#### **Variation #2 — Asymmetric Pairing A**
+
+| Path | Entry Film | Gem Type | Exit Film |
+| ---- | ---------- | -------- | --------- |
+| 1 | <kbd>(−)</kbd> <kbd>Bifurcated-Film</kbd> | <kbd>Anisotropic-Gem</kbd> | <kbd>(+)</kbd> <kbd>Polarized-Film</kbd> |
+| 2 | <kbd>(+)</kbd> <kbd>Polarized-Film</kbd> | <kbd>Isotropic-Gem</kbd> | <kbd>(−)</kbd> <kbd>Bifurcated-Film</kbd> |
+
+---
+
+#### **Variation #3 — Asymmetric Pairing B**
+
+| Path | Entry Film | Gem Type | Exit Film |
+| ---- | ---------- | -------- | --------- |
+| 1 | <kbd>(+)</kbd> <kbd>Polarized-Film</kbd> | <kbd>Anisotropic-Gem</kbd> | <kbd>(−)</kbd> <kbd>Bifurcated-Film</kbd> |
+| 2 | <kbd>(−)</kbd> <kbd>Bifurcated-Film</kbd> | <kbd>Isotropic-Gem</kbd> | <kbd>(+)</kbd> <kbd>Polarized-Film</kbd> |
+
+---
+
+### **Double-Wrapped Film — Canonical & Variations**  
+*(Entry- and exit-side wrapping at the same execution stage)*
+
+#### **Canonical Film–Gem Ordering (Double-Wrapped)**
+
+| Path | Entry Film Stack | Gem Type | Exit Film Stack |
+| ---- | ---------------- | -------- | ---------------- |
+| 1 | <kbd>(+)(−)</kbd> | <kbd>Anisotropic-Gem</kbd> | <kbd>(+)(−)</kbd> |
+| 2 | <kbd>(+)(−)</kbd> | <kbd>Isotropic-Gem</kbd> | <kbd>(+)(−)</kbd> |
+
+---
+
+#### **Variation #1 — Double-Wrapped, Order Preserved**
+
+| Path | Entry Film Stack | Gem Type | Exit Film Stack |
+| ---- | ---------------- | -------- | ---------------- |
+| 1 | <kbd>(+)(+)</kbd> | <kbd>Anisotropic-Gem</kbd> | <kbd>(+)(+)</kbd> |
+| 2 | <kbd>(−)(−)</kbd> | <kbd>Isotropic-Gem</kbd> | <kbd>(−)(−)</kbd> |
+
+---
+
+#### **Variation #2 — Double-Wrapped, Asymmetric A**
+
+| Path | Entry Film Stack | Gem Type | Exit Film Stack |
+| ---- | ---------------- | -------- | ---------------- |
+| 1 | <kbd>(−)(+)</kbd> | <kbd>Anisotropic-Gem</kbd> | <kbd>(+)(−)</kbd> |
+| 2 | <kbd>(+)(−)</kbd> | <kbd>Isotropic-Gem</kbd> | <kbd>(−)(+)</kbd> |
+
+---
+
+#### **Variation #3 — Double-Wrapped, Asymmetric B**
+
+| Path | Entry Film Stack | Gem Type | Exit Film Stack |
+| ---- | ---------------- | -------- | ---------------- |
+| 1 | <kbd>(+)(−)</kbd> | <kbd>Anisotropic-Gem</kbd> | <kbd>(−)(+)</kbd> |
+| 2 | <kbd>(−)(+)</kbd> | <kbd>Isotropic-Gem</kbd> | <kbd>(+)(−)</kbd> |
+
+---
+
+> **Stage-local applicability:** 
 >
->Used to stress `recursive phase evolution`, `angular walkoff`, and `feedback-correction behaviour`. 
+> The entry / interaction / exit film-wrapping patterns defined above apply **independently at every execution stage**  
+> (<kbd>∮</kbd>, <kbd>∱</kbd>, <kbd>∯</kbd>, <kbd>∰</kbd>, <kbd>∳</kbd>, <kbd>x⧉</kbd>).  
 >
-> Isotropic gems = `baselines` (e.g. <kbd>💎—Diamond</kbd>)
+> At each stage, phase-state is conditioned by:
+> <kbd>entry-side film stack</kbd> → <kbd>stage operator</kbd> → <kbd>exit-side film stack</kbd>.  
 >
->Used to confirm that the recursion engine introduces no artificial birefringence when `Δn → 0`.
+> Film wrapping expands **configuration dimensionality** at a fixed recursion depth; arrow depth continues to encode recursion order only.  
+> Accumulated phase-state is propagated forward and validated under <kbd>ΔΩ</kbd> stability enforcement at every stage.
 >
-> These orderings define the <kbd>(+)|(–)/(±)</kbd> | <kbd>(±)(±)</kbd> film layout that the modular variation layer and <kbd>x⧉</kbd> recursion grammar build on.  <kbd>💎—Diamond</kbd>
+> **Canonical pipeline schema:**  
+>  
+> <kbd>(films)</kbd> → <kbd>∮</kbd> → <kbd>(films)</kbd> →  
+> <kbd>(films)</kbd> → <kbd>∱</kbd> → <kbd>(films)</kbd> →  
+> <kbd>(films)</kbd> → <kbd>∯</kbd> → <kbd>(films)</kbd> →  
+> <kbd>(films)</kbd> → <kbd>∰</kbd> → <kbd>(films)</kbd> →  
+> <kbd>(films)</kbd> → <kbd>∳</kbd> → <kbd>(films)</kbd> →  
+> <kbd>(films)</kbd> → <kbd>x⧉</kbd> → …
+>
+> **Implication:**  
+>
+> Because film-conditioned state expansion occurs at every stage, the execution grammar evolves from binary transitions into multi-bit, post-binary phase encodings distributed across the recursion pipeline, without invoking non-classical physics.
+
+---
+
+> **Anisotropic gems** = <kbd>birefringent</kbd> substrates  
+> (e.g. <kbd>💎—Sapphire</kbd>, <kbd>💎—Calcite</kbd>)  
+>  
+> Used to stress <kbd>recursive-phase-evolution</kbd>, <kbd>angular-walkoff</kbd>, and  
+> <kbd>feedback-correction</kbd> behaviour under both <kbd>single-wrapped</kbd> and  
+> <kbd>double-wrapped</kbd> film configurations across all execution stages.
+>
+> **Isotropic gems** = <kbd>baseline-reference</kbd> substrates  
+> (e.g. <kbd>💎—Diamond</kbd>)  
+>  
+> Used to verify that the recursion pipeline introduces **no artificial birefringence**  
+> as <kbd>Δn → 0</kbd>, and that phase-state expansion arises solely from  
+> film conditioning and recursive structure, not material anisotropy.
+>
+> These enumerated orderings define the **complete, valid film–gem configuration space**  
+> for <kbd>(+)</kbd>, <kbd>(−)</kbd>, and <kbd>(±)(±)</kbd> film layouts applied at **every stage**  
+> (<kbd>∮</kbd>, <kbd>∱</kbd>, <kbd>∯</kbd>, <kbd>∰</kbd>, <kbd>∳</kbd>, <kbd>x⧉</kbd>).  
+>  
+> Within this space, the <kbd>Modular-Variation-Layer</kbd> and <kbd>x⧉</kbd> recursion grammar  
+> operate by expanding **configuration dimensionality** while arrow depth continues to  
+> encode recursion order only, with accumulated phase-state validated under <kbd>ΔΩ</kbd>.
 
 ---
 
@@ -3787,14 +3904,24 @@ inter-GPU phase     : 0.16 mrad
 >
 ><kbd>🌈</kbd> Each branch below represents a potential sub-recursion or coupled state acting on the <kbd>∳</kbd>`nₓ-Phase-Beam` <kbd>x⧉</kbd>.
 
-## **Template Path**
+## **Template Path** *(updated, scope-complete)*
 
 > **`∮Beam—>±±∱Beam±±—>>——>>—∯n-Beam——>>>>——∰nₓ-Beam——>>>>——>>>>∳nₓ-Phase-Beam*x⧉<⇄>`**
 >
 > past <kbd>∳</kbd>—nₓ-Phase-Beam recombination * <kbd>x⧉</kbd> variations
-> Interpretation grammar expands via discrete depth-gated expansion stages, with each layer propagating from accumulated, depth-validated prior states: <kbd>————>>>>>>>>></kbd>
 
-<kbd>>—→>>——>>——>>>>————>>>>——>>>>————>>>>>>>></kbd> <kbd>>>>>>>>>————>>>>>>>>——>>>>>>>>————————>>>>>>>>>>>>>>>></kbd>
+> **`Interpretation grammar advances through discrete, depth-gated expansion stages`**  
+> Arrow depth encodes recursion order, while film-layer configuration (<kbd>(±)(±)</kbd>) expands the **`per-layer state capacity`**.  
+> The grammar therefore evolves from a **`binary progression`** (arrow depth alone) into **`multi-bit execution states`** (film-conditioned quaternary and higher-order encodings), with each layer propagated strictly from accumulated, depth-validated prior states and collapsed under ΔΩ if unstable: <kbd>————>>>>>>>>></kbd>
+>
+> <kbd>>—→>>——>>——>>>>————>>>>——>>>>————>>>>>>>></kbd><kbd>>>>>>>>>————>>>>>>>>——>>>>>>>>————————>>>>>>>>>>>>>>>></kbd>
+>
+> **Author Note:**  
+> The execution grammar described above yields a *`quasi-optical, classical post-binary encoding regime`*.  
+> Information is not represented as discrete bits, but as constrained phase-configuration states whose dimensionality grows with recursion depth and film-layer configuration. 
+>  
+> This is **`not quantum cryptography`** *_and introduces no observed non-classical physics, probabilistic collapse, or entanglement._*  
+> The **`post-binary`** character arises from structured phase-space encoding and reversible interference patterns, which later support the **`Encryption / Decryption`** operator as a symbolic, interference-based information storage and recovery mechanism.
  
 ---
 
