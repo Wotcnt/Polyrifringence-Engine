@@ -3583,7 +3583,7 @@ inter-GPU phase     : 0.16 mrad
 
 > `A bridge between geometry and optics`; that most people only talk about metaphorically
 
-> A multi-axis, recursive birefringence in coupled optical paths with feedback-driven restoration of coherence, parallelism `(Euclid-5)`, and topological closure `(Möbius-like Γ ≈ π)`.
+> A multi-axis, recursive birefringence in coupled optical paths with feedback-driven restoration of coherence, parallelism `(Euclid-5)`, and topological closure **(Möbius-like $$Γ ≈ π$$)**.
      
 > Euclids-5th postulate becomes a diagnostic, not a slogan: `Are parallel beams still parallel after recursion?` the simulatons show how feedback restores that parallelism.
 
@@ -3596,14 +3596,16 @@ inter-GPU phase     : 0.16 mrad
 > **Polarization & Bifurcation Film <kbd>(±)(±)</kbd> (Interchangeablity) Layer**
 >
 > <kbd>🌈</kbd> **Modular Variation Layer <kbd><strong>↯</strong></kbd> each branch a potential sub-recursion or coupled state** <kbd>🎼</kbd>
- 
+>
+> Flow chart reflects canonical execution order; no steps are symbolic.
+
 ---
 
 **Primary Beam Expansion Chain**
 
 ---
 
-> <kbd>∮</kbd>—Beam <kbd>></kbd> <kbd>(±)(±)</kbd>—<kbd>∱</kbd>—Focused-Beam—<kbd>(±)(±)</kbd> <kbd>>——>></kbd> <kbd>∯</kbd>—Dual-Beam <kbd>——>>>>——</kbd> <kbd>∰</kbd>—Multi-Phase <kbd>——>>>>——>>>></kbd> <kbd>∳</kbd>—nₓ-Phase-Beam <kbd>x⧉</kbd> Recombination <kbd><⇄></kbd> <kbd>————>>>>>>>></kbd> `(optional *x⧉ variations)`
+> <kbd>∮</kbd>—Beam <kbd>></kbd> <kbd>(±)(±)</kbd>—<kbd>∱</kbd>—Focused-Beam—<kbd>(±)(±)</kbd> <kbd>>>——>></kbd> <kbd>∯</kbd>—Dual-Beam <kbd>——>>>>——</kbd> <kbd>∰</kbd>—Multi-Phase <kbd>——>>>>——>>>></kbd> <kbd>∳</kbd>—nₓ-Phase-Beam <kbd>x⧉</kbd> Recombination <kbd><⇄></kbd> <kbd>————>>>>>>>></kbd> (optional <kbd>x⧉</kbd> variations)
 
 ---
 
@@ -3613,11 +3615,11 @@ inter-GPU phase     : 0.16 mrad
 
 > Each variant represents a distinct <kbd>(±)(±)</kbd> film configuration at the focused-beam stage, generating unique recursive phase paths:
 
-> <kbd>∮</kbd>—Beam <kbd>></kbd> <kbd>(±)(±)</kbd><kbd>∱</kbd>—Beam<kbd>(±)(±)</kbd> <kbd>>——>></kbd> <kbd>∯</kbd>—n-Beam <kbd>——>>>>——</kbd> <kbd>∰</kbd>—nₓ-Beam <kbd>——>>>>——>>>></kbd> <kbd>∳</kbd>—nₓ-Phase-Beam × <kbd>x⧉</kbd> <kbd><⇄></kbd>
+> <kbd>∮</kbd>—Beam <kbd>></kbd> <kbd>(±)(±)</kbd><kbd>∱</kbd>—Beam<kbd>(±)(±)</kbd> <kbd>>>——>></kbd> <kbd>∯</kbd>—n-Beam <kbd>——>>>>——</kbd> <kbd>∰</kbd>—nₓ-Beam <kbd>——>>>>——>>>></kbd> <kbd>∳</kbd>—nₓ-Phase-Beam × <kbd>x⧉</kbd> <kbd><⇄></kbd>
  
-> <kbd>∮</kbd>—Beam <kbd>></kbd> (+)(*±*)(-)<kbd>∱</kbd>—Beam(-)(*±*)(+) <kbd>>——>></kbd> <kbd>∯</kbd>—n-Beam <kbd>——>>>>——</kbd> <kbd>∰</kbd>—nₓ-Beam <kbd>——>>>>——>>>></kbd> <kbd>∳</kbd>—nₓ-Phase-Beam × <kbd>x⧉</kbd> <kbd><⇄></kbd> 
+> <kbd>∮</kbd>—Beam <kbd>></kbd> <kbd>(+)(*±*)(-)</kbd><kbd>∱</kbd>—Beam<kbd>(-)(*±*)(+)</kbd> <kbd>>>——>></kbd> <kbd>∯</kbd>—n-Beam <kbd>——>>>>——</kbd> <kbd>∰</kbd>—nₓ-Beam <kbd>——>>>>——>>>></kbd> <kbd>∳</kbd>—nₓ-Phase-Beam × <kbd>x⧉</kbd> <kbd><⇄></kbd> 
 
-> **(compact form representing all Interchangeable `(+/+)`, `(+/–)`, `(–/+)`, `(–/–)`, = <kbd>(±)(±)</kbd> (symmetry-pairs)**
+> **(compact form representing all Interchangeable <kbd>(+/+)</kbd>, <kbd>(+/–)</kbd>, <kbd>(–/+)</kbd>, <kbd>(–/–)</kbd>, = <kbd>(±)(±)</kbd> (symmetry-pairs)** 
 
 ---
 
@@ -3625,7 +3627,9 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-> Arrow depth (<kbd>></kbd>, <kbd>>——>></kbd>, <kbd>——>>>>——</kbd>, <kbd>——>>>>——>>>></kbd>, <kbd>————>>>>>>>></kbd>) encodes progression from: - single-beam injection → focused beam → dual-beam split → multi-phase spread → nₓ-phase-field.
+> Arrow depth (<kbd>></kbd>, <kbd>>>——>></kbd>, <kbd>——>>>>——</kbd>, <kbd>——>>>>——>>>></kbd>, <kbd>————>>>>>>>></kbd>) encodes progression from:
+>
+> single-beam injection → focused beam → dual-beam split → multi-phase spread → nₓ-phase-field.
 >
 > Polarity tags:
 > <kbd>(+)/(–)</kbd> denote polarized / bifurcated film states applied at a given stage.
@@ -3666,7 +3670,7 @@ inter-GPU phase     : 0.16 mrad
 >
 > <kbd>></kbd>      ———— Single Recursion step  
 > 
-> <kbd>>——>></kbd> ———— Dual Stage Focused-beam
+> <kbd>>>——>></kbd> ———— Dual Stage Focused-beam
 >
 > <kbd>——>>>>——</kbd>     ———— Dual Stage Focused-beam  
 >
@@ -3711,10 +3715,15 @@ inter-GPU phase     : 0.16 mrad
 >     Light → (–) Bifurcated Film → (+) Polarized Film → Isotropic Gem  
 ---
 
-> Anisotropic gems = birefringent (e.g. `sapphire`, `calcite`), Used to stress recursive phase evolution, angular walkoff, and feedback-correction behaviour. 
-> Isotropic gems = baselines (e.g. `diamond`), Used to confirm that the recursion engine introduces no artificial birefringence when `Δn → 0`.
+> Anisotropic gems = `birefringent` (e.g. <kbd>💎—Sapphire</kbd>, <kbd>💎—Calcite</kbd>)
 >
-> These orderings define the `(+)|(–)/(±)` | <kbd>(±)(±)</kbd> film layout that the modular variation layer and <kbd>x⧉</kbd> recursion grammar build on.
+>Used to stress `recursive phase evolution`, `angular walkoff`, and `feedback-correction behaviour`. 
+>
+> Isotropic gems = `baselines` (e.g. <kbd>💎—Diamond</kbd>)
+>
+>Used to confirm that the recursion engine introduces no artificial birefringence when `Δn → 0`.
+>
+> These orderings define the <kbd>(+)|(–)/(±)</kbd> | <kbd>(±)(±)</kbd> film layout that the modular variation layer and <kbd>x⧉</kbd> recursion grammar build on.  <kbd>💎—Diamond</kbd>
 
 ---
 
@@ -3739,22 +3748,22 @@ inter-GPU phase     : 0.16 mrad
 >
 > They represent possible transformation classes, not claims of simultaneous implementation, physical realization, or standalone devices.
 >
-><kbd>🌈</kbd> Each branch below represents a potential sub-recursion or coupled state acting on the `∳nₓ-Phase-Beam`.
-
----
+><kbd>🌈</kbd> Each branch below represents a potential sub-recursion or coupled state acting on the <kbd>∳</kbd>`nₓ-Phase-Beam` <kbd>x⧉</kbd>.
 
 ## **Template Path**
 
 > **`∮Beam—>±±∱Beam±±—>>——>>—∯n-Beam——>>>>——∰nₓ-Beam——>>>>——>>>>∳nₓ-Phase-Beam*x⧉<⇄>`**
 >
-> past ∳nₓ-Phase-Beam recombination * <kbd>x⧉</kbd> variations
-> interpretation grammar: <kbd>————>>>>>>>></kbd>
+> past <kbd>∳</kbd>—nₓ-Phase-Beam recombination * <kbd>x⧉</kbd> variations
+> Interpretation grammar expands via discrete doubling stages, with each layer propagating from accumulated, depth-validated prior states: <kbd>————>>>>>>>>></kbd>
+
+<kbd>>—→>>——>>——>>>>————>>>>——>>>>————>>>>>>>></kbd> <kbd>>>>>>>>>————>>>>>>>>——>>>>>>>>————————>>>>>>>>>>>>>>>></kbd>
  
 ---
 
 ## **Base recursion chain**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ →`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ →`
 >
 > *Sequential beam bifurcation and phase-state expansion; establishes the primary recursive stack.*
 
@@ -3762,7 +3771,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Recombination (optional)**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Combine/Recombine<⇄>`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Combine/Recombine<⇄>`
 >
 >  *Convergent phase summation; restores coherence after divergence cycles or branch explorations.*
 
@@ -3770,7 +3779,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Refraction / Diffraction**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Refraction / Diffraction`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Refraction / Diffraction`
 >
 >  *Angular dispersion, spectral unfolding, and path separation.*
 
@@ -3778,7 +3787,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Coupling / Decoupling / Recoupling**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Coupling / Decoupling / Recoupling`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Coupling / Decoupling / Recoupling`
 >
 >  *Field-interaction control: binds, isolates, or re-binds sub-beams within the recursion.*
 
@@ -3786,7 +3795,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Stitching**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Stitching`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Stitching`
 >
 > *Phase-aligned reintegration of subdivided wavefronts; restores topology after splitting.*
 
@@ -3794,7 +3803,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Transmission / Emission**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Transmission / Emission`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Transmission / Emission`
 >
 >  *Energy propagation outward or into adjacent media; the export boundary of the recursion.*
 
@@ -3802,7 +3811,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Encryption / Decryption**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Encryption / Decryption`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Encryption / Decryption`
 >
 >  *Symbolic encoding of phase information; reversible information storage within interference.*
 
@@ -3810,7 +3819,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Hybridization / High-Order Hybrid / Meta-Hybrid**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Hybridization / High-Order Hybrid / Meta-Hybrid`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Hybridization / High-Order Hybrid / Meta-Hybrid`
 >
 >  *Cross-domain synthesis; merges optical behaviour with other modeled channels or symbolic streams.*
 
@@ -3818,7 +3827,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Sonic-Wavelength Ablation (Audio–Acoustic Coupling)**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Sonic-Wavelength Ablation`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Sonic-Wavelength Ablation`
 >
 > *Conceptual light–sound resonance interface; acoustic harmonics interacting with recursive optical fields.*
 
@@ -3826,7 +3835,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Cavitation (Compression / Expansion)**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Cavitation (Compression / Expansion)`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Cavitation (Compression / Expansion)`
 >
 > *Symbolic density-modulation operator; compression–rarefaction dynamics in the recursion lattice.*
 
@@ -3834,7 +3843,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **(TCP) Thermal Cavitic Plasma Amplification**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → (TCP) Thermal Cavitic Plasma Amplification`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → (TCP) Thermal Cavitic Plasma Amplification`
 >
 >  *Thermal and plasma-like amplification attached to cavitation collapse motifs.*
 
@@ -3842,7 +3851,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Lattice Weave / Spiral**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Lattice Weave / Spiral`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Lattice Weave / Spiral`
 >
 >  *Spatial phase weaving; emergent lattice symmetries and helical motifs in the phase-trace.*
 
@@ -3850,7 +3859,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Reconstruction / Deconstruction**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Reconstruction / Deconstruction`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Reconstruction / Deconstruction`
 >
 >  *Recursive teardown and rebuild of coherent geometry; structural introspection of the field.*
 
@@ -3858,7 +3867,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Folding / Unfolding**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Folding / Unfolding`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Folding / Unfolding`
 >
 > *Topological inversion; maps higher-order symmetries into lower-dimensional projections and back.*
 
@@ -3866,7 +3875,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Resonance Cascade Amplification**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Resonance Cascade Amplification`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Resonance Cascade Amplification`
 >
 >  *Harmonic multi-tier resonance amplification under recursive alignment.*
 
@@ -3874,7 +3883,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Holographic Euclid Geometry (Postulate 5)**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Holographic Euclid Geometry (Postulate 5)`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Holographic Euclid Geometry (Postulate 5)`
 >
 >  *Phase convergence into Euclid-5 parallelism diagnostics; closes the geometric-consistency loop.*
 
@@ -3882,7 +3891,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Rerouting**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Rerouting`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Rerouting`
 >
 >  *Adaptive path redirection under feedback; recursive error-correction at the routing level.*
 
@@ -3890,7 +3899,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Triangulation**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Triangulation`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Triangulation`
 >
 >  *Multi-vector coherence measurement; establishes spatial reference frames.*
 
@@ -3898,7 +3907,7 @@ inter-GPU phase     : 0.16 mrad
 
 ## **Tethering**
 
-> `> ——>>>> ∳nₓ-Phase-Beam *x⧉ → Tethering`
+> `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Tethering`
 >
 >  *Phase anchoring between observer node and recursive field; stabilizes long-run drift.*
 
