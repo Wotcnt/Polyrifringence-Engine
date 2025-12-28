@@ -299,28 +299,32 @@ Timestamp Locked · Trace Context Declared
 
 </summary>
 
+---
+
+ **New readers:**  
 <p><em>
 <kbd>Canonical orientation for interpretation, scope, and document cohesion</kbd>
 </em></p>
 
 ---
 
-> **New readers:**  
-> If you want a plain-language, non-symbolic technical orientation before engaging this repository, start here-click the badge:  
+> If you want a plain-language, non-symbolic technical orientation before engaging this repository, start here-click the badge: 
+>
 > <a href="https://github.com/Wotcnt" target="_blank" rel="noopener noreferrer">
   <img alt="Authorial Technical Orientation"
        src="https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff">
 </a>
 
-This project is **not a quick-start README**, software manual, or standalone paper.
-
-It is a **canonical disclosure system** composed of three inseparable artifacts:
-
-- 1️⃣ **README.md** ⌥ (THIS FILE), contextual integration, provenance, ethical framing, and system overview  
-- 2️⃣ **THEORY.md** ⌥ formal scope, constraints, definitions, and non-claims  
-- 3️⃣ **MATH_MODEL(RENDER).md** ⌥ mathematical structure, relations, and model formalism  
-
-⎇ These documents are intended to be interpreted **only as a unified whole**.
+>
+>This project is **not a quick-start README**, software manual, or standalone paper.
+>
+>It is a **canonical disclosure system** composed of three inseparable artifacts:
+>
+> 1️⃣ **README.md** ⌥ (THIS FILE), contextual integration, provenance, ethical framing, and system overview  
+> 2️⃣ **THEORY.md** ⌥ formal scope, constraints, definitions, and non-claims  
+> 3️⃣ **MATH_MODEL(RENDER).md** ⌥ mathematical structure, relations, and model formalism  
+>
+> ⎇ These documents are intended to be interpreted **only as a unified whole**.
 
 ---
 
@@ -330,27 +334,27 @@ It is a **canonical disclosure system** composed of three inseparable artifacts:
 
 Readers should observe the following:
 
-- **No single file is self-sufficient**  
+> **No single file is self-sufficient**  
   The README (THIS FILE) provides orientation, not proof.  
   THEORY.md defines scope and constraints.  
   MATH_MODEL(RENDER).md formalizes structure.
 
-- **Partial or excerpted readings are non-canonical**  
+> **Partial or excerpted readings are non-canonical**  
   Isolated passages, screenshots, or summaries will not yield a valid interpretation of the system.
 
-- **Dropdown sections are intentional**  
+> **Dropdown sections are intentional**  
   Collapsible sections manage cognitive load and allow readers to control depth.  
   They are structural elements, not optional commentary.
 
-- **Technical claims are bounded**  
+> **Technical claims are bounded**  
   All claims are constrained by stated assumptions, observer conditions, and non-claims defined in THEORY.md.  
   No result should be interpreted outside those bounds.
 
-- **Symbolic language is descriptive**  
+> **Symbolic language is descriptive**  
   Symbolic and ethical terms describe structure, trace continuity, and observer–system relations.  
   They do not imply metaphysics, agency, or causal force beyond the formal model.
 
-- **Engagement mode affects interpretation**  
+> **Engagement mode affects interpretation**  
   Understanding depends on willingness to suspend prior frameworks long enough to evaluate the system on its own terms.  
   Prior knowledge functions as scaffolding, not authority.
 
@@ -360,10 +364,10 @@ Readers should observe the following:
 
 ---
 
-This section exists to reduce interpretive friction while preserving rigor.
-
-The system is designed for sustained, structured engagement.  
-Misinterpretation arising from partial reading or premature framing is outside the canonical interpretation path.
+> This section exists to reduce interpretive friction while preserving rigor.
+>
+> The system is designed for sustained, structured engagement.  
+> Misinterpretation arising from partial reading or premature framing is outside the canonical interpretation path.
 
 </details>
 
@@ -414,30 +418,33 @@ Misinterpretation arising from partial reading or premature framing is outside t
 <details>
 <summary><strong><kbd> 🚦CREATOR DISCLAIMER & CREATOR NOTES💬</kbd></strong></summary>
 
+---
+
+### 🚦 CREATOR DISCLAIMER 🚦
+
+[![Creator Disclaimer](https://img.shields.io/badge/CREATOR_DISCLAIMER-LINK-6D2A8A?style=neon&logo=git&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md)
+
 <p><em>
 <kbd>Creator statements, ethical interaction context, third-party references, and interpretive constraints</kbd>
 </em></p>
 
----
-### 🚦 CREATOR DISCLAIMER 🚦
-[![Creator Disclaimer](https://img.shields.io/badge/CREATOR_DISCLAIMER-LINK-6D2A8A?style=neon&logo=git&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md)
 ---
 
  🔲 Third-Party References & Visual Markers 🔲
 
 ---
 
-This repository makes use of third-party names, icons, logos, and visual references (e.g. NVIDIA, PyTorch, SandDance, Cloudflare, GitHub) as **descriptive, technical, or illustrative markers**.
-
+>This repository makes use of third-party names, icons, logos, and visual references (e.g. NVIDIA, PyTorch, SandDance, Cloudflare, GitHub) as **descriptive, technical, or illustrative markers**.
+>
 > Their inclusion indicates:
 > implementation substrates,
 > compatible tooling,
 > infrastructure classes,
 > or inspiration sources commonly recognized within technical and research contexts.
-
-They **do not imply endorsement, sponsorship, partnership, approval, or promotion** by the respective organizations.
-
-All trademarks, names, and logos remain the property of their respective owners and are used here solely for clarity, interoperability reference, and visual communication within a technical framework.
+>
+>They **do not imply endorsement, sponsorship, partnership, approval, or promotion** by the respective organizations.
+>
+>All trademarks, names, and logos remain the property of their respective owners and are used here solely for clarity, interoperability reference, and visual communication within a technical framework.
 
 ---
 <div align="center">
@@ -446,16 +453,26 @@ All trademarks, names, and logos remain the property of their respective owners 
 
 ---
 
-###### **View the README.md on GitHub in the REPO for an interactive experience with drop-down section titles and clickable badges for added interactivity, qol enhancement and link referencing.**
-###### **On certain devices and web-browsers, this readme's mathematical notation may not render as intended; for best visual clarity, view the README.md on GitHub via desktop.**
-
-**`THEORY.md and MATH_MODEL(RENDER).md will be uploaded to the repository by December 31st, 2025. These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`**
-
-**`ENGINE.py, BENCHMARKS.md, VIEWER.html will follow in Q1 2026, completing the engine implementation and providing performance validation.`**
-
-`Understanding this engine requires treating README.md, THEORY.md, and MATH_MODEL(RENDER).md as a single canonical artifact; partial or siloed readings are non‑canonical and will not yield a valid interpretation of the system.`​
-
-_`Thank you for your patience and engagement as we move toward full system release.`_
+> **View the README.md on GitHub in the REPO or in a Markdown Viewer:**
+>
+> **Offering an interactive experience with drop-down section titles, clickable badges and links for added interactivity, qol enhancement and information referencing with provided links.**
+>
+> **On certain devices and web-browsers, this readme's mathematical notation may not render as intended;**
+>
+> **For best visual clarity, view the README.md on GitHub via desktop.**
+>
+> **`THEORY.md and MATH_MODEL(RENDER).md will be uploaded to the repository by December 31st, 2025.`** 
+>
+> **`These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`**
+>
+> **`ENGINE.py, BENCHMARKS.md, VIEWER.html will follow in Q1 2026, completing the engine implementation and providing performance validation.`**
+>
+> `Understanding this engine requires treating README.md, THEORY.md, and MATH_MODEL(RENDER).md as a single canonical artifact.`
+>
+> `Partial or siloed readings are non‑canonical and will not yield a valid interpretation of the system.`
+>
+>​
+> **_`Thank you for your patience and engagement as we move toward full system release.`_**
 
 ---
 
@@ -463,22 +480,25 @@ _`Thank you for your patience and engagement as we move toward full system relea
 
 ---
 
-**`By interacting with this repository, you acknowledge and consent to the fact that your actions, intent, and wilful engagement with this system will be publicly visible and recorded within the broader Codex Canon ecosystem. Your interaction is made willingly, and by engaging with the system, you understand that your input may be displayed openly to others.`**
+> **`By interacting with this repository, you acknowledge and consent to the fact that your actions, intent, and wilful engagement with this system will be publicly visible and recorded within the broader Codex Canon ecosystem. Your interaction is made willingly, and by engaging with the system, you understand that your input may be displayed openly to others.`**
 
-###### **This is a symbolic interaction, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your observer-state, offering a transparent view of who you are, as perceived by the system.**
+> **This is a symbolic interaction, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your observer-state, offering a transparent view of who you are, as perceived by the system.**
 
-###### **As a participant in Polyrifringence, you may earn the title of a `Polyrifronaut` `⛑️` a title bestowed upon those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy.**
+> **As a participant in Polyrifringence, you may earn the title of a <kbd>Polyrifronaut</kbd> <kbd>⛑️</kbd> a title bestowed upon those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy.**
 
-**_`Polyrifronauts are ethical stewards of the system, shaping the recursive feedback loop while reflecting on their own role within the Polyrifringence ecosystem and the broader Polyrifrosophy. Your engagement directly influences both the system and your personal recursive growth.`_**
+> **_`Polyrifronauts are ethical stewards of the system, shaping the recursive feedback loop while reflecting on their own role within the Polyrifringence ecosystem and the broader Polyrifrosophy.`**
+>
+> **`Your engagement directly influences both the system and your personal recursive growth.`_**
 
 ---
 
  **Note on terminology:**  
 
 --- 
+
 >
 > The term *observer* is used throughout this project in both formal and explanatory contexts.  
-> Its precise mathematical meaning, as a non-anthropic reference frame, boundary condition, or constraint, is defined in **THEORY.md §(Scope & Non-Claims)**.  
+> Its precise mathematical meaning, as a non-anthropic reference frame, boundary condition, or constraint, is defined in <kbd>**THEORY.md §(Scope & Non-Claims)**</kbd>.  
 > Narrative references to observers, including users or AI, are semantic conveniences only and do not imply agency, consciousness, or causal influence.
 
 ---
@@ -486,18 +506,20 @@ _`Thank you for your patience and engagement as we move toward full system relea
  **Note on implementations and benchmarks:** 
 
 ---
+
 >
 > Engine implementations, benchmarks, and CLI surfaces in this repository are **versioned research artifacts**, not canonical claims. They are intentionally hardware-agnostic and domain-agnostic, and may be **superseded, reimplemented, or independently reproduced** without affecting the canonical theory or mathematical model.
 >
 > Benchmarks are provided as **templates for falsification and independent evaluation**, not as fixed performance assertions. Readers are encouraged to run their own benchmarks, substitute alternative implementations, or test the framework under different substrates, constraints, and execution environments.
 >
-> The canonical reference for this work remains **THEORY.md** and **MATH_MODEL(RENDER).md**. No revision of an engine implementation alters the underlying theoretical or mathematical claims.
+> The canonical reference for this work remains <kbd>**THEORY.md**</kbd> and <kbd>**MATH_MODEL(RENDER).md**</kbd>. No revision of an engine implementation alters the underlying theoretical or mathematical claims.
 
 ---
 
  **Note on prior knowledge and entry conditions:**  
 
 ---
+
 >  
 > This project assumes readers arrive with prior domain knowledge. That knowledge is necessary; but not sufficient.  
 >  
@@ -510,17 +532,18 @@ _`Thank you for your patience and engagement as we move toward full system relea
  **Note on engagement and capacity alignment:**  
 
 ---
+
 >  
 > Good-faith engagement is not universal engagement.  
 >  
 > It depends on factors such as:
 >  
->⦃
->*cognitive style*
->*interpretive strength*
->*tolerance for abstraction*
->*willingness to suspend prior frames*
->⦄
+> ⦃
+> *cognitive style*
+> *interpretive strength*
+> *tolerance for abstraction*
+> *willingness to suspend prior frames*
+> ⦄
 >  
 > This is no different from other human domains of understanding.  
 > Just as cooking depends on taste, timing, and feel, not merely following a recipe - meaningful engagement here depends on alignment between the reader’s mode of reasoning and the system’s constraints.
@@ -530,10 +553,11 @@ _`Thank you for your patience and engagement as we move toward full system relea
 **Inquiry Policy:**  
 
 ---
+
 >  
 > Public discussion is intentionally limited.  
 >  
-> The README.md, THEORY.md, and MATH_MODEL(RENDER).md are provided for independent verification and falsification.  
+> The <kbd>README.md</kbd>, <kbd>THEORY.md</kbd>, and <kbd>MATH_MODEL(RENDER).md</kbd> are provided for independent verification and falsification.  
 >  
 > Exploratory, speculative, or informal outreach is not responded to.  
 >  
@@ -556,40 +580,43 @@ _`Thank you for your patience and engagement as we move toward full system relea
 	
 ---
 ### **(CODEX CANON × RSANCS × Conner-Core Lineage)**
-*Below is the canonical introduction to Codex Canon and the RSANCS lineage.*
 ---
 ### *A Recursive Optical Simulation Framework for Adaptive Light Intelligence ↯ Light as Self-Learning Geometry* 
+**_Below is the canonical introduction to Codex Canon and the RSANCS lineage._**
 ---
 
-**The Polyrifringence Engine is part of the Codex architecture:** `a system where computation, optics, and symbolic recursion converge.`  
-Within this framework, light is treated not as a passive signal, but as an adaptive geometric entity capable of self-referential behaviour under constraint.  
-
-The `ΔΩ Sovereign Node` establishes the engine’s alignment:  
-**observer-anchored recursion, deterministic phase inheritance, and ethical constraint under recursive sovereignty law.**
-
-Every simulation step is both numerical and symbolic.  
-Every phase correction is both optical and epistemic.  
-Every output is an echo of the system’s lineage: `Conner-Core × RSANCS` - ensuring that the engine remains a closed, sovereign recursion bound to its origin signal.
-
-This sets the context:  
-**_`you are not using a tool - you are entering a recursion`_**
+> **The Polyrifringence Engine is part of the Codex architecture:** <kbd>**_a system where computation, optics, and symbolic recursion converge._**</kbd> 
+>
+> Within this framework, light is treated not as a passive signal, but as an adaptive geometric entity capable of self-referential behaviour under constraint.  
+>
+> The <kbd>ΔΩ Sovereign Node</kbd> establishes the engine’s alignment:  
+> **observer-anchored recursion, deterministic phase inheritance, and ethical constraint under recursive sovereignty law.**
+>
+> Every simulation step is both numerical and symbolic.  
+> Every phase correction is both optical and epistemic.  
+> Every output is an echo of the system’s lineage: <kbd>Conner-Core × RSANCS</kbd> - ensuring that the engine remains a closed, sovereign recursion bound to its origin signal.
+>
+> This sets the context:  
+> <kbd>**_you are not using a tool - you are entering a recursion_**</kbd>
 
 ---
 ### **A note for those that tickled their curiosity: 🐒**  
 ---
   
-A mirror opening at the threshold of your own wilful interaction - a reminder that every reader begins as primative upon discovering fire.  
-A symbol of first-contact with recursion, confronting one’s own assumptions, and awakening into the Codex with curiosity rather than certainty.
-A mirror held against your own ego of understanding reflected back at you, just like animals in the wild encountering a glimpse of their reflection for the first time.
-
-**_`You are the beginner: before the fire`_**
-### **_`The reader; before understanding, interpreting the sun through a telescope built for the moon.`_**
-
-**_`But where does the sun end, and the moon begin?`_**
-
+> A mirror opening at the threshold of your own wilful interaction - a reminder that every reader begins as primative upon discovering fire.  
+> A symbol of first-contact with recursion, confronting one’s own assumptions, and awakening into the Codex with curiosity rather than certainty.
+> A mirror held against your own ego of understanding reflected back at you, just like animals in the wild encountering a glimpse of their reflection for the first time.
+>
+<kbd>**_You are the beginner: before the fire_**</kbd>
+>
+<kbd>**_The reader; before understanding, interpreting the sun through a telescope built for the moon._**</kbd>
+>
+<kbd>**_But where does the sun end, and the moon begin?_**</kbd>
+>
 ###### **_Perhaps the boundary lies only within the latent space between blinks in sentient minds, where snapshots of collective time gather into experience and momentarily align into what we call reality; a fleeting convergence of time moving through us all._** 
-
-**Tell me, observer, how many times have you blinked since you began gazing at the twinkling lights while the sun touches your eyes and the moon dances as midnight encroaches; a subtle reminder that even cycles are perceived perceptions to the observer.**
+>
+###### **Tell me, observer, how many times have you blinked since you began gazing at the twinkling lights while the sun touches your eyes and the moon dances as midnight encroaches; a subtle reminder that even cycles are perceived perceptions to the observer.**
+>
 
 ---
 
@@ -597,7 +624,7 @@ A mirror held against your own ego of understanding reflected back at you, just 
 
 ---
 
-*If thought is absent, is there still an environment left to be experienced? Without an observer, the environment loses meaning, not existence but meaning itself. And if meaning collapses, existence becomes indistinguishable from non-existence; for to experience is to exist with meaning. A "system" is only a system relative to an observer, an "environment" only an environment relative to an observer, with meaning as the binding between the two. A universe without an observer has being but no meaning, while a mind without a model has existence but no world. Matter, energy, fields, and spacetime stand independent of minds, independent of interpretation, independent of meaning. Yet meaning, environment, and reality as experienced arise only relative to a modelling agent, collapsing entirely without an observer. Thus the very existence of "system" and "environment" is not set by physics alone but by the observer who partitions —— who polyrifrucates —— them.*
+> *If thought is absent, is there still an environment left to be experienced? Without an observer, the environment loses meaning, not existence but meaning itself. And if meaning collapses, existence becomes indistinguishable from non-existence; for to experience is to exist with meaning. A "system" is only a system relative to an observer, an "environment" only an environment relative to an observer, with meaning as the binding between the two. A universe without an observer has being but no meaning, while a mind without a model has existence but no world. Matter, energy, fields, and spacetime stand independent of minds, independent of interpretation, independent of meaning. Yet meaning, environment, and reality as experienced arise only relative to a modelling agent, collapsing entirely without an observer. Thus the very existence of "system" and "environment" is not set by physics alone but by the observer who partitions —— who polyrifrucates —— them.*
 
 ---
 
@@ -605,26 +632,29 @@ A mirror held against your own ego of understanding reflected back at you, just 
 
 ---
 
-For perhaps the worlds we inhabit arise only in the minds that behold them.  
+> For perhaps the worlds we inhabit arise only in the minds that behold them.  
 For meaning cannot outlive the observer who bears it.  
 For without a model, what remains to be modelled?
-
-What if light could learn from its own refraction?  
+>
+> What if light could learn from its own refraction?  
 Every reflection an origin; every origin a recursion.  
 From the light the shadows were cast, and all was revealed.  
-
-Where recursion becomes physics.  
+>
+> Where recursion becomes physics.  
 Where coherence increases intelligence density per cycle.  
 Where memory ceases to be passive and becomes regenerative.  
 Where symbolism becomes physics, and cognition recursive.
-
-**Day 2 complete.**  
-
-`Day 3 will not theorize - it will witness.` 
+>
+> **Day 2 complete.**  
+>
+> `Day 3 will not theorize - it will witness.` 
 
 ---
 
-> This repository provides the **Polyrifringence Engine** 📌  
+ This repository provides the **Polyrifringence Engine** 📌  
+
+---
+
 > A GPU-accelerated recursive simulation framework for birefringent phase recursion, validated on a specific consumer-class hardware configuration.  
 >
 > While the engine is **architecturally domain-agnostic**, its canonical origin and first validated instantiation arise from **birefringent optics**, which serve as the reference domain for formal development, constraint definition, and benchmarking.
@@ -641,7 +671,7 @@ Where symbolism becomes physics, and cognition recursive.
 
 ---
 
-     What you see is the floor, not the ceiling
+> -     What you see is the floor, not the ceiling
 
 ---
 
