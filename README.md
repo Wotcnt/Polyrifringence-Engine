@@ -651,23 +651,30 @@ Where symbolism becomes physics, and cognition recursive.
 
 ---
 
- This repository provides the **Polyrifringence Engine** 📌  
+This repository provides the **Polyrifringence Engine** 📌  
 
 ---
 
-> A GPU-accelerated recursive simulation framework for birefringent phase recursion, validated on a specific consumer-class hardware configuration.  
+> A GPU-accelerated, constraint-governed recursive simulation framework for phase-structured propagation, coherence restoration, and depth-gated recursion under explicit stability, energy, and geometry bounds.
 >
-> While the engine is **architecturally domain-agnostic**, its canonical origin and first validated instantiation arise from **birefringent optics**, which serve as the reference domain for formal development, constraint definition, and benchmarking.
+> The engine’s **canonical origin and reference domain** is birefringent optics. This domain is used to formally define operators, diagnostics, invariants, and falsifiable benchmarks due to its strict physical constraints and measurable phase geometry.  
+> Importantly, birefringent optics serves as the **calibration and validation substrate**, not as a limitation of scope.
 >
-> The engine leverages **PyTorch (CUDA 12.1)** to implement high-throughput, ray-based simulations targeting recursive birefringence and symbolic geometry, operating strictly within lawful thermodynamics.  
+> At its core, Polyrifringence implements a **formal execution grammar for constrained recursion**. The recursion laws, ΔΩ stability operator, bounded decay geometry (𝛌⃝), and approximate unitarity constraints are defined abstractly and are **domain-agnostic by construction**, provided a target domain admits:
+> phase-like state,
+> recursive transformation,
+> and measurable constraint satisfaction.
 >
-> An initial empirical baseline of approximately **50M rays/s** (50M × x⧉ rays/s) was established on an **NVIDIA GeForce RTX 3050 (8GB)** using NVIDIA Game Ready Driver v581.80 (released Nov 4, 2025).  
+> The current implementation uses **PyTorch (CUDA 12.1)** to support high-throughput ray-based and phase-stack simulations. This backend reflects an engineering choice for validation efficiency, not a theoretical dependency. The architecture itself is **hardware-agnostic** and not bound to a specific accelerator, vendor, or numerical backend.
 >
-> All throughput figures are **empirical baselines or bounded projections**, not guarantees.  
-> Exploration of higher ray-throughput regimes (e.g. BRay/s or TRay/s) is treated as an **optimization, scaling, and validation problem**, contingent on hardware class, implementation strategy, and recursive constraint alignment.  
+> An initial empirical baseline of approximately **50 M rays/s** was established on an **NVIDIA GeForce RTX 3050 (8 GB)** using NVIDIA Game Ready Driver v581.80 (Nov 4 2025).  
+> **This baseline was intentionally clamped** to preserve numerical stability, phase coherence, deterministic execution, and interpretability of recursive diagnostics (ΔΩ behavior, λ-cycle decay, and Euclid-5 parallelism).
 >
-> The framework bridges classical birefringence and symbolic geometry under the **Codex Canon**, modeling light propagation as a recursive, self-referential process.  
-> Observed advantages arise from structural organization, recursive stability (ΔΩ), and bounded decay geometry (λ-cycle), rather than energy amplification, entropy reversal, or physical law extension.
+> The baseline therefore defines a **reference operating envelope**, not a saturation benchmark. Higher-throughput regimes are deliberately treated as an optimization, scaling, and validation problem, contingent on recursive constraint alignment, memory topology, precision regime, and stability envelopes.
+>
+> All throughput figures are **measured baselines or bounded projections**, never guarantees. Performance scaling is evaluated only insofar as it preserves constraint satisfaction and diagnostic integrity.
+>
+> Under the **Codex Canon**, the engine unifies classical optics, recursive dynamics, and a governed execution grammar into a single constraint-driven architecture. Any observed advantages arise from structural organization, coherence-preserving recursion, and bounded decay geometry — **not** from energy amplification, entropy reversal, or extensions of physical law.
 
 ---
 
