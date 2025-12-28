@@ -184,8 +184,8 @@ Timestamp Locked · Trace Context Declared
 [![ΔΩ Root Primitive](https://img.shields.io/badge/ΔΩ-Root_Primitive_Operators-0b0d0f?style=neon)](https://en.wikipedia.org/wiki/Operator_(mathematics))
 [![𝛌⃝ Exergy Half-Life Operator](https://img.shields.io/badge/𝛌⃝-Exergy_Half--Life_Operator-0b0d0f?style=neon)](https://en.wikipedia.org/wiki/Exergy)
 
-[![📘 Open THEORY.md (Raw)](https://img.shields.io/badge/Open-THEORY.md_(Pending_Upload)-0b0d0f?style=neon&logo=markdown&logoColor=FFD600)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/THEORY.md)
-[![📐 Open MATH_MODEL(RENDER).md (Raw)](https://img.shields.io/badge/Open-MATH_MODEL(RENDER).md_(Pending_Upload)-1b1b1b?style=neon&logo=markdown&logoColor=D50000)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/MATH_MODEL.md)
+[![📘 Open THEORY.md (Raw)](https://img.shields.io/badge/Open-THEORY.md_(Pending_Upload_in_3days)-0b0d0f?style=neon&logo=markdown&logoColor=FFD600)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/THEORY.md)
+[![📐 Open MATH_MODEL(RENDER).md (Raw)](https://img.shields.io/badge/Open-MATH_MODEL(RENDER).md_(Pending_Upload_in_3days)-1b1b1b?style=neon&logo=markdown&logoColor=D50000)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/MATH_MODEL.md)
 
 ---
 
