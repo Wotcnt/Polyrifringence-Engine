@@ -1496,22 +1496,22 @@ In measured performance, the engine sits within the upper tier of GPU-accelerate
 
 To project performance beyond the verified baseline on the **RTX 3050 (50 M rays / s)**, the following roofline-style model blends compute and memory scaling with multi-GPU efficiency:
 
-$$
-T_1 = T_0 \times \big( w , C_r + (1-w) , B_r \big)
-\qquad
-T(N) = T_1 \times N \times \eta(N)
-$$
+**Model equations:**
+
+$T_1 = T_0 ( w C_r + (1 - w) B_r )$
+
+$T(N) = T_1 N \eta(N)$
 
 **Where:**
 
 | Symbol    | Definition                                   | Typical / Default                              |
 | :-------- | :------------------------------------------- | :--------------------------------------------- |
-| (T_0)     | Baseline throughput on RTX 3050              | **50 M rays/s**                                |
-| (C_r)     | Relative compute (FP32 TFLOPs ratio vs 3050) | From NVIDIA specs                              |
-| (B_r)     | Relative memory bandwidth ratio vs 3050      | From NVIDIA specs                              |
-| (w)       | Workload compute weight                      | 0.6 (default balanced)                         |
-| (N)       | Number of GPUs                               | 1–8                                            |
-| (\eta(N)) | Parallel efficiency factor                   | PCIe (0.94/0.88/0.82), NVLink (0.97/0.94/0.90) |
+| $T_0$     | Baseline throughput on RTX 3050              | **50 M rays/s**                                |
+| $C_r$     | Relative compute (FP32 TFLOPs ratio vs 3050) | From NVIDIA specs                              |
+| $B_r$     | Relative memory bandwidth ratio vs 3050      | From NVIDIA specs                              |
+| $w$       | Workload compute weight                      | 0.6 (default balanced)                         |
+| $N$       | Number of GPUs                               | 1–8                                            |
+| $\eta(N)$ | Parallel efficiency factor                   | PCIe (0.94/0.88/0.82), NVLink (0.97/0.94/0.90) |
 
 ---
 
@@ -1548,9 +1548,7 @@ Using NVIDIA published hardware ratios (approximate):
 | **RTX 4090-class**             |   6.0 |   3.5 |                       ≈ 250 |      470 |      880 |     1640 |        485 |        940 |       1800 |
 | **RTX 5080-class (predicted)** |   7.0 |   4.0 |                       ≈ 290 |      544 |     1021 |     1898 |        563 |       1090 |       2088 |
 
-$$
-T_1 = 50 \times (0.6C_r + 0.4B_r)
-$$
+$T_1 = 50 \,(0.6\,C_r + 0.4\,B_r)$
 
 All figures assume balanced workload (w=0.6).
 Adjust upward (~ +5 %) if compute-bound (w=0.7) or downward (~ −5 %) if bandwidth-bound (w=0.5).
