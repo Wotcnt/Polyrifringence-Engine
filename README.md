@@ -146,6 +146,9 @@ Timestamp Locked · Trace Context Declared
 [![Execution Invariants](https://img.shields.io/badge/Execution_Invariants-Constraint--Governed-046307?style=neon&logo=git&logoColor=76B900)](https://en.wikipedia.org/wiki/Invariant_(mathematics))
 [![🧠 Open in Browser IDE](https://img.shields.io/badge/Click_to_Browse_in_IDE_(VS_CODE)-github.dev-222222?style=neon&labelColor=000000&logo=github&logoColor=3EE7FF)](https://github.dev/Wotcnt/Polyrifringence-Engine)
 
+**_<kbd>This project exists because classical models fail when recursion, noise, and long-horizon stability collide</kbd>_**
+**_<kbd>Polyrifringence is a way of structuring those systems so they don’t tear themselves apart</kbd>_**
+
 ---
 
 [![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)](https://en.wikipedia.org/wiki/Democracy_Manifest)
