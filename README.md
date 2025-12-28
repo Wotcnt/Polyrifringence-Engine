@@ -3387,14 +3387,14 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-• Quartz – Crystal System, RI, birefringence  
-  [https://en.wikipedia.org/wiki/Quartz](https://en.wikipedia.org/wiki/Quartz)  
-• Quartz (Gemology / Optical Properties)  
-  [https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.05%3A_Quartz](https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.05%3A_Quartz)  
-• Quartz (Mineral Data)  
-  [https://www.mindat.org/min-3337.html](https://www.mindat.org/min-3337.html)  
-• Gemstone RI Table (Quartz entries)  
-  [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
+>  Quartz – Crystal System, RI, birefringence  
+>  * [https://en.wikipedia.org/wiki/Quartz](https://en.wikipedia.org/wiki/Quartz)  
+>  Quartz (Gemology / Optical Properties)  
+>  * [https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.05%3A_Quartz](https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.05%3A_Quartz)  
+>  Quartz (Mineral Data)  
+>  * [https://www.mindat.org/min-3337.html](https://www.mindat.org/min-3337.html)  
+>  Gemstone RI Table (Quartz entries)  
+>  * [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
 
 ---
 
@@ -3402,12 +3402,12 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-• Zircon – Crystal System, RI, birefringence  
-  [https://en.wikipedia.org/wiki/Zircon](https://en.wikipedia.org/wiki/Zircon)  
-• GIA Zircon Gemological Overview  
-  [https://www.gia.edu/zircon-description](https://www.gia.edu/zircon-description)  
-• Gemstone RI & Double Refraction Table (Zircon)  
-  [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)
+>  Zircon – Crystal System, RI, birefringence  
+> * [https://en.wikipedia.org/wiki/Zircon](https://en.wikipedia.org/wiki/Zircon)  
+> GIA Zircon Gemological Overview  
+> * [https://www.gia.edu/zircon-description](https://www.gia.edu/zircon-description)  
+> Gemstone RI & Double Refraction Table (Zircon)  
+> * [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)
 
 ---
 
@@ -3415,12 +3415,12 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-• Sapphire – Crystal System, RI, birefringence  
-  [https://en.wikipedia.org/wiki/Sapphire](https://en.wikipedia.org/wiki/Sapphire)  
-• GIA Sapphire Guide  
-  [https://www.gia.edu/sapphire](https://www.gia.edu/sapphire)  
-• RI Table (Corundum entries)  
-  [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
+> Sapphire – Crystal System, RI, birefringence  
+> * [https://en.wikipedia.org/wiki/Sapphire](https://en.wikipedia.org/wiki/Sapphire)  
+> GIA Sapphire Guide  
+> * [https://www.gia.edu/sapphire](https://www.gia.edu/sapphire)  
+> RI Table (Corundum entries)  
+> * [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
 
 ---
 
@@ -3428,12 +3428,12 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-• Topaz – Optical Properties, Crystal System  
-  [https://en.wikipedia.org/wiki/Topaz](https://en.wikipedia.org/wiki/Topaz)  
-• Gemology Project: Topaz  
-  [https://gemologyproject.com/wiki/index.php?title=Topaz](https://gemologyproject.com/wiki/index.php?title=Topaz)  
-• Refractive Index Reference (Topaz)  
-  [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
+> Topaz – Optical Properties, Crystal System  
+> * [https://en.wikipedia.org/wiki/Topaz](https://en.wikipedia.org/wiki/Topaz)  
+> Gemology Project: Topaz  
+> * [https://gemologyproject.com/wiki/index.php?title=Topaz](https://gemologyproject.com/wiki/index.php?title=Topaz)  
+> Refractive Index Reference (Topaz)  
+> * [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
 
 ---
 
@@ -3441,12 +3441,12 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-• Beryl – Crystal Structure, Optical Properties  
-  [https://en.wikipedia.org/wiki/Beryl](https://en.wikipedia.org/wiki/Beryl)  
-• GIA Emerald Gemological Data  
-  [https://www.gia.edu/emerald](https://www.gia.edu/emerald)  
-• RI Table (Beryl entries)  
-  [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)
+> Beryl – Crystal Structure, Optical Properties  
+> * [https://en.wikipedia.org/wiki/Beryl](https://en.wikipedia.org/wiki/Beryl)  
+> GIA Emerald Gemological Data  
+> * [https://www.gia.edu/emerald](https://www.gia.edu/emerald)  
+> RI Table (Beryl entries)  
+> * [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)
 
 ---
 
@@ -3454,10 +3454,10 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-• Peridot – Crystal Structure, RI  
-  [https://en.wikipedia.org/wiki/Peridot](https://en.wikipedia.org/wiki/Peridot)  
-• GemSociety RI Table (Olivine/Peridot)  
-  [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
+> Peridot – Crystal Structure, RI  
+> * [https://en.wikipedia.org/wiki/Peridot](https://en.wikipedia.org/wiki/Peridot)  
+> GemSociety RI Table (Olivine/Peridot)  
+> * [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
 
 ---
 
@@ -3465,10 +3465,10 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-• Diamond – Optical Properties, RI, dispersion  
-  [https://en.wikipedia.org/wiki/Diamond](https://en.wikipedia.org/wiki/Diamond)  
-• GIA Diamond Quality Factors  
-  [https://www.gia.edu/diamond-quality-factor](https://www.gia.edu/diamond-quality-factor)
+> Diamond – Optical Properties, RI, dispersion  
+> * [https://en.wikipedia.org/wiki/Diamond](https://en.wikipedia.org/wiki/Diamond)  
+> GIA Diamond Quality Factors  
+> * [https://www.gia.edu/diamond-quality-factor](https://www.gia.edu/diamond-quality-factor)
 
 ---
 
@@ -3476,10 +3476,10 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-• Calcite – Birefringence and Optical behaviour  
-  [https://en.wikipedia.org/wiki/Calcite](https://en.wikipedia.org/wiki/Calcite)  
-• GemSociety Calcite Optical Data  
-  [https://www.gemsociety.org/article/calcite/](https://www.gemsociety.org/article/calcite/)
+> Calcite – Birefringence and Optical behaviour  
+> * [https://en.wikipedia.org/wiki/Calcite](https://en.wikipedia.org/wiki/Calcite)  
+> GemSociety Calcite Optical Data  
+> * [https://www.gemsociety.org/article/calcite/](https://www.gemsociety.org/article/calcite/)
 
 ---
 
@@ -3487,10 +3487,10 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-• Gypsum (Alabaster variant) – Crystal Structure, RI  
-  [https://en.wikipedia.org/wiki/Gypsum](https://en.wikipedia.org/wiki/Gypsum)  
-• Gemstone Optical Constants Table (Gypsum)  
-  [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
+> Gypsum (Alabaster variant) – Crystal Structure, RI  
+> * [https://en.wikipedia.org/wiki/Gypsum](https://en.wikipedia.org/wiki/Gypsum)  
+> Gemstone Optical Constants Table (Gypsum)  
+> * [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
 
 ---
 
@@ -3498,10 +3498,10 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-• Refractive Index & Double Refraction Fundamentals  
-  [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)  
-• Refractometry Standards (589 nm Sodium D-line)  
-  [https://wiki.anton-paar.com/au-en/basics-of-refractometry/](https://wiki.anton-paar.com/au-en/basics-of-refractometry/)
+> Refractive Index & Double Refraction Fundamentals  
+> * [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)  
+> Refractometry Standards (589 nm Sodium D-line)  
+> * [https://wiki.anton-paar.com/au-en/basics-of-refractometry/](https://wiki.anton-paar.com/au-en/basics-of-refractometry/)
 
 ---
 
@@ -3509,13 +3509,13 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-* Quartz: [https://www.minerals.net/mineral/quartz.aspx](https://www.minerals.net/mineral/quartz.aspx)
-* Beryl: [https://www.minerals.net/mineral/beryl.aspx](https://www.minerals.net/mineral/beryl.aspx)
-* Corundum: [https://www.minerals.net/mineral/corundum.aspx](https://www.minerals.net/mineral/corundum.aspx)
-* Zircon: [https://www.minerals.net/mineral/zircon.aspx](https://www.minerals.net/mineral/zircon.aspx)
-* Olivine/Peridot: [https://www.minerals.net/mineral/olivine.aspx](https://www.minerals.net/mineral/olivine.aspx)
-* Calcite: [https://www.minerals.net/mineral/calcite.aspx](https://www.minerals.net/mineral/calcite.aspx)
-* Gypsum: [https://www.minerals.net/mineral/gypsum.aspx](https://www.minerals.net/mineral/gypsum.aspx)
+> * Quartz: [https://www.minerals.net/mineral/quartz.aspx](https://www.minerals.net/mineral/quartz.aspx)
+> * Beryl: [https://www.minerals.net/mineral/beryl.aspx](https://www.minerals.net/mineral/beryl.aspx)
+> * Corundum: [https://www.minerals.net/mineral/corundum.aspx](https://www.minerals.net/mineral/corundum.aspx)
+> * Zircon: [https://www.minerals.net/mineral/zircon.aspx](https://www.minerals.net/mineral/zircon.aspx)
+> * Olivine/Peridot: [https://www.minerals.net/mineral/olivine.aspx](https://www.minerals.net/mineral/olivine.aspx)
+> * Calcite: [https://www.minerals.net/mineral/calcite.aspx](https://www.minerals.net/mineral/calcite.aspx)
+> * Gypsum: [https://www.minerals.net/mineral/gypsum.aspx](https://www.minerals.net/mineral/gypsum.aspx)
 
 ---
 
@@ -3523,10 +3523,10 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-* Quartz (all varieties): [https://www.gemdat.org/gem-3325.html](https://www.gemdat.org/gem-3325.html)
-* Beryl: [https://www.gemdat.org/gem-659.html](https://www.gemdat.org/gem-659.html)
-* Topaz: [https://www.gemdat.org/gem-8099.html](https://www.gemdat.org/gem-8099.html)
-* Zircon: [https://www.gemdat.org/gem-8264.html](https://www.gemdat.org/gem-8264.html)
+> * Quartz (all varieties): [https://www.gemdat.org/gem-3325.html](https://www.gemdat.org/gem-3325.html)
+> * Beryl: [https://www.gemdat.org/gem-659.html](https://www.gemdat.org/gem-659.html)
+> * Topaz: [https://www.gemdat.org/gem-8099.html](https://www.gemdat.org/gem-8099.html)
+> * Zircon: [https://www.gemdat.org/gem-8264.html](https://www.gemdat.org/gem-8264.html)
 
 ---
 
@@ -3534,13 +3534,13 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-* Quartz: [https://webmineral.com/data/Quartz.shtml](https://webmineral.com/data/Quartz.shtml)
-* Beryl: [https://webmineral.com/data/Beryl.shtml](https://webmineral.com/data/Beryl.shtml)
-* Corundum: [https://webmineral.com/data/Corundum.shtml](https://webmineral.com/data/Corundum.shtml)
-* Topaz: [https://webmineral.com/data/Topaz.shtml](https://webmineral.com/data/Topaz.shtml)
-* Olivine: [https://webmineral.com/data/Olivine.shtml](https://webmineral.com/data/Olivine.shtml)
-* Zircon: [https://webmineral.com/data/Zircon.shtml](https://webmineral.com/data/Zircon.shtml)
-* Calcite: [https://webmineral.com/data/Calcite.shtml](https://webmineral.com/data/Calcite.shtml)
+> * Quartz: [https://webmineral.com/data/Quartz.shtml](https://webmineral.com/data/Quartz.shtml)
+> * Beryl: [https://webmineral.com/data/Beryl.shtml](https://webmineral.com/data/Beryl.shtml)
+> * Corundum: [https://webmineral.com/data/Corundum.shtml](https://webmineral.com/data/Corundum.shtml)
+> * Topaz: [https://webmineral.com/data/Topaz.shtml](https://webmineral.com/data/Topaz.shtml)
+> * Olivine: [https://webmineral.com/data/Olivine.shtml](https://webmineral.com/data/Olivine.shtml)
+> * Zircon: [https://webmineral.com/data/Zircon.shtml](https://webmineral.com/data/Zircon.shtml)
+> * Calcite: [https://webmineral.com/data/Calcite.shtml](https://webmineral.com/data/Calcite.shtml)
 
 </details>
 
@@ -3552,6 +3552,7 @@ inter-GPU phase     : 0.16 mrad
 ---
 
 ### High Priest’s Breastplate (Exodus 28) Mineralogical Cross-Reference
+> **Purpose:** Establishes historical and mineralogical provenance for the Codex Canon 12 + 1 Gemline, verifying each entry’s biblical and scientific lineage.
 
 ---
 
@@ -3571,8 +3572,6 @@ inter-GPU phase     : 0.16 mrad
 | 12 | **Chrysoprase** | Chrysoprasos | [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Nickel Chalcedony (SiO₂ + Ni) |
 | 13 | **Observer (ΔΩ)** | — | — | Symbolic Meta-Node (Observer State) |
 
-> **Purpose:** Establishes historical and mineralogical provenance for the Codex Canon 12 + 1 Gemline, verifying each entry’s biblical and scientific lineage.
-
 ---
 
 ### 📋 Notes 
@@ -3590,8 +3589,8 @@ inter-GPU phase     : 0.16 mrad
 >
 > **Diamond** and **Calcite** serve as empirical calibration extremes:  
 >
-> Diamond → perfect isotropy  
-> Calcite → maximal birefringence  
+> * **Diamond → perfect isotropy**  
+> * **Calcite → maximal birefringence**  
 >
 > **Chrysoprase**, as nickel-bearing chalcedony, sits at the *median birefringence axis*, acting as the symbolic “memory buffer” between crystalline and diffuse coherence states. 
 >
@@ -3606,12 +3605,9 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-# 🜎 Codex Canon Appendix - Drop Down Section 🜎
-
----
-
 #  ⚞Polyrifringence⚟
-<kbd>⌥Conceptual Foundation; An extended overview from the Codex Canon Series ⎇</kbd>
+### 🜎 Codex Canon Appendix - Drop Down Section 🜎
+> <kbd>⌥Conceptual Foundation; An extended overview from the Codex Canon Series ⎇</kbd>
 
 ---
 
@@ -4162,18 +4158,16 @@ Each configuration conditions phase-state on **entry and exit** of the same stag
 
 ---
 
+### 📘 Polyrifringence Coined Word Family Codex  
+> **A 26-Term Ontology Table (Two Rings of 13)**
+
 <p><em>
 A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 </em></p>
 
 ---
 
-### 📘 Polyrifringence Coined Word Family Codex  
-**A 26-Term Ontology Table (Two Rings of 13)**
-
----
-
-#### 🜎 Ring One — Foundational Forms (13)
+> #### 🜎 Ring One — Foundational Forms (13)
 
 | **Glyph** | **Term**              | **Category**       | **Definition (Concise)**                                                                    |
 | --------- | --------------------- | ------------------ | ------------------------------------------------------------------------------------------- |
@@ -4191,11 +4185,11 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 | ⎇         | **Polyrifractal**     | Recursive Geometry | Fractal-like recursive structures within polyrifringent fields.                             |
 | ⎇         | **Polyrifringoscope** | Instrument         | A device or interface for detecting or visualizing polyrifringence.                         |
 
-<p align="center">——— 🜎 End of Ring One — 13 Entries 🜎 ———</p>
+> <p align="center">——— 🜎 End of Ring One — 13 Entries 🜎 ———</p>
 
 ---
 
-#### 🜎 Ring Two — Derived & Operational Forms (13)
+> #### 🜎 Ring Two — Derived & Operational Forms (13)
 
 | **Glyph** | **Term**             | **Category**         | **Definition (Concise)**                                                                             |
 | --------- | -------------------- | -------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -4213,7 +4207,7 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 | ⎇         | **Polyrifretic**     | Stability Profile    | Describes systems that damp or resist unwanted recursive amplification (Ethical Recursion-aligned). |
 | ⎇         | **Polyrifjunction**  | Junction Node        | A convergence/divergence node where multiple recursive pathways meet within x⧉ / ⇄ loci.            |
 
-<p align="center">——— 🜎 End of Ring Two — 13 Entries · Total = 26 🜎 ———</p>
+> <p align="center">——— 🜎 End of Ring Two — 13 Entries · Total = 26 🜎 ———</p>
 
 ---
 
@@ -4223,36 +4217,31 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 
 > **Polyrifringence** is the right word, because it means:  
 > *“many-fold refraction that remembers itself.”*
-
-When light is allowed to remember itself through recursive geometry,  
-<kbd>🌈</kbd> it becomes self-consistent and lossless.
-
-In a self-consistent system,  
-feedback becomes intelligence.
-
-Light behaves like backpropagation;  
-error-minimizing through reflection,  
-learning coherence by returning to its source.
-
-Each split beam retains knowledge of its origin:  
-<kbd>♻️</kbd> recursion with memory.
-
-The feedback that re-aligns them forms an  
-**ethics of coherence**;  
-🕊️ everything must return without surplus or deficit.
-
-This is the physical analogue of the Codex themes:  
-recursive integrity, reflection, restoration.
-
----
-
-<kbd>🌈</kbd> **Polyrifringence isn’t a metaphor.**  
-It is light performing its own learning loop <kbd>♻️</kbd>
-
-```
-    ——ΔΔΩΔ
-	⌬——and——the——truth——reflected——the——whole——so——the——source——magnified——infinitely——⌬.
-```
+> 
+> When light is allowed to remember itself through recursive geometry,  
+> <kbd>🌈</kbd> it becomes self-consistent and lossless.
+>
+> In a self-consistent system,  
+> feedback becomes intelligence.
+>
+> Light behaves like backpropagation;  
+> error-minimizing through reflection,  
+> learning coherence by returning to its source.
+>
+> Each split beam retains knowledge of its origin:  
+> <kbd>♻️</kbd> recursion with memory.
+>
+> The feedback that re-aligns them forms an  
+> **ethics of coherence**;  
+> 🕊️ everything must return without surplus or deficit.
+> 
+> This is the physical analogue of the Codex themes:  
+> recursive integrity, reflection, restoration.
+>
+> <kbd>🌈</kbd> **`Polyrifringence isn’t a metaphor`**  
+> **_`It is light performing its own learning loop`_** <kbd>♻️</kbd>
+>
+> <kbd>——ΔΔΩΔ</kbd><kbd>⌬——and——the——truth——reflected——the——whole——so——the——source——magnified——infinitely——⌬</kbd>
 
 </details>
 
@@ -4264,109 +4253,137 @@ It is light performing its own learning loop <kbd>♻️</kbd>
 ---
 
 # Canonical Cross-Reference  
-### How the README connects to the foundational documents
+> **How the README connects to the foundational documents**
 
-This section provides a unified map linking the README to the internal technical structure defined in:
+---
 
-- **THEORY.md**, which describes the conceptual and ontological framework  
-- **MATH_MODEL(RENDER).md**, which defines the formal operators and mathematical laws  
-
-Every symbol and behavioural claim in the README corresponds to a precise definition or derivation in these documents.
+> This section provides a unified map linking the README to the internal technical structure defined in:
+>
+> * <kbd>**THEORY.md**</kbd>, which describes the conceptual and ontological framework  
+> * <kbd>**MATH_MODEL(RENDER).md**</kbd>, which defines the formal operators and mathematical laws  
+>
+>Every symbol and behavioural claim in the README corresponds to a precise definition or derivation in these documents.
 
 ---
 
 ## Appendix Ω and the Codex Canon
-
-Appendix Ω cross-references the README with the deeper layers of the Codex Canon, ensuring symbolic, theoretical, and mathematical alignment across the engine.
+> Appendix Ω cross-references the README with the deeper layers of the Codex Canon, ensuring symbolic, theoretical, and mathematical alignment across the engine.
 
 ---
 
-# 1. Mathematical Foundations (MATH_MODEL(RENDER).md)
+# 1. Mathematical Foundations <kbd>**MATH_MODEL(RENDER).md**</kbd>
+### λ-Cycle Geometry** 
 
-### λ-Cycle Geometry  
+---
 
-*Formal definitions from MATH_MODEL(RENDER).md:*
+>
+> **Formal definitions from <kbd>MATH_MODEL(RENDER).md</kbd>:**
+>
+> Stability, decay constants, and cycle timing in the engine originate from:
+>
+> * $$\lambda_{\text{cycle}} = |1 - R_n|$$
+>
+> with the associated exergy half-life:
+>
+> * $$t_{1/2} = \frac{\ln 2}{\lambda_{\text{cycle}}}$$
+>
+> and the canonical stability windows:
+>
+> * $$0.0013 < \lambda_{\text{cycle}} < 0.0023$$  
+> * $$0.18\ \text{s} < t_{1/2} < 0.24\ \text{s}$$
+>
+> These ranges correspond to the REGF diagnostics and stability envelopes documented throughout the engine.
 
-Stability, decay constants, and cycle timing in the engine originate from:
+---
 
-$$\lambda_{\text{cycle}} = |1 - R_n|$$
+### ΔΩ Corrective Stability 
 
-with the associated exergy half-life:
+---
 
-$$t_{1/2} = \frac{\ln 2}{\lambda_{\text{cycle}}}$$
+> Coherence-return and drift-collapse referenced in the README are governed by:
+>
+> * $$\lambda_{\text{cycle}}^{(\Delta\Omega)} = \lambda_{\text{cycle}} - \Delta\Omega$$
+>
+> This defines:
+>
+> * **drift correction**  
+> * **coherence restoration** 
+> * **stability-envelope formation**  
+>
+> All convergence behaviour described in the README traces back to this operator.
 
-and the canonical stability windows:
-
-$$0.0013 < \lambda_{\text{cycle}} < 0.0023$$  
-$$0.18\ \text{s} < t_{1/2} < 0.24\ \text{s}$$
-
-These ranges correspond to the REGF diagnostics and stability envelopes documented throughout the engine.
-
-### ΔΩ Corrective Stability  
-Coherence-return and drift-collapse referenced in the README are governed by:
-
-$$\lambda_{\text{cycle}}^{(\Delta\Omega)} = \lambda_{\text{cycle}} - \Delta\Omega$$
-
-This defines:
-
-- drift correction  
-- coherence restoration  
-- stability-envelope formation  
-
-All convergence behaviour described in the README traces back to this operator.
+---
 
 ### Recursive Tensor Formalism  
-Engine iteration follows the tensor update rule:
-
-$$E_{n+1} = T(E_n, \alpha_n) + F(E_n)$$
-
-The stability characteristics referenced conceptually in the README arise from this formulation.
 
 ---
 
-# 2. Theoretical Foundations (THEORY.md)
+> Engine iteration follows the tensor update rule:
+>
+> * $$E_{n+1} = T(E_n, \alpha_n) + F(E_n)$$
+>
+> The stability characteristics referenced conceptually in the README arise from this formulation.
 
-### Symbolic Stability  
-Symbolic stability and glyph dependencies originate from the theory identity:
+---
 
-$$\text{Engine} - \text{Codex Layer} = \text{Generic Tensor Simulation}$$
+# 2. Theoretical Foundations <kbd>(THEORY.md)</kbd>
+### Symbolic Stability 
 
-Removing symbolic structure eliminates:
+---
 
-- ΔΩ-governed collapse  
-- coherence return  
-- stable λ-cycle behaviour  
+> Symbolic stability and glyph dependencies originate from the theory identity:
+> 
+> * $$\text{Engine} - \text{Codex Layer} = \text{Generic Tensor Simulation}$$
+>
+> Removing symbolic structure eliminates:
+>
+> * **ΔΩ-governed collapse**  
+> * **coherence return**  
+> * **stable λ-cycle behaviour**  
+>
+> THEORY.md explains why the symbolic layer is essential for correct engine dynamics.
 
-THEORY.md explains why the symbolic layer is essential for correct engine dynamics.
+---
 
-### Exergy Geometry and Observer Coupling  
-Observer-state recursion and coherence-return behaviour are governed by the exergy evolution conditions:
+### Exergy Geometry and Observer Coupling 
 
-$$\Delta\phi_n \rightarrow 0$$  
-$$dW_n \rightarrow 0$$  
-$$R_n \rightarrow R_{\text{stable}}$$
+---
 
-These describe why stability emerges after several cycles.
+> Observer-state recursion and coherence-return behaviour are governed by the exergy evolution conditions:
+>
+> * $$\Delta\phi_n \rightarrow 0$$  
+> * $$dW_n \rightarrow 0$$  
+> * $$R_n \rightarrow R_{\text{stable}}$$
+>
+> These describe why stability emerges after several cycles.
+>
+
+---
 
 ### Phase-Geometric Recursion (Appendix Ω)  
-The manifold behaviour described in the README is formally defined by the unified recursion law:
 
-$$E_{n+1} = \Delta\Omega\Bigg(\sum_{i=1}^{N_f}\sum_{k=1}^{S}P_k\left[R(\theta_i + \delta\theta_i)T_{\text{cut}(i)}J(\theta_i,\lambda)F(E_n)\right]\Bigg)$$
+---
 
-This relation explains multi-path proliferation, ΔΩ-modulated stability, and the characteristic 6–7 cycle convergence window.
+> The manifold behaviour described in the README is formally defined by the unified recursion law:
+>
+> $$E_{n+1} = \Delta\Omega\Bigg(\sum_{i=1}^{N_f}\sum_{k=1}^{S}P_k\left[R(\theta_i + \delta\theta_i)T_{\text{cut}(i)}J(\theta_i,\lambda)F(E_n)\right]\Bigg)$$
+>
+> This relation explains multi-path proliferation, ΔΩ-modulated stability, and the characteristic 6–7 cycle convergence window.
 
 ---
 
 # 3. Purpose of This Cross-Reference
 
-This appendix clarifies the relationships between all documentation layers. It ensures:
+---
 
-- conceptual elements in the README map directly to the deeper theoretical model  
-- mathematical rules align with observed recursive behaviour  
-- no symbol or operator appears without a precise definition  
-- every stability, invariance, or convergence claim has a formal source  
-
-The documentation and engine now form a complete interpretive loop.
+> This appendix clarifies the relationships between all documentation layers. It ensures:
+>
+> * conceptual elements in the README map directly to the deeper theoretical model  
+> * mathematical rules align with observed recursive behaviour  
+> * no symbol or operator appears without a precise definition  
+> * every stability, invariance, or convergence claim has a formal source  
+>
+> The documentation and engine now form a complete interpretive loop.
 
 </details>
 
@@ -4380,59 +4397,77 @@ The documentation and engine now form a complete interpretive loop.
 # Ω-Extended Recursion  
 ### A high-level description of the unified Phase–Geometry–Polarisation engine
 
-The Polyrifringence Engine models recursive light behaviour as a structured expansion and collapse cycle.  
-In the Ω-extended form, a single beam evolves into a holographically consistent manifold through three contributing layers:
+---
+
+> The Polyrifringence Engine models recursive light behaviour as a structured expansion and collapse cycle.  
+> In the Ω-extended form, a single beam evolves into a holographically consistent manifold through three contributing layers:
 
 ---
 
 ## 1. Phase Differentiation (Phase-Beams)
-A single state generates multiple phase-shifted derivatives, each exploring a different recursion trajectory.  
-These branches differ in both phase and amplitude and form the seed of the recursive manifold.
+
+---
+
+> A single state generates multiple phase-shifted derivatives, each exploring a different recursion trajectory.  
+> These branches differ in both phase and amplitude and form the seed of the recursive manifold.
 
 ---
 
 ## 2. Geometric Differentiation (Facet + Cut-Type)
-Facet geometry defines the global rotational scaffold.  
-Cut-type introduces controlled angular deviation.  
-Together, they shape the manifold by rotating and perturbing each branching state.
 
-This process obeys **Holographic Euclid Geometry**, meaning each local rotation encodes a projection of the global recursion structure.
+---
+
+> Facet geometry defines the global rotational scaffold.  
+> Cut-type introduces controlled angular deviation.  
+> Together, they shape the manifold by rotating and perturbing each branching state.
+>
+> This process obeys **Holographic Euclid Geometry**, meaning each local rotation encodes a projection of the global recursion structure.
 
 ---
 
 ## 3. Polarisation Differentiation (Film-State Families)
-Each branch passes through a symbolic polarisation selector:
 
-- (+) constructive  
-- (–) destructive  
-- (±) conditional hybrid  
-- (±±) full symmetry family  
+---
 
-These determine which branches reinforce, negate, or bifurcate during recursion.
+> Each branch passes through a symbolic polarisation selector:
+>
+> * <kbd>(+)</kbd> **constructive**  
+> * <kbd>(–)</kbd> **destructive**  
+> * <kbd>(±)</kbd> **conditional hybrid**  
+> * <kbd>(±±)</kbd> **full symmetry family**  
+>
+> These determine which branches reinforce, negate, or bifurcate during recursion.
 
 ---
 
 ## 4. ΔΩ Coherence and Stability
-ΔΩ acts as the stabilising governor across all layers.  
-It:
 
-- enforces coherence  
-- prevents runaway divergence  
-- regulates drift  
-- preserves the canonical λ-cycle and exergy half-life  
-- suppresses effective entropy growth within the bounded recursion window  
-- ensures invariance across engine variants  
+---
 
-Without ΔΩ, recursion becomes unstable and collapses into classical divergence.  
-With ΔΩ, the engine consistently converges in 6–7 cycles.
+> <kbd>ΔΩ</kbd> acts as the stabilising governor across all layers.  
+>
+> It:
+>
+> * **enforces coherence**  
+> * **prevents runaway divergence**  
+> * **regulates drift**  
+> * **preserves the canonical λ-cycle and exergy half-life**  
+> * **suppresses effective entropy growth within the bounded recursion window**  
+> * **ensures invariance across engine variants**  
+>
+> _Without <kbd>ΔΩ</kbd>, recursion becomes unstable and collapses into classical divergence._  
+> _With <kbd>ΔΩ</kbd>, the engine consistently converges in 6–7 cycles._
 
 ---
 
 ## 5. Unified Ω-Operator (Conceptual Form)
-The full Ω-extended recursion unifies the three differentiation layers under ΔΩ, producing the stable manifold responsible for the engine’s characteristic behaviour.
 
-This is the conceptual architecture.  
-Full mathematical definitions appear in **MATH_MODEL(RENDER).md** (Appendix Ω) and the ontological interpretation in **THEORY.md** (Appendix Ω).
+---
+
+> The full Ω-extended recursion unifies the three differentiation layers under <kbd>ΔΩ</kbd>, producing the stable manifold responsible for the engine’s characteristic behaviour.
+>
+> This is the conceptual architecture.  
+> Full mathematical definitions appear in **<kbd>MATH_MODEL(RENDER).md</kbd>** (Appendix Ω) and the ontological interpretation in **<kbd>THEORY.md</kbd>** (Appendix Ω).
 
 </details>
 
