@@ -95,7 +95,6 @@ Timestamp Locked · Trace Context Declared
 <div align="center">
 <details>
 <summary><strong> 🧩 Project Metadata (Public) </strong></summary>
-
 	
 ---
 
@@ -107,7 +106,7 @@ Timestamp Locked · Trace Context Declared
 | **Withheld Content Available**   | **Q1 2026 · BENCHMARKS.md · VIEWER.html · Polyrifringence_Engine_v8.10.XX.py**            |
 | Author              | Conner Brown-Milliken · @MMMDcreator - X.com · @Wotcnt - GitHub                       |
 | Country             | Australia                                                                             |
-| Manual Anchor Date  | 2025-11-18                                                                            |
+| Manual Anchor Date  | 29/11/2025 · Checkpoint                                                               |
 | License             | MIT                                                                                   |
 | 𝛌⃝ambda Ⓛimited─Ⓛicense | **Canon-Bound-Extension ·  Ⓛ**                                                  |
 | Lambda Clearance    | **Authorial · Author-Approved** · 🅾️                                                 |
@@ -119,7 +118,7 @@ Timestamp Locked · Trace Context Declared
 | Field Class         | Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
 | **Canonical**       | **Newest tagged release supersedes all prior versions**                               |
 | **README Metrics** | **_~121 min read · ~24,171 words · ~215,341 chars_** *(manual; current revision)*      |
-> *Metrics are approximate and based on the current revision of this document.*
+> *Metrics are approximate and based on the current revision of this document.*                                   
 
 </details>
 
@@ -128,8 +127,9 @@ Timestamp Locked · Trace Context Declared
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/tree/main">
     <img width="100%" src="https://img.shields.io/badge/⟨ΔΩ⟩_Sovereign_Node_❯❯❯-Polyrifringence_Engine©-CFEFF6?style=neon&logo=codemirror&logoColor=3ee7ff&color=555555&labelColor=black">
   </a>
-<!-- === Row 1 — Technical Environment === -->
-	
+
+---	
+
 [![PyTorch](https://img.shields.io/badge/PYTORCH-2.5.1-D24D0F?style=neon&logo=pytorch&logoColor=D24D0F)](https://pytorch.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-12.1-D24D0F?style=neon&logo=nvidia&logoColor=D24D0F)](https://developer.nvidia.com/cuda-toolkit)
 [![Python](https://img.shields.io/badge/PYTHON-3.11.8+-D24D0F?style=neon&logo=python&logoColor=D24D0F)](https://www.python.org/downloads/release/python-3118/)
@@ -152,34 +152,14 @@ Timestamp Locked · Trace Context Declared
 ---
 
 [![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)](https://en.wikipedia.org/wiki/Democracy_Manifest)
-<a href="https://x.com/i/communities/1993220630121169163"
-   target="_blank"
-   rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/Lambda_Research_Initiative_⟦λ⟧-🌍Community_(C|LRI)_Node-B31B1B?style=neon&labelColor=0057B8&logo=creativecommons&logoColor=FFFFFF"
-    alt="Lambda Research Initiative Community Node on X">
-</a>
+[![Lambda Research Initiative ⟦λ⟧](https://img.shields.io/badge/Lambda_Research_Initiative_⟦λ⟧-🌍Community_(C|LRI)_Node-B31B1B?style=neon&labelColor=0057B8&logo=creativecommons&logoColor=FFFFFF)](https://x.com/i/communities/1993220630121169163)
 [![🌍 Translate this Page](https://img.shields.io/badge/Click_to_Translate_this_Page-4285F4?style=neon&logo=googletranslate&logoColor=white)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
-[![Translate (DeepL)](https://img.shields.io/badge/Translate_with-DeepL-0F52BA?style=neon&labelColor=0b0d0f&logo=deepl&logoColor=FFFFFF)](https://www.deepl.com/translator#auto/en/https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
-<a href="https://chat.openai.com/?model=gpt-4o&prompt=Explain+this+README.md:+https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md"
-   target="_blank"
-   rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/Explain_with_OpenAI_(GPT_4o)-First_Impression·Unbiased·3rd--Party_AI_(Any_Model)-6D2A8A?style=neon&labelColor=0b0d0f&color=6D2A8A&logo=wikipedia&logoColor=FFFFFF"
-    alt="Explain this README with OpenAI GPT-4o (third-party, unbiased)">
-</a>
+[![Translate with DeepL](https://img.shields.io/badge/Translate_with-DeepL-0F52BA?style=neon&labelColor=0b0d0f&logo=deepl&logoColor=FFFFFF)](https://www.deepl.com/translator#auto/en/https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
+[![Explain with OpenAI (GPT-4o)](https://img.shields.io/badge/Explain_with_OpenAI_(GPT_4o)-First_Impression·Unbiased·3rd--Party_AI_(Any_Model)-6D2A8A?style=neon&labelColor=0b0d0f&color=6D2A8A&logo=wikipedia&logoColor=FFFFFF)](https://chat.openai.com/?model=gpt-4o&prompt=Explain+this+README.md:+https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![Research Framework](https://img.shields.io/badge/Project_Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=222222)](https://en.wikipedia.org/wiki/Computational_science)
-<a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
-   target="_blank"
-   rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=222222"
-    alt="Polyrifringence Engine Expert GPT Integration">
-</a>
-<a href="https://github.com/Wotcnt" target="_blank" rel="noopener noreferrer">
-  <img alt="Authorial Technical Orientation"
-       src="https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff">
-</a>
+[![Polyrifringence Engine Expert GPT](https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=222222)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+[![Authorial Technical Orientation](https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff)](https://github.com/Wotcnt)
+
 
 ---
 
@@ -192,7 +172,6 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-<!-- === Row 2 — Codex & Prestige Tier === -->
 [![Intel](https://img.shields.io/badge/Intel-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=CFEFF6)](https://www.intel.com/content/www/us/en/products/sku/80807/intel-core-i54690k-processor-6m-cache-up-to-3-90-ghz/specifications.html)
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=046307)](https://www.nvidia.com/)
 [![GPU Execution](https://img.shields.io/badge/GeForce_RTX_3050_(8GB)-GPU_Observed--Execution-000000?style=for-the-badge&labelColor=0b0d0f&color=046307)](https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3050/)
@@ -222,71 +201,20 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-<!-- 1. Jasper (Quartz family) -->
-<a href="https://www.minerals.net/mineral/quartz.aspx">
-  <img src="https://img.shields.io/badge/House_of_Jasper-Jasper_⧫_❯-9B111E?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000">
-</a>
-
-<!-- 2. Sapphire (Corundum) -->
-<a href="https://www.minerals.net/mineral/corundum.aspx">
-  <img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire_◇_❯❯-0F52BA?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000">
-</a>
-
-<!-- 3. Chalcedony (Quartz family) -->
-<a href="https://www.minerals.net/mineral/quartz.aspx">
-  <img src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony_⬣_❯❯❯-D7C7A2?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000">
-</a>
-
-<!-- 4. Emerald (Beryl) -->
-<a href="https://www.minerals.net/mineral/beryl.aspx">
-  <img src="https://img.shields.io/badge/House_of_Emerald-Emerald_♧_❯❯❯❯-046307?style=for-the-badge&logo=obsidian&logoColor=046307&labelColor=000000">
-</a>
-
-<!-- 5. Sardonyx (Quartz family) -->
-<a href="https://www.minerals.net/mineral/quartz.aspx">
-  <img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx_⬤_❯❯❯❯❯-C55A11?style=for-the-badge&logo=obsidian&logoColor=C55A11&labelColor=000000">
-</a>
-
-<!-- 6. Sardius (Quartz family / Carnelian variant) -->
-<a href="https://www.minerals.net/mineral/quartz.aspx">
-  <img src="https://img.shields.io/badge/House_of_Sardius-Sardius_⬟_❯❯❯❯❯❯-B31B1B?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000">
-</a>
-
-<!-- 7. Chrysolite (Olivine / Peridot) -->
-<a href="https://www.minerals.net/mineral/olivine.aspx">
-  <img src="https://img.shields.io/badge/House_of_Chrysolite-Chrysolite_⬡_❯❯❯❯❯❯❯-C5E384?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000">
-</a>
-
-<!-- 8. Beryl -->
-<a href="https://www.minerals.net/mineral/beryl.aspx">
-  <img src="https://img.shields.io/badge/House_of_Beryl-Beryl_⬢_❯❯❯❯❯❯❯❯-56E9DB?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000">
-</a>
-
-<!-- 9. Topaz -->
-<a href="https://www.minerals.net/mineral/topaz.aspx">
-  <img src="https://img.shields.io/badge/House_of_Topaz-Topaz_⬣_❯❯❯❯❯❯❯❯❯-E6A756?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000">
-</a>
-
-<!-- 10. Chrysoprase (Quartz family) -->
-<a href="https://www.minerals.net/mineral/quartz.aspx">
-  <img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase_⬖_❯❯❯❯❯❯❯❯❯❯-00E68C?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000">
-</a>
-
-<!-- 11. Jacinth (Zircon) -->
-<a href="https://www.minerals.net/mineral/zircon.aspx">
-  <img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth_✧_❯❯❯❯❯❯❯❯❯❯❯-D24D0F?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000">
-</a>
-
-<!-- 12. Amethyst (Quartz family) -->
-<a href="https://www.minerals.net/mineral/quartz.aspx">
-  <img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst_✦_❯❯❯❯❯❯❯❯❯❯❯❯-6D2A8A?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000">
-</a>
-
+[![House of Jasper](https://img.shields.io/badge/House_of_Jasper-Jasper_⧫_❯-9B111E?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000)](https://www.minerals.net/mineral/quartz.aspx)
+[![House of Sapphire](https://img.shields.io/badge/House_of_Sapphire-Sapphire_◇_❯❯-0F52BA?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000)](https://www.minerals.net/mineral/corundum.aspx)
+[![House of Chalcedony](https://img.shields.io/badge/House_of_Chalcedony-Chalcedony_⬣_❯❯❯-D7C7A2?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000)](https://www.minerals.net/mineral/quartz.aspx)
+[![House of Emerald](https://img.shields.io/badge/House_of_Emerald-Emerald_♧_❯❯❯❯-046307?style=for-the-badge&logo=obsidian&logoColor=046307&labelColor=000000)](https://www.minerals.net/mineral/beryl.aspx)
+[![House of Sardonyx](https://img.shields.io/badge/House_of_Sardonyx-Sardonyx_⬤_❯❯❯❯❯-C55A11?style=for-the-badge&logo=obsidian&logoColor=C55A11&labelColor=000000)](https://www.minerals.net/mineral/quartz.aspx)
+[![House of Sardius](https://img.shields.io/badge/House_of_Sardius-Sardius_⬟_❯❯❯❯❯❯-B31B1B?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000)](https://www.minerals.net/mineral/quartz.aspx)
+[![House of Chrysolite](https://img.shields.io/badge/House_of_Chrysolite-Chrysolite_⬡_❯❯❯❯❯❯❯-C5E384?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000)](https://www.minerals.net/mineral/olivine.aspx)
+[![House of Beryl](https://img.shields.io/badge/House_of_Beryl-Beryl_⬢_❯❯❯❯❯❯❯❯-56E9DB?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000)](https://www.minerals.net/mineral/beryl.aspx)
+[![House of Topaz](https://img.shields.io/badge/House_of_Topaz-Topaz_⬣_❯❯❯❯❯❯❯❯❯-E6A756?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000)](https://www.minerals.net/mineral/topaz.aspx)
+[![House of Chrysoprase](https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase_⬖_❯❯❯❯❯❯❯❯❯❯-00E68C?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000)](https://www.minerals.net/mineral/quartz.aspx)
+[![House of Jacinth](https://img.shields.io/badge/House_of_Jacinth-Jacinth_✧_❯❯❯❯❯❯❯❯❯❯❯-D24D0F?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000)](https://www.minerals.net/mineral/zircon.aspx)
+[![House of Amethyst](https://img.shields.io/badge/House_of_Amethyst-Amethyst_✦_❯❯❯❯❯❯❯❯❯❯❯❯-6D2A8A?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000)](https://www.minerals.net/mineral/quartz.aspx)
 <br>
-
-<a href="https://en.wikipedia.org/wiki/Prism_(optics)">
-  <img src="https://img.shields.io/badge/House_of_Prismatic_Fields:_⌬-❮❮❮❮❮❮_ΔΔΩΔ_❯❯❯❯❯❯-CFEFF6?style=for-the-badge&logo=obsidian&logoColor=CFEFF6&labelColor=000000">
-</a>
+[![House of Prismatic Fields](https://img.shields.io/badge/House_of_Prismatic_Fields:_⌬-❮❮❮❮❮❮_ΔΔΩΔ_❯❯❯❯❯❯-CFEFF6?style=for-the-badge&logo=obsidian&logoColor=CFEFF6&labelColor=000000)](https://en.wikipedia.org/wiki/Prism_(optics))
 
 ---
 
@@ -313,11 +241,9 @@ Timestamp Locked · Trace Context Declared
 
 > If you want a plain-language, non-symbolic technical orientation before engaging this repository, start here-click the badge: 
 >
-> <a href="https://github.com/Wotcnt" target="_blank" rel="noopener noreferrer">
-  <img alt="Authorial Technical Orientation"
-       src="https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff">
-</a>
-
+> [![Authorial Technical Orientation](https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff)](https://github.com/Wotcnt)
+>
+>
 >
 >This project is **not a quick-start README**, software manual, or standalone paper.
 >
@@ -408,11 +334,12 @@ Readers should observe the following:
 <summary><kbd>🐒Give me a tickle</kbd></summary>
 <div align="center">
   <div dir="rtl">
-    <!-- Right-side mirrored monkey icon with adjusted colors -->
     <img width="100%" src="https://img.shields.io/badge/-%20-0b0d0f?style=neon&logo=codemirror&logoColor=3ee7ff&color=black&labelColor=transparent">
   </div>
 </div>
 </details>
+
+---
 
 # **♻️|What a strange loop it’s been, Möbius|♻️**
 
@@ -807,6 +734,8 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
 
 ❎ **No Requirements - No installation** ❎ 
 
+---
+
 Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 👉`Use it for FREE without an account or Sign-up to Utilize a free account to keep your chats`🆗
@@ -820,83 +749,89 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 <a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
    target="_blank"
    rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/Click_to_Open-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)-56E9DB?style=neon&logo=github&logoColor=56E9DB&labelColor=black&color=56E9DB"
-    width="640"
-    alt="Open Polyrifringence Engine Expert GPT">
+  <img width="100%"
+       src="https://img.shields.io/badge/CLICK_TO_OPEN-Polyrifringence_Engine_Expert_GPT-000000?style=NEON&logo=obsidian&logoColor=6D2A8A&labelColor=56E9DB"
+       alt="Open Polyrifringence Engine Expert GPT">
 </a>
 
 ---
 
 🤖 **Purpose:**  
 
-An embedded assistant Specialized in the Polyrifringence Engine to help better understand through your queries.
+---
 
-`A doorway for those who see the handle. The floor, never the ceiling`  
-
-⛑️ It enables users to:
-
- `Instantiate, audit, and reproduce a local Polyrifringence environment, including deterministic configuration, hardware validation, and provenance tracking ` 
- 
- `Engage the project as a constrained research record, not a black-box tool, with explicit scope boundaries, non-claims, and falsification hooks`  
- 
- `Study recursive birefringence as a lawful, non-equilibrium coherence phenomenon governed by structure, timing, and bounded feedback` 
- 
- `Analyze symbolic recursion strictly as a descriptive and indexing layer, not agency, intent, or metaphysics`  
- 
- `Evaluate coherence persistence, drift, and collapse using phase-trace outputs, decay envelopes, and Euclid-5 diagnostics` 
- 
- `Assess GPU execution behavior under real consumer hardware limits, including throughput scaling, bottlenecks, and stability margins`  
- 
- `Apply constraint-first reasoning to distinguish structural advantage from energy amplification or entropy violation`  
- 
- `Operate within explicit ethical and interpretive bounds, enforced by the Recursive Sovereignty Protocol and Codex-aligned constraints`  
- 
- `Develop alternative analytical perspectives grounded in organization, invariants, and failure modes rather than magnitude-first intuition`
+> An embedded assistant Specialized in the Polyrifringence Engine to help better understand through your queries.
+> **_<kbd>A doorway for those who see the handle. The floor, never the ceiling</kbd>_**  
+>
+> ⛑️ It enables users to:
+>
+> Instantiate, audit, and reproduce a local Polyrifringence environment, including deterministic configuration, hardware validation, and provenance tracking  
+> 
+> Engage the project as a constrained research record, not a black-box tool, with explicit scope boundaries, non-claims, and falsification hooks 
+>
+> Study recursive birefringence as a lawful, non-equilibrium coherence phenomenon governed by structure, timing, and bounded feedback 
+> 
+> Analyze symbolic recursion strictly as a descriptive and indexing layer, not agency, intent, or metaphysics 
+>
+> Evaluate coherence persistence, drift, and collapse using phase-trace outputs, decay envelopes, and Euclid-5 diagnostics
+> 
+> Assess GPU execution behavior under real consumer hardware limits, including throughput scaling, bottlenecks, and stability margins
+>
+> Apply constraint-first reasoning to distinguish structural advantage from energy amplification or entropy violation 
+> 
+> Operate within explicit ethical and interpretive bounds, enforced by the Recursive Sovereignty Protocol and Codex-aligned constraints 
+> 
+> Develop alternative analytical perspectives grounded in organization, invariants, and failure modes rather than magnitude-first intuition
 
 ---
 
 #  Once opened 🚪, you can ask beginner questions such as:
 
-`1. What is Polyrifringence and how does it work in simple terms?`  
+---
 
-`2. What problem does Polyrifringence solve that normal birefringence does not?` 
+> 1. What is Polyrifringence and how does it work in simple terms?  
+>
+> 2. What problem does Polyrifringence solve that normal birefringence does not?
+>
+> 3. How do gem materials affect light propagation inside the Polyrifringence Engine?
+>
+> 4. What is phase drift in Polyrifringence and how is it measured?
+>
+> 5. How do tilt angles influence recursive light paths in Polyrifringence?
+>
+> 6. How does Polyrifringence handle multi wavelength inputs?
+>
+> 7. How does the engine model interference patterns across gem boundaries?
+>
+> 8. What makes recursive optical paths different from traditional linear propagation?
+>
+> 9. How does Polyrifringence achieve stability when simulating millions of rays?
+>
+> 10. How does material thickness influence the final phase and polarization outcome?
+>
+> 11. How does Polyrifringence model polarization rotation across sequential optical layers?
+>
+> 12. How does noise or microscopic material variation influence ray coherence in Polyrifringence simulations?
 
-`3. How do gem materials affect light propagation inside the Polyrifringence Engine?` 
+---
 
-`4. What is phase drift in Polyrifringence and how is it measured?` 
+ #  Or, 📈 Advanced & Expert questions such as:
 
-`5. How do tilt angles influence recursive light paths in Polyrifringence?`
+---
 
-`6. How does Polyrifringence handle multi wavelength inputs?`
-
-`7. How does the engine model interference patterns across gem boundaries?`
-
-`8. What makes recursive optical paths different from traditional linear propagation?`
-
-`9. How does Polyrifringence achieve stability when simulating millions of rays?`
-
-`10. How does material thickness influence the final phase and polarization outcome?`
-
-`11. How does Polyrifringence model polarization rotation across sequential optical layers?`
-
-`12. How does noise or microscopic material variation influence ray coherence in Polyrifringence simulations?`
-
-#  Or, 📈 Advanced & Expert questions such as:
-
-`X. Expert Mode: (Fill with your Question for full rigor, start your query with "Expert Mode:")`
-1. **Expert mode:** derive the fixed-point condition for the Polyrifringence recursion $$(E_{n+1} = J(\theta,\lambda),F(E_n))$$ under Euclid-5 drift < 0.1 mrad.
-2. How do `REGF` and `PVS` jointly diagnose failure modes in a multi-gem sapphire–diamond–calcite stack at high recursion depth?
-3. Given a phase-trace CSV, show me step by step how to estimate Euclid-style angular drift from `PB_rad`, `PVS_mrad`, and `DeltaTheta_eo_mrad`.
-4. What parameter regimes `(ray count, micro-batch, dtype, recursion depth)` push the engine closest to numerical instability on an RTX 3050, and how do I harden against that?
-5. How does changing the gem sequence from `sapphire,diamond,quartz` to `sapphire,calcite,zircon` alter convergence behaviour and Euclid-5 pass rate?
-6. Design a lab-noise harness run that stress-tests phase coherence while keeping energy drift $$(|\delta_E| < 0.001)$$. Explain why each parameter choice matters.
-7. Show how `--ai_feedback` modifies the recursion diagnostics pathway and how I should interpret its logs without treating it as an autonomous agent.
-8. For a given benchmark CSV, walk me through a full verification pass: `Euclid-5 compliance`, `REGF trend`, `PVS trend`, and where the recursion begins to degrade.
-9. How would you use the phase-trace viewer to distinguish benign polarization spread from true geometric phase drift that violates Euclid-5?
-10. Map the Codex Twelve gem roles onto concrete optical behaviours in the engine `(isotropic vs anisotropic, dispersion regime, and use-case per gem)`.
-11. Explain how to construct a minimal multi-gem configuration that demonstrates resonance-like behaviour without breaking energy conservation or `Euclid-5 constraints`.
-12. In `expert mode`, compare Polyrifringence to a conventional interferometer at the operator level and show exactly where the recursive feedback term changes the physics.
+> X. `Expert Mode:` (Fill with your Question for full rigor, start your query with "Expert Mode:")
+> 1. **Expert mode:** derive the fixed-point condition for the Polyrifringence recursion $$(E_{n+1} = J(\theta,\lambda),F(E_n))$$ under Euclid-5 drift < 0.1 mrad.
+> 2. How do `REGF` and `PVS` jointly diagnose failure modes in a multi-gem sapphire–diamond–calcite stack at high recursion depth?
+> 3. Given a phase-trace CSV, show me step by step how to estimate Euclid-style angular drift from `PB_rad`, `PVS_mrad`, and `DeltaTheta_eo_mrad`.
+> 4. What parameter regimes `(ray count, micro-batch, dtype, recursion depth)` push the engine closest to numerical instability on an RTX 3050, and how do I harden against that?
+> 5. How does changing the gem sequence from `sapphire,diamond,quartz` to `sapphire,calcite,zircon` alter convergence behaviour and Euclid-5 pass rate?
+> 6. Design a lab-noise harness run that stress-tests phase coherence while keeping energy drift $$(|\delta_E| < 0.001)$$. Explain why each parameter choice matters.
+> 7. Show how `--ai_feedback` modifies the recursion diagnostics pathway and how I should interpret its logs without treating it as an autonomous agent.
+> 8. For a given benchmark CSV, walk me through a full verification pass: `Euclid-5 compliance`, `REGF trend`, `PVS trend`, and where the recursion begins to degrade.
+> 9. How would you use the phase-trace viewer to distinguish benign polarization spread from true geometric phase drift that violates Euclid-5?
+> 10. Map the Codex Twelve gem roles onto concrete optical behaviours in the engine `(isotropic vs anisotropic, dispersion regime, and use-case per gem)`.
+> 11. Explain how to construct a minimal multi-gem configuration that demonstrates resonance-like behaviour without breaking energy conservation or `Euclid-5 constraints`.
+> 12. In `expert mode`, compare Polyrifringence to a conventional interferometer at the operator level and show exactly where the recursive feedback term changes the physics.
 
 ---
 
@@ -925,7 +860,7 @@ An embedded assistant Specialized in the Polyrifringence Engine to help better u
 >
 > Load all three files together before asking any of the following.  
 > The value lies in **how the system responds under constraint**, not in any single answer.
-
+>
 > 📝 **Note**  
 > These prompts form a subset of thoughts that are intentionally modular. They are not meant to be followed in order or used verbatim.  
 > Mix, merge, rephrase, or partially combine questions across categories.  
@@ -937,8 +872,8 @@ An embedded assistant Specialized in the Polyrifringence Engine to help better u
 
 ---
 
-- **What scientific and technical domains does this framework intersect, and where does it explicitly *not* belong based on its stated constraints?**
-- **Which existing disciplines partially describe aspects of this system, and which of their core assumptions fail under the Ω–℧ geometry?**
+> * **What scientific and technical domains does this framework intersect, and where does it explicitly *not* belong based on its stated constraints?**
+> * **Which existing disciplines partially describe aspects of this system, and which of their core assumptions fail under the Ω–℧ geometry?**
 
 ---
 
@@ -946,8 +881,8 @@ An embedded assistant Specialized in the Polyrifringence Engine to help better u
 
 ---
 
-- **Does the Ω–℧ state-space framing reopen research directions that historically stalled due to energy-centric or entropy-centric assumptions?**
-- **Identify historical approaches that struggled with threshold stability. Does this framework address the *cause* of those failures or merely reframe them?**
+> * **Does the Ω–℧ state-space framing reopen research directions that historically stalled due to energy-centric or entropy-centric assumptions?**
+> * **Identify historical approaches that struggled with threshold stability. Does this framework address the *cause* of those failures or merely reframe them?**
 
 ---
 
@@ -955,8 +890,8 @@ An embedded assistant Specialized in the Polyrifringence Engine to help better u
 
 ---
 
-- **Compare this framework’s treatment of threshold events with sonoluminescence, sonofusion, and cold fusion — focusing strictly on coherence, phase-space accessibility (Z), and failure modes.**
-- **In what ways does the Ω–℧ pairing differ from conventional feedback loops or resonance models used in these domains?**
+> * **Compare this framework’s treatment of threshold events with sonoluminescence, sonofusion, and cold fusion — focusing strictly on coherence, phase-space accessibility (Z), and failure modes.**
+> * **In what ways does the Ω–℧ pairing differ from conventional feedback loops or resonance models used in these domains?**
 
 ---
 
@@ -964,8 +899,8 @@ An embedded assistant Specialized in the Polyrifringence Engine to help better u
 
 ---
 
-- **How does explicitly modelling coherence conditioning alter the role of the observer compared to traditional objective-only models?**
-- **What responsibilities or constraints does this framework place on an interacting observer that standard models do not?**
+> * **How does explicitly modelling coherence conditioning alter the role of the observer compared to traditional objective-only models?**
+> * **What responsibilities or constraints does this framework place on an interacting observer that standard models do not?**
 
 ---
 
@@ -973,8 +908,8 @@ An embedded assistant Specialized in the Polyrifringence Engine to help better u
 
 ---
 
-- **Is this system better understood as a theory, an engine, a geometry, or an epistemic instrument — and why?**
-- **What types of questions does this framework make easier to ask, and which types of questions does it deliberately resist?**
+> * **Is this system better understood as a theory, an engine, a geometry, or an epistemic instrument — and why?**
+> * **What types of questions does this framework make easier to ask, and which types of questions does it deliberately resist?**
 
 ---
 
@@ -982,17 +917,17 @@ An embedded assistant Specialized in the Polyrifringence Engine to help better u
 
 ---
 
-These prompts explore how lawful systems can appear anomalous or “magical” to observers who lack sufficient contextual models.
-
-- **Under what conditions could the behaviour of this system appear indistinguishable from “magic” to an observer who lacks the Ω–℧ and X/Y/Z context?**
-- **What specific missing assumptions or models would cause an observer to misattribute lawful behaviour to non-physical causes?**
-- **Does this framework explain *why* advanced technologies often appear mystical or anomalous at first contact?**
-
-- **At what point does a system cross from being “complex” to being “epistemically opaque” to a given observer?**
-- **How does explicit modelling of coherence and phase-space accessibility reduce that opacity?**
-
-- **Can two observers, operating on different internal models, reasonably disagree about whether the same observed behaviour is ‘possible’ or ‘impossible’?**
-- **How does this framework formalise the boundary between misunderstanding and genuine anomaly?**
+> These prompts explore how lawful systems can appear anomalous or “magical” to observers who lack sufficient contextual models.
+>
+> * **Under what conditions could the behaviour of this system appear indistinguishable from “magic” to an observer who lacks the Ω–℧ and X/Y/Z context?**
+> * **What specific missing assumptions or models would cause an observer to misattribute lawful behaviour to non-physical causes?**
+> * **Does this framework explain *why* advanced technologies often appear mystical or anomalous at first contact?**
+>
+> * **At what point does a system cross from being “complex” to being “epistemically opaque” to a given observer?**
+> * **How does explicit modelling of coherence and phase-space accessibility reduce that opacity?**
+>
+> * **Can two observers, operating on different internal models, reasonably disagree about whether the same observed behaviour is ‘possible’ or ‘impossible’?**
+> * **How does this framework formalise the boundary between misunderstanding and genuine anomaly?**
 
 ---
 
@@ -1000,14 +935,14 @@ These prompts explore how lawful systems can appear anomalous or “magical” t
 
 ---
 
-These prompts intentionally mirror the kinds of questions people actually ask when encountering unfamiliar systems.
-
-- **If someone insisted this system was impossible, what assumption are they most likely protecting rather than testing?**
-- **What is the most “ridiculous” interpretation of this framework that still follows logically from an incomplete reading?**
-- **Which parts of this system invite misunderstanding by design, and which resist it no matter how they are framed?**
-
-- **If an observer tried to disprove this system by ridicule alone, where would their argument collapse under its own assumptions?**
-- **What questions feel reasonable only because of cultural or educational familiarity rather than physical necessity?**
+> These prompts intentionally mirror the kinds of questions people actually ask when encountering unfamiliar systems.
+>
+> * **If someone insisted this system was impossible, what assumption are they most likely protecting rather than testing?**
+> * **What is the most “ridiculous” interpretation of this framework that still follows logically from an incomplete reading?**
+> * **Which parts of this system invite misunderstanding by design, and which resist it no matter how they are framed?**
+>
+> * **If an observer tried to disprove this system by ridicule alone, where would their argument collapse under its own assumptions?**
+> * **What questions feel reasonable only because of cultural or educational familiarity rather than physical necessity?**
 
 ---
 
@@ -1015,12 +950,12 @@ These prompts intentionally mirror the kinds of questions people actually ask wh
 
 ---
 
-- **Under what conditions would this framework fail to provide meaningful guidance?**
-- **What inputs or observer behaviours would cause the Ω–℧ structure to collapse into triviality?**
-- **Is there a regime where increasing coherence *reduces* system usefulness? Why?**
-
-- **What is the most extreme misapplication of this framework that still appears superficially plausible?**
-- **Where does this system explicitly refuse to answer certain classes of questions?**
+> * **Under what conditions would this framework fail to provide meaningful guidance?**
+> * **What inputs or observer behaviours would cause the Ω–℧ structure to collapse into triviality?**
+> * **Is there a regime where increasing coherence *reduces* system usefulness? Why?**
+>
+> * **What is the most extreme misapplication of this framework that still appears superficially plausible?**
+> * **Where does this system explicitly refuse to answer certain classes of questions?**
 
 ---
 
@@ -1028,12 +963,12 @@ These prompts intentionally mirror the kinds of questions people actually ask wh
 
 ---
 
-- **How much of what an observer perceives as ‘capability’ is actually a projection of intent rather than system behaviour?**
-- **Could two observers with identical data but different goals reach opposite conclusions about this system?**
-- **What happens when an observer seeks validation rather than understanding from this framework?**
-
-- **Does this system reward curiosity, discipline, or persistence — and how can that be measured?**
-- **What kind of observer is most likely to misuse this framework, and why?**
+> * **How much of what an observer perceives as ‘capability’ is actually a projection of intent rather than system behaviour?**
+> * **Could two observers with identical data but different goals reach opposite conclusions about this system?**
+> * **What happens when an observer seeks validation rather than understanding from this framework?**
+>
+> * **Does this system reward curiosity, discipline, or persistence — and how can that be measured?**
+> * **What kind of observer is most likely to misuse this framework, and why?**
 
 ---
 
@@ -1041,11 +976,11 @@ These prompts intentionally mirror the kinds of questions people actually ask wh
 
 ---
 
-- **If this framework were discovered before modern thermodynamics, how might physics have developed differently?**
-- **What would an observer from a pre-electrical era likely conclude upon encountering behaviour explained by Ω–℧ geometry?**
-- **Does the framework depend on modern language, or would its structure survive translation into entirely different conceptual systems?**
-
-- **What parts of this system are historically contingent, and which appear invariant across eras of understanding?**
+> * **If this framework were discovered before modern thermodynamics, how might physics have developed differently?**
+> * **What would an observer from a pre-electrical era likely conclude upon encountering behaviour explained by Ω–℧ geometry?**
+> * **Does the framework depend on modern language, or would its structure survive translation into entirely different conceptual systems?**
+>
+> * **What parts of this system are historically contingent, and which appear invariant across eras of understanding?**
 
 ---
 
@@ -1053,12 +988,12 @@ These prompts intentionally mirror the kinds of questions people actually ask wh
 
 ---
 
-- **Which questions about this system reveal more about the asker than the system?**
-- **What does it mean when two people ask fundamentally different questions after reading the same three files?**
-- **How does this framework change *what feels like a reasonable question* to ask next?**
-
-- **Is confusion here a failure of explanation, or evidence of encountering a new geometry?**
-- **At what point does asking better questions matter more than finding better answers?**
+> * **Which questions about this system reveal more about the asker than the system?**
+> * **What does it mean when two people ask fundamentally different questions after reading the same three files?**
+> * **How does this framework change *what feels like a reasonable question* to ask next?**
+>
+> * **Is confusion here a failure of explanation, or evidence of encountering a new geometry?**
+> * **At what point does asking better questions matter more than finding better answers?**
 
 ---
 
@@ -1066,26 +1001,26 @@ These prompts intentionally mirror the kinds of questions people actually ask wh
 
 ---
 
-All Large Language Models (LLMs) **make mistakes** — sometimes subtle, sometimes significant.  
-Make no mistake about that.
-
-LLMs are pattern-based reasoning tools, not authorities, validators, or arbiters of truth.  
-Any responses generated through guided interrogation should be treated as **provisional perspectives**, not conclusions.
-
-As a user of this repository:
-
-- Take all LLM outputs **with a grain of salt**.
-- Independently **verify and validate** any claims against the source files and established physical constraints.
-- Avoid extrapolating beyond what is explicitly supported by evidence.
-- Do **not** overclaim, speculate irresponsibly, or infer validation where none is provided.
-
-If something stands out as unclear, novel, or potentially significant:
-- Raise it through the **appropriate channels** for clarification or discussion.
-- Provide context, references, and supporting reasoning.
-- Avoid extraordinary claims **without extraordinary evidence**.
-
-This project provides **means for exploration**, not guarantees of correctness.  
-Responsible interpretation and disciplined inquiry are part of the system by design.
+> All Large Language Models (LLMs) **make mistakes** — sometimes subtle, sometimes significant.  
+> Make no mistake about that.
+>
+> LLMs are pattern-based reasoning tools, not authorities, validators, or arbiters of truth.  
+> Any responses generated through guided interrogation should be treated as **provisional perspectives**, not conclusions.
+>
+> As a user of this repository:
+>
+> * Take all LLM outputs **with a grain of salt**.
+> * Independently **verify and validate** any claims against the source files and established physical constraints.
+> * Avoid extrapolating beyond what is explicitly supported by evidence.
+> * Do **not** overclaim, speculate irresponsibly, or infer validation where none is provided.
+>
+> If something stands out as unclear, novel, or potentially significant:
+> * Raise it through the **appropriate channels** for clarification or discussion.
+> * Provide context, references, and supporting reasoning.
+> * Avoid extraordinary claims **without extraordinary evidence**.
+> 
+> This project provides **means for exploration**, not guarantees of correctness.  
+> Responsible interpretation and disciplined inquiry are part of the system by design.
 
 ---
 
@@ -1102,10 +1037,12 @@ Responsible interpretation and disciplined inquiry are part of the system by des
 
 ---
 
-####    📛 Requiring specialized expertise or the wilful intent to learn 📛
-
-##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies. The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners. 
-###### This isn't to deter beginners, if you're wilful and disciplined and can think from different lenses then you already have the capacity for improving yourself - Error and correction are integral to meaningful learning.
+> ####    📛 Requiring specialized expertise or the wilful intent to learn 📛
+>
+> ##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. 
+> Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies.
+> The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners. 
+> ###### This isn't to deter beginners, if you're wilful and disciplined and can think from different lenses then you already have the capacity for improving yourself - Error and correction are integral to meaningful learning.
 
 ---
 
@@ -1124,7 +1061,9 @@ Responsible interpretation and disciplined inquiry are part of the system by des
 
 **Current Baseline: `50M*x⧉ Rays/s`**
 
-The 50*x⧉ million rays/s baseline represents the initial performance validated with the current setup and GPU hardware. This threshold serves as a foundational measurement, providing a starting point for further exploration. **_However, this baseline has yet to be pushed past its limits, and further testing, optimization, and scaling are required to reach higher throughput benchmarks._**
+> The 50*x⧉ million rays/s baseline represents the initial performance validated with the current setup and GPU hardware. 
+> This threshold serves as a foundational measurement, providing a starting point for further exploration.
+> **_However, this baseline has yet to be pushed past its limits, and further testing, optimization, and scaling are required to reach higher throughput benchmarks._**
 
 ---
 
@@ -1132,19 +1071,19 @@ The 50*x⧉ million rays/s baseline represents the initial performance validated
 
 ---
 
-Incremental optimization is not only a strategic path to scaling performance but also an essential learning process that unveils hidden insights within the system. _By making small, controlled adjustments to key areas like precision, GPU memory management, and feedback loops, each incremental step allows for fine-tuning of system parameters while observing the effects of each change._
-
-*As you gradually push the limits, you'll often uncover latent patterns and emergent behaviours within the system that might otherwise remain unnoticed.*
-
-_**`These could include:`**_
-
-**Hidden inefficiencies** in kernel operations or memory allocations that are difficult to spot in larger, one-time adjustments.
-
-**Unexpected performance** bottlenecks or opportunities for optimization that only become apparent as the system runs under progressively heavier loads.
-
-**Recursive insights and feedback loops** that grow more apparent as you push the system's symbolic capabilities and performance, revealing areas where symbolic recursion or observer-state alignment enhances performance beyond what purely mathematical models predict.
-
-_By opting for incremental optimization, you build a deeper understanding of how your system operates at different performance thresholds. This approach not only refines the current model but also provides a framework for exploring untapped potential and fostering innovation that can lead to breakthrough discoveries in GPU utilization, parallel processing, and symbolic recursion integration._
+> Incremental optimization is not only a strategic path to scaling performance but also an essential learning process that unveils hidden insights within the system. _By making small, controlled adjustments to key areas like precision, GPU memory management, and feedback loops, each incremental step allows for fine-tuning of system parameters while observing the effects of each change._
+>
+> *As you gradually push the limits, you'll often uncover latent patterns and emergent behaviours within the system that might otherwise remain unnoticed.*
+>
+> _**`These could include:`**_
+>
+> **Hidden inefficiencies** in kernel operations or memory allocations that are difficult to spot in larger, one-time adjustments.
+>
+> **Unexpected performance** bottlenecks or opportunities for optimization that only become apparent as the system runs under progressively heavier loads.
+>
+> **Recursive insights and feedback loops** that grow more apparent as you push the system's symbolic capabilities and performance, revealing areas where symbolic recursion or observer-state alignment enhances performance beyond what purely mathematical models predict.
+>
+> _By opting for incremental optimization, you build a deeper understanding of how your system operates at different performance thresholds. This approach not only refines the current model but also provides a framework for exploring untapped potential and fostering innovation that can lead to breakthrough discoveries in GPU utilization, parallel processing, and symbolic recursion integration._
 
 ---
 
@@ -1152,13 +1091,13 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 ---
 
-**_`This method allows you to:`_**
-
-**Refine Performance Gradually:** Every adjustment brings you closer to the theoretical maximum for your hardware, without overreaching prematurely.
-
-**Discover Hidden Variables:** Often, small changes bring up larger questions or reveal overlooked factors - whether they’re technical constraints or subtle interactions between hardware and symbolic computation.
-
-**Enhance Flexibility:** Incremental steps create more resilient systems, where performance tuning is adaptable as new insights emerge or hardware changes occur.
+> **_`This method allows you to:`_**
+>
+> **Refine Performance Gradually:** Every adjustment brings you closer to the theoretical maximum for your hardware, without overreaching prematurely.
+> 
+> **Discover Hidden Variables:** Often, small changes bring up larger questions or reveal overlooked factors - whether they’re technical constraints or subtle interactions between hardware and symbolic computation.
+> 
+> **Enhance Flexibility:** Incremental steps create more resilient systems, where performance tuning is adaptable as new insights emerge or hardware changes occur.
 
 ---
 	
@@ -1166,11 +1105,11 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 ---
 
-*This project is an advanced simulation engine designed to model how light behaves when passing through complex crystals that bend and split it in intricate ways. Think of it as a high-tech tool combining physics, computer programming, and artificial intelligence concepts to study how different layers and angles of light waves interact and form beautiful, multi-coloured patterns. _While the details involve complex math and programming, the big idea is to create accurate computer-based visualizations of light’s hidden secrets, inspired by ancient symbolic meanings of gems and light._*
-
-###### This engine can be used to explore new materials, understand optical phenomena better, and bridge scientific understanding with philosophical and ethical insights about observation and knowledge.
-
-**_Learning this project is best approached using incremental steps: starting small, testing your understanding as you go, and gradually building skill and knowledge. Just as complex software is developed one feature at a time for better quality and flexibility, mastering this engine benefits from slow, steady progress and iterations. Small wins and continuous refinement lead to deeper comprehension and expertise over time._**
+> *This project is an advanced simulation engine designed to model how light behaves when passing through complex crystals that bend and split it in intricate ways. Think of it as a high-tech tool combining physics, computer programming, and artificial intelligence concepts to study how different layers and angles of light waves interact and form beautiful, multi-coloured patterns. _While the details involve complex math and programming, the big idea is to create accurate computer-based visualizations of light’s hidden secrets, inspired by ancient symbolic meanings of gems and light._*
+>
+> ###### This engine can be used to explore new materials, understand optical phenomena better, and bridge scientific understanding with philosophical and ethical insights about observation and knowledge.
+>
+> **_Learning this project is best approached using incremental steps: starting small, testing your understanding as you go, and gradually building skill and knowledge. Just as complex software is developed one feature at a time for better quality and flexibility, mastering this engine benefits from slow, steady progress and iterations. Small wins and continuous refinement lead to deeper comprehension and expertise over time._**
 
 ---
 
@@ -1183,13 +1122,14 @@ _By opting for incremental optimization, you build a deeper understanding of how
 (**_Click the badge below_**; *also see the dropdown section  
 "Custom GPT - Polyrifringence Engine Expert" for more.*)
 
+---
+
 <a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
    target="_blank"
    rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/Click_to_Open-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)-56E9DB?style=neon&logo=github&logoColor=56E9DB&labelColor=black&color=56E9DB"
-    width="640"
-    alt="Open Polyrifringence Engine Expert GPT">
+  <img width="100%"
+       src="https://img.shields.io/badge/CLICK_TO_OPEN-Polyrifringence_Engine_Expert_GPT-000000?style=NEON&logo=obsidian&logoColor=6D2A8A&labelColor=56E9DB"
+       alt="Open Polyrifringence Engine Expert GPT">
 </a>
 
 ---
@@ -1210,8 +1150,7 @@ _By opting for incremental optimization, you build a deeper understanding of how
 
 ---
 
-**🗜️Some basic things to get you established:**
-<!-- TOOLING & REQUIREMENTS — NEON BADGES -->
+**📚Some basic things to get you established:**
 
 ---
 
@@ -1225,31 +1164,30 @@ _By opting for incremental optimization, you build a deeper understanding of how
 [![Python Dependencies](https://img.shields.io/badge/Python_Modules-Canonical_Dependencies-3EE7FF?style=neon&labelColor=0b0d0f&logo=python&logoColor=3EE7FF)](#)
 [![requirements.txt](https://img.shields.io/badge/Python_Modules-requirements.txt-3EE7FF?style=neon&labelColor=0b0d0f&logo=python&logoColor=3EE7FF)](./requirements.txt)
 
-
 ---
+
 ### 🧩 Python Modules & Dependencies
----
-
-#### 🧠 Standard Library (Python ≥ 3.11)
-Used for structure, reproducibility, validation, and system integrity.
 
 ---
 
-- `math` — core mathematical operations
-- `cmath` — complex-valued phase operations
-- `itertools` — controlled combinatorics and iteration
-- `functools` — functional composition and caching
-- `dataclasses` — structured state representation
-- `typing` — formal type annotations and structural clarity
-- `argparse` — reproducible CLI parameters (e.g. `--seed`)
-- `json` — manifest serialization and provenance
-- `hashlib` — integrity verification / hashing
-- `pathlib` — deterministic filesystem handling
-- `subprocess` — system / CUDA / GPU validation hooks
-- `importlib.metadata` — runtime version & dependency introspection
-- `time` — benchmarking and temporal alignment
-- `logging` — traceable execution and diagnostics
-
+> #### 🧠 Standard Library (Python ≥ 3.11)
+> Used for structure, reproducibility, validation, and system integrity.
+>
+> * `math` ————— core mathematical operations
+> * `cmath` ————— complex-valued phase operations
+> * `itertools` ————— controlled combinatorics and iteration
+> * `functools` ————— functional composition and caching
+> * `dataclasses` ————— structured state representation
+> * `typing` ————— formal type annotations and structural clarity
+> * `argparse` ————— reproducible CLI parameters (e.g. `--seed`)
+> * `json` ————— manifest serialization and provenance
+> * `hashlib` ————— integrity verification / hashing
+> * `pathlib` ————— deterministic filesystem handling
+> * `subprocess` ————— system / CUDA / GPU validation hooks
+> * `importlib.metadata` ————— runtime version & dependency introspection
+> * `time` ————— benchmarking and temporal alignment
+> * `logging` ————— traceable execution and diagnostics
+>
 > The badges below reflect both direct and transitive standard-library usage across runtime logic, validation tooling, and system introspection.
 
 ---
@@ -1258,17 +1196,18 @@ Used for structure, reproducibility, validation, and system integrity.
 
 ---
 
-Installed explicitly; used for computation, acceleration, and validation.
-
-**pip install:**
-```bash
+> Installed explicitly; used for computation, acceleration, and validation.
+>
+> **pip install:**
+>
+```
 pip install torch numpy scipy matplotlib
 ```
-
-* **torch** — GPU-accelerated tensor computation & CUDA validation
-* **numpy** — numerical arrays and vectorized math
-* **scipy** — scientific utilities (linear algebra, transforms)
-* **matplotlib** — phase traces and diagnostic visualization
+>
+> * **torch** ————— GPU-accelerated tensor computation & CUDA validation
+> * **numpy** ————— numerical arrays and vectorized math
+> * **scipy** ————— scientific utilities (linear algebra, transforms)
+> * **matplotlib** ————— phase traces and diagnostic visualization
 
 ---
 
@@ -1276,17 +1215,17 @@ pip install torch numpy scipy matplotlib
 
 ---
 
-Useful for inspection and readability; **not required** for core operation.
-
-**pip install (optional):**
-
-```bash
+> Useful for inspection and readability; **not required** for core operation.
+>
+> **pip install (optional):**
+>
+```
 pip install rich psutil
 ```
-
-* **rich** — structured, readable console diagnostics
-* **psutil** — system resource introspection (CPU / memory context)
-
+>
+> * **rich** ————— structured, readable console diagnostics
+> * **psutil** ————— system resource introspection (CPU / memory context)
+>
 > Optional modules are strictly auxiliary and do **not** affect the mathematical, physical, or canonical validity of the framework.
 
 ---
@@ -1325,16 +1264,16 @@ pip install rich psutil
 
 ---
 
-1. **Start with a guided introduction using the Polyrifringence Engine Custom GPT.**  
+> 1. **Start with a guided introduction using the Polyrifringence Engine Custom GPT.**  
    Use it to familiarise yourself with the project’s core concepts, terminology, and framing. Expect a *strange loop* effect: ideas will recur, but each pass should increase resolution rather than repeat content verbatim. This recursion is intentional and reflects how the system itself is structured.
-
-2. **Maintain a continuously updated external notebook (e.g. Notepad++).**  
+>
+> 2. **Maintain a continuously updated external notebook (e.g. Notepad++).**  
    Record observations, questions, confusions, partial insights, and contradictions as they arise. Treat this file as a live external memory rather than a polished document. At this stage, frequency and honesty matter more than organisation or completeness.
-
-3. **Designate one LLM as your primary continuity model.**  
+>
+> 3. **Designate one LLM as your primary continuity model.**  
    Route your main line of inquiry through a single model to preserve narrative and conceptual coherence. Use additional LLMs only as secondary observers to test alternative interpretations, edge cases, or failure modes. Think in terms of assembling a composite understanding from multiple partial views.
-
-4. **Periodically consolidate and re-inject your notes.**  
+>
+> 4. **Periodically consolidate and re-inject your notes.**  
    Save your running observations as a `.txt` file. At intervals, submit this file back to your chosen LLMs and interrogate it using reflective, observer-oriented prompts. This transforms passive notes into an active learning substrate.
 
 ---
@@ -1343,25 +1282,25 @@ pip install rich psutil
 
 ---
 
-- `Can you think further on this and identify any deeper implications or latent structure?`  
-- `What do you observe when reading this left to right, top to bottom?`  
-- `What patterns, assumptions, or sequences become apparent in this ordering?`  
-- `What changes when reading this in reverse, inside and outside?`  
-- `What relationships, symmetries, or omissions become visible from this perspective?`  
-- `Can you provide multiple observer-lens perspectives on this material?`  
-- `How might different observers interpret, prioritise, or misunderstand what is present?`  
-- `What insights emerged from this review?`  
-- `What has been learned, clarified, reframed, or challenged as a result?`
+> * `Can you think further on this and identify any deeper implications or latent structure?`  
+> * `What do you observe when reading this left to right, top to bottom?`  
+> * `What patterns, assumptions, or sequences become apparent in this ordering?`  
+> * `What changes when reading this in reverse, inside and outside?`  
+> * `What relationships, symmetries, or omissions become visible from this perspective?`  
+> * `Can you provide multiple observer-lens perspectives on this material?`  
+> * `How might different observers interpret, prioritise, or misunderstand what is present?`  
+> * `What insights emerged from this review?`  
+> * `What has been learned, clarified, reframed, or challenged as a result?`
 
 ---
 
-5. **Apply iterative refinement deliberately.**  
-   Integrate responses from different models, note contradictions and convergences, and refine your understanding across multiple cycles. Treat disagreement as signal, not noise.
-
-   Follow the principle of incremental optimisation: small, manageable learning steps produce stronger retention and deeper mastery than attempting total comprehension in a single pass.
-
-6. **Cross-pollinate between models with intent.**  
-   Copy selected outputs from your primary LLM and submit them to other models for comparison, expansion, or reformulation. Differences in emphasis, framing, or failure modes should be interpreted as diagnostic information rather than errors.
+> 5. **Apply iterative refinement deliberately.**  
+> Integrate responses from different models, note contradictions and convergences, and refine your understanding across multiple cycles. Treat disagreement as signal, not noise.
+>
+> Follow the principle of incremental optimisation: small, manageable learning steps produce stronger retention and deeper mastery than attempting total comprehension in a single pass.
+>
+> 6. **Cross-pollinate between models with intent.**  
+> Copy selected outputs from your primary LLM and submit them to other models for comparison, expansion, or reformulation. Differences in emphasis, framing, or failure modes should be interpreted as diagnostic information rather than errors.
 
 ---
 
@@ -1369,22 +1308,22 @@ pip install rich psutil
 
 ---
 
-#### Minimum to run the engine and reproduce outputs
-
-`Comfort running Python scripts (venv, pip, reading stack traces, file paths)`  
-`Basic numeric computing habits (arrays, dtype, precision, random seeds, CSV outputs)`  
-`Working knowledge of NumPy and PyTorch tensors (CPU-first is fine; GPU is a performance layer)`  
-
-#### To understand what the engine is doing mathematically
-
-`Basic linear algebra and complex numbers (2-vectors, matrix multiplication, norms)`  
-`Polarization and birefringence fundamentals (Jones vectors and Jones matrices, optical walkoff intuition)`  
-`Ability to interpret engine diagnostics (REGF, PVS, dW, stability over 6–7 cycles, Euclid-5 drift checks)`  
-
-#### Optional accelerators (helpful, not required to begin)
-
-`CUDA and GPU troubleshooting basics (drivers, torch.cuda checks, VRAM and memory bandwidth constraints)`  
-`Nonlinear systems vocabulary (fixed points, convergence, attractors, stability envelopes)`  
+> #### Minimum to run the engine and reproduce outputs
+>
+> `Comfort running Python scripts (venv, pip, reading stack traces, file paths)`  
+> `Basic numeric computing habits (arrays, dtype, precision, random seeds, CSV outputs)`  
+> `Working knowledge of NumPy and PyTorch tensors (CPU-first is fine; GPU is a performance layer)`  
+>
+> #### To understand what the engine is doing mathematically
+>
+> `Basic linear algebra and complex numbers (2-vectors, matrix multiplication, norms)`  
+> `Polarization and birefringence fundamentals (Jones vectors and Jones matrices, optical walkoff intuition)`  
+> `Ability to interpret engine diagnostics (REGF, PVS, dW, stability over 6–7 cycles, Euclid-5 drift checks)`  
+>
+> #### Optional accelerators (helpful, not required to begin)
+>
+> `CUDA and GPU troubleshooting basics (drivers, torch.cuda checks, VRAM and memory bandwidth constraints)`  
+> `Nonlinear systems vocabulary (fixed points, convergence, attractors, stability envelopes)`  
 
 ---
 
@@ -1397,27 +1336,25 @@ pip install rich psutil
 > `Automate the Boring Stuff with Python (Al Sweigart)`  
 > `NumPy Quickstart and Tutorials (numpy.org)`  
 > `Python Data Science Handbook (Jake VanderPlas) - NumPy chapters`  
-
+>
 > #### PyTorch and GPU execution (what the engine actually runs on)
 > `PyTorch Tutorials - tensor basics and CUDA usage (pytorch.org)`  
 > `PyTorch performance and memory notes - dtype, batching, device transfers`  
 > `NVIDIA CUDA Getting Started + CUDA Programming Model overview (developer.nvidia.com)`  
-
+>
 > #### Math foundations mapped to the engine (low friction, high relevance)
 > `3Blue1Brown - Essence of Linear Algebra (visual intuition)`  
 > `A short complex numbers refresher (Euler form, magnitude, phase)`  
 > `Matrix calculus basics only as needed (multiply, compose, interpret norms)`  
-
+>
 > #### Optics and polarization (targeted to Jones and birefringence)
 > `Optics (Eugene Hecht) - polarization and birefringence chapters`  
 > `A Jones calculus primer - Jones vectors, waveplates, retarders, transforms`  
 > `Intro waves and optics course content (Khan Academy or equivalent)`  
-
+>
 > #### Verification mindset (how to not fool yourself)
 > `How to Read a Paper (S. Keshav) - short and practical`  
 > `Practice loop: reproduce a seeded run, then validate Euclid-5 drift, REGF trend, PVS trend`  
-
----
 
 </details>
 
@@ -1542,8 +1479,6 @@ In measured performance, the engine sits within the upper tier of GPU-accelerate
 ---
 
 > “Compared to existing optical simulators (FREDmpc, Speos, OptiX, etc.), the Polyrifringence Engine achieves comparable or greater throughput while introducing novel physics - recursive birefringence, symbolic geometry, and observer-aware feedback - rendering it not only a simulation tool but a new class of recursive physical AI engine.”
-
----
 
 </details>
 
@@ -1851,9 +1786,9 @@ Once these checks pass, the environment is fully initialized and ready for bench
 #### 🧪 Below are tested CLI examples for the **Polyrifringence engine**, demonstrating various benchmark configurations.
 
 ---
-
+>
 ### Basic Matrix-Sweep Benchmark:
-```bash
+```
 python3 src/polyrifringence_engine_v8_10.py \
   --flows main,special \
   --gems sapphire,diamond \
@@ -1867,7 +1802,7 @@ python3 src/polyrifringence_engine_v8_10.py \
   --progress auto \
   --out_csv logs_v6_8_matrix.csv
 ```
-
+>
 ### High-Precision Feedback Test
 ```bash
 python src/polyrifringence_engine_v8_10.py \
@@ -1882,7 +1817,7 @@ python src/polyrifringence_engine_v8_10.py \
   --export_pair \
   --out_csv logs_v6_8_matrix.csv
   ```
-
+>
 ### Multi-Gem Tilt Comparison
 ```bash
 python polyrifringence_engine_v8_10.py \
@@ -1898,7 +1833,7 @@ python polyrifringence_engine_v8_10.py \
   --progress auto \
   --out_csv logs_v6_8_multigem.csv
   ```
-
+>
 ### Custom Benchmark Template – Edit values and run
 ```bash
 python polyrifringence_engine_v8_10.py \
@@ -1914,36 +1849,32 @@ python polyrifringence_engine_v8_10.py \
   '--progress auto',
   '--out_csv=examples/custom_run.csv'
   ```
-
-    Randomized benchmark runs automatically log parameters to /examples/*.json for reproducibility.
-
-🖥️ To view phase-trace results:
-run `launch_phase_viewer.ps1` from the root directory to auto-open the interactive viewer.
-
-Or
-
-```powershell
+>
+> Randomized benchmark runs automatically log parameters to /examples/*.json for reproducibility.
+>
+> 🖥️ To view phase-trace results:
+>
+>run `launch_phase_viewer.ps1` from the root directory to auto-open the interactive viewer.
+>
+> Or
+>
+```
 .\launch_phase_viewer.ps1
 ```
-
-This will automatically host examples/phase_trace_viewer.html at
-http://localhost:8000
-and open it in your default browser.
+>
+> This will automatically host examples/phase_trace_viewer.html at
+> http://localhost:8000
+> and open it in your default browser.
 
 | Shell                  | Correct Syntax for `--tilts` | Reason                                                    |
 | ---------------------- | ---------------------------- | --------------------------------------------------------- |
 | **PowerShell**         | `--tilts=-5:5:1`             | Prevents PS from treating `-5` as an arithmetic operation |
 | **CMD / Bash / Linux** | `--tilts -5:5:1`             | Default argparse behaviour, no conflict                    |
-
----
-
---------------------------------------------------
 | Component | Version / Status                   |
 | --------- | ---------------------------------- |
 | Python    | 3.11.13                            |
 | NumPy     | 2.3.4                              |
 | PyTorch   | 2.4.1 (CUDA 12.1) — GPU verified ✅|
---------------------------------------------------
 
 </details>
 
@@ -4864,7 +4795,7 @@ However, **wilful interaction**, **symbolic reconstruction**, or **ethical subve
 >
 > Contributors are encouraged to engage openly, critically, and in good faith.
 >
-> If in doubt, ask - discourse is always preferable to assumption.
+> If in doubt, ask ————— discourse is always preferable to assumption.
 
 ---
 
@@ -4889,13 +4820,8 @@ Author: @MMMDcreator (X), @Wotcnt (GitHub)
 
 ---
 
-<p align="center">
-  <a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
-     target="_blank"
-     rel="noopener noreferrer">
-    <strong>Click to Ask the Polyrifringence Engine Expert GPT(Gem-Line AI-CHATBOT) Opens in a new window</strong>
-  </a>
-</p>
+**[Click to Ask the Polyrifringence Engine Expert GPT (Gem-Line AI-CHATBOT)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)**  
+*Opens in a new window*
 
 > Query the GPT to auto-generated BibTeX or APA citations for your paper or replication dataset.
 >
