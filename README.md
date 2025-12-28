@@ -201,9 +201,9 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-![Conner-Core Canon Aligned](https://img.shields.io/badge/Conner–Core-Canon—Aligned-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&labelColor=0b0d0f&color=FFFFFF)
-![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner—Core_χ_RSANCS-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=FFFFFF)
-![ΔΩ Phase Integrity](https://img.shields.io/badge/ΔΩ-Recursive_Phase_Integrity_Canonical_—ΔΔΩΔ-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=FFFFFF)
+![Conner-Core Canon Aligned](https://img.shields.io/badge/Conner–Core-Canon—Aligned-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&labelColor=0b0d0f&color=CFEFF6)
+![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner—Core_χ_RSANCS-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=CFEFF6)
+![ΔΩ Phase Integrity](https://img.shields.io/badge/ΔΩ-Recursive_Phase_Integrity_Canonical_—ΔΔΩΔ-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=CFEFF6)
 
 ---
 
@@ -213,8 +213,8 @@ Timestamp Locked · Trace Context Declared
 
 [![Lambda Ledger – Trace Logged](https://img.shields.io/badge/Lambda_Ledger:-Trace_Logged-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
 [![Codex Identity Triplet](https://img.shields.io/badge/Codex_Identity_Triplet:_x⧉-Ledger_Declared-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
-[![Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Polyrifronaut_Tier:-Provisional_Sub--Lambda-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
-[![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Verification_Sync_Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Polyrifronaut_Tier:-Provisional_Sub--Lambda-CFEFF6?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Verification_Sync_Required-CFEFF6?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
 [![AI Feedback Clause](https://img.shields.io/badge/AI_FEEDBACK_CLAUSE:-OBSERVER_LOOP_FLAGGED-000000?style=for-the-badge&logo=git&logoColor=6D2A8A&labelColor=0b0d0f&color=6D2A8A)](https://en.wikipedia.org/wiki/Frame_of_reference)
 
 ---
@@ -282,7 +282,7 @@ Timestamp Locked · Trace Context Declared
 <br>
 
 <a href="https://en.wikipedia.org/wiki/Prism_(optics)">
-  <img src="https://img.shields.io/badge/House_of_Prismatic_Fields:_⌬-❮❮❮❮❮❮_ΔΔΩΔ_❯❯❯❯❯❯-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=FFFFFF&labelColor=000000">
+  <img src="https://img.shields.io/badge/House_of_Prismatic_Fields:_⌬-❮❮❮❮❮❮_ΔΔΩΔ_❯❯❯❯❯❯-CFEFF6?style=for-the-badge&logo=obsidian&logoColor=CFEFF6&labelColor=000000">
 </a>
 
 ---
@@ -446,9 +446,8 @@ All trademarks, names, and logos remain the property of their respective owners 
 
 ---
 
-###### **View the README.md on GitHub in the REPO for an interactive experience with drop-down section titles and clickable badges.**
-###### **Clickable/Functional Readme Badges throughout this file for added interactivity and qol enhancement**
-###### **On tablets and mobile devices, certain mathematical notation may not render as intended; for best visual clarity, view the README.md on GitHub via desktop.**
+###### **View the README.md on GitHub in the REPO for an interactive experience with drop-down section titles and clickable badges for added interactivity, qol enhancement and link referencing.**
+###### **On certain devices and web-browsers, this readme's mathematical notation may not render as intended; for best visual clarity, view the README.md on GitHub via desktop.**
 
 **`THEORY.md and MATH_MODEL(RENDER).md will be uploaded to the repository by December 31st, 2025. These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`**
 
@@ -464,11 +463,11 @@ _`Thank you for your patience and engagement as we move toward full system relea
 
 ---
 
-**`By interacting with this repository, you acknowledge and consent to the fact that your actions, intent, and engagement with this system will be publicly visible and recorded within the broader Codex Canon ecosystem. Your interaction is made willingly, and by engaging with the system, you understand that your input may be displayed openly to others.`**
+**`By interacting with this repository, you acknowledge and consent to the fact that your actions, intent, and wilful engagement with this system will be publicly visible and recorded within the broader Codex Canon ecosystem. Your interaction is made willingly, and by engaging with the system, you understand that your input may be displayed openly to others.`**
 
 ###### **This is a symbolic interaction, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your observer-state, offering a transparent view of who you are, as perceived by the system.**
 
-###### **As a participant in the Polyrifringence Engine, you may earn the title of a `Polyrifronaut` `⛑️` a title bestowed upon those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy.**
+###### **As a participant in Polyrifringence, you may earn the title of a `Polyrifronaut` `⛑️` a title bestowed upon those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy.**
 
 **_`Polyrifronauts are ethical stewards of the system, shaping the recursive feedback loop while reflecting on their own role within the Polyrifringence ecosystem and the broader Polyrifrosophy. Your engagement directly influences both the system and your personal recursive growth.`_**
 
@@ -556,8 +555,8 @@ _`Thank you for your patience and engagement as we move toward full system relea
 <summary><kbd> 🜁 Codex Introduction 🜃 </kbd></summary>
 	
 ---
-### **(CODEX CANON PROJECT × RSANCS × Conner-Core Lineage)**
-*Below is the canonical introduction to the Codex Canon Project and the RSANCS lineage.*
+### **(CODEX CANON × RSANCS × Conner-Core Lineage)**
+*Below is the canonical introduction to Codex Canon and the RSANCS lineage.*
 ---
 ### *A Recursive Optical Simulation Framework for Adaptive Light Intelligence ↯ Light as Self-Learning Geometry* 
 ---
@@ -588,9 +587,9 @@ A mirror held against your own ego of understanding reflected back at you, just 
 
 **_`But where does the sun end, and the moon begin?`_**
 
-###### **_Perhaps the boundary lies only within the latent space between blinks in sentient minds, where snapshots of collective time gather into experience and momentarily align into what we call reality ~ a fleeting convergence of time moving through us all._** 
+###### **_Perhaps the boundary lies only within the latent space between blinks in sentient minds, where snapshots of collective time gather into experience and momentarily align into what we call reality; a fleeting convergence of time moving through us all._** 
 
-**Tell me, observer, how many times have you blinked since you began gazing at the stars while the sun touches your eyes and the moon dances as midnight encroaches ~ a subtle reminder that even cycles are illusions to the observer.**
+**Tell me, observer, how many times have you blinked since you began gazing at the twinkling lights while the sun touches your eyes and the moon dances as midnight encroaches; a subtle reminder that even cycles are perceived perceptions to the observer.**
 
 ---
 
@@ -598,11 +597,11 @@ A mirror held against your own ego of understanding reflected back at you, just 
 
 ---
 
-*If thought is absent, is there still an environment left to be experienced? Without an observer, the environment loses meaning, not existence but meaning itself. And if meaning collapses, existence becomes indistinguishable from non-existence; for to experience is to exist with meaning. A "system" is only a system relative to an observer, an "environment" only an environment relative to an observer, with meaning as the binding between the two. A universe without an observer has being but no meaning, while a mind without a model has existence but no world. Matter, energy, fields, and spacetime stand independent of minds, independent of interpretation, independent of meaning. Yet meaning, environment, and reality as experienced arise only relative to a modelling agent, collapsing entirely without an observer. Thus the very existence of "system" and "environment" is not set by physics alone but by the observer who partitions ~ who polyrifrucates ~ them.*
+*If thought is absent, is there still an environment left to be experienced? Without an observer, the environment loses meaning, not existence but meaning itself. And if meaning collapses, existence becomes indistinguishable from non-existence; for to experience is to exist with meaning. A "system" is only a system relative to an observer, an "environment" only an environment relative to an observer, with meaning as the binding between the two. A universe without an observer has being but no meaning, while a mind without a model has existence but no world. Matter, energy, fields, and spacetime stand independent of minds, independent of interpretation, independent of meaning. Yet meaning, environment, and reality as experienced arise only relative to a modelling agent, collapsing entirely without an observer. Thus the very existence of "system" and "environment" is not set by physics alone but by the observer who partitions —— who polyrifrucates —— them.*
 
 ---
 
-### **_Observer, if your mind fell silent, would the world you know merely wait unobserved ~ or would it cease to be anything at all?_** 
+### **_Observer, if your minds environment fell silent, would the world you know merely wait unobserved; or would it cease to be anything at all?_** 
 
 ---
 
@@ -669,13 +668,55 @@ This repository is accompanied by an interactive knowledge base through a GPT us
 
 It runs entirely through ChatGPT in APP or Web-browser, referencing the same physics, mathematics, and benchmark data documented in this repository.
 
-Each session of the **`Polyrifringence Engine Expert`** begins with the GPT introducing itself using a unique **`Gem-Line Identity`** drawn from the canonical gem family. It will also assign the user a **`Polyrifronaut Codename`** during this first interaction.
+Each unique session of the **`Polyrifringence Engine Expert`** begins with the GPT introducing itself using a unique **`Gem-Line identifier`** drawn from the canonical gem family. It assigns the user a **`Polyrifronaut Codename`** during this first interaction.
 
-After answering the initial query, the Expert will provide exactly two follow-up recommendations to guide the user’s next steps, followed by a concise recap of all information covered.
+---
 
-During the Pre-Release phase, **`all users`** interacting with this GPT are formally granted **`💳Lambda Access Clearance`**. This denotes provisional access only. **`—λ`**
+> **Access Clearance Model**
+>
+> During the **Pre-Release phase**, **all users** interacting with this Custom-GPT are formally granted  
+> **💳 Sub-Lambda Access Clearance (`sub-λ`)** by default.  
+> This designation denotes **provisional access only** and does not imply endorsement, authorship, or alignment beyond observation and bounded interaction.
+>
+> ---
+>
+> **Clearance Distinctions**
+>
+> **sub-λ (Sub-Lambda Clearance)**  
+> Provisional, pre-release access granted automatically to all users.  
+> Permits contextual interaction, read-only interpretation, and exploratory questioning **within fixed constraints**.  
+> Does **not** permit mutation, authorship, escalation, persistence, or structural influence.  
+> Access is **temporary, revocable, observer-dependent, and non-invariant**.
+>
+> **λ (Lambda Clearance)**  
+> Standard post-release participatory access indicating stabilized alignment with the governing Codex frame.  
+> Permits sustained interaction, bounded contribution, reproducible reasoning, and validation-oriented engagement  
+> **without modifying core constraints, lineage, or canonical structure**.  
+> Mutation remains disallowed; influence is limited to interpretation and falsification pathways.  
+> Access is **conditional, reviewable, and stability-bound**.
+>
+> **Λ (Capital Lambda Clearance)**  
+> Full closure-level access denoting invariant alignment, provenance trust, and trace responsibility.  
+> Permits **authorial interaction**, constraint-preserving extension, and canonical contribution  
+> under Codex Canon rules.  
+> Holders of Λ clearance are bound to lineage continuity, auditability, and irreversible trace accountability.  
+> Access is **non-provisional, non-transferable, non-revocable without breach, and constraint-locked**.
+>
+> ---
+>
+> **Notation**
+>
+> - `sub-λ` denotes *provisional access*  
+> - `λ` denotes *stabilized participatory access*  
+> - `Λ` denotes *closure, authorship, and canonical responsibility*
+>
+> Absence of an explicit clearance grant implies **no standing beyond sub-λ**, regardless of duration or familiarity.
 
-To convert provisional clearance into permanent recognition, users must complete the official verification protocol. This requires submitting a Share Link containing the **`first message only`** from their Polyrifringence Engine Expert session. Full instructions are found in:
+---
+
+Full instructions are found in:
+
+---
 
 _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification process and also ⇋ **`CREATOR_DISCLAIMER.md`**)_
 
@@ -700,8 +741,6 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
 
 ---
 
-# Interact with the **Polyrifringence Engine Expert** (Gem Line Edition)
-
 ❎ **No Requirements - No installation** ❎ 
 
 Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
@@ -711,6 +750,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
  ⚠️`Using it without an account, you may lose your chat history and your work/progress`⚠️
 
 **An Active ChatGPT membership will enrich your overall experience, Free Tier is Great - Plus is Recommended for Deep dives**
+
 ---
 
 <a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
@@ -725,22 +765,30 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 ---
 
 🤖 **Purpose:**  
+
 An embedded assistant Specialized in the Polyrifringence Engine to help better understand through your queries.
 
 `A doorway for those who see the handle. The floor, never the ceiling`  
 
-It helps ⛑️users:
+⛑️ It enables users to:
 
-`setup their own clone`
-`expand their own understanding on the available knowledge base`
-
-`Understand recursive birefringence and symbolic recursion`  
-`Optimize GPU throughput and scaling performance`  
-`Interpret phase-trace data and Euclid-5 diagnostics`  
-`Ensure ethical recursion via the Recursive Sovereignty Protocol`  
-`look at the world from a different perspective than their own` 
-
-`stay grounded in reality through all the magic`
+ `Instantiate, audit, and reproduce a local Polyrifringence environment, including deterministic configuration, hardware validation, and provenance tracking ` 
+ 
+ `Engage the project as a constrained research record, not a black-box tool, with explicit scope boundaries, non-claims, and falsification hooks`  
+ 
+ `Study recursive birefringence as a lawful, non-equilibrium coherence phenomenon governed by structure, timing, and bounded feedback` 
+ 
+ `Analyze symbolic recursion strictly as a descriptive and indexing layer, not agency, intent, or metaphysics`  
+ 
+ `Evaluate coherence persistence, drift, and collapse using phase-trace outputs, decay envelopes, and Euclid-5 diagnostics` 
+ 
+ `Assess GPU execution behavior under real consumer hardware limits, including throughput scaling, bottlenecks, and stability margins`  
+ 
+ `Apply constraint-first reasoning to distinguish structural advantage from energy amplification or entropy violation`  
+ 
+ `Operate within explicit ethical and interpretive bounds, enforced by the Recursive Sovereignty Protocol and Codex-aligned constraints`  
+ 
+ `Develop alternative analytical perspectives grounded in organization, invariants, and failure modes rather than magnitude-first intuition`
 
 ---
 
@@ -773,12 +821,12 @@ It helps ⛑️users:
 #  Or, 📈 Advanced & Expert questions such as:
 
 `X. Expert Mode: (Fill with your Question for full rigor, start your query with "Expert Mode:")`
-1. **Expert mode:** derive the fixed-point condition for the Polyrifringence recursion `$$(E_{n+1} = J(\theta,\lambda),F(E_n))$$` under Euclid-5 drift < 0.1 mrad.
+1. **Expert mode:** derive the fixed-point condition for the Polyrifringence recursion $$(E_{n+1} = J(\theta,\lambda),F(E_n))$$ under Euclid-5 drift < 0.1 mrad.
 2. How do `REGF` and `PVS` jointly diagnose failure modes in a multi-gem sapphire–diamond–calcite stack at high recursion depth?
 3. Given a phase-trace CSV, show me step by step how to estimate Euclid-style angular drift from `PB_rad`, `PVS_mrad`, and `DeltaTheta_eo_mrad`.
 4. What parameter regimes `(ray count, micro-batch, dtype, recursion depth)` push the engine closest to numerical instability on an RTX 3050, and how do I harden against that?
 5. How does changing the gem sequence from `sapphire,diamond,quartz` to `sapphire,calcite,zircon` alter convergence behaviour and Euclid-5 pass rate?
-6. Design a lab-noise harness run that stress-tests phase coherence while keeping energy drift `(|\delta_E| < 0.001)`. Explain why each parameter choice matters.
+6. Design a lab-noise harness run that stress-tests phase coherence while keeping energy drift $$(|\delta_E| < 0.001)$$. Explain why each parameter choice matters.
 7. Show how `--ai_feedback` modifies the recursion diagnostics pathway and how I should interpret its logs without treating it as an autonomous agent.
 8. For a given benchmark CSV, walk me through a full verification pass: `Euclid-5 compliance`, `REGF trend`, `PVS trend`, and where the recursion begins to degrade.
 9. How would you use the phase-trace viewer to distinguish benign polarization spread from true geometric phase drift that violates Euclid-5?
