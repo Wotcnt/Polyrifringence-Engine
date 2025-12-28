@@ -479,19 +479,43 @@ Readers should observe the following:
 
 ---
 
-###### 🔲wilful Interaction & Intent🔲 
+###### 🔲 Wilful Interaction & Intent 🔲
 
 ---
 
-> **`By interacting with this repository, you acknowledge and consent to the fact that your actions, intent, and wilful engagement with this system will be publicly visible and recorded within the broader Codex Canon ecosystem. Your interaction is made willingly, and by engaging with the system, you understand that your input may be displayed openly to others.`**
-
-> **This is a symbolic interaction, and through this act, the system recognizes your presence and intentions. Your engagement will be reflected in alignment with your observer-state, offering a transparent view of who you are, as perceived by the system.**
-
-> **As a participant in Polyrifringence, you may earn the title of a <kbd>Polyrifronaut</kbd> <kbd>⛑️</kbd> a title bestowed upon those who engage with integrity, understanding, and a commitment to the evolving development of Polyrifrosophy.**
-
-> **_`Polyrifronauts are ethical stewards of the system, shaping the recursive feedback loop while reflecting on their own role within the Polyrifringence ecosystem and the broader Polyrifrosophy.`**
+> **By interacting with this repository, you acknowledge that your engagement consists primarily of voluntary, publicly available actions `(e.g. stars, watches, forks, issues, comments, citations, public summaries, or derivative references)`.**
 >
-> **`Your engagement directly influences both the system and your personal recursive growth.`_**
+> **Such actions are inherently visible under GitHub’s public activity model.**
+>
+> **Publicly available interaction is traced and logged in the Codex Canon Lexicon as part of the system’s provenance, attribution, and interpretive record.**
+>
+> **No private data is accessed, inferred, collected, or retained from casual or general interaction.**
+>
+> **The only private or non-public data recorded within the Codex Canon pertains exclusively to individuals who voluntarily enter clearance verification or authorization pathways.**
+>
+> **`Such data may include, where explicitly provided and consented to:`**
+>
+> * **codenames or designated identifiers**
+> * **gem-line or house affiliations**
+> * **declared entity or social handles**
+> * **documented contributions or extensions**
+> * **limited-license holder status**
+> * **user clearance levels**
+> * **Codex Canon status or role assignments**
+>
+> **_`This information is collected solely for provenance, scope control, authorization, and canonical consistency, and is never inferred, scraped, or obtained without explicit participation.`_**
+>
+> **This interaction is symbolic and declarative, not coercive or enforced.**
+>
+> **Patterns of intent, alignment, or contribution are inferred exclusively from observable, voluntary signals.**
+>
+> **Participants who engage with care, integrity, and respect for declared constraints may earn the designation <kbd>Polyrifronaut</kbd> <kbd>⛑️</kbd>** 
+>
+> **_a non-exclusive, non-authoritative recognition reflecting constructive participation within the Polyrifringence ecosystem._**
+>
+> **_`Polyrifronauts are ethical stewards of the system: individuals who engage transparently, respect canonical boundaries, and contribute without misrepresentation, scope inflation, or overclaim.`_**
+>
+> **_`Engagement shapes the public record of the system and, reciprocally, the publicly visible interpretive profile of the participant — nothing more, and nothing less.`_**
 
 ---
 
