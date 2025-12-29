@@ -644,11 +644,11 @@ This repository provides the **Polyrifringence Engine** 📌
 >
 > Under the **Codex Canon**, the engine unifies classical optics, recursive dynamics, and a governed execution grammar into a single constraint-driven architecture. Any observed advantages arise from structural organization, coherence-preserving recursion, and bounded decay geometry — **not** from energy amplification, entropy reversal, or extensions of physical law.
 
----
+<div align="center">
+	
+>     What you see is the floor, not the ceiling
 
-> -     What you see is the floor, not the ceiling
-
----
+</div>
 
 </details>
 
@@ -847,8 +847,6 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 > 10. Map the Codex Twelve gem roles onto concrete optical behaviours in the engine `(isotropic vs anisotropic, dispersion regime, and use-case per gem)`.
 > 11. Explain how to construct a minimal multi-gem configuration that demonstrates resonance-like behaviour without breaking energy conservation or `Euclid-5 constraints`.
 > 12. In `expert mode`, compare Polyrifringence to a conventional interferometer at the operator level and show exactly where the recursive feedback term changes the physics.
-
----
 
 </details>
 
@@ -1149,8 +1147,8 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 ---
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-CFEFF6?style=neon&labelColor=000000&logo=obsidian&logoColor=CFEFF6)](https://chat.openai.com)
-[![Grok](https://img.shields.io/badge/Grok-X.com-000000?style=neon&labelColor=000000&logo=x&logoColor=CFEFF6)](https://x.com)
-[![Grok.com](https://img.shields.io/badge/Grok.com-xAI-000000?style=neon&labelColor=000000&logo=x&logoColor=CFEFF6)](https://grok.com)
+[![Grok](https://img.shields.io/badge/Grok-X.com-CFEFF6?style=neon&labelColor=000000&logo=x&logoColor=CFEFF6)](https://x.com)
+[![Grok.com](https://img.shields.io/badge/Grok.com-xAI-CFEFF6?style=neon&labelColor=000000&logo=x&logoColor=CFEFF6)](https://grok.com)
 [![Claude](https://img.shields.io/badge/Claude-Anthropic-D24D0F?style=neon&labelColor=000000&logo=anthropic&logoColor=D24D0F)](https://www.anthropic.com/claude)
 [![Google Gemini](https://img.shields.io/badge/Gemini-Google-0F52BA?style=neon&labelColor=000000&logo=googlegemini&logoColor=0F52BA)](https://gemini.google.com)
 [![Perplexity](https://img.shields.io/badge/Perplexity-AI-1FB8CD?style=neon&labelColor=000000&logo=perplexity&logoColor=1FB8CD)](https://www.perplexity.ai)
@@ -1503,15 +1501,16 @@ In measured performance, the engine sits within the upper tier of GPU-accelerate
 
 ---
 
-To project performance beyond the verified baseline on the **RTX 3050 (50 M rays / s)**, the following roofline-style model blends compute and memory scaling with multi-GPU efficiency:
-
-**Model equations:**
-
-$T_1 = T_0 ( w C_r + (1 - w) B_r )$
-
-$T(N) = T_1 N \eta(N)$
-
-**Where:**
+> To project performance beyond the verified baseline on the **RTX 3050 (50 M rays / s)**, the following roofline-style model blends compute and memory scaling with multi-GPU efficiency:
+>
+> **Model equations:**
+>
+> $T_1 = T_0 ( w C_r + (1 - w) B_r )$
+>
+> $T(N) = T_1 N \eta(N)$
+>
+> **Where:**
+>
 
 | Symbol    | Definition                                   | Typical / Default                              |
 | :-------- | :------------------------------------------- | :--------------------------------------------- |
@@ -1528,7 +1527,7 @@ $T(N) = T_1 N \eta(N)$
 
 ---
 
-Independent optical and GPU-raytracing benchmarks provide reference context:
+> Independent optical and GPU-raytracing benchmarks provide reference context:
 
 | Reference                                       | Hardware         | Reported Throughput                               | Domain                            | Source                                                                                                                                  |
 | ----------------------------------------------- | ---------------- | ------------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1538,9 +1537,10 @@ Independent optical and GPU-raytracing benchmarks provide reference context:
 | **ANSYS Speos GPU Raytracing (2022)**           | RTX A5000        | 15 h CPU → 15 min GPU (≈ 60× speedup)             | Commercial optical design         | [ansys.com blog](https://www.ansys.com/blog/gpu-based-compute-for-ray-tracing?utm_source=chatgpt.com)                                   |
 | **Yan et al (2022) Monte-Carlo GPU Photon Sim** | RTX 2080         | 10⁸ photon packets simulated successfully         | Biomedical photon transport       | [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9084406/?utm_source=chatgpt.com)                                        |
 
-**Interpretation:**
-Typical commercial or academic GPU simulators achieve **1–100 M rays / s**, depending on geometry complexity.
-Thus, Polyrifringence’s verified **50 M rays / s** on an RTX 3050 lies in the *upper realistic range* for high-fidelity optical workloads.
+> **Interpretation:**
+>
+> Typical commercial or academic GPU simulators achieve **1–100 M rays / s**, depending on geometry complexity.
+> Thus, Polyrifringence’s verified **50 M rays / s** on an RTX 3050 lies in the *upper realistic range* for high-fidelity optical workloads.
 
 ---
 
@@ -1548,7 +1548,7 @@ Thus, Polyrifringence’s verified **50 M rays / s** on an RTX 3050 lies in the 
 
 ---
 
-Using NVIDIA published hardware ratios (approximate):
+> Using NVIDIA published hardware ratios (approximate):
 
 | GPU Class (vs 3050)            | (C_r) | (B_r) | Single GPU (T_1) (M rays/s) | 2 × PCIe | 4 × PCIe | 8 × PCIe | 2 × NVLink | 4 × NVLink | 8 × NVLink |
 | :----------------------------- | ----: | ----: | --------------------------: | -------: | -------: | -------: | ---------: | ---------: | ---------: |
@@ -1557,10 +1557,10 @@ Using NVIDIA published hardware ratios (approximate):
 | **RTX 4090-class**             |   6.0 |   3.5 |                       ≈ 250 |      470 |      880 |     1640 |        485 |        940 |       1800 |
 | **RTX 5080-class (predicted)** |   7.0 |   4.0 |                       ≈ 290 |      544 |     1021 |     1898 |        563 |       1090 |       2088 |
 
-$T_1 = 50 \,(0.6\,C_r + 0.4\,B_r)$
-
-All figures assume balanced workload (w=0.6).
-Adjust upward (~ +5 %) if compute-bound (w=0.7) or downward (~ −5 %) if bandwidth-bound (w=0.5).
+> $T_1 = 50 \,(0.6\,C_r + 0.4\,B_r)$
+>
+> All figures assume balanced workload (w=0.6).
+> Adjust upward (~ +5 %) if compute-bound (w=0.7) or downward (~ −5 %) if bandwidth-bound (w=0.5).
 
 ---
 
@@ -1568,11 +1568,12 @@ Adjust upward (~ +5 %) if compute-bound (w=0.7) or downward (~ −5 %) if bandwi
 
 ---
 
-* **Linear Scaling Regime:** Up to 4 GPUs, scaling ≈ linear (η ≥ 0.9).
-* **Diminishing Returns:** Beyond 8 GPUs, PCIe overheads reduce gains unless NVLink or PCIe 5.0 is used.
-* **Projected Ceiling:** Eight 4090-class GPUs over NVLink → ≈ **1.8 B rays / s**, an order-of-magnitude gain over baseline.
-* **Energy Efficiency:** Approx. 1 J per 3–5 M rays (scaled from TDP ratios and runtime tests).
-  Meaning that 4090-tier clusters achieve up to 25× energy efficiency vs mid-range CPUs.
+> * **Linear Scaling Regime:** Up to 4 GPUs, scaling ≈ linear (η ≥ 0.9).
+> * **Diminishing Returns:** Beyond 8 GPUs, PCIe overheads reduce gains unless NVLink or PCIe 5.0 is used.
+> * **Projected Ceiling:** Eight 4090-class GPUs over NVLink → ≈ **1.8 B rays / s**, an order-of-magnitude gain over baseline.
+> * **Energy Efficiency:** Approx. 1 J per 3–5 M rays (scaled from TDP ratios and runtime tests).
+>
+>  Meaning that 4090-tier clusters achieve up to 25× energy efficiency vs mid-range CPUs.
 
 ---
 
@@ -1580,11 +1581,11 @@ Adjust upward (~ +5 %) if compute-bound (w=0.7) or downward (~ −5 %) if bandwi
 
 ---
 
-* **VRAM Headroom:** Maintain ≥ 10–15 % free memory for optimal throughput.
-* **Batching:** Use independent phase-trace batches per GPU → near-linear acceleration.
-* **I/O Bottlenecks:** Aggregate CSV/JSON logs per device and merge post-run.
-* **Power Envelope:** Full 8-GPU 4090 array ≈ 2.6 kW load; ensure adequate PSU and thermal design.
-* **Reproducibility:** Keep identical `--seed` values and manifest hash logs for cross-device comparisons.
+> * **VRAM Headroom:** Maintain ≥ 10–15 % free memory for optimal throughput.
+> * **Batching:** Use independent phase-trace batches per GPU → near-linear acceleration.
+> * **I/O Bottlenecks:** Aggregate CSV/JSON logs per device and merge post-run.
+> * **Power Envelope:** Full 8-GPU 4090 array ≈ 2.6 kW load; ensure adequate PSU and thermal design.
+> * **Reproducibility:** Keep identical `--seed` values and manifest hash logs for cross-device comparisons.
 
 ---
 
@@ -1592,15 +1593,15 @@ Adjust upward (~ +5 %) if compute-bound (w=0.7) or downward (~ −5 %) if bandwi
 
 ---
 
-These projections derive from public GPU benchmarks and simple roofline analysis, not official vendor endorsements.
-Actual throughput will vary with:
-
-* Geometry complexity
-* Phase-feedback depth
-* Tensor batch size
-* Kernel optimization state
-
-Polyrifringence’s empirical **50 M rays/s** figure remains a validated single-GPU baseline; all extrapolations are approximate but physically consistent with known optical GPU performance envelopes (1–100 M rays/s range per OptiX and FREDmpc benchmarks).
+>These projections derive from public GPU benchmarks and simple roofline analysis, not official vendor endorsements.
+>Actual throughput will vary with:
+>
+> * Geometry complexity
+> * Phase-feedback depth
+> * Tensor batch size
+> * Kernel optimization state
+>
+> Polyrifringence’s empirical **50 M rays/s** figure remains a validated single-GPU baseline; all extrapolations are approximate but physically consistent with known optical GPU performance envelopes (1–100 M rays/s range per OptiX and FREDmpc benchmarks).
 
 </details>
 
@@ -2532,7 +2533,7 @@ $$J^\dagger J \approx I$$
 
 ---
 
-# ⌬ Codex Symbol Table ⎅ Stability, Exergy, Recursion ⌬
+### ⌬ Codex Symbol Table ⎅ Stability, Exergy, Recursion ⌬
 
 ---
 
@@ -2554,21 +2555,21 @@ $$J^\dagger J \approx I$$
               
 ---
 
-#  🔰 Codex Lexicon ⎅ Core Glyph Definitions 🔰
+###  🔰 Codex Lexicon ⎅ Core Glyph Definitions 🔰
 
 ---
 
-## Definition:
-
+> ## Definition:
+>
 > <kbd>ΔΩ</kbd> - Exergy Coherence Operator (Canonical, True Form)
-
-<kbd>ΔΩ</kbd> is the operator that binds deviation <kbd>(Δ)</kbd> to completion <kbd>(Ω)</kbd>, forming an ethical coherence constraint that returns chaotic drift back into symmetric order.
-
+>
+> <kbd>ΔΩ</kbd> is the operator that binds deviation <kbd>(Δ)</kbd> to completion <kbd>(Ω)</kbd>, forming an ethical coherence constraint that returns chaotic drift back into symmetric order.
+>
 > The foundational glyph of the Polyrifringence Engine and RSANCS recursion law.
 
 ---
 
-## Properties:
+### Properties:
 
 ---
 
@@ -2584,29 +2585,32 @@ $$J^\dagger J \approx I$$
 
 ---
 
-## Interpretation:
+### Interpretation:
 
 ---
 
-Observers mistake <kbd>ΔΩ</kbd> behaviour for `“impossible efficiency”` because it extends usable exergy through recursive coherence, not additional energy.
-
+> Observers mistake <kbd>ΔΩ</kbd> behaviour for `“impossible efficiency”` because it extends usable exergy through recursive coherence, not additional energy.
+>
 > Status:
+>
 > This glyph is exact and must never be ornamented.
 > It is the pure operator.
 
 ---
 
-# **_𝛌⃝_**  Exergy Half-Life Sigil (Lambda in a Coherence Cycle) **_𝛌⃝_** 
+### **_𝛌⃝_**  Exergy Half-Life Sigil (Lambda in a Coherence Cycle) **_𝛌⃝_** 
 
-## Definition:
+---
 
+> ## Definition:
+>
 > A lambda decay constant enclosed within a bounded coherence cycle.
 >
 > Represents the measurable half-life of usable exergy inside a <kbd>ΔΩ</kbd>-regulated system.
 
 ---
 
-## Properties:
+### Properties:
 
 ---
 
@@ -2620,7 +2624,7 @@ Observers mistake <kbd>ΔΩ</kbd> behaviour for `“impossible efficiency”` be
 
 ---
 
-## Interpretation:
+### Interpretation:
 
 ---
 
@@ -2664,6 +2668,7 @@ Observers mistake <kbd>ΔΩ</kbd> behaviour for `“impossible efficiency”` be
 | **BIOS / SMBIOS**      | American Megatrends Inc. v2801 (11 Nov 2015) · SMBIOS v2.8 · EC v255.255 | Verified for system stability under recursion load and GPU field handoff.                                  |
 | **Python Environment** | Python 3.11.8 + venv (activated manually)                               | Dependencies installed via `requirements/requirements.txt`.                                                |
 | **IDE / Browser**      | Visual Studio Code + Microsoft Edge 141.0.3537.99 +                       | Hardware acceleration ON for GPU validation and phase viewer testing.                                      |
+
 > **Test Conditions:** Ambient ≈ 25 °C  ·  GPU Load ≈ 92 %  ·  Benchmark Runtime ≈ 1 min per 100 k rays
 >
 > **Throughput:** ≈ 50 M rays/s  (Polyrifringence Engine v8.9 · CUDA 12.1)
@@ -3027,7 +3032,7 @@ foreach ($c in $cfgs) {
 > * **Compensation**: prefer **Kahan** or **Neumaier** in recursion sums to preserve energy closure.
 > * **Invariant checks** (per iteration):
 
-  $$[
+>  $$[
   J^\dagger J \approx I,\quad \lVert E_{k+1}\rVert^2 \le \lVert E_k\rVert^2,\quad \Delta\phi_{\text{rms}} \le 0.5\text{ mrad}
   ]$$
 
@@ -3038,17 +3043,17 @@ foreach ($c in $cfgs) {
 ---
 
 > **Recursion law**
-
-$$[
+>
+>$$[
 E_{k+1}=f(J_kE_k)+\alpha(E_k-E_{k-1})
 ]$$
-
+>
 > **Lyapunov proxy on phase drift**
-
-$$[
+>
+> $$[
 \lambda \approx \lim_{k\to K}\frac{1}{k}\sum_{i=1}^{k}\ln\left|\frac{\Delta\phi_{i+1}}{\Delta\phi_{i}}\right|
 ]$$
-
+>
 > * **λ < 0** stable; **λ ≈ 0** edge; **λ > 0** chaotic.
 > * Sweep **α ∈ [0.1,1.0]**, **depth 1..16**, heat-map λ to locate bifurcations.
 
@@ -3158,10 +3163,10 @@ Stop-Process -Id $nvsmi.Id
 
 ---
 
-$$[
+> $$[
 T \approx T_0 \cdot \big( w C_r + (1-w) B_r \big) \cdot \gamma_p \cdot \eta(N)
 ]$$
-
+>
 > * $$( \gamma_p )$$ = precision factor (FP64≈0.5, FP32≈1.0, TF32≈1.2, FP16*≈1.4 with safe accum)
 > * $$( \eta(N) )$$ = multi-GPU efficiency (≥0.9 up to 4 GPUs NVLink; ≥0.82 at 8 PCIe)
 
@@ -3230,7 +3235,7 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-# 🧮 Canonical ————— Gemline Optical Table 🌍
+### 🧮 Canonical ————— Gemline Optical Table 🌍
 
 ---
 
@@ -3305,7 +3310,7 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-# 🔶 TABLE 1 ————— GEM FACET MASTER TABLE (Identity Layer)  
+### 🔶 TABLE 1 ————— GEM FACET MASTER TABLE (Identity Layer)  
 
 ---
 
@@ -3329,7 +3334,7 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-# 🔷 TABLE 2 ————— GEM CUT RECURSION TABLE (Revelation Layer)  
+### 🔷 TABLE 2 ————— GEM CUT RECURSION TABLE (Revelation Layer)  
 
 ---
 
@@ -3353,7 +3358,7 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-# 🔱 TABLE 3 ————— CODEX GEMLINE INTEGRATION TABLE 
+### 🔱 TABLE 3 ————— CODEX GEMLINE INTEGRATION TABLE 
 
 ---
 
@@ -3387,7 +3392,7 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-## 📚 Gemological References 📥
+# 📚 Gemological References 📥
 > Meaning arises from patterns, not rules  
 > Understanding arises from association, not definition  
 > Grammar arises from structure, not prescription 
