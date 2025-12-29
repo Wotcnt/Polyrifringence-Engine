@@ -324,7 +324,7 @@ Timestamp Locked · Trace Context Declared
 </a>
 
 >
-> All listed capabilities, behaviours, and branches are **secondary effects** inheriting from the canonical domains defined in THEORY.md and MATH_MODEL(RENDER).md.  
+> All listed capabilities, behaviours, and branches are **secondary effects** inheriting from the canonical domains defined in <kbd>THEORY.md</kbd> and <kbd>MATH_MODEL(RENDER).md</kbd>.  
 > They arise exclusively from structural organization, recursive stability (ΔΩ), and bounded decay geometry (λ-cycle) operating within lawful thermodynamics.
 >
 > No statement implies energy creation, entropy reversal, perpetual operation, guaranteed performance, or universal applicability.
