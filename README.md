@@ -1783,6 +1783,7 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 
 ---
 
+<div align="center">
 #### 🩺 Quick Install Commands
 
 ---
