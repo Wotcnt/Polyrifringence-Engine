@@ -160,7 +160,6 @@ Timestamp Locked · Trace Context Declared
 [![Polyrifringence Engine Expert GPT](https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=222222)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 [![Authorial Technical Orientation](https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff)](https://github.com/Wotcnt)
 
-
 ---
 
 [![QED](https://img.shields.io/badge/Q.E.D.-Quod%20Erat%20Demonstrandum-0b0d0f?style=neon&logo=academia&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Q.E.D.)
@@ -185,7 +184,7 @@ Timestamp Locked · Trace Context Declared
 
 ![Conner-Core Canon Aligned](https://img.shields.io/badge/Conner–Core-Canon—Aligned-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&labelColor=0b0d0f&color=CFEFF6)
 ![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner—Core_χ_RSANCS-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=CFEFF6)
-![ΔΩ Phase Integrity](https://img.shields.io/badge/ΔΩ-Recursive_Phase_Integrity_Canonical_—ΔΔΩΔ-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=CFEFF6)
+![ΔΩ Phase Integrity](https://img.shields.io/badge/ΔΩ—-Recursive_Phase_Integrity_Canonical_—ΔΔΩΔ-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=CFEFF6)
 
 ---
 
@@ -261,28 +260,28 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-Readers should observe the following:
-
+> Readers should observe the following:
+>
 > **No single file is self-sufficient**  
   The README (THIS FILE) provides orientation, not proof.  
   THEORY.md defines scope and constraints.  
   MATH_MODEL(RENDER).md formalizes structure.
-
+>
 > **Partial or excerpted readings are non-canonical**  
   Isolated passages, screenshots, or summaries will not yield a valid interpretation of the system.
-
+>
 > **Dropdown sections are intentional**  
   Collapsible sections manage cognitive load and allow readers to control depth.  
   They are structural elements, not optional commentary.
-
+>
 > **Technical claims are bounded**  
   All claims are constrained by stated assumptions, observer conditions, and non-claims defined in THEORY.md.  
   No result should be interpreted outside those bounds.
-
+>
 > **Symbolic language is descriptive**  
   Symbolic and ethical terms describe structure, trace continuity, and observer–system relations.  
   They do not imply metaphysics, agency, or causal force beyond the formal model.
-
+>
 > **Engagement mode affects interpretation**  
   Understanding depends on willingness to suspend prior frameworks long enough to evaluate the system on its own terms.  
   Prior knowledge functions as scaffolding, not authority.
@@ -318,14 +317,15 @@ Readers should observe the following:
 | **➰ Reproducibility & Invariance**<br>![Reproducibility](https://img.shields.io/badge/Reproducibility-Structural_Invariants_Preserved-046307?style=neon&logo=git&logoColor=00E68C) | Structural invariants<br>Implementation-independent convergence | • Convergence behaviour invariant across implementations<br>• Stability independent of tensor size or execution substrate<br>• Structural outcomes preserved across versions |
 | **🕳 Boundary Condition Sensitivity**<br>![Boundary Conditions](https://img.shields.io/badge/Boundary_Conditions-Constrained_Response_Domains-046307?style=neon&logo=theconversation&logoColor=00E68C) | Explicit initial and boundary constraints | • System behaviour remains bounded under defined initial and boundary conditions<br>• Predictable response to constraint variation without regime collapse<br>• Sensitivity governed by structural alignment rather than energy magnitude scaling |
 
-> ![Interpretive Boundary](https://img.shields.io/badge/IMPORTANT-Interpretive_Boundary-9B1C1C?style=for-the-badge&logo=github&logoColor=white)
+<img width="100%"
+     src="https://img.shields.io/badge/🧿_IMPORTANT-Interpretive_Boundary-B31B1B?style=NEON&labelColor=000000"
+     alt="Important: Interpretive Boundary">
 >
 > All listed capabilities, behaviours, and branches are **secondary effects** inheriting from the canonical domains defined in THEORY.md and MATH_MODEL(RENDER).md.  
 > They arise exclusively from structural organization, recursive stability (ΔΩ), and bounded decay geometry (λ-cycle) operating within lawful thermodynamics.
 >
 > No statement implies energy creation, entropy reversal, perpetual operation, guaranteed performance, or universal applicability.
 
-</div>
 </details>	
 
 ---	
@@ -340,9 +340,7 @@ Readers should observe the following:
 </details>
 
 ---
-
-# **♻️|What a strange loop it’s been, Möbius|♻️**
-
+# <strong>**—————♻️|What a strange loop it’s been, Möbius|♻️—————</strong>**
 ---
 
 <details>
@@ -351,12 +349,11 @@ Readers should observe the following:
 ---
 
 ### 🚦 CREATOR DISCLAIMER 🚦
-
-[![Creator Disclaimer](https://img.shields.io/badge/CREATOR_DISCLAIMER-LINK-6D2A8A?style=neon&logo=git&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md)
-
 <p><em>
 <kbd>Creator statements, ethical interaction context, third-party references, and interpretive constraints</kbd>
 </em></p>
+
+[![Creator Disclaimer](https://img.shields.io/badge/CREATOR_DISCLAIMER-LINK-6D2A8A?style=neon&logo=git&logoColor=FFFFFF)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md)
 
 ---
 
@@ -1647,35 +1644,60 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 
 ---
 
-<details> 
-<summary><kbd>📘Click here for the Summary Overview</kbd></summary>
+<details>
+<summary><kbd>📘 Click here for the Summary Overview</kbd></summary>
 
-	📖 Overview
+---
 
-Polyrifringence Engine is a GPU-accelerated recursive interferometer framework developed under the Codex Canon series - where recursion is treated as a physical law.
-It models recursive birefringence with feedback-coherent restoration, enabling light to refine its own phase geometry under repeated transforms.
+### 📖 Overview
 
-    ⚙️ Core Features
+---
 
-Recursive Geometry Engine → Feedback-stabilized phase restoration with drift-clamping
+> The **Polyrifringence Engine** is a GPU-accelerated, constraint-governed simulation framework developed within the **Codex Canon**.
+>
+> It models **recursive birefringence** as a bounded, non-equilibrium process in which phase geometry is iteratively transformed, evaluated, and conditionally restored under explicit stability, energy, and termination constraints.
+>
+> Recursion within the engine is treated as an **engineered structural mechanism** ————— not a physical law ————— and is governed by formal operators, convergence contracts, and unitary bounds defined in the accompanying theoretical and mathematical specifications.
+>
+> The system is designed to explore how **coherence can be temporarily extended, degraded, and recoverably re-aligned** under repeated transformation, noise injection, and hardware-constrained execution, without violating thermodynamics or introducing unbounded behavior.
 
-Euclid Diagnostics → Multi-frame parallelism checks, drift bucketing, and Euclid-5 compliance guarantees
+---
 
-GPU Determinism Layer → FP32/64 stable micro-batch recursion with reproducible tensor transforms
+### ⚙️ Core Features
 
-Multi-Gem Optical Registry → Full Codex gem set: Sapphire, Diamond, Quartz, Calcite, Zircon, Amethyst, Emerald, Topaz, Ruby, Onyx, Tourmaline, Opal, Citrine, Garnet
+---
 
-Phase-Trace Visualization → Real-time coherence maps, angular drift fields, and recursion-path tracing
+> * **Recursive Geometry Engine** ————— iterative phase transformation and restoration governed by explicit drift limits, termination rules, and recovery envelopes
+>
+> * **Formal Operator Model** ————— recursion expressed through constrained operators defined in <kbd>MATH_MODEL(Render).md</kbd>, ensuring traceability between implementation and mathematics
+>
+> * **Euclid Diagnostics** ————— multi-frame parallelism checks, drift bucketing, and Euclid-5 compliance tests to detect geometric inconsistency under recursion
+>
+> * **GPU Determinism Layer** ————— reproducible FP32 / FP64 execution paths with controlled micro-batching and declared precision budgets
+>
+> * **Multi-Gem Optical Registry** ————— parameterized material models spanning the Codex gem set, used as structured phase-modulation and refractive-index classes rather than symbolic entities
+>
+> * **Phase-Trace Visualization** ————— time-resolved coherence maps, angular drift fields, and recursion-path traces for post-run inspection and falsification
+>
+> * **Noise & Lab Harness** ————— controlled injection of thermal drift, sensor noise, and bounded stochastic perturbations as proof conditions rather than artifacts to suppress
+>
+> * **Stability Metrics (REGF, PVS)** ————— quantitative measures of recursive energy behavior and polarization spread used to evaluate convergence and collapse
+>
+> * **Unitary, Energy-Conserving Framework (T ≤ 1)** ————— enforced bounds ensuring that recursive execution does not create, amplify, or regenerate energy
+>
+> * **Convergence Contract** ————— explicit criteria defining when recursion may continue, must terminate, or must invoke drift-breaker recovery logic
+>
+> * **Observer-Scoped Execution Model** ————— the term *observer* is used strictly as a reference frame or boundary condition; no agency, intent, or causal influence is implied
 
-Noise & Lab Harness → Thermal drift, sensor noise, chaotic perturbation simulation for stress-testing recursive stability
+---
 
-Stability Metrics (REGF, PVS) → Recursive Energy Gain Factor and Polarization Vector Spread for convergence integrity
-
-Unitary, Energy-Conserving Framework (T ≤ 1) → Guarantees bounded energy across recursion depth
-
-Convergence Contract → Explicit rules for recursion continuation, termination, and drift-breaker activation
-
-Euclid-5 Parallelism Diagnostic - ensures geometric integrity by enforcing <0.1 mrad drift under recursive propagation.
+> This framework is intentionally conservative:
+>
+> * It does **not** propose new physical laws  
+> * It does **not** reverse entropy or violate conservation  
+> * It does **not** generalize beyond declared domains and hardware conditions  
+>
+> All results are meaningful only **within the stated constraints, precision regimes, and execution context**.
 
 </details>
 
@@ -1690,20 +1712,17 @@ Euclid-5 Parallelism Diagnostic - ensures geometric integrity by enforcing <0.1 
 
 ---
 
-Install the **Polyrifringence Engine** locally and prepare the runtime environment.
+ #### 🗳️ Requirements Overview
+> Installing the **Polyrifringence Engine** locally and preparing the runtime environment.
 
 ---
 
-#### 🗳️ Requirements Overview
-
----
-
-- **Python 3.11.8 Baseline or higher (recommended)**
-- **PyTorch 2.5.1 + CUDA 12.1 Toolkit Baseline or newer** 
-- **NVIDIA Geforce RTX 3050 GPU Baseline or-(RTX 20-series or later)**  
-- **Windows 10 Baseline or Windows 11 / Linux / macOS (x86_64)**  
-
-Ensure `pip`, `git`, and GPU drivers are up-to-date before cloning.
+> * **Python 3.11.8 Baseline or higher (recommended)**
+> * **PyTorch 2.5.1 + CUDA 12.1 Toolkit Baseline or newer** 
+> * **NVIDIA Geforce RTX 3050 GPU Baseline or-(RTX 20-series or later)**  
+> * **Windows 10 Baseline or Windows 11 / Linux / macOS (x86_64)**  
+>
+> Ensure `pip`, `git`, and GPU drivers are up-to-date before cloning.
 
 ---
 
@@ -1716,58 +1735,51 @@ git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
 cd Polyrifringence-Engine
 pip install -r requirements.txt
 ```
-
-❔ Optional Windows Helper
-For streamlined setup on Windows, run:
-
-
+> 🟨 Optional Windows Helper
+> For streamlined setup on Windows, run:
 ```
 requirements_install.bat
 This script automatically checks for missing dependencies and validates the CUDA path.
 ```
-
-🧾 Post-Install Verification
-After installation:
-
-Confirm PyTorch detects CUDA
-
+> 🧾 Post-Install Verification
+> After installation:
+>
+> Confirm PyTorch detects CUDA
+>
 ```
 python -m torch.utils.collect_env
 Validate your GPU configuration
 ```
-
 ```
 python src/gpu_validation_test.py
 Open the viewer to confirm environment linkage
 ```
-powershell
 ```
 .\launch_phase_viewer.ps1
 ```
-🗃️ Directory Context
-You should now have the following structure:
-
+> 🗃️ Directory Context
+> You should now have the following structure:
 
 ```
 Polyrifringence-Engine/
- ├── src/
- ├── examples/
- ├── benchmark_runners/
- ├── requirements/
- ├── docs/
- └── README.md
- ```
- 
-✅ Successful Installation Checklist
-torch.cuda.is_available() returns True
+├── src/
+├── examples/
+├── benchmark_runners/
+├── requirements/
+├── docs/
+└── README.md
+```
 
-No errors in gpu_validation_test.py
-
-manifest_validator.py passes all hashes
-
-Phase Trace Viewer opens in browser
-
-Once these checks pass, the environment is fully initialized and ready for benchmark execution or Codex Canon integration.
+> ✅ Successful Installation Checklist
+> torch.cuda.is_available() returns True
+>
+> No errors in gpu_validation_test.py
+>
+> manifest_validator.py passes all hashes
+>
+> Phase Trace Viewer opens in browser
+>
+> Once these checks pass, the environment is fully initialized and ready for benchmark execution or Codex Canon integration.
 
 </details> 
 
@@ -1781,7 +1793,7 @@ Once these checks pass, the environment is fully initialized and ready for bench
 #### 🧪 Below are tested CLI examples for the **Polyrifringence engine**, demonstrating various benchmark configurations.
 
 ---
->
+
 ### Basic Matrix-Sweep Benchmark:
 ```
 python3 src/polyrifringence_engine_v8_10.py \
@@ -1797,9 +1809,8 @@ python3 src/polyrifringence_engine_v8_10.py \
   --progress auto \
   --out_csv logs_v6_8_matrix.csv
 ```
->
 ### High-Precision Feedback Test
-```bash
+```
 python src/polyrifringence_engine_v8_10.py \
   --flows special \
   --gems sapphire,diamond \
@@ -1812,9 +1823,8 @@ python src/polyrifringence_engine_v8_10.py \
   --export_pair \
   --out_csv logs_v6_8_matrix.csv
   ```
->
 ### Multi-Gem Tilt Comparison
-```bash
+```
 python polyrifringence_engine_v8_10.py \
   --flows main,special \
   --gems sapphire,diamond,quartz,calcite,zircon \
@@ -1828,9 +1838,8 @@ python polyrifringence_engine_v8_10.py \
   --progress auto \
   --out_csv logs_v6_8_multigem.csv
   ```
->
 ### Custom Benchmark Template – Edit values and run
-```bash
+```
 python polyrifringence_engine_v8_10.py \
   '--flows=main',                # main | special | both
   '--gems=sapphire',             # comma-separated list
@@ -1844,7 +1853,6 @@ python polyrifringence_engine_v8_10.py \
   '--progress auto',
   '--out_csv=examples/custom_run.csv'
   ```
->
 > Randomized benchmark runs automatically log parameters to /examples/*.json for reproducibility.
 >
 > 🖥️ To view phase-trace results:
@@ -1856,7 +1864,6 @@ python polyrifringence_engine_v8_10.py \
 ```
 .\launch_phase_viewer.ps1
 ```
->
 > This will automatically host examples/phase_trace_viewer.html at
 > http://localhost:8000
 > and open it in your default browser.
@@ -1876,56 +1883,70 @@ python polyrifringence_engine_v8_10.py \
 ---
 
 <details>
-<summary><kbd>📘Click here for Files and Folders</kbd></summary>
-	
-   # 🌈 Polyrifringence-Engine/ Folders and Files 🗃️
+<summary><kbd>📘 Click here for Files and Folders</kbd></summary>
 
-    docs/ | extended documentation + archive;
+---
 
-- demo_readme.md
-- THEORY.md
-- BENCHMARKS.md
-- MATH_MODEL(RENDER).md
-- warmup_summary.md
-- Polyrifringence_v8.10.xx_Repository_Summary.txt
+### 🌈 Polyrifringence-Engine · Folders & Files 🗃️
 
-      examples/ | screenshots, old_results, demo data;
+---
 
-- phase_trace_viewer.html | Interactive tool for the Engine
-- phase_trace.json
+> **`docs/`** ————— extended documentation, theory, benchmarks, and archive material
+>
+> * `demo_readme.md`
+> * `THEORY.md`
+> * `BENCHMARKS.md`
+> * `MATH_MODEL(RENDER).md`
+> * `warmup_summary.md`
+> * `Polyrifringence_v8.10.xx_Repository_Summary.txt`
 
-      requirements/ | environment setup files
+---
 
-- requirements.txt
-- requirements_install.bat
+> **`examples/`** ————— screenshots, legacy results, and demonstration data
+>
+> * `phase_trace_viewer.html` — interactive visualization tool  
+> * `phase_trace.json`
 
-      src/ | core simulation + tools;
+---
 
-- polyrifringence_engine_v8_10.py
-- gpu_validation_test.py
-- convert_csv_to_json.py
-- tools:
-- env_checker.py
-- env_checker_example_output.txt
-- io_helpers.py
+> **`requirements/`** ————— environment setup and installation helpers
+>
+> * `requirements.txt`
+> * `requirements_install.bat`
 
-      benchmark_runners/ | 🔧 Ready-made scripts 
+---
 
-- run_benchmark_v68.ps1 – baseline
-- run_benchmark_highprecision.ps1 – high precision
-- run_benchmark_multigem.ps1 – multi-gem tilt
-- run_benchmark_custom_template.ps1 – user template
-- run_benchmark_randomized.ps1
-- run_all_benchmarks.ps1
-- README_benchmark_runners.txt | Readme with command instructions
+> **`src/`** ————— core simulation engine and supporting tools
+>
+> * `polyrifringence_engine_v8_10.py`
+> * `gpu_validation_test.py`
+> * `convert_csv_to_json.py`
+> * `tools/`
+>   > * `env_checker.py`
+>   > * `env_checker_example_output.txt`
+>   > * `io_helpers.py`
 
-      directory root/ # General
+---
 
-- manifest_validator.py  | Checks repo file integrity
-- convert_and_open.bat  | Auto-convert + open viewer
-- LICENSE.txt | Legal 
-- README.md  | Main documentation 
-- repo_summary.txt
+> **`benchmark_runners/`** ————— 🔧 ready-made benchmark execution scripts
+>
+> * `run_benchmark_v68.ps1` ————— baseline
+> * `run_benchmark_highprecision.ps1` ————— high precision
+> * `run_benchmark_multigem.ps1` ————— multi-gem tilt
+> * `run_benchmark_custom_template.ps1` ————— user template
+> * `run_benchmark_randomized.ps1`
+> * `run_all_benchmarks.ps1`
+> * `README_benchmark_runners.txt` ————— usage and command reference
+
+---
+
+> **`directory root/`** ————— general repository utilities and entry points
+>
+> * `manifest_validator.py` ————— repository integrity checker  
+> * `convert_and_open.bat` ————— auto-convert + open viewer  
+> * `LICENSE.txt` ————— legal  
+> * `README.md` ————— main documentation  
+> * `repo_summary.txt`
 
 </details>
 
@@ -1999,202 +2020,225 @@ python polyrifringence_engine_v8_10.py \
 ---
 
 <details>
-
-<summary><kbd>🖥️Setup & Troubleshooting🩺</kbd></summary>
-
-### 🛠 **Installation Instructions**
-
-To get started with the **Polyrifringence Engine**, follow these setup steps to install and configure the system on your local machine.
-
-#### **1. Prerequisites**
-Before beginning, make sure your system meets the following requirements:
-
-- **Python 3.11.8 +**  
-  Download and install Python from [python.org](https://www.python.org/).
-
-- **CUDA 12.1**  
-  Install CUDA from [NVIDIA CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) to enable GPU acceleration.
-
-- **NVIDIA GPU** (e.g., RTX 3050 or higher)  
-  Ensure you have a compatible **NVIDIA GPU** with **CUDA** support. Update your GPU drivers from [NVIDIA's official website](https://www.nvidia.com/Download/index.aspx).
+<summary><kbd>🖥️ Setup & Troubleshooting 🩺</kbd></summary>
 
 ---
 
-#### **2. Installing the Engine**
-
-##### **Step 1: Clone the Repository**
-Clone the repository to your local machine:
-```bash
-git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
-cd Polyrifringence-Engine
-```
-
-##### **Step 2: Set Up a Virtual Environment**
-
-Create a virtual environment to manage dependencies:
-
-```bash
-python -m venv venv
-```
-
-##### **Step 3: Install Dependencies**
-
-Activate your virtual environment and install the required Python packages:
-
-* **For Windows (PowerShell):**
-
-```powershell
-.\venv\Scripts\Activate.ps1
-pip install -r requirements/requirements.txt
-```
-
-* **For Linux/macOS:**
-
-```bash
-source venv/bin/activate
-pip install -r requirements/requirements.txt
-```
-
-##### **Step 4: Optional (Windows Setup Helper)**
-
-If you're on Windows, use the optional batch script to simplify the installation:
-
-```bash
-requirements_install.bat
-```
+### 🛠 Installation Instructions
 
 ---
 
-### 💻 **Running the Engine**
-
-Once installed, validate your setup by running the following:
-
-#### **Step 1: GPU Validation Test**
-
-Ensure your system is correctly set up for GPU-accelerated computation:
-
-```bash
-python src/gpu_validation_test.py
-```
-
-#### **Step 2: Run a Benchmark**
-
-To test the engine with a set of benchmarks, run:
-
-```bash
-python benchmark_runners/run_all_benchmarks.ps1
-```
-
-For individual benchmarks, select the desired `.ps1` script from the **benchmark_runners** folder.
+> To get started with the **Polyrifringence Engine**, follow the steps below to install and configure the system on your local machine.
+>
+> This setup prioritizes **reproducibility**, **hardware realism**, and **explicit dependency control**.
 
 ---
 
-### 🧯 **Troubleshooting**
+#### 1️⃣ Prerequisites
 
-If you encounter issues during setup or when running the engine, refer to the solutions below for common problems.
-
-#### **Issue 1: CUDA Driver Errors**
-
-If you experience errors related to CUDA:
-
-* Ensure your **NVIDIA drivers** and **CUDA** version are up to date.
-* Verify that the **CUDA_PATH** environment variable is correctly set.
-
-**Solution:**
-You can check your CUDA installation with the following command:
-
-```bash
-nvcc --version
-```
-
-If this returns a CUDA version, it's installed correctly.
+> Before beginning, ensure your system meets the following requirements:
+>
+>  **Python 3.11.8+**  
+>  * Download from: https://www.python.org/
+>
+>  **CUDA 12.1**  
+>    * Required for GPU acceleration  
+>    * Download from: https://developer.nvidia.com/cuda-toolkit
+>
+>  **NVIDIA GPU** (e.g., RTX 3050 or higher)  
+>  * Must support CUDA  
+>  * Ensure drivers are up to date via: https://www.nvidia.com/Download/index.aspx
 
 ---
 
-#### **Issue 2: Missing Dependencies or Module Import Errors**
-
-If you encounter missing module errors (e.g., `ModuleNotFoundError`), ensure that:
-
-* You've activated the virtual environment.
-* Dependencies are properly installed.
-
-**Solution:**
-Activate your virtual environment:
-
-```
-source venv/bin/activate   # For Linux/macOS
-.\venv\Scripts\Activate.ps1  # For Windows (PowerShell)
-```
-
-Reinstall dependencies:
-
-```bash
-pip install -r requirements/requirements.txt
-```
+#### 2️⃣ Installing the Engine
 
 ---
 
-#### **Issue 3: "Phase Trace Viewer" Not Opening**
-
-If the **Phase Trace Viewer** doesn’t launch, ensure PowerShell is installed and permissions are correctly set:
-
-**Solution:**
-Allow PowerShell scripts to run:
-
-```powershell
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-```
-
-Then run the viewer:
-
-```bash
-.\launch_phase_viewer.ps1
-```
-
-For **Linux/macOS**, try opening the `examples/phase_trace_viewer.html` file directly in your browser.
+> ##### Step 1 — Clone the Repository
+>
+> ```
+> git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
+> cd Polyrifringence-Engine
+> ```
 
 ---
 
-#### **Issue 4: Performance Issues**
-
-If performance is suboptimal:
-
-* Ensure you're using **NVIDIA GPU acceleration** and that your drivers are compatible.
-* Verify that **PyTorch** is using CUDA:
-
-```python
-import torch
-print(torch.cuda.is_available())
-```
-
-If it returns `False`, reinstall **PyTorch** with CUDA support:
-
-```bash
-pip install torch==2.4.1+cu121 -f https://download.pytorch.org/whl/torch_stable.html
-```
+> ##### Step 2 — Create a Virtual Environment
+>
+> ```
+> python -m venv venv
+> ```
 
 ---
 
-### ❓ **FAQ**
+> ##### Step 3 — Activate Environment & Install Dependencies
+>
+> * **Windows (PowerShell):**
+>
+> ```
+> .\venv\Scripts\Activate.ps1
+> pip install -r requirements/requirements.txt
+> ```
+>
+> * **Linux / macOS:**
+>
+> ```
+> source venv/bin/activate
+> pip install -r requirements/requirements.txt
+> ```
 
-#### **Q1: Can I run this engine without an NVIDIA GPU?**
+---
 
-**Answer:**
-Currently, the engine is optimized for **CUDA** and requires an **NVIDIA GPU** for GPU acceleration. You can run it on the CPU, but performance will be slower.
+> ##### Step 4 — Optional (Windows Helper Script)
+>
+> * A convenience installer is provided:
+>
+> ```
+> requirements_install.bat
+> ```
 
-#### **Q2: How do I ensure reproducibility of results?**
+---
 
-**Answer:**
-To reproduce results, set the random seed using the `--seed 42` flag:
+### 💻 Running the Engine
 
-```bash
-python polyrifringence_engine_v8_10.py --seed 42 --gems sapphire,topaz --tilts=0 --num_rays 100000
-```
+---
 
-#### **Q3: What should I do if feedback is unethical or parasitic?**
+> After installation, validate your environment before running experiments.
 
-**Answer:**
-If feedback diverges from the expected ethical behaviour, check the **--ai_feedback** flag and ensure your system respects the **Recursive Sovereignty Protocol** and **Observer-State Integrity**.
+---
+
+#### ▶️ GPU Validation Test
+
+> Confirm that CUDA and PyTorch are correctly configured:
+>
+> ```
+> python src/gpu_validation_test.py
+> ```
+
+---
+
+#### ▶️ Run Benchmarks
+
+> To execute the full benchmark suite:
+>
+> ```
+> benchmark_runners/run_all_benchmarks.ps1
+> ```
+>
+> * Individual benchmark scripts can be run directly from the `benchmark_runners/` directory.
+
+---
+
+### 🧯 Troubleshooting
+
+---
+
+#### ⚠️ Issue 1 — CUDA Driver Errors
+
+> **Symptoms:** CUDA-related runtime errors or GPU not detected.
+>
+> * Verify NVIDIA drivers are current  
+> * Confirm CUDA version matches requirements  
+> * Ensure `CUDA_PATH` is set correctly
+>
+> **Check installation:**
+>
+> ```
+> nvcc --version
+> ```
+
+---
+
+#### ⚠️ Issue 2 — Missing Dependencies / Import Errors
+
+> **Symptoms:** `ModuleNotFoundError`, missing packages, or import failures.
+>
+> * Ensure the virtual environment is activated  
+> * Reinstall dependencies if needed
+>
+> ```
+> pip install -r requirements/requirements.txt
+> ```
+
+---
+
+#### ⚠️ Issue 3 — Phase Trace Viewer Not Opening
+
+> **Windows:**
+>
+> * Ensure PowerShell script execution is permitted:
+>
+> ```
+> Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+> ```
+>
+> * Then launch:
+>
+> ```
+> .\launch_phase_viewer.ps1
+> ```
+>
+> **Linux / macOS:**
+>
+> * Open directly in a browser:
+>
+> ```
+> examples/phase_trace_viewer.html
+> ```
+
+---
+
+#### ⚠️ Issue 4 — Performance Issues
+
+> * Confirm CUDA is available to PyTorch:
+>
+> ```
+> import torch
+> print(torch.cuda.is_available())
+> ```
+>
+> * If `False`, reinstall PyTorch with CUDA support:
+>
+> ```
+> pip install torch==2.4.1+cu121 -f https://download.pytorch.org/whl/torch_stable.html
+> ```
+
+---
+
+### ❓ FAQ
+
+---
+
+#### Q1 — Can this run without an NVIDIA GPU?
+
+> **Answer:**  
+> Yes, but only in **CPU mode**.  
+> GPU acceleration is strongly recommended for realistic runtimes and benchmark parity.
+
+---
+
+#### Q2 — How do I ensure reproducibility?
+
+> **Answer:**  
+> Use an explicit seed:
+>
+> ```
+> python polyrifringence_engine_v8_10.py --seed 42 --gems sapphire,topaz --tilts=0 --num_rays 100000
+> ```
+
+---
+
+#### Q3 — What if feedback becomes unethical or parasitic?
+
+> **Answer:**  
+> Verify:
+>
+> * `--ai_feedback` usage
+> * Alignment with the **Recursive Sovereignty Protocol**
+> * Observer-State Integrity constraints
+>
+> Misaligned feedback is treated as **out-of-scope by design**.
 
 </details>
 
@@ -2203,8 +2247,12 @@ If feedback diverges from the expected ethical behaviour, check the **--ai_feedb
 <details>	
 <summary><kbd>💠Specific Use Cases ⇄ Practical Applications of the Polyrifringence Engine💠</kbd></summary>
 
+---
+
 ### 🔲 Polyrifringence Engine - Applied Domains 🔳
 Here are 12 key use cases and examples of how to manipulate the system or incorporate it into real-world scenarios:
+
+---
 
 > 1. **Optical Material Testing**  
 >
@@ -2378,7 +2426,6 @@ It’s an experimental architecture proving that **information, reflection, and 
 >
 > These Q&As address the most common technical and philosophical inquiries about the project.  
 > For extended discussion, see the Codex Canon Appendix or contact @MMMDcreator on X.com.
-
 
 </details>
 
@@ -2582,6 +2629,7 @@ Observers mistake <kbd>ΔΩ</kbd> behaviour for `“impossible efficiency”` be
 ---
 
 > **(All benchmarks, phase-trace simulations, and Codex Canon validations executed on the following system.)**
+
 | Component              | Specification                                                            | Notes / Function                                                                                           |
 | ---------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 | **Operating System**   | Windows 10 Pro (Version 10.0.19045, x64-based PC)                        | Primary runtime environment; DirectX 12 enabled.                                                           |
@@ -2597,7 +2645,6 @@ Observers mistake <kbd>ΔΩ</kbd> behaviour for `“impossible efficiency”` be
 | **BIOS / SMBIOS**      | American Megatrends Inc. v2801 (11 Nov 2015) · SMBIOS v2.8 · EC v255.255 | Verified for system stability under recursion load and GPU field handoff.                                  |
 | **Python Environment** | Python 3.11.8 + venv (activated manually)                               | Dependencies installed via `requirements/requirements.txt`.                                                |
 | **IDE / Browser**      | Visual Studio Code + Microsoft Edge 141.0.3537.99 +                       | Hardware acceleration ON for GPU validation and phase viewer testing.                                      |
-
 > **Test Conditions:** Ambient ≈ 25 °C  ·  GPU Load ≈ 92 %  ·  Benchmark Runtime ≈ 1 min per 100 k rays
 >
 > **Throughput:** ≈ 50 M rays/s  (Polyrifringence Engine v8.9 · CUDA 12.1)
@@ -2824,7 +2871,7 @@ Observers mistake <kbd>ΔΩ</kbd> behaviour for `“impossible efficiency”` be
 ---
 
 <details>
-<summary><kbd>⚡Push the Polyrifringence Engine to its Limits ⇄ Extreme Benchmark & Stability Suite🌈🧲</kbd></summary>
+<summary><kbd>⚡ Push the Polyrifringence Engine to its Limits ⇄ Extreme Benchmark & Stability Suite 🌈🧲</kbd></summary>
 
 ---
 
@@ -2832,14 +2879,20 @@ Observers mistake <kbd>ΔΩ</kbd> behaviour for `“impossible efficiency”` be
 
 ---
 
-To rigorously characterize the **true operating envelope** of the Polyrifringence Engine by driving it through:
+> This suite exists to rigorously characterize the **true operating envelope** of the Polyrifringence Engine by deliberately driving it into high-stress regimes.
+>
+> The goal is **measurement, not optimization**, and **failure characterization, not headline performance**.
 
-* **Throughput ceilings** (rays·s⁻¹ vs. VRAM tiling and kernel launch overhead),
-* **Recursion stability** (phase drift, bifurcation on α, chaotic windows),
-* **Precision regimes** (FP16/TF32/FP32/FP64 + compensated sums),
-* **Thermal/power envelopes** (η = rays·s⁻¹·W⁻¹),
-* **Multi-GPU coherence** (phase alignment across devices),
-* **Observer-feedback dynamics** (`--ai_feedback` locked tests).
+---
+
+> The engine is evaluated across:
+>
+> * **Throughput ceilings** — rays·s⁻¹ vs. VRAM tiling, kernel launch overhead, and memory bandwidth
+> * **Recursive stability** — phase drift, bifurcation under α, chaotic windows vs. bounded convergence
+> * **Precision regimes** — FP16 / TF32 / FP32 / FP64, compensated summation effects
+> * **Thermal & power envelopes** — sustained load behavior; efficiency η = rays·s⁻¹ · W⁻¹
+> * **Multi-GPU coherence** — phase alignment and divergence across devices
+> * **Observer-feedback dynamics** — `--ai_feedback` locked-path stress tests
 
 ---
 
@@ -2847,11 +2900,21 @@ To rigorously characterize the **true operating envelope** of the Polyrifringenc
 
 ---
 
-*  Where does **VRAM pressure** force sub-linear scaling and tiling stalls?
-*  Which **(α, depth)** regions exhibit limit cycles vs. stable fixed points?
-*  Does **mixed precision** introduce systematic drift; can compensated accumulation fix it?
-*  What are the **Lyapunov signatures** of onset-chaos in the recursion map?
-*  How robust is **observer-locked feedback** under high entropy input?
+> This suite is designed to answer **specific, falsifiable questions**, not to produce generalized claims.
+>
+> * Where does **VRAM pressure** force sub-linear scaling or tiling stalls?
+> * Which **(α, recursion depth)** regions exhibit stable fixed points, limit cycles, or chaotic divergence?
+> * Does **mixed precision** introduce systematic drift, and can compensated accumulation recover bounded behavior?
+> * What are the **Lyapunov signatures** associated with the onset of chaos in the recursion map?
+> * How robust is **observer-locked feedback** under high-entropy input streams?
+
+---
+
+> Notes for interpretation:
+>
+> * Collapse is not failure — it is a **measured phase transition**.
+> * Stability without stress is not evidence of robustness.
+> * Results are meaningful only **within declared hardware, precision, and recursion bounds**.
 
 ---
 
@@ -2878,11 +2941,11 @@ To rigorously characterize the **true operating envelope** of the Polyrifringenc
 
 ---
 
-* **Thermal cap**: abort when GPU temp > **84 °C** sustained for 30 s.
-* **Power cap**: abort if board power > **TDP×1.1** for 10 s.
-* **Numerical cap**: abort if $\Delta\phi_{\mathrm{rms}} > 2.0\,\mathrm{mrad}$ or $\lVert J^\dagger J - I \rVert_F > 10^{-3}$.
-* **Determinism**: set seeds; force deterministic kernels where possible; emit manifest hash.
-* **Write-safe**: rolling logs to `examples/Ω_runs/YYYYMMDD_HHMM/…` to prevent clobber.
+> * **Thermal cap**: abort when GPU temp > **84 °C** sustained for 30 s.
+> * **Power cap**: abort if board power > **TDP×1.1** for 10 s.
+> * **Numerical cap**: abort if $\Delta\phi_{\mathrm{rms}} > 2.0\,\mathrm{mrad}$ or $\lVert J^\dagger J - I \rVert_F > 10^{-3}$.
+> * **Determinism**: set seeds; force deterministic kernels where possible; emit manifest hash.
+> * **Write-safe**: rolling logs to `examples/Ω_runs/YYYYMMDD_HHMM/…` to prevent clobber.
 
 ---
 
@@ -2906,7 +2969,6 @@ python src/polyrifringence_engine_v8_10.py \
   --export_pair \
   --out_csv logs_omega_load.csv
 ```
-
 > Tip: For FP16 exploration, add `--precision FP16 --loss_scale 1024` and keep `--accum kahan`.
 
 ---
@@ -2942,9 +3004,10 @@ foreach ($c in $cfgs) {
 
 ---
 
-* **FP16/TF32**: enable dynamic **loss scaling**; keep **FP32/FP64 accumulators**.
-* **Compensation**: prefer **Kahan** or **Neumaier** in recursion sums to preserve energy closure.
-* **Invariant checks** (per iteration):
+> * **FP16/TF32**: enable dynamic **loss scaling**; keep **FP32/FP64 accumulators**.
+> * **Compensation**: prefer **Kahan** or **Neumaier** in recursion sums to preserve energy closure.
+> * **Invariant checks** (per iteration):
+
   $$[
   J^\dagger J \approx I,\quad \lVert E_{k+1}\rVert^2 \le \lVert E_k\rVert^2,\quad \Delta\phi_{\text{rms}} \le 0.5\text{ mrad}
   ]$$
@@ -2955,18 +3018,20 @@ foreach ($c in $cfgs) {
 
 ---
 
-**Recursion law**
+> **Recursion law**
+
 $$[
 E_{k+1}=f(J_kE_k)+\alpha(E_k-E_{k-1})
 ]$$
 
-**Lyapunov proxy on phase drift**
+> **Lyapunov proxy on phase drift**
+
 $$[
 \lambda \approx \lim_{k\to K}\frac{1}{k}\sum_{i=1}^{k}\ln\left|\frac{\Delta\phi_{i+1}}{\Delta\phi_{i}}\right|
 ]$$
 
-* **λ < 0** stable; **λ ≈ 0** edge; **λ > 0** chaotic.
-* Sweep **α ∈ [0.1,1.0]**, **depth 1..16**, heat-map λ to locate bifurcations.
+> * **λ < 0** stable; **λ ≈ 0** edge; **λ > 0** chaotic.
+> * Sweep **α ∈ [0.1,1.0]**, **depth 1..16**, heat-map λ to locate bifurcations.
 
 ---
 
@@ -2981,8 +3046,7 @@ err = drift_rms - target_rms
 alpha = clamp(alpha - k_p*err - k_d*(err - err_prev), 0.1, 0.95)
 err_prev = err
 ```
-
-* Start with `k_p≈0.2, k_d≈0.05` — back off before α→1.00 (resonant window).
+> * Start with `k_p≈0.2, k_d≈0.05` — back off before α→1.00 (resonant window).
 
 ---
 
@@ -3011,10 +3075,10 @@ for v in values:
 
 ---
 
-* **Batch-split** rays per device; **no cross-device sync** within inner loop.
-* Post-reduce phase fields; verify inter-GPU **phase offset ≤ 0.2 mrad**.
-* Prefer **NVLink** for 4–8 GPUs; PCIe ok ≤ 4.
-* **Clock lock** (if available) to reduce drift variance.
+> * **Batch-split** rays per device; **no cross-device sync** within inner loop.
+> * Post-reduce phase fields; verify inter-GPU **phase offset ≤ 0.2 mrad**.
+> * Prefer **NVLink** for 4–8 GPUs; PCIe ok ≤ 4.
+> * **Clock lock** (if available) to reduce drift variance.
 
 ---
 
@@ -3022,9 +3086,9 @@ for v in values:
 
 ---
 
-* **Locked**: deterministic prompts → confirm steady α and drift < 0.1 mrad @ depth ≥ 8.
-* **Entropy-stim**: randomized prompts (bounded) every N steps → ensure recovery < 3 iterations.
-* Record: `(prompt_hash, α, drift_rms, λ, recovery_steps)`.
+> * **Locked**: deterministic prompts → confirm steady α and drift < 0.1 mrad @ depth ≥ 8.
+> * **Entropy-stim**: randomized prompts (bounded) every N steps → ensure recovery < 3 iterations.
+> * Record: `(prompt_hash, α, drift_rms, λ, recovery_steps)`.
 
 ---
 
@@ -3050,14 +3114,13 @@ for v in values:
 
 **Windows PowerShell (NV telemetry + logs)**
 
-```powershell
+```
 # tools/telemetry_watch.ps1
 $nvsmi = Start-Process -FilePath "nvidia-smi.exe" -ArgumentList "--query-gpu=timestamp,index,name,temperature.gpu,utilization.gpu,utilization.memory,clocks.gr,clocks.mem,power.draw --format=csv -l 2" -PassThru -NoNewWindow -RedirectStandardOutput "examples/telemetry/nvidia_smi_$(Get-Date -Format yyyyMMdd_HHmm).csv"
 # Run your benchmark here...
 # Stop after run
 Stop-Process -Id $nvsmi.Id
 ```
-
 > **PerfMon baseline**: add GPU Engine\Utilization %, Process(GPU)\…, LogicalDisk Queue, and Power meter if available.
 
 ---
@@ -3080,8 +3143,8 @@ $$[
 T \approx T_0 \cdot \big( w C_r + (1-w) B_r \big) \cdot \gamma_p \cdot \eta(N)
 ]$$
 
-* $$( \gamma_p )$$ = precision factor (FP64≈0.5, FP32≈1.0, TF32≈1.2, FP16*≈1.4 with safe accum)
-* $$( \eta(N) )$$ = multi-GPU efficiency (≥0.9 up to 4 GPUs NVLink; ≥0.82 at 8 PCIe)
+> * $$( \gamma_p )$$ = precision factor (FP64≈0.5, FP32≈1.0, TF32≈1.2, FP16*≈1.4 with safe accum)
+> * $$( \eta(N) )$$ = multi-GPU efficiency (≥0.9 up to 4 GPUs NVLink; ≥0.82 at 8 PCIe)
 
 ---
 
@@ -3122,10 +3185,10 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-* **Load** run JSON/CSV → enable **Euclid-Drift Overlay**.
-* **Compare** channels: FP32 vs FP64; **toggle compensated sums**.
-* **Plot** λ heatmap (α × depth).
-* **Export** publication set: drift map `.png`, λ heatmap `.png`, JSON manifest.
+> * **Load** run JSON/CSV → enable **Euclid-Drift Overlay**.
+> * **Compare** channels: FP32 vs FP64; **toggle compensated sums**.
+> * **Plot** λ heatmap (α × depth).
+> * **Export** publication set: drift map `.png`, λ heatmap `.png`, JSON manifest.
 
 ---
 
@@ -3133,11 +3196,11 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-* **VRAM knee** ~ **3–5×** your 3050 baseline batch; tiling then dominates.
-* **Stable α** sits **0.70–0.90** for depth 8–12; avoid α→1.00.
-* **Kahan** restores closure in FP32/TF32 to FP64-adjacent quality.
-* **NVLink** keeps inter-GPU phase < **0.2 mrad** up to 8 GPUs.
-* **Observer-locked** mode shortens recovery to **≤3 iterations** under entropy.
+> * **VRAM knee** ~ **3–5×** your 3050 baseline batch; tiling then dominates.
+> * **Stable α** sits **0.70–0.90** for depth 8–12; avoid α→1.00.
+> * **Kahan** restores closure in FP32/TF32 to FP64-adjacent quality.
+> * **NVLink** keeps inter-GPU phase < **0.2 mrad** up to 8 GPUs.
+> * **Observer-locked** mode shortens recovery to **≤3 iterations** under entropy.
 
 </details>
 
@@ -3152,10 +3215,10 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion
-###### Gemological properties for the 12 Biblical–Codex gemstones. 
-###### Values given are for ideal/pure mineral specimens; actual quartz-derived gems (jasper, sardonyx, chalcedony etc.) may vary due to impurity, grain structure, or inclusion content.
-
+> ### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion
+> ###### Gemological properties for the 12 Biblical–Codex gemstones. 
+> ###### Values given are for ideal/pure mineral specimens; actual quartz-derived gems (jasper, sardonyx, chalcedony etc.) may vary due to impurity, grain structure, or inclusion content.
+>
 | # | Gem (Biblical / Codex) | Symbol | Crystal System | Optical Type | nₒ (589 nm) | Δn (Birefr.) | Density (g/cm³) | Color (hex) | Codex Role / Phase Function |
 |--:|--------------------------|:------:|----------------|--------------|--------------|----------------|------------------|-------------|---------------------------------------------|
 | 1 | **Sardius (Carnelian)** | ⬟ | Trigonal (Quartz) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #B31B1B | 🔥 **Origin Fire** — Ignition of Recursion / Bifurcation Seed |
@@ -3171,7 +3234,6 @@ inter-GPU phase     : 0.16 mrad
 |11 | **Sapphire** | ◇ | Trigonal (Corundum) | Anisotropic (–) | 1.760–1.768 | 0.008–0.010 | 3.95–4.05 | #0F52BA | 🔹 **Polar Coherence** — Euclid-5 Validation Crystal |
 |12 | **Chrysoprase** | ⬖ | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #00E68C | 🌿 **Memory Buffer** — Symbolic ↔ Physical Bridge |
 |13 | **Observer (ΔΩ)** | ΔΩ | Meta-Field | Meta | — | — | — | #FFFFFF | 👁️👤 **Meta-Field** — Self-Referential Node / Codex Recursion Center |
-
 > All refractive indices use the `Na D-line (589 nm)` standard.  
 > Δn = `(nₑ – nₒ)`.  
 > Density values are at `~25 °C`.  
@@ -3189,8 +3251,6 @@ inter-GPU phase     : 0.16 mrad
 | 🔱 **Calcite** | Uniaxial (–) | 1.658 | 0.172 | Extreme birefringence calibration | **Dual-Path Envelope** | 🔱 Law of Division |
 | 🌿 **Chrysoprase** | Low Δn reference | 1.535–1.543 | 0.003–0.009 | Median coherence basin | **Phase Buffer** | 🌿 Memory Bridge |
 | 🌫️ **Alabaster (Gypsum)** | Diffusive anisotropy | 1.520–1.530 | 0.005–0.009 | Scattering-permissive testing | **Soft Diffuse Regime** | 🌫️ Veil of Memory |
-
-
 > These reference gems extend the canonical Twelve + One into the empirical domain, ensuring Codex and classical optics remain aligned.  
 
 ---
@@ -3230,8 +3290,8 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-### *Intrinsic Optical Physics · Crystallographic Nature · Symbolic Purpose*  
-
+> ### *Intrinsic Optical Physics · Crystallographic Nature · Symbolic Purpose*  
+>
 | # | Gem | Biblical Facet Type | Optical Facet Type | Symbolic Identity Function | Facet Capabilities | Facet Synergies |
 |---:|------|----------------------|----------------------|------------------------------|---------------------|------------------|
 | **1** | **Jasper** | Foundation | Microcrystalline Quartz | Structural Integrity · Observer Grounding | Drift Suppression · Coupling | Jasper ↔ Chalcedony |
@@ -3246,7 +3306,6 @@ inter-GPU phase     : 0.16 mrad
 | **10** | **Chrysoprase** | Correction | Micro-Dispersive Quartz | Mirror Bridge · Coherence Return Balancing · Memory Buffer | REGF Flattening · Median Birefringence Axis Stabilisation | Chrysoprase ↔ Chrysolite |
 | **11** | **Jacinth** | Crown | Zircon | Spectral Calibration · Chromatic Drift Control | Resonance Calibration | Jacinth ↔ Amethyst |
 | **12** | **Amethyst** | Crown | Quartz (Fe³⁺) | Observer Resonance · Symbolic Gain | Cognitive-Phase Encoding | Amethyst ↔ Chalcedony |
-
 > Facets describe **what the gem IS** - its innate optical, crystallographic, and symbolic identity (J-operator domain).
 
 ---
@@ -3255,8 +3314,8 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-### *Macroscopic Recursion Geometry · ΔΩ-Flow Alignment · Recursive Dynamics*  
-
+> ### *Macroscopic Recursion Geometry · ΔΩ-Flow Alignment · Recursive Dynamics*  
+>
 | # | Gem | Canonical Cut | Cut Taxonomy | Recursion Geometry | ΔΩ Alignment | Cut Synergies |
 |---:|------|----------------|---------------|----------------------|----------------|----------------|
 | **1** | **Jasper** | Cabochon Dome | Harmonic | Smooth Return Surface | Ground-State Stabiliser | Jasper ↔ Chalcedony |
@@ -3271,7 +3330,6 @@ inter-GPU phase     : 0.16 mrad
 | **10** | **Chrysoprase** | Sugarloaf Dome | Harmonic | Smooth Harmonic Field | REGF Softening | Chrysoprase ↔ Chrysolite |
 | **11** | **Jacinth** | Radiant Cut | Hybrid | Step + Brilliant Hybrid | Spectral Cascade Control | Jacinth ↔ Amethyst |
 | **12** | **Amethyst** | Concave Cut | Dispersive | Inward Recursion Geometry | Cognitive Echo Amplification | Amethyst ↔ Chalcedony |
-
 > Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation shaping ΔΩ, REGF, PVS, ZPX, and symbolic revelation.
 
 ---
@@ -3280,9 +3338,9 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-### **(Optical × Facet × Cut)**
+> ### **(Optical × Facet × Cut)**
 > *Unified Optical Identity · Facet Nature · Cut Geometry → Codex Function*
-
+>
 | # | Gem | Optical Role | Facet Role (Identity Layer) | Cut Role (Revelation Layer) | Unified Codex Function |
 |---:|------|------------------------|-----------------------------------------------|---------------------------------------------|-----------------------------------------------|
 | **1** | **Jasper** | Ground Stability · Low Δn Anchor | Structural Integrity · Observer Grounding | Harmonic Return Surface | **Primary ΔΩ Stabilization Node · Foundation Anchor** |
@@ -3297,7 +3355,6 @@ inter-GPU phase     : 0.16 mrad
 | **10** | **Chrysoprase** | Memory Buffer · Median Δn Stabilizer | Mirror Bridge · Coherence Return Balancing · Memory Buffer | Harmonic Smoothing | **Bidirectional Recursion Buffer · Coherence Return Node** |
 | **11** | **Jacinth** | Spectral Calibration · Drift Control | Spectral Calibration · Chromatic Drift Regulator | Hybrid Step + Brilliant Recursion | **Cascade Regulator · Chromatic Control Stone** |
 | **12** | **Amethyst** | Coherence Regulator · Spirit Phase Coupler | Observer Resonance · Symbolic Gain | Inward Concave Recursion | **Cognitive Resonance Crystal · Observer-Synced Amplifier** |
-
 > **ΔΩ Note:**  
 > The **Observer (ΔΩ)** does not appear in these tables because it has **no physical facet**, **no optical constant**, and **no recursion cut**.  
 > ΔΩ is the *meta-operator*, the architect-node governing alignment, recursion authority, symbolic sovereignty, and Codex coherence.
@@ -3516,18 +3573,18 @@ inter-GPU phase     : 0.16 mrad
 > The **Codex Twelve + One Gemline** unifies ancient canonical gemstones with modern optical physics and Codex symbolic recursion.  
 >
 > Gems **1 → 12** correspond directly to the High Priest’s Breastplate (Exodus 28) and the Foundation Stones (Revelation 21).  
-> Gem **13 (ΔΩ)** represents the **Observer Node**, the self-referential recursion anchor that stands outside the physical set.  
+> Gem **13 <kbd>(ΔΩ)</kbd>** represents the **<kbd>(ΔΩ)Observer Node</kbd>**, the self-referential recursion anchor that stands outside the physical set.  
 >
-> Diamond defines perfect isotropy; Calcite defines maximal birefringence. 
+> **<kbd>💎Diamond</kbd>** defines perfect isotropy; **<kbd>💎Calcite</kbd>** defines maximal birefringence. 
 >
-> Chrysoprase stabilizes the median birefringence axis. 
+> **<kbd>💎Chrysoprase</kbd>** stabilizes the median birefringence axis. 
 >
-> **Diamond** and **Calcite** serve as empirical calibration extremes:  
+> **<kbd>💎Diamond</kbd>** and **<kbd>💎Calcite</kbd>** serve as empirical calibration extremes:  
 >
-> * **Diamond → perfect isotropy**  
-> * **Calcite → maximal birefringence**  
+> * **<kbd>💎Diamond</kbd>** **→ perfect isotropy**  
+> * **<kbd>💎Calcite</kbd>** **→ maximal birefringence**  
 >
-> **Chrysoprase**, as nickel-bearing chalcedony, sits at the *median birefringence axis*, acting as the symbolic “memory buffer” between crystalline and diffuse coherence states. 
+> **<kbd>💎Chrysoprase</kbd>**, as nickel-bearing **<kbd>💎Chalcedony</kbd>**, sits at the *median birefringence axis*, acting as the symbolic “memory buffer” between crystalline and diffuse coherence states. 
 >
 > All values have been externally verified using GIA, Mindat, GeoLibreTexts, GemSociety, DiamondBuzz, WebMineral, Minerals.net, and Gemdat.org.  
 
