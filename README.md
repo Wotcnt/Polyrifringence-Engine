@@ -97,26 +97,26 @@ Timestamp Locked · Trace Context Declared
 	
 ---
 
-| <kbd>Information Field</kbd> | <kbd>General Information</kbd>                                               |
+| <kbd>👁️Information Field</kbd> | <kbd>👁️‍🗨General Information</kbd>                                          |
 |---------------------|---------------------------------------------------------------------------------------|
-| Title               | <kbd>Polyrifringence Engine©</kbd>                                                               |
-| Version Codename    | AΩ-Seal · ΔΩ-Aligned · Sovereign Node · **Pre-Release**                               |
-| **Latest Content Available**   | **31st December 2025 · MATH_MODEL(RENDER).md · THEORY.md**                 |
-| **Withheld Content Available**   | **Q1 2026 · BENCHMARKS.md · VIEWER.html · Polyrifringence_Engine_v8.10.XX.py**            |
-| Author              | Conner Brown-Milliken · @MMMDcreator - X.com · @Wotcnt - GitHub                       |
-| Country             | Australia                                                                             |
-| Manual Anchor Date  | 29/12/2025 · Checkpoint                                                               |
-| License             | MIT                                                                                   |
-| 𝛌⃝ambda Ⓛimited─Ⓛicense | **Canon-Bound-Extension ·  Ⓛ**                                                  |
-| Lambda Clearance    | **Authorial · Author-Approved** · 🅾️                                                 |
-| DOI Notice          | 📑 Pending Submission - _repository serves as preprint reference & repository for Codex Canon Series_  |
-| Word Keys           | Recursive Birefringence; GPU optics; Codex Canon; RSANCS; symbolic recursion          |
-| Latest Version Tag  | _v8.10.xx-prerelease-2025-11-18_                                                      |
-| Hardware Validator  | RTX 3050 (CUDA 12.1) · i5-4690K · Validated                                           |
-| Canonical Recursive Phase Integrity  | <kbd>ΔΩ</kbd> · **<kbd>ΔΔΩΔ-Validated</kbd>**                                              |
-| Field Class         | Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
-| **Canonical**       | **Newest tagged release supersedes all prior versions**                               |
-| **README Metrics** | **_~138 min read · ~27,547 words · ~245,331 chars_** *(manual; last checked 29/12/2025)*      |
+| Title               |🕴 <kbd>Polyrifringence-Engine©</kbd>                                                    |
+| Version Codename    |⓿ AΩ-Seal · ΔΩ-Aligned · Sovereign Node · **Pre-Release**                               |
+| **Latest Content Available**   |📑-**31st December 2025 · MATH_MODEL(RENDER).md · THEORY.md**                 |
+| **Withheld Content Available**   |📑-**Q1 2026 · BENCHMARKS.md · VIEWER.html · Polyrifringence_Engine_v8.10.XX.py**            |
+| Λuthor              |🆔-Conner Brown-Milliken · @MMMDcreator - X.com · @Wotcnt - GitHub                       |
+| Country             |🌏-Λustralia-🇦🇺                                                                         |
+| Manual Anchor Date  |📅-30/12/2025 · Checkpoint                                                               |
+| License             |💳-MIT                                                                                   |
+| 𝛌⃝ambda Ⓛimited─Ⓛicense |📘 **Canon-Bound-Extension ·  Ⓛ**                                                  |
+| Lambda Clearance    |🎫 **Λuthorial ·  Λuthor-Approved** · 🅾️                                                 |
+| DOI Notice          |📑-Pending Submission - _repository serves as preprint reference & repository for Codex Canon Series_  |
+| Word Keys           |📟-Recursive Birefringence; GPU optics; Codex Canon; RSANCS; symbolic recursion          |
+| Latest Version Tag  |🧬 _v8.10.xx-prerelease-2025-11-18_                                                      |
+| Hardware Validator  |🧰 RTX 3050 (CUDA 12.1) · i5-4690K · Validated                                           |
+| Canonical Recursive Phase Integrity  |⚿-<kbd>ΔΩ</kbd> · **<kbd>ΔΔΩΔ-Validated</kbd>**                        |
+| Field Class         |🌍 Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
+| **Canonical Caveat**       |🖻 **Newest tagged release supersedes all prior versions**                        |
+| **README Metrics** |⌚ **_~138 min read · ~27,547 words · ~245,331 chars_** *(manual; last checked 29/12/2025)* |
 > *Metrics are approximate and based on the current revision of this document.*                                   
 
 </details>
@@ -521,7 +521,7 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-# <strong>**—————♻️|What a strange loop it’s been, Möbius|♻️—————</strong>**
+# **<strong>—————♻️|What a strange loop it’s been, Möbius|♻️—————</strong>**
 
 ---
 
@@ -530,11 +530,11 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-###    📈Project Complexity Level: Advanced ⇄ Multi-Disciplinary, Non-Standard, High Complexity🎼
+###    📈Project Complexity Level: Advanced ⟷ Multi-Disciplinary, Non-Standard, High Complexity🎼
 
 ---
 
-> ### 📛<ins>Requiring specialized expertise or the wilful intent to learn</ins>📛
+> ### 📛<ins>*Requiring specialized expertise or the wilful intent to learn*</ins>📛
 >
 > ##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. 
 > Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies.
@@ -659,7 +659,7 @@ This repository provides the **Polyrifringence Engine** 📌
 >
 > Under the **Codex Canon**, the engine unifies classical optics, recursive dynamics, and a governed execution grammar into a single constraint-driven architecture. Any observed advantages arise from structural organization, coherence-preserving recursion, and bounded decay geometry — **not** from energy amplification, entropy reversal, or extensions of physical law.
 	
-> **_<kbd>What you see is the floor, not the ceiling</kbd>_**
+> **_<kbd>🕳What you see is the floor, not the ceiling🚪</kbd>_**
 
 </details>
 
@@ -755,7 +755,7 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
      rel="noopener noreferrer">
     <img
       width="100%"
-      src="https://img.shields.io/badge/Share--Link_Verification-Click_Me-CFEFF6?style=neon&logo=obsidian&logoColor=000000&labelColor=6D2A8A"
+      src="https://img.shields.io/badge/🎫_Share--Link_Verification-Click_Me_📩-CFEFF6?style=neon&labelColor=6D2A8A"
       alt="Share and Link Verification on X">
   </a>
 
@@ -779,7 +779,7 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
    target="_blank"
    rel="noopener noreferrer">
   <img width="100%"
-       src="https://img.shields.io/badge/CLICK_TO_OPEN-Polyrifringence_Engine_Expert_GPT-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6"
+       src="https://img.shields.io/badge/🌐_CLICK_TO_OPEN-Polyrifringence_Engine_Expert_GPT_🤖-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6"
        alt="Open Polyrifringence Engine Expert GPT">
 </a>
 
@@ -1131,8 +1131,9 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
    target="_blank"
    rel="noopener noreferrer">
   <img width="100%"
-       src="https://img.shields.io/badge/CLICK_TO_OPEN-Polyrifringence_Engine_Expert_GPT-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6"
+       src="https://img.shields.io/badge/🌐_CLICK_TO_OPEN-Polyrifringence_Engine_Expert_GPT_🤖-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6"
        alt="Open Polyrifringence Engine Expert GPT">
+</a>
 
 ---
 
