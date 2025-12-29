@@ -117,7 +117,7 @@ Timestamp Locked · Trace Context Declared
 | Canonical Recursive Phase Integrity  | <kbd>ΔΩ</kbd> · **<kbd>ΔΔΩΔ-Validated</kbd>**                                              |
 | Field Class         | Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
 | **Canonical**       | **Newest tagged release supersedes all prior versions**                               |
-| **README Metrics** | **_~121 min read · ~24,171 words · ~215,341 chars_** *(manual; current revision)*      |
+| **README Metrics** | **_~138 min read · ~27,547 words · ~245,331 chars_** *(manual; last checked 29/12/2025)*      |
 > *Metrics are approximate and based on the current revision of this document.*                                   
 
 </details>
