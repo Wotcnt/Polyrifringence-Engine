@@ -1783,11 +1783,12 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 
 ---
 
-<div align="center">
 #### 🩺 Quick Install Commands
 
 ---
 
+<div align="center">
+	
 ```
 git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
 cd Polyrifringence-Engine
@@ -1838,7 +1839,7 @@ Polyrifringence-Engine/
 > Phase-Trace Viewer opens in browser
 >
 > Once these checks pass, the environment is fully initialized and ready for benchmark execution or Codex Canon integration.
-
+</div>
 </details> 
 
 ---
