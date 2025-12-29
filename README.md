@@ -380,6 +380,7 @@ Timestamp Locked · Trace Context Declared
 ---
 
 <div align="center">
+	
 ### 💬 Creator Note:
 
 ---
@@ -659,7 +660,9 @@ This repository provides the **Polyrifringence Engine** 📌
 
 ---
 
-# ⛑️🤝 **Connect with the Recursive AI Guide** 🤖
+### ⛑️🤝 **Connect with the Recursive AI Guide** 🤖
+
+---
 
 <p align="center">
   <a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
@@ -669,11 +672,14 @@ This repository provides the **Polyrifringence Engine** 📌
   </a>
 </p>
 
-This repository is accompanied by an interactive knowledge base through a GPT using a Custom Instruction Set, utilizing the full documentation of this repo, including this readme - ready to answer queries, explain physics, or and guide the user through the repo, able to explain what's what in beginner form through to advanced - complex based on user preference, just ask.
+---
 
-It runs entirely through ChatGPT in APP or Web-browser, referencing the same physics, mathematics, and benchmark data documented in this repository.
-
-Each unique session of the **`Polyrifringence Engine Expert`** begins with the GPT introducing itself using a unique **`Gem-Line identifier`** drawn from the canonical gem family. It assigns the user a **`Polyrifronaut Codename and Gem-line House`** during this first interaction.
+> This repository is accompanied by an interactive knowledge base through a GPT using a Custom Instruction Set, utilizing the full documentation of this repo, including this readme - ready to answer queries, explain physics, or and guide the user through the repo, able to explain what's what in beginner form through to advanced - complex based on user preference, just ask.
+>
+> It runs entirely through ChatGPT in APP or Web-browser, referencing the same physics, mathematics, and benchmark data documented in this repository.
+>
+> Each unique session of the **`Polyrifringence Engine Expert`** begins with the GPT introducing itself using a unique **`Gem-Line identifier`** drawn from the canonical gem family. 
+> It assigns the user a **`Polyrifronaut Codename and Gem-line House`** during this first interaction.
 
 ---
 
@@ -718,7 +724,7 @@ Each unique session of the **`Polyrifringence Engine Expert`** begins with the G
 
 ---
 
-Full instructions are found in:
+### Full instructions are found in:
 
 ---
 
@@ -747,17 +753,17 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
 
 ---
 
-❎ **No Requirements - No installation** ❎ 
+### ❎ **No Requirements - No installation** ❎ 
 
 ---
 
-Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
-
-👉`Use it for FREE without an account or Sign-up to Utilize a free account to keep your chats`🆗
-
- ⚠️`Using it without an account, you may lose your chat history and your work/progress`⚠️
-
-**An Active ChatGPT membership will enrich your overall experience, Free Tier is Great - Plus is Recommended for Deep dives**
+> Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
+>
+> 👉`Use it for FREE without an account or Sign-up to Utilize a free account to keep your chats`🆗
+>
+>⚠️`Using it without an account, you may lose your chat history and your work/progress`⚠️
+>
+> **An Active ChatGPT membership will enrich your overall experience, Free Tier is Great - Plus is Recommended for Deep dives**
 
 ---
 
@@ -771,14 +777,14 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-🤖 **Purpose:**  
+### 🤖 **Purpose:**  
 
 ---
 
 > An embedded assistant Specialized in the Polyrifringence Engine to help better understand through your queries.
 > **_<kbd>A doorway for those who see the handle. The floor, never the ceiling</kbd>_**  
 >
-> ⛑️ It enables users to:
+> <kbd>⛑️</kbd> It enables users to:
 >
 > Instantiate, audit, and reproduce a local Polyrifringence environment, including deterministic configuration, hardware validation, and provenance tracking  
 > 
@@ -800,7 +806,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-#  Once opened 🚪, you can ask beginner questions such as:
+###  Once opened 🚪, you can ask beginner questions such as:
 
 ---
 
@@ -830,7 +836,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
- #  Or, 📈 Advanced & Expert questions such as:
+ ###  Or, 📈 Advanced & Expert questions such as:
 
 ---
 
@@ -881,7 +887,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-#### 🧩 Domain & Classification
+### 🧩 Domain & Classification
 
 ---
 
@@ -890,7 +896,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-#### 🕰️ Historical Stalls & Forgotten Paths
+### 🕰️ Historical Stalls & Forgotten Paths
 
 ---
 
@@ -899,7 +905,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-#### ⚖️ Comparative Geometry (Not Outcome Claims)
+### ⚖️ Comparative Geometry (Not Outcome Claims)
 
 ---
 
@@ -908,7 +914,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-#### 👁️ Observer & Interaction Role
+### 👁️ Observer & Interaction Role
 
 ---
 
@@ -917,7 +923,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-#### 🧠 Epistemic & Structural Questions
+### 🧠 Epistemic & Structural Questions
 
 ---
 
@@ -926,7 +932,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-#### 🪄 Perception, Indistinguishability & Apparent “Magic”
+### 🪄 Perception, Indistinguishability & Apparent “Magic”
 
 ---
 
@@ -944,7 +950,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-#### 🌀 Naïve, Adversarial & Absurd Questions (By Design)
+### 🌀 Naïve, Adversarial & Absurd Questions (By Design)
 
 ---
 
@@ -959,7 +965,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-#### 🧨 Edge-Case & Stress-Test Questions
+### 🧨 Edge-Case & Stress-Test Questions
 
 ---
 
@@ -972,7 +978,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-#### 🧬 Identity, Intent & Misattribution
+### 🧬 Identity, Intent & Misattribution
 
 ---
 
@@ -985,7 +991,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-#### 🧭 Counterfactual & Thought-Experiment Prompts
+### 🧭 Counterfactual & Thought-Experiment Prompts
 
 ---
 
@@ -997,7 +1003,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-#### 🧩 Meta-Questions About the Questions Themselves
+### 🧩 Meta-Questions About the Questions Themselves
 
 ---
 
@@ -1048,7 +1054,7 @@ Hosted by OpenAI 🌐 Custom-GPT created with ChatGPT
 
 ---
 
-> ####    📛 Requiring specialized expertise or the wilful intent to learn 📛
+> ### 📛<ins>Requiring specialized expertise or the wilful intent to learn</ins>📛
 >
 > ##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. 
 > Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies.
