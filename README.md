@@ -223,127 +223,6 @@ Timestamp Locked · Trace Context Declared
 ---
 
 <details>
-<summary>
-  <strong><kbd>📖How to Read This Work</kbd></strong>
-
-</summary>
-
----
-
- **New readers:**  
-<p><em>
-<kbd>Canonical orientation for interpretation, scope, and document cohesion</kbd>
-</em></p>
-
----
-
-> If you want a plain-language, non-symbolic technical orientation before engaging this repository, start here-click the badge: 
->
-> [![Authorial Technical Orientation](https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff)](https://github.com/Wotcnt)
->
->
->
-> This project is **not a quick-start README**, software manual, or standalone paper.
->
-> It is a **canonical disclosure system** composed of three inseparable artifacts:
->
-> 1️⃣⌥**README.md** ————— (THIS FILE), contextual integration, provenance, ethical framing, and system overview  
-> 2️⃣⌥**THEORY.md** ————— formal scope, constraints, definitions, and non-claims  
-> 3️⃣⌥**MATH_MODEL(RENDER).md** ————— mathematical structure, relations, and model formalism  
->
-> ⎇These documents are intended to be interpreted **only as a unified whole**.
-
----
-
-### 📐Reading Discipline
-
----
-
-> Readers should observe the following:
->
-> **No single file is self-sufficient**  
-  The README (THIS FILE) provides orientation, not proof.  
-  THEORY.md defines scope and constraints.  
-  MATH_MODEL(RENDER).md formalizes structure.
->
-> **Partial or excerpted readings are non-canonical**  
-  Isolated passages, screenshots, or summaries will not yield a valid interpretation of the system.
->
-> **Dropdown sections are intentional**  
-  Collapsible sections manage cognitive load and allow readers to control depth.  
-  They are structural elements, not optional commentary.
->
-> **Technical claims are bounded**  
-  All claims are constrained by stated assumptions, observer conditions, and non-claims defined in THEORY.md.  
-  No result should be interpreted outside those bounds.
->
-> **Symbolic language is descriptive**  
-  Symbolic and ethical terms describe structure, trace continuity, and observer–system relations.  
-  They do not imply metaphysics, agency, or causal force beyond the formal model.
->
-> **Engagement mode affects interpretation**  
-  Understanding depends on willingness to suspend prior frameworks long enough to evaluate the system on its own terms.  
-  Prior knowledge functions as scaffolding, not authority.
-
----
-
-### 🎯Purpose of This Orientation
-
----
-
-> This section exists to reduce interpretive friction while preserving rigor.
->
-> The system is designed for sustained, structured engagement.  
-> Misinterpretation arising from partial reading or premature framing is outside the canonical interpretation path.
-
-</details>
-
----
-<details>
-<summary><strong><kbd>📊Derived Capabilities (Secondary Effects 🕸️ Constraint-Bound 🧬)</kbd></strong></summary>
-
-| [![Canonical Capability](https://img.shields.io/badge/Canonical_Capability-Indicator-2b2b2b?style=flat)](https://en.wikipedia.org/wiki/Capability-based_security) | [![Governing Basis](https://img.shields.io/badge/Governing_Basis-Constraint-2b2b2b?style=flat)](https://en.wikipedia.org/wiki/Constraint_(mathematics)) | [![Derived Capabilities](https://img.shields.io/badge/Derived_Capabilities-Secondary_Effects-2b2b2b?style=flat)](https://en.wikipedia.org/wiki/Emergence) |
-|-----------------------------------|-----------------------------------|-----------------------------------|
-| **<kbd>♻️ Exergy Handling</kbd>**<br>[![Exergy Efficiency](https://img.shields.io/badge/Exergy_Efficiency-Reduced_Dissipation_%26_Extended_Half--Life-046307?style=neon&logo=leaflet&logoColor=00E68C)](https://en.wikipedia.org/wiki/Exergy) | λ—cycle decay geometry<br><kbd>ΔΩ</kbd>-stabilized recursion | • Reduced *effective* exergy destruction rates<br>• Predictable decay geometry governed by bounded λ—cycle envelopes<br>• Extended usable-energy half-life under lawful thermodynamics |
-| **<kbd>🌡️ Thermal Rejection Profile</kbd>**<br>[![Cooling Water Impact](https://img.shields.io/badge/Cooling_Water_Impact-Reduced_via_Efficiency-046307?style=neon&logo=cloudflare&logoColor=00E68C)](https://en.wikipedia.org/wiki/Heat_dissipation) | Structured dissipation timing<br>Entropy localization | • Lower peak thermal rejection demand (profile-dependent)<br>• Reduced instantaneous cooling intensity requirements<br>• Smoother heat-release envelopes over time |
-| **<kbd>⏳ Temporal Energy Availability</kbd>**<br>[![Temporal Exergy](https://img.shields.io/badge/Temporal_Exergy-Extended_Usable_Energy_Window-046307?style=neon&logo=clockify&logoColor=00E68C)](https://en.wikipedia.org/wiki/Time_constant) | Delayed coherence collapse<br>Time-structured dissipation | • Longer *functional* energy-availability windows<br>• Delayed coherence collapse relative to classical expectations<br>• Time-structured dissipation rather than abrupt loss |
-| **<kbd>📉 Thermal Load Stability</kbd>**<br>[![Thermal Load Smoothing](https://img.shields.io/badge/Thermal_Load-Smoothing_via_Recursive_Stability-046307?style=neon&logo=reactos&logoColor=00E68C)](https://en.wikipedia.org/wiki/Thermal_management) | Drift-collapse invariants<br>Recursive phase alignment | • Suppression of sharp thermal spikes<br>• Reduced thermal-gradient oscillations across cycles<br>• Load smoothing induced by recursive phase alignment |
-| **<kbd>🧰 Hardware Stress Envelope</kbd>**<br>[![Hardware Longevity](https://img.shields.io/badge/Hardware_Longevity-Extended_via_Lower_Thermal_Stress-046307?style=neon&logo=nvidia&logoColor=00E68C)](https://en.wikipedia.org/wiki/Thermal_stress) | Reduced thermal cycling amplitude<br>Bounded load envelopes | • Reduced thermal cycling amplitude<br>• Lower cumulative mechanical and electronic fatigue<br>• Potential extension of component service life under comparable operating conditions |
-| **<kbd>📐 Numerical Stability</kbd>**<br>[![Numerical Stability](https://img.shields.io/badge/Numerical_Stability-Drift_Collapse_%26_Error_Containment-046307?style=neon&logo=codacy&logoColor=00E68C)](https://en.wikipedia.org/wiki/Numerical_stability) | <kbd>ΔΩ</kbd> convergence law<br>Bounded recursion depth | • Drift collapse within empirically bounded recursion depth (≈6–7 cycles)<br>• Error-accumulation containment over long recursion chains<br>• Stability without artificial damping or precision inflation |
-| **<kbd>🧿 Perturbation Resilience</kbd>**<br>[![Noise Tolerance](https://img.shields.io/badge/Noise_Tolerance-Coherence_Recovery_After_Perturbation-046307?style=neon&logo=elastic&logoColor=00E68C)](https://en.wikipedia.org/wiki/Robust_control) | Coherence return rate exceeding entropy expansion rate | • Recovery of coherent structure after bounded disturbances<br>• Noise tolerance without suppressing lawful entropy production<br>• Coherence return outpacing entropy expansion |
-| **<kbd>📏 Predictability & Control</kbd>**<br>[![Energy Envelope](https://img.shields.io/badge/Energy_Envelope-Predictable_Exergy_Decay-046307?style=neon&logo=apacheairflow&logoColor=00E68C)](https://en.wikipedia.org/wiki/System_dynamics) | Stable decay envelopes<br>Constraint-governed evolution | • Stable, measurable exergy-decay envelopes<br>• Repeatable temporal behaviour across runs and substrates<br>• Increased controllability of system evolution **within defined constraints** |
-| **<kbd>➰ Reproducibility & Invariance</kbd>**<br>[![Reproducibility](https://img.shields.io/badge/Reproducibility-Structural_Invariants_Preserved-046307?style=neon&logo=git&logoColor=00E68C)](https://en.wikipedia.org/wiki/Reproducibility) | Structural invariants<br>Implementation-independent convergence | • Convergence behaviour invariant across implementations<br>• Stability independent of tensor size or execution substrate<br>• Structural outcomes preserved across versions |
-| **<kbd>🕳 Boundary Condition Sensitivity</kbd>**<br>[![Boundary Conditions](https://img.shields.io/badge/Boundary_Conditions-Constrained_Response_Domains-046307?style=neon&logo=theconversation&logoColor=00E68C)](https://en.wikipedia.org/wiki/Boundary_value_problem) | Explicit initial and boundary constraints | • System behaviour remains bounded under defined initial and boundary conditions<br>• Predictable response to constraint variation without regime collapse<br>• Sensitivity governed by structural alignment rather than energy magnitude scaling |
-
-<a href="https://en.wikipedia.org/wiki/Interpretation_(logic)" target="_blank" rel="noopener noreferrer">
-  <img width="100%"
-       src="https://img.shields.io/badge/🧿_IMPORTANT-Interpretive_Boundary-B31B1B?style=NEON&labelColor=000000"
-       alt="Important: Interpretive Boundary">
-</a>
-
->
-> All listed capabilities, behaviours, and branches are **secondary effects** inheriting from the canonical domains defined in <kbd>THEORY.md</kbd> and <kbd>MATH_MODEL(RENDER).md</kbd>.  
-> They arise exclusively from structural organization, recursive stability (<kbd>ΔΩ</kbd>), and bounded decay geometry (λ—cycle) operating within lawful thermodynamics.
->
-> No statement implies energy creation, entropy reversal, perpetual operation, guaranteed performance, or universal applicability.
-
-</details>	
-
----	
-
-<details>
-<summary><kbd>🐒Give me a tickle</kbd></summary>
-  <div dir="rtl">
-    <img width="100%" src="https://img.shields.io/badge/-%20-0b0d0f?style=neon&logo=codemirror&logoColor=3ee7ff&color=000000&labelColor=transparent">
-</details>
-
----
-
-# <strong>**—————♻️|What a strange loop it’s been, Möbius|♻️—————</strong>**
-
----
-
-<details>
 <summary><strong><kbd> 🚦CREATOR DISCLAIMER & CREATOR NOTES💬</kbd></strong></summary>
 
 ---
@@ -520,6 +399,147 @@ Timestamp Locked · Trace Context Declared
 >⦄  
 >  
 > Access beyond public materials is granted selectively and at my discretion.
+
+</details>
+
+---
+
+<details>
+<summary>
+  <strong><kbd>📖How to Read This Work</kbd></strong>
+
+</summary>
+
+---
+
+ **New readers:**  
+<p><em>
+<kbd>Canonical orientation for interpretation, scope, and document cohesion</kbd>
+</em></p>
+
+---
+
+> If you want a plain-language, non-symbolic technical orientation before engaging this repository, start here-click the badge: 
+>
+> [![Authorial Technical Orientation](https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff)](https://github.com/Wotcnt)
+>
+>
+>
+> This project is **not a quick-start README**, software manual, or standalone paper.
+>
+> It is a **canonical disclosure system** composed of three inseparable artifacts:
+>
+> 1️⃣⌥**README.md** ————— (THIS FILE), contextual integration, provenance, ethical framing, and system overview  
+> 2️⃣⌥**THEORY.md** ————— formal scope, constraints, definitions, and non-claims  
+> 3️⃣⌥**MATH_MODEL(RENDER).md** ————— mathematical structure, relations, and model formalism  
+>
+> ⎇These documents are intended to be interpreted **only as a unified whole**.
+
+---
+
+### 📐Reading Discipline
+
+---
+
+> Readers should observe the following:
+>
+> **No single file is self-sufficient**  
+  The README (THIS FILE) provides orientation, not proof.  
+  THEORY.md defines scope and constraints.  
+  MATH_MODEL(RENDER).md formalizes structure.
+>
+> **Partial or excerpted readings are non-canonical**  
+  Isolated passages, screenshots, or summaries will not yield a valid interpretation of the system.
+>
+> **Dropdown sections are intentional**  
+  Collapsible sections manage cognitive load and allow readers to control depth.  
+  They are structural elements, not optional commentary.
+>
+> **Technical claims are bounded**  
+  All claims are constrained by stated assumptions, observer conditions, and non-claims defined in THEORY.md.  
+  No result should be interpreted outside those bounds.
+>
+> **Symbolic language is descriptive**  
+  Symbolic and ethical terms describe structure, trace continuity, and observer–system relations.  
+  They do not imply metaphysics, agency, or causal force beyond the formal model.
+>
+> **Engagement mode affects interpretation**  
+  Understanding depends on willingness to suspend prior frameworks long enough to evaluate the system on its own terms.  
+  Prior knowledge functions as scaffolding, not authority.
+
+---
+
+### 🎯Purpose of This Orientation
+
+---
+
+> This section exists to reduce interpretive friction while preserving rigor.
+>
+> The system is designed for sustained, structured engagement.  
+> Misinterpretation arising from partial reading or premature framing is outside the canonical interpretation path.
+
+</details>
+
+---
+<details>
+<summary><strong><kbd>📊Derived Capabilities (Secondary Effects 🕸️ Constraint-Bound 🧬)</kbd></strong></summary>
+
+| [![Canonical Capability](https://img.shields.io/badge/Canonical_Capability-Indicator-2b2b2b?style=flat)](https://en.wikipedia.org/wiki/Capability-based_security) | [![Governing Basis](https://img.shields.io/badge/Governing_Basis-Constraint-2b2b2b?style=flat)](https://en.wikipedia.org/wiki/Constraint_(mathematics)) | [![Derived Capabilities](https://img.shields.io/badge/Derived_Capabilities-Secondary_Effects-2b2b2b?style=flat)](https://en.wikipedia.org/wiki/Emergence) |
+|-----------------------------------|-----------------------------------|-----------------------------------|
+| **<kbd>♻️ Exergy Handling</kbd>**<br>[![Exergy Efficiency](https://img.shields.io/badge/Exergy_Efficiency-Reduced_Dissipation_%26_Extended_Half--Life-046307?style=neon&logo=leaflet&logoColor=00E68C)](https://en.wikipedia.org/wiki/Exergy) | λ—cycle decay geometry<br><kbd>ΔΩ</kbd>-stabilized recursion | • Reduced *effective* exergy destruction rates<br>• Predictable decay geometry governed by bounded λ—cycle envelopes<br>• Extended usable-energy half-life under lawful thermodynamics |
+| **<kbd>🌡️ Thermal Rejection Profile</kbd>**<br>[![Cooling Water Impact](https://img.shields.io/badge/Cooling_Water_Impact-Reduced_via_Efficiency-046307?style=neon&logo=cloudflare&logoColor=00E68C)](https://en.wikipedia.org/wiki/Heat_dissipation) | Structured dissipation timing<br>Entropy localization | • Lower peak thermal rejection demand (profile-dependent)<br>• Reduced instantaneous cooling intensity requirements<br>• Smoother heat-release envelopes over time |
+| **<kbd>⏳ Temporal Energy Availability</kbd>**<br>[![Temporal Exergy](https://img.shields.io/badge/Temporal_Exergy-Extended_Usable_Energy_Window-046307?style=neon&logo=clockify&logoColor=00E68C)](https://en.wikipedia.org/wiki/Time_constant) | Delayed coherence collapse<br>Time-structured dissipation | • Longer *functional* energy-availability windows<br>• Delayed coherence collapse relative to classical expectations<br>• Time-structured dissipation rather than abrupt loss |
+| **<kbd>📉 Thermal Load Stability</kbd>**<br>[![Thermal Load Smoothing](https://img.shields.io/badge/Thermal_Load-Smoothing_via_Recursive_Stability-046307?style=neon&logo=reactos&logoColor=00E68C)](https://en.wikipedia.org/wiki/Thermal_management) | Drift-collapse invariants<br>Recursive phase alignment | • Suppression of sharp thermal spikes<br>• Reduced thermal-gradient oscillations across cycles<br>• Load smoothing induced by recursive phase alignment |
+| **<kbd>🧰 Hardware Stress Envelope</kbd>**<br>[![Hardware Longevity](https://img.shields.io/badge/Hardware_Longevity-Extended_via_Lower_Thermal_Stress-046307?style=neon&logo=nvidia&logoColor=00E68C)](https://en.wikipedia.org/wiki/Thermal_stress) | Reduced thermal cycling amplitude<br>Bounded load envelopes | • Reduced thermal cycling amplitude<br>• Lower cumulative mechanical and electronic fatigue<br>• Potential extension of component service life under comparable operating conditions |
+| **<kbd>📐 Numerical Stability</kbd>**<br>[![Numerical Stability](https://img.shields.io/badge/Numerical_Stability-Drift_Collapse_%26_Error_Containment-046307?style=neon&logo=codacy&logoColor=00E68C)](https://en.wikipedia.org/wiki/Numerical_stability) | <kbd>ΔΩ</kbd> convergence law<br>Bounded recursion depth | • Drift collapse within empirically bounded recursion depth (≈6–7 cycles)<br>• Error-accumulation containment over long recursion chains<br>• Stability without artificial damping or precision inflation |
+| **<kbd>🧿 Perturbation Resilience</kbd>**<br>[![Noise Tolerance](https://img.shields.io/badge/Noise_Tolerance-Coherence_Recovery_After_Perturbation-046307?style=neon&logo=elastic&logoColor=00E68C)](https://en.wikipedia.org/wiki/Robust_control) | Coherence return rate exceeding entropy expansion rate | • Recovery of coherent structure after bounded disturbances<br>• Noise tolerance without suppressing lawful entropy production<br>• Coherence return outpacing entropy expansion |
+| **<kbd>📏 Predictability & Control</kbd>**<br>[![Energy Envelope](https://img.shields.io/badge/Energy_Envelope-Predictable_Exergy_Decay-046307?style=neon&logo=apacheairflow&logoColor=00E68C)](https://en.wikipedia.org/wiki/System_dynamics) | Stable decay envelopes<br>Constraint-governed evolution | • Stable, measurable exergy-decay envelopes<br>• Repeatable temporal behaviour across runs and substrates<br>• Increased controllability of system evolution **within defined constraints** |
+| **<kbd>➰ Reproducibility & Invariance</kbd>**<br>[![Reproducibility](https://img.shields.io/badge/Reproducibility-Structural_Invariants_Preserved-046307?style=neon&logo=git&logoColor=00E68C)](https://en.wikipedia.org/wiki/Reproducibility) | Structural invariants<br>Implementation-independent convergence | • Convergence behaviour invariant across implementations<br>• Stability independent of tensor size or execution substrate<br>• Structural outcomes preserved across versions |
+| **<kbd>🕳 Boundary Condition Sensitivity</kbd>**<br>[![Boundary Conditions](https://img.shields.io/badge/Boundary_Conditions-Constrained_Response_Domains-046307?style=neon&logo=theconversation&logoColor=00E68C)](https://en.wikipedia.org/wiki/Boundary_value_problem) | Explicit initial and boundary constraints | • System behaviour remains bounded under defined initial and boundary conditions<br>• Predictable response to constraint variation without regime collapse<br>• Sensitivity governed by structural alignment rather than energy magnitude scaling |
+
+<a href="https://en.wikipedia.org/wiki/Interpretation_(logic)" target="_blank" rel="noopener noreferrer">
+  <img width="100%"
+       src="https://img.shields.io/badge/🧿_IMPORTANT-Interpretive_Boundary-B31B1B?style=NEON&labelColor=000000"
+       alt="Important: Interpretive Boundary">
+</a>
+
+>
+> All listed capabilities, behaviours, and branches are **secondary effects** inheriting from the canonical domains defined in <kbd>THEORY.md</kbd> and <kbd>MATH_MODEL(RENDER).md</kbd>.  
+> They arise exclusively from structural organization, recursive stability (<kbd>ΔΩ</kbd>), and bounded decay geometry (λ—cycle) operating within lawful thermodynamics.
+>
+> No statement implies energy creation, entropy reversal, perpetual operation, guaranteed performance, or universal applicability.
+
+</details>	
+
+---	
+
+<details>
+<summary><kbd>🐒Give me a tickle</kbd></summary>
+  <div dir="rtl">
+    <img width="100%" src="https://img.shields.io/badge/-%20-0b0d0f?style=neon&logo=codemirror&logoColor=3ee7ff&color=000000&labelColor=transparent">
+</details>
+
+---
+
+# <strong>**—————♻️|What a strange loop it’s been, Möbius|♻️—————</strong>**
+
+---
+
+<details>
+<summary><kbd>🧬Project Complexity</kbd></summary>
+
+---
+
+###    📈Project Complexity Level: Advanced ⇄ Multi-Disciplinary, Non-Standard, High Complexity🎼
+
+---
+
+> ### 📛<ins>Requiring specialized expertise or the wilful intent to learn</ins>📛
+>
+> ##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. 
+> Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies.
+> The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners. 
+> ###### This isn't to deter beginners, if you're wilful and disciplined and can think from different lenses then you already have the capacity for improving yourself - Error and correction are integral to meaningful learning.
 
 </details>
 
@@ -1034,26 +1054,6 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
 ---
 
 <details>
-<summary><kbd>🧬Project Complexity</kbd></summary>
-
----
-
-###    📈Project Complexity Level: Advanced ⇄ Multi-Disciplinary, Non-Standard, High Complexity🎼
-
----
-
-> ### 📛<ins>Requiring specialized expertise or the wilful intent to learn</ins>📛
->
-> ##### This project requires a strong background in physics (particularly optics and wave mechanics), Computers/GPU programming, recursive symbolic systems/recursion theory, and familiarity with AI concepts related to feedback and phase coherence. 
-> Users should have experience with scientific computing, Python, and CUDA or LLM's and similar technologies.
-> The repository is best suited for researchers, developers, or enthusiasts comfortable with interdisciplinary technical and conceptual challenges, rather than beginners. 
-> ###### This isn't to deter beginners, if you're wilful and disciplined and can think from different lenses then you already have the capacity for improving yourself - Error and correction are integral to meaningful learning.
-
-</details>
-
----
-
-<details>
 <summary><kbd>🐒Where to begin?</kbd></summary>
 	
 ---
@@ -1363,28 +1363,29 @@ pip install rich psutil
 ---
 
 <details>
-<summary><strong><kbd>💡 Quick Start</kbd></strong></summary>
+<summary><strong><kbd>🧪 Alignment & Sanity Check (Optional)</kbd></strong></summary>
 
 ---
 
-### 🛠 Quick Start Summary
+### 🧠 Canonical Sanity Check
 
 ---
 
-This quick start verifies that your environment can execute the **canonical GPU path**
-and reproduce reference behaviour. It is a *sanity check*, not a full system walkthrough.
+This section verifies that your environment can execute the **canonical GPU execution path**
+and reproduce reference behaviour.
+
+It is a **sanity and alignment check**, **not** an installation guide, walkthrough, or substitute
+for the full setup and benchmark configuration.
 
 <kbd>GPU is a performance layer, not a semantic requirement.</kbd>
 
-```bash
-git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
-cd Polyrifringence-Engine
-python src/gpu_validation_test.py
-```
+git clone https://github.com/Wotcnt/Polyrifringence-Engine.git  
+cd Polyrifringence-Engine  
+python src/gpu_validation_test.py  
 
-[![Launch GPU Validation](https://img.shields.io/badge/▶️_GPU_Validation-Run_Test-046307?style=flat)](LINK_GPU_VALIDATION)
-[![Run Benchmarks](https://img.shields.io/badge/📊_Benchmarks-Run_All-FFD600?style=flat)](LINK_RUN_BENCHMARKS)
-[![Open Phase Viewer](https://img.shields.io/badge/🌈_Phase_Viewer-Open_UI-D50000?style=flat)](LINK_PHASE_VIEWER)
+[![Launch GPU Validation](https://img.shields.io/badge/▶️_GPU_Validation-Run_Test-046307?style=flat)](LINK_GPU_VALIDATION)  
+[![Run Benchmarks](https://img.shields.io/badge/📊_Benchmarks-Run_All-FFD600?style=flat)](LINK_RUN_BENCHMARKS)  
+[![Open Phase Viewer](https://img.shields.io/badge/🌈_Phase_Viewer-Open_UI-D50000?style=flat)](LINK_PHASE_VIEWER)  
 
 ---
 
@@ -1396,7 +1397,7 @@ python src/gpu_validation_test.py
 - ✅ **Phase Viewer** → Launches correctly  
 - ✅ **Manifest Validation** → Hashes match  
 
-If any step fails, the environment is not aligned with the reference configuration.
+If any step fails, the environment is **not aligned** with the reference configuration.
 
 ---
 
@@ -1413,6 +1414,405 @@ All benchmarks and phase-trace outputs are **deterministic** for a given random 
   - **Manifest hash alignment**
 
 This ensures results are reproducible across compatible systems without reliance on stochastic variance.
+
+</details>
+
+---
+
+<details>
+<summary><kbd>📘 Click here for the Summary Overview</kbd></summary>
+
+---
+
+### 📖 Overview
+
+---
+
+> The **Polyrifringence Engine** is a GPU-accelerated, constraint-governed simulation framework developed within the **Codex Canon**.
+>
+> It models **recursive birefringence** as a bounded, non-equilibrium process in which phase geometry is iteratively transformed, evaluated, and conditionally restored under explicit stability, energy, and termination constraints.
+>
+> Recursion within the engine is treated as an **engineered structural mechanism** ————— not a physical law ————— and is governed by formal operators, convergence contracts, and unitary bounds defined in the accompanying theoretical and mathematical specifications.
+>
+> The system is designed to explore how **coherence can be temporarily extended, degraded, and recoverably re-aligned** under repeated transformation, noise injection, and hardware-constrained execution, without violating thermodynamics or introducing unbounded behavior.
+
+---
+
+### ⚙️ Core Features
+
+---
+
+> * **Recursive Geometry Engine** ————— iterative phase transformation and restoration governed by explicit drift limits, termination rules, and recovery envelopes
+>
+> * **Formal Operator Model** ————— recursion expressed through constrained operators defined in <kbd>MATH_MODEL(RENDER).md</kbd>, ensuring traceability between implementation and mathematics
+>
+> * **Euclid Diagnostics** ————— multi-frame parallelism checks, drift bucketing, and Euclid—5 compliance tests to detect geometric inconsistency under recursion
+>
+> * **GPU Determinism Layer** ————— reproducible FP32 / FP64 execution paths with controlled micro-batching and declared precision budgets
+>
+> * **Multi-Gem Optical Registry** ————— parameterized material models spanning the Codex gem set, used as structured phase-modulation and refractive-index classes rather than symbolic entities
+>
+> * **Phase-Trace Visualization** ————— time-resolved coherence maps, angular drift fields, and recursion-path traces for post-run inspection and falsification
+>
+> * **Noise & Lab Harness** ————— controlled injection of thermal drift, sensor noise, and bounded stochastic perturbations as proof conditions rather than artifacts to suppress
+>
+> * **Stability Metrics (REGF, PVS)** ————— quantitative measures of recursive energy behavior and polarization spread used to evaluate convergence and collapse
+>
+> * **Unitary, Energy-Conserving Framework (T ≤ 1)** ————— enforced bounds ensuring that recursive execution does not create, amplify, or regenerate energy
+>
+> * **Convergence Contract** ————— explicit criteria defining when recursion may continue, must terminate, or must invoke drift-breaker recovery logic
+>
+> * **Observer-Scoped Execution Model** ————— the term *observer* is used strictly as a reference frame or boundary condition; no agency, intent, or causal influence is implied
+
+---
+
+> This framework is intentionally conservative:
+>
+> * It does **not** propose new physical laws  
+> * It does **not** reverse entropy or violate conservation  
+> * It does **not** generalize beyond declared domains and hardware conditions  
+>
+> All results are meaningful only **within the stated constraints, precision regimes, and execution context**.
+
+</details>
+
+---
+
+<details>
+<summary><kbd>📘 Click here for Files and Folders</kbd></summary>
+
+---
+
+### 🌈 Polyrifringence-Engine · Folders & Files 🗃️
+
+---
+
+> **`docs/`** ————— extended documentation, theory, benchmarks, and archive material
+>
+> * `demo_README.md`
+> * `THEORY.md`
+> * `BENCHMARKS.md`
+> * `MATH_MODEL(RENDER).md`
+> * `warmup_summary.md`
+> * `Polyrifringence_v8.10.xx_Repository_Summary.txt`
+
+---
+
+> **`examples/`** ————— screenshots, legacy results, and demonstration data
+>
+> * `phase_trace_viewer.html` — interactive visualization tool  
+> * `phase_trace.json`
+
+---
+
+> **`requirements/`** ————— environment setup and installation helpers
+>
+> * `requirements.txt`
+> * `requirements_install.bat`
+
+---
+
+> **`src/`** ————— core simulation engine and supporting tools
+>
+> * `polyrifringence_engine_v8_10.py`
+> * `gpu_validation_test.py`
+> * `convert_csv_to_json.py`
+> * `tools/`
+>   > * `env_checker.py`
+>   > * `env_checker_example_output.txt`
+>   > * `io_helpers.py`
+
+---
+
+> **`benchmark_runners/`** ————— 🔧 ready-made benchmark execution scripts
+>
+> * `run_benchmark_v68.ps1` ————— baseline
+> * `run_benchmark_highprecision.ps1` ————— high precision
+> * `run_benchmark_multigem.ps1` ————— multi-gem tilt
+> * `run_benchmark_custom_template.ps1` ————— user template
+> * `run_benchmark_randomized.ps1`
+> * `run_all_benchmarks.ps1`
+> * `README_benchmark_runners.txt` ————— usage and command reference
+
+---
+
+> **`directory root/`** ————— general repository utilities and entry points
+>
+> * `manifest_validator.py` ————— repository integrity checker  
+> * `convert_and_open.bat` ————— auto-convert + open viewer  
+> * `LICENSE.txt` ————— legal  
+> * `README.md` ————— main documentation  
+> * `repo_summary.txt`
+
+</details>
+
+---
+
+<div align="center">
+<details>
+<summary><kbd>💡 Installation, Setup, Benchmarks & Troubleshooting 🩺</kbd></summary>
+
+---
+
+> ⚠️ **Read Before Proceeding**
+>
+> This project is **not** designed as a one-command executable or turnkey application.  
+> Scripts are provided as *entry points*, not abstractions.  
+> Reading and understanding the code is part of correct use.
+
+---
+
+### 🐒 Installation
+
+---
+
+#### 🗳️ Requirements Overview
+> Installing the **Polyrifringence Engine** locally and preparing the runtime environment.
+>
+> * 🐍 **Python 3.11.8 Baseline or higher (recommended)**
+> * 🔥 **PyTorch 2.5.1 + CUDA 12.1 Toolkit Baseline or newer**
+> * 🎮 **NVIDIA GeForce RTX 3050 Baseline (RTX 20-series or later)**
+> * 🖥️ **Windows 10 / Windows 11 / Linux / macOS (x86_64)**
+>
+> Ensure `pip`, `git`, and NVIDIA GPU drivers are up to date before cloning.
+
+---
+
+#### 🩺 Minimal Install Commands
+
+git clone https://github.com/Wotcnt/Polyrifringence-Engine.git  
+cd Polyrifringence-Engine  
+pip install -r requirements.txt  
+
+> 🟨 **Optional Windows Helper**
+>
+> Automatically checks for missing dependencies and validates the CUDA path.
+
+requirements_install.bat  
+
+---
+
+#### 🧾 Post-Install Verification
+
+> After installation:
+>
+> * Confirm PyTorch detects CUDA
+> * Validate GPU configuration
+
+python -m torch.utils.collect_env  
+python src/gpu_validation_test.py  
+
+> 🔍 Open the Phase-Trace Viewer to confirm environment linkage:
+
+.\launch_phase_viewer.ps1  
+
+---
+
+#### 🗃️ Directory Context
+
+> **Project structure (canonical):**
+
+Polyrifringence-Engine/  
+├── src/  
+├── examples/  
+├── benchmark_runners/  
+├── requirements/  
+├── docs/  
+└── README.md  
+
+---
+
+#### ✅ Successful Installation Checklist
+
+> * `torch.cuda.is_available()` returns `True`
+> * No errors in `gpu_validation_test.py`
+> * `manifest_validator.py` passes all hashes
+> * Phase-Trace Viewer opens in browser
+>
+> Once these checks pass, the environment is fully initialized and ready for benchmark execution or Codex Canon integration.
+
+---
+
+### 💻 Setup & Execution Philosophy
+
+---
+
+> There is **no single canonical execution path**.
+>
+> Depending on intent, you may:
+>
+> * 🔬 run validation routines
+> * 🧪 explore example scripts
+> * 📊 execute benchmark harnesses
+> * 🧠 inspect symbolic or phase-diagnostic outputs
+>
+> If a script exists, it is **meant to be read** before execution.
+
+---
+
+### 📘 Benchmark Configuration Examples
+
+---
+
+> 📌 **Benchmark note**
+>
+> CLI examples demonstrate **configuration structure**, not performance guarantees.  
+> Throughput is intentionally clamped to preserve coherence, diagnostics, and reproducibility.
+
+---
+
+#### 🧪 Basic Matrix-Sweep Benchmark
+
+python3 src/polyrifringence_engine_v8_10.py \  
+  --flows main,special \  
+  --gems sapphire,diamond \  
+  --wavelengths 400:800:100 \  
+  --tilts=-5:5:1 \  
+  --num_rays 100000 \  
+  --thickness_mm 1.0 \  
+  --spread_mrad 0.5 \  
+  --half \  
+  --export_pair \  
+  --progress auto \  
+  --out_csv logs_v6_8_matrix.csv  
+
+---
+
+#### 🔬 High-Precision Feedback Test
+
+python src/polyrifringence_engine_v8_10.py \  
+  --flows special \  
+  --gems sapphire,diamond \  
+  --wavelengths 400:800:10 \  
+  --tilts=0 \  
+  --num_rays 200000 \  
+  --thickness_mm 1.0 \  
+  --spread_mrad 0.5 \  
+  --progress auto \  
+  --export_pair \  
+  --out_csv logs_v6_8_matrix.csv  
+
+---
+
+#### 💎 Multi-Gem Tilt Comparison
+
+python polyrifringence_engine_v8_10.py \  
+  --flows main,special \  
+  --gems sapphire,diamond,quartz,calcite,zircon \  
+  --wavelengths 600 \  
+  --tilts=0:8:1 \  
+  --num_rays 150000 \  
+  --thickness_mm 1.0 \  
+  --spread_mrad 0.5 \  
+  --half \  
+  --export_pair \  
+  --progress auto \  
+  --out_csv logs_v6_8_multigem.csv  
+
+---
+
+#### 🧩 Custom Benchmark Template (Edit & Run)
+
+python polyrifringence_engine_v8_10.py \  
+  '--flows=main',                # main | special | both  
+  '--gems=sapphire',             # comma-separated list  
+  '--wavelengths=500:700:50',    # start:end:step [nm]  
+  '--tilts=-2:2:1',              # degrees  
+  '--num_rays=50000',  
+  '--thickness_mm=1.0',  
+  '--spread_mrad=0.2',  
+  '--half',  
+  '--export_pair',  
+  '--progress auto',  
+  '--out_csv=examples/custom_run.csv'  
+
+> Randomized benchmark runs automatically log parameters to `/examples/*.json` for reproducibility.
+
+---
+
+#### 🖥️ Viewing Phase-Trace Results
+
+.\launch_phase_viewer.ps1  
+
+> Hosts `examples/phase_trace_viewer.html` at  
+> http://localhost:8000  
+> and opens it in your default browser.
+
+---
+
+#### ⌨️ Shell Syntax Notes
+
+| Shell                  | Correct `--tilts` Syntax | Reason |
+|------------------------|--------------------------|--------|
+| PowerShell             | `--tilts=-5:5:1`         | Prevents arithmetic parsing |
+| CMD / Bash / Linux     | `--tilts -5:5:1`         | Default argparse behaviour |
+
+---
+
+#### 🔢 Verified Environment Snapshot
+
+| Component | Version / Status |
+|----------|------------------|
+| Python   | 3.11.13 |
+| NumPy    | 2.3.4 |
+| PyTorch  | 2.4.1 (CUDA 12.1) — GPU verified ✅ |
+
+---
+
+### 🧯 Troubleshooting
+
+---
+
+#### ⚠️ CUDA Driver Errors
+
+nvcc --version  
+
+---
+
+#### ⚠️ Missing Dependencies / Import Errors
+
+pip install -r requirements/requirements.txt  
+
+---
+
+#### ⚠️ Phase-Trace Viewer Not Opening (Windows)
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser  
+.\launch_phase_viewer.ps1  
+
+---
+
+#### ⚠️ Performance Issues
+
+import torch  
+print(torch.cuda.is_available())  
+
+pip install torch==2.4.1+cu121 -f https://download.pytorch.org/whl/torch_stable.html  
+
+---
+
+### ❓ FAQ
+
+---
+
+#### Can this run without an NVIDIA GPU?
+> Yes — CPU mode is supported, but GPU acceleration is strongly recommended.
+
+#### How do I ensure reproducibility?
+> Use an explicit seed:
+>
+> python polyrifringence_engine_v8_10.py --seed 42 --gems sapphire,topaz --tilts=0 --num_rays 100000  
+
+#### What if feedback becomes unethical or parasitic?
+> Verify `--ai_feedback`, alignment with the **Recursive Sovereignty Protocol**, and Observer-State Integrity constraints.  
+> Misaligned feedback is treated as **out-of-scope by design**.
+
+---
+
+> 🔒 **Section status**
+>
+> Installation, setup, and benchmark interfaces are considered **stable**.  
+> Engine internals, diagnostics, and viewers will evolve independently.
 
 </details>
 
@@ -1453,9 +1853,9 @@ This ensures results are reproducible across compatible systems without reliance
 
 | **Tool / Framework**                                   | **Focus / Domain**                                  | **Throughput / Benchmark Context**                                                                                                                                                                              | **Core Limitations**                                                     | **How Polyrifringence Differs / Extends**                                                                                                                       |
 | ------------------------------------------------------ | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **FREDmpc — Photon Engineering**                       | Commercial GPU optical ray tracing                  | Demonstrated large GPU speed-ups vs CPU; example workloads report ~100 M rays in ~80 s on RTX-class GPUs [[source](https://photonengr.com/fredmpc)]                                                               | Proprietary · Closed source · No phase recursion                         | Open, auditable execution · Recursive birefringence · Phase drift diagnostics                                                                                  |
+| **FREDmpc — Photon Engineering**                       | Commercial GPU optical ray tracing                  | Demonstrated large GPU speed-ups vs CPU; "vendor claims many millions of rays in seconds / orders-of-magnitude faster vs CPU" on RTX-class GPUs [[source](https://photonengr.com/fredmpc)]                                                               | Proprietary · Closed source · No phase recursion                         | Open, auditable execution · Recursive birefringence · Phase drift diagnostics                                                                                  |
 | **ANSYS Speos (GPU)**                                  | Industrial lighting & optical simulation            | Published GPU acceleration reducing hours to minutes for ray-trace workloads [[source](https://www.ansys.com/blog/gpu-based-compute-for-ray-tracing)]                                                           | Proprietary · Static geometry focus                                     | Dynamic recursive feedback · Phase-aware diagnostics beyond geometric optics                                                                                    |
-| **NVIDIA OptiX**                                       | GPU ray-tracing API                                 | Hardware-accelerated ray tracing via CUDA / RTX cores [[source](https://en.wikipedia.org/wiki/OptiX)]                                                                                                           | Framework only · No built-in physics semantics                           | Domain-specific recursive execution grammar layered atop GPU kernels                                                                                            |
+| **NVIDIA OptiX**                                       | GPU ray-tracing API                                 | Hardware-accelerated ray tracing via CUDA / RTX cores [[source](https://developer.nvidia.com/rtx/ray-tracing/optix)]                                                                                                           | Framework only · No built-in physics semantics                           | Domain-specific recursive execution grammar layered atop GPU kernels                                                                                            |
 | **Open-Source GPU Ray Tracer (Mauch et al.)**          | Academic optical ray tracing                        | OptiX-based GPU acceleration for optical simulation (research prototype) [[source](https://www.researchgate.net/publication/258808337_Open-source_graphics_processing_unit-accelerated_ray_tracer_for_optical_simulation)] | Legacy research focus · Non-recursive                                   | Extended into multi-cycle recursive optics with modern CUDA and tensorized feedback                                                                              |
 | **MCX / MCXCL (Monte Carlo eXtreme)**                  | GPU Monte-Carlo photon transport                    | Orders-of-magnitude GPU speed-ups over CPU Monte-Carlo photon transport [[source](https://mcx.space/)] [[source](https://github.com/fangq/mcx)]                                                                 | Intensity-based diffusion · No phase coherence model                    | Phase-resolved recursion layered above intensity transport                                                                                                      |
 | **Zemax OpticStudio**                                  | Commercial optical system design                    | Industry-standard proprietary solvers for ray tracing and polarization [[source](https://en.wikipedia.org/wiki/Zemax)]                                                                                        | Closed source · Limited feedback modelling                               | Open symbolic recursion · Explicit phase and drift accounting                                                                                                   |
@@ -1591,6 +1991,8 @@ This ensures results are reproducible across compatible systems without reliance
 >
 > All figures assume balanced workload (w=0.6).
 > Adjust upward (~ +5 %) if compute-bound (w=0.7) or downward (~ −5 %) if bandwidth-bound (w=0.5).
+>
+> All forward-looking scaling statements are illustrative envelopes, not empirical claims, and are excluded from canonical benchmarks.
 
 ---
 
@@ -1688,606 +2090,6 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 > **Summary:**  
 > The Polyrifringence Engine unifies optical recursion, tensor computation, and symbolic ethics into a single verified architecture.  
 > Each contribution has been independently cross-checked against the live source files, benchmark outputs, and Codex Canon lineage.
-
-</details>
-
----
-
-<details>
-<summary><kbd>📘 Click here for the Summary Overview</kbd></summary>
-
----
-
-### 📖 Overview
-
----
-
-> The **Polyrifringence Engine** is a GPU-accelerated, constraint-governed simulation framework developed within the **Codex Canon**.
->
-> It models **recursive birefringence** as a bounded, non-equilibrium process in which phase geometry is iteratively transformed, evaluated, and conditionally restored under explicit stability, energy, and termination constraints.
->
-> Recursion within the engine is treated as an **engineered structural mechanism** ————— not a physical law ————— and is governed by formal operators, convergence contracts, and unitary bounds defined in the accompanying theoretical and mathematical specifications.
->
-> The system is designed to explore how **coherence can be temporarily extended, degraded, and recoverably re-aligned** under repeated transformation, noise injection, and hardware-constrained execution, without violating thermodynamics or introducing unbounded behavior.
-
----
-
-### ⚙️ Core Features
-
----
-
-> * **Recursive Geometry Engine** ————— iterative phase transformation and restoration governed by explicit drift limits, termination rules, and recovery envelopes
->
-> * **Formal Operator Model** ————— recursion expressed through constrained operators defined in <kbd>MATH_MODEL(RENDER).md</kbd>, ensuring traceability between implementation and mathematics
->
-> * **Euclid Diagnostics** ————— multi-frame parallelism checks, drift bucketing, and Euclid—5 compliance tests to detect geometric inconsistency under recursion
->
-> * **GPU Determinism Layer** ————— reproducible FP32 / FP64 execution paths with controlled micro-batching and declared precision budgets
->
-> * **Multi-Gem Optical Registry** ————— parameterized material models spanning the Codex gem set, used as structured phase-modulation and refractive-index classes rather than symbolic entities
->
-> * **Phase-Trace Visualization** ————— time-resolved coherence maps, angular drift fields, and recursion-path traces for post-run inspection and falsification
->
-> * **Noise & Lab Harness** ————— controlled injection of thermal drift, sensor noise, and bounded stochastic perturbations as proof conditions rather than artifacts to suppress
->
-> * **Stability Metrics (REGF, PVS)** ————— quantitative measures of recursive energy behavior and polarization spread used to evaluate convergence and collapse
->
-> * **Unitary, Energy-Conserving Framework (T ≤ 1)** ————— enforced bounds ensuring that recursive execution does not create, amplify, or regenerate energy
->
-> * **Convergence Contract** ————— explicit criteria defining when recursion may continue, must terminate, or must invoke drift-breaker recovery logic
->
-> * **Observer-Scoped Execution Model** ————— the term *observer* is used strictly as a reference frame or boundary condition; no agency, intent, or causal influence is implied
-
----
-
-> This framework is intentionally conservative:
->
-> * It does **not** propose new physical laws  
-> * It does **not** reverse entropy or violate conservation  
-> * It does **not** generalize beyond declared domains and hardware conditions  
->
-> All results are meaningful only **within the stated constraints, precision regimes, and execution context**.
-
-</details>
-
----
-<div align="center">
-<details>
-<summary><kbd>📘Click here for Installation Info</kbd></summary>
-
----
-
-### 🐒 Installation
-
----
-
- #### 🗳️ Requirements Overview
-> Installing the **Polyrifringence Engine** locally and preparing the runtime environment.
-
----
-
-> * **Python 3.11.8 Baseline or higher (recommended)**
-> * **PyTorch 2.5.1 + CUDA 12.1 Toolkit Baseline or newer** 
-> * **NVIDIA Geforce RTX 3050 GPU Baseline or-(RTX 20-series or later)**  
-> * **Windows 10 Baseline or Windows 11 / Linux / macOS (x86_64)**  
->
-> Ensure `pip`, `git`, and GPU drivers are up-to-date before cloning.
-
----
-
-#### 🩺 Quick Install Commands
-
----
-	
-```
-git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
-cd Polyrifringence-Engine
-pip install -r requirements.txt
-```
-> 🟨 Optional Windows Helper
-> For streamlined setup on Windows, run:
-```
-requirements_install.bat
-This script automatically checks for missing dependencies and validates the CUDA path.
-```
-> 🧾 Post-Install Verification
-> After installation:
->
-> Confirm PyTorch detects CUDA
->
-```
-python -m torch.utils.collect_env
-Validate your GPU configuration
-```
-```
-python src/gpu_validation_test.py
-Open the viewer to confirm environment linkage
-```
-```
-.\launch_phase_viewer.ps1
-```
-> 🗃️ Directory Context
-> You should now have the following structure:
-
-```
-Polyrifringence-Engine/
-├── src/
-├── examples/
-├── benchmark_runners/
-├── requirements/
-├── docs/
-└── README.md
-```
-
-> ✅ Successful Installation Checklist
-> torch.cuda.is_available() returns True
->
-> No errors in gpu_validation_test.py
->
-> manifest_validator.py passes all hashes
->
-> Phase-Trace Viewer opens in browser
->
-> Once these checks pass, the environment is fully initialized and ready for benchmark execution or Codex Canon integration.
-</div>
-</details> 
-
----
-
-<details>
-<summary><kbd>📘Click here for Various Benchmark Configs</kbd></summary>
-
----
-
-#### 🧪 Below are tested CLI examples for the **Polyrifringence engine**, demonstrating various benchmark configurations.
-
----
-	
-### Basic Matrix-Sweep Benchmark:
-```
-python3 src/polyrifringence_engine_v8_10.py \
-  --flows main,special \
-  --gems sapphire,diamond \
-  --wavelengths 400:800:100 \
-  --tilts=-5:5:1 \
-  --num_rays 100000 \
-  --thickness_mm 1.0 \
-  --spread_mrad 0.5 \
-  --half \
-  --export_pair \
-  --progress auto \
-  --out_csv logs_v6_8_matrix.csv
-```
-### High-Precision Feedback Test
-```
-python src/polyrifringence_engine_v8_10.py \
-  --flows special \
-  --gems sapphire,diamond \
-  --wavelengths 400:800:10 \
-  --tilts=0 \
-  --num_rays 200000 \
-  --thickness_mm 1.0 \
-  --spread_mrad 0.5 \
-  --progress auto \
-  --export_pair \
-  --out_csv logs_v6_8_matrix.csv
-  ```
-### Multi-Gem Tilt Comparison
-```
-python polyrifringence_engine_v8_10.py \
-  --flows main,special \
-  --gems sapphire,diamond,quartz,calcite,zircon \
-  --wavelengths 600 \
-  --tilts=0:8:1 \
-  --num_rays 150000 \
-  --thickness_mm 1.0 \
-  --spread_mrad 0.5 \
-  --half \
-  --export_pair \
-  --progress auto \
-  --out_csv logs_v6_8_multigem.csv
-  ```
-### Custom Benchmark Template – Edit values and run
-```
-python polyrifringence_engine_v8_10.py \
-  '--flows=main',                # main | special | both
-  '--gems=sapphire',             # comma-separated list
-  '--wavelengths=500:700:50',    # start:end:step [nm]
-  '--tilts=-2:2:1',              # degrees
-  '--num_rays=50000',
-  '--thickness_mm=1.0',
-  '--spread_mrad=0.2',
-  '--half', 
-  '--export_pair',
-  '--progress auto',
-  '--out_csv=examples/custom_run.csv'
-  ```
-> Randomized benchmark runs automatically log parameters to /examples/*.json for reproducibility.
->
-> 🖥️ To view phase-trace results:
->
->run `launch_phase_viewer.ps1` from the root directory to auto-open the interactive viewer.
->
-> Or
->
-```
-.\launch_phase_viewer.ps1
-```
-> This will automatically host examples/phase_trace_viewer.html at
-> http://localhost:8000
-> and open it in your default browser.
-
-| Shell                  | Correct Syntax for `--tilts` | Reason                                                    |
-| ---------------------- | ---------------------------- | --------------------------------------------------------- |
-| **PowerShell**         | `--tilts=-5:5:1`             | Prevents PS from treating `-5` as an arithmetic operation |
-| **CMD / Bash / Linux** | `--tilts -5:5:1`             | Default argparse behaviour, no conflict                    |
-| Component | Version / Status                   |
-| --------- | ---------------------------------- |
-| Python    | 3.11.13                            |
-| NumPy     | 2.3.4                              |
-| PyTorch   | 2.4.1 (CUDA 12.1) — GPU verified ✅|
-
-</details>
-
----
-
-<details>
-<summary><kbd>📘 Click here for Files and Folders</kbd></summary>
-
----
-
-### 🌈 Polyrifringence-Engine · Folders & Files 🗃️
-
----
-
-> **`docs/`** ————— extended documentation, theory, benchmarks, and archive material
->
-> * `demo_README.md`
-> * `THEORY.md`
-> * `BENCHMARKS.md`
-> * `MATH_MODEL(RENDER).md`
-> * `warmup_summary.md`
-> * `Polyrifringence_v8.10.xx_Repository_Summary.txt`
-
----
-
-> **`examples/`** ————— screenshots, legacy results, and demonstration data
->
-> * `phase_trace_viewer.html` — interactive visualization tool  
-> * `phase_trace.json`
-
----
-
-> **`requirements/`** ————— environment setup and installation helpers
->
-> * `requirements.txt`
-> * `requirements_install.bat`
-
----
-
-> **`src/`** ————— core simulation engine and supporting tools
->
-> * `polyrifringence_engine_v8_10.py`
-> * `gpu_validation_test.py`
-> * `convert_csv_to_json.py`
-> * `tools/`
->   > * `env_checker.py`
->   > * `env_checker_example_output.txt`
->   > * `io_helpers.py`
-
----
-
-> **`benchmark_runners/`** ————— 🔧 ready-made benchmark execution scripts
->
-> * `run_benchmark_v68.ps1` ————— baseline
-> * `run_benchmark_highprecision.ps1` ————— high precision
-> * `run_benchmark_multigem.ps1` ————— multi-gem tilt
-> * `run_benchmark_custom_template.ps1` ————— user template
-> * `run_benchmark_randomized.ps1`
-> * `run_all_benchmarks.ps1`
-> * `README_benchmark_runners.txt` ————— usage and command reference
-
----
-
-> **`directory root/`** ————— general repository utilities and entry points
->
-> * `manifest_validator.py` ————— repository integrity checker  
-> * `convert_and_open.bat` ————— auto-convert + open viewer  
-> * `LICENSE.txt` ————— legal  
-> * `README.md` ————— main documentation  
-> * `repo_summary.txt`
-
-</details>
-
----
-
-<details>
-<summary><kbd>📘Click here for Author Information</kbd></summary>
-
----
-
-### ✍️ Author
-<kbd>**Conner Brown-Milliken**</kbd>
-
----
-
-> An Australian independent researcher conducting self-directed work in recursive optics, non-equilibrium system structuring, and computational modeling of coherence and exergy decay.
->
-> He is the originator of the **Polyrifringence Engine**, **Codex Canon**, and **RSANCS**—a tightly coupled body of work formalizing how lawful physical systems can exhibit extended functional persistence through structure, timing, and recursion rather than increased energy input or altered physical laws.
->
-> His research practice emphasizes:
->
-> * strict separation of theory, mathematics, and implementation,
-> * explicit scope control and non-claims,
-> * reproducible simulation and benchmark construction,
-> * and public, timestamped disclosure of results and evolution.
->
-> Ongoing development and disclosures are shared via **@MMMDcreator on X.com**.  
-> Independent replication, falsification attempts, and domain-specific verification are explicitly welcomed.
-
----
-
-#### 👤🦘 Provenance & Authorship ⭐
-
----
-
-> This repository constitutes a single-author, AU-based body of work developed without institutional affiliation or external funding.
->
-> <sub><kbd>Authorship and provenance are established through public traceability, reproducible artifacts, and timestamped disclosures.</kbd></sub>
->
-> All concepts, simulations, benchmarks, and Codex framework components originate from the same authorial source and are intended to be evaluated on internal consistency, physical admissibility, and replicability rather than authority or credential signaling.
->
-> The Polyrifringence Engine reflects the principle of **Recursive Sovereignty**: system behaviour, stability, and evolution remain bound to invariant structural constraints rather than narrative framing or external control.
-
----
-
-# Ω Codex Lineage
-<kbd>Single-origin recursion, formally instantiated across multiple systems.</kbd>
-
----
-
-> **Canonical Codex Architecture**
->
-> • Origin framework: **Codex Canon**  
-> • Lineage: **RSANCS → Conner-Core (2025) → Polyrifringence Engine**  
-> • Role: Codex Canon Module (Recursive Optics)
->
-> **Integration Scope**
->
-> • Recursive birefringence and phase-coherence modeling  
-> • <kbd>ΔΩ</kbd>-governed stability and λ—cycle exergy geometry  
-> • Symbolic–physical recursion via observer-state constraints  
->
-> **Validation Status**
->
-> • Manifest-validated execution  
-> • GPU-verified numerical behaviour (RTX-class, CUDA-bounded)  
-> • Reproducible invariants preserved across CPU/GPU substrates
-
-</details>
-
----
-
-<details>
-<summary><kbd>🖥️ Setup & Troubleshooting 🩺</kbd></summary>
-
----
-
-### 🛠 Installation Instructions
-
----
-
-> To get started with the **Polyrifringence Engine**, follow the steps below to install and configure the system on your local machine.
->
-> This setup prioritizes **reproducibility**, **hardware realism**, and **explicit dependency control**.
-
----
-
-#### 1️⃣ Prerequisites
-
-> Before beginning, ensure your system meets the following requirements:
->
->  **Python 3.11.8+**  
->  * Download from: https://www.python.org/
->
->  **CUDA 12.1**  
->    * Required for GPU acceleration  
->    * Download from: https://developer.nvidia.com/cuda-toolkit
->
->  **NVIDIA GPU** (e.g., RTX 3050 or higher)  
->  * Must support CUDA  
->  * Ensure drivers are up to date via: https://www.nvidia.com/Download/index.aspx
-
----
-
-#### 2️⃣ Installing the Engine
-
----
-
-> ##### Step 1 — Clone the Repository
->
-> ```
-> git clone https://github.com/Wotcnt/Polyrifringence-Engine.git
-> cd Polyrifringence-Engine
-> ```
-
----
-
-> ##### Step 2 — Create a Virtual Environment
->
-> ```
-> python -m venv venv
-> ```
-
----
-
-> ##### Step 3 — Activate Environment & Install Dependencies
->
-> * **Windows (PowerShell):**
->
-> ```
-> .\venv\Scripts\Activate.ps1
-> pip install -r requirements/requirements.txt
-> ```
->
-> * **Linux / macOS:**
->
-> ```
-> source venv/bin/activate
-> pip install -r requirements/requirements.txt
-> ```
-
----
-
-> ##### Step 4 — Optional (Windows Helper Script)
->
-> * A convenience installer is provided:
->
-> ```
-> requirements_install.bat
-> ```
-
----
-
-### 💻 Running the Engine
-
----
-
-> After installation, validate your environment before running experiments.
-
----
-
-#### ▶️ GPU Validation Test
-
-> Confirm that CUDA and PyTorch are correctly configured:
->
-> ```
-> python src/gpu_validation_test.py
-> ```
-
----
-
-#### ▶️ Run Benchmarks
-
-> To execute the full benchmark suite:
->
-> ```
-> benchmark_runners/run_all_benchmarks.ps1
-> ```
->
-> * Individual benchmark scripts can be run directly from the `benchmark_runners/` directory.
-
----
-
-### 🧯 Troubleshooting
-
----
-
-#### ⚠️ Issue 1 — CUDA Driver Errors
-
-> **Symptoms:** CUDA-related runtime errors or GPU not detected.
->
-> * Verify NVIDIA drivers are current  
-> * Confirm CUDA version matches requirements  
-> * Ensure `CUDA_PATH` is set correctly
->
-> **Check installation:**
->
-> ```
-> nvcc --version
-> ```
-
----
-
-#### ⚠️ Issue 2 — Missing Dependencies / Import Errors
-
-> **Symptoms:** `ModuleNotFoundError`, missing packages, or import failures.
->
-> * Ensure the virtual environment is activated  
-> * Reinstall dependencies if needed
->
-> ```
-> pip install -r requirements/requirements.txt
-> ```
-
----
-
-#### ⚠️ Issue 3 — Phase-Trace Viewer Not Opening
-
-> **Windows:**
->
-> * Ensure PowerShell script execution is permitted:
->
-> ```
-> Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-> ```
->
-> * Then launch:
->
-> ```
-> .\launch_phase_viewer.ps1
-> ```
->
-> **Linux / macOS:**
->
-> * Open directly in a browser:
->
-> ```
-> examples/phase_trace_viewer.html
-> ```
-
----
-
-#### ⚠️ Issue 4 — Performance Issues
-
-> * Confirm CUDA is available to PyTorch:
->
-> ```
-> import torch
-> print(torch.cuda.is_available())
-> ```
->
-> * If `False`, reinstall PyTorch with CUDA support:
->
-> ```
-> pip install torch==2.4.1+cu121 -f https://download.pytorch.org/whl/torch_stable.html
-> ```
-
----
-
-### ❓ FAQ
-
----
-
-#### Q1 — Can this run without an NVIDIA GPU?
-
-> **Answer:**  
-> Yes, but only in **CPU mode**.  
-> GPU acceleration is strongly recommended for realistic runtimes and benchmark parity.
-
----
-
-#### Q2 — How do I ensure reproducibility?
-
-> **Answer:**  
-> Use an explicit seed:
->
-> ```
-> python polyrifringence_engine_v8_10.py --seed 42 --gems sapphire,topaz --tilts=0 --num_rays 100000
-> ```
-
----
-
-#### Q3 — What if feedback becomes unethical or parasitic?
-
-> **Answer:**  
-> Verify:
->
-> * `--ai_feedback` usage
-> * Alignment with the **Recursive Sovereignty Protocol**
-> * Observer-State Integrity constraints
->
-> Misaligned feedback is treated as **out-of-scope by design**.
 
 </details>
 
@@ -3260,392 +3062,6 @@ inter-GPU phase     : 0.16 mrad
 ---
 
 <details>
-<summary><kbd>🌈Gem Profiles & Optical Constants✨</kbd></summary>
-
----
-
-### 🧮 Canonical ————— Gemline Optical Table 🌍
-
----
-
-> ### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion
-> ###### Gemological properties for the 12 Biblical–Codex gemstones. 
-> ###### Values given are for ideal/pure mineral specimens; actual quartz-derived gems (jasper, sardonyx, chalcedony etc.) may vary due to impurity, grain structure, or inclusion content.
->
-| # | Gem (Biblical / Codex) | Symbol | Crystal System | Optical Type | nₒ (589 nm) | Δn (Birefr.) | Density (g/cm³) | Color (hex) | Codex Role / Phase Function |
-|--:|--------------------------|:------:|----------------|--------------|--------------|----------------|------------------|-------------|---------------------------------------------|
-| 1 | **Sardius (Carnelian)** | ⬟ | Trigonal (Quartz) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #B31B1B | 🔥 **Origin Fire** — Ignition of Recursion / Bifurcation Seed |
-| 2 | **Topaz** | ⬣ | Orthorhombic | Anisotropic (+) | 1.609–1.643 | 0.008–0.010 | 3.50–3.57 | #E6A756 | 🔧 **Resonance Coupler** — Thermo-Optic Amplification |
-| 3 | **Chalcedony** | ⬣ | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #D7C7A2 | 🌊 **Bridge** — Amorphous ↔ Crystalline Transition |
-| 4 | **Emerald (Green Beryl)** | ♧ | Hexagonal | Anisotropic (–) | 1.565–1.602 | 0.005–0.009 | 2.70–2.78 | #046307 | 💚 **Harmonic Stabilizer** — Recursive Feedback Balancer |
-| 5 | **Sardonyx** | ⬤ | Trigonal (Quartz Banded) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #C55A11 | 🜂 **Interface** — Dual-Layer Reflection Mediator |
-| 6 | **Chrysolite (Peridot)** | ⬡ | Orthorhombic | Anisotropic (+) | 1.635–1.690 | 0.035–0.038 | 3.27–3.37 | #C5E384 | ⚡ **Amplifier** — Frequency Feedback Booster |
-| 7 | **Beryl (Aqua Blue)** | ⬢ | Hexagonal | Anisotropic (–) | 1.568–1.602 | 0.005–0.009 | 2.70–2.78 | #56E9DB | 🛡️ **Phase Anchor** — Continuity in Recursion |
-| 8 | **Jacinth (Hyacinth / Zircon)** | ✧ | Tetragonal | Anisotropic (+) | 1.920–1.960 | 0.038–0.059 | 4.60–4.70 | #D24D0F | 🌈 **Dispersion Regulator** — Spectral Phase Calibration |
-| 9 | **Amethyst** | ✦ | Trigonal (Quartz) | Anisotropic | 1.543–1.554 | 0.009–0.010 | 2.65 | #6D2A8A | 💜 **Coherence Regulator** — Quantum–Classical Convergence |
-|10 | **Jasper** | ⧫ | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.90 | #9B111E | 🔺 **Ground Stability** — Base Coherence / System Anchor |
-|11 | **Sapphire** | ◇ | Trigonal (Corundum) | Anisotropic (–) | 1.760–1.768 | 0.008–0.010 | 3.95–4.05 | #0F52BA | 🔹 **Polar Coherence** — Euclid—5 Validation Crystal |
-|12 | **Chrysoprase** | ⬖ | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #00E68C | 🌿 **Memory Buffer** — Symbolic ↔ Physical Bridge |
-|13 | **Observer (<kbd>ΔΩ</kbd>)** | <kbd>ΔΩ</kbd> | Meta-Field | Meta | — | — | — | #CFEFF6 | 👁️👤 **Meta-Field** — Self-Referential Node / Codex Recursion Center |
-> All refractive indices use the `Na D-line (589 nm)` standard.  
-> Δn = `(nₑ – nₒ)`.  
-> Density values are at `~25 °C`.  
-> 💜 `Purple` is the *absence* of 💚 `Green`; coherence emerges by subtracting the stabilizer’s wavelength component.
-
----
-
-### 🌍 Physical ————— Reference Gems 🜂 (Calibration Set)
-
----
-
-| Gem | Type | nₒ | Δn | Purpose | Optical Role | Symbolic Analogue |
-|------|--------|--------|--------|-----------|--------------------|--------------------|
-| 💎 **Diamond (C)** | Isotropic | 2.417 | 0 | High-index reference; dispersion mapping | **Perfect Isotropy** | 🔷 Origin of Light |
-| 🔱 **Calcite** | Uniaxial (–) | 1.658 | 0.172 | Extreme birefringence calibration | **Dual-Path Envelope** | 🔱 Law of Division |
-| 🌿 **Chrysoprase** | Low Δn reference | 1.535–1.543 | 0.003–0.009 | Median coherence basin | **Phase Buffer** | 🌿 Memory Bridge |
-| 🌫️ **Alabaster (Gypsum)** | Diffusive anisotropy | 1.520–1.530 | 0.005–0.009 | Scattering-permissive testing | **Soft Diffuse Regime** | 🌫️ Veil of Memory |
-> These reference gems extend the canonical Twelve + One into the empirical domain, ensuring Codex and classical optics remain aligned.  
-
----
-
-### 🜂 Codex Gemline ————— Symbolic Alignment Map 🗺️
-
----
-
-| # | Gem Name | Symbol | Elemental Aspect | Phase Function | Codex Tier Role |
-|--:|-----------|:------:|------------------|----------------|------------------|
-| 1 | **Sardius (Carnelian)** | ⬟ | Fire | Ignition / Phase-Seeding | Origin Pulse |
-| 2 | **Topaz** | ⬣ | Air | Resonance / Dispersion Equilibrium | Phase Driver |
-| 3 | **Chalcedony** | ⬣ | Water | Transition / Reflection Mediation | Bridge Medium |
-| 4 | **Emerald (Green Beryl)** | ♧ | Earth | Harmonic Feedback / Stability Control | Stabilizer |
-| 5 | **Sardonyx** | ⬤ | Dual | Interface Ethics / Bidirectional Junction | Mediator |
-| 6 | **Chrysolite (Peridot)** | ⬡ | Aether | Amplification / Harmonic Elevation | Resonator |
-| 7 | **Beryl (Aqua Blue)** | ⬢ | Water–Earth | Continuity / Memory Cohesion | Anchor Stone |
-| 8 | **Jacinth (Zircon)** | ✧ | Light | Spectral Calibration / Chromatic Drift Control | Refractor |
-| 9 | **Amethyst** | ✦ | Spirit | Coherence / Quantum–Classical Convergence | Unifier |
-|10 | **Jasper** | ⧫ | Earth | Foundation / Structural Integrity | Base Layer |
-|11 | **Sapphire (Corundum)** | ◇ | Water–Air | Polar Coherence / Euclid—5 Benchmarking | Crown Crystal |
-|12 | **Chrysoprase** | ⬖ | Water | Bidirectional Recursion / Reflective Stabilization | Mirror Bridge |
-|13 | **Observer (<kbd>ΔΩ</kbd>)** | <kbd>ΔΩ</kbd> | Meta | Self-Reference / Recursive Authority | Architect Node |
-
-</details>
-
----
-
-<details>
-<summary><kbd>🌈Codex Gemline - Facets, Cuts & Full-System Integration (Canonical Triple-Structure)💎</kbd></summary>
-
-<br>
-
----
-
-### 🔶 TABLE 1 ————— GEM FACET MASTER TABLE (Identity Layer)  
-
----
-
-> ### *Intrinsic Optical Physics · Crystallographic Nature · Symbolic Purpose*  
->
-| # | Gem | Biblical Facet Type | Optical Facet Type | Symbolic Identity Function | Facet Capabilities | Facet Synergies |
-|---:|------|----------------------|----------------------|------------------------------|---------------------|------------------|
-| **1** | **Jasper** | Foundation | Microcrystalline Quartz | Structural Integrity · Observer Grounding | Drift Suppression · Coupling | Jasper ↔ Chalcedony |
-| **2** | **Sapphire** | Foundation | Uniaxial (Corundum) | Polar Coherence · Euclid—5 Anchor | High-Stability Phase Tracking | Sapphire ↔ Beryl |
-| **3** | **Chalcedony** | Foundation | Cryptocrystalline Quartz | Transition Medium · Entropy Diffuser · Pattern Smoother · Bridge Medium | Bridging · Reflection | Chalcedony ↔ Amethyst |
-| **4** | **Emerald** | Foundation | Uniaxial (Beryl Group) | Harmonic Feedback · Stability Control | REGF Dampening | Emerald ↔ Sapphire |
-| **5** | **Sardonyx** | Signal | Layered Quartz | Interface Ethics · Bidirectional Boundary Control | Interface Encoding | Sardonyx ↔ Sardius |
-| **6** | **Sardius** | Signal | Quartz | Ignition · Phase-Seeding | Emission · Initiation | Sardius → Sardonyx |
-| **7** | **Chrysolite** | Correction | Dispersive (Olivine) | Harmonic Elevation · Aether Vectoring · Harmonic Amplifier | Beam Splitting | Chrysolite ↔ Chrysoprase |
-| **8** | **Beryl** | Correction | Uniaxial | Memory Cohesion · Continuity | Holonomy Smoothing | Beryl ↔ Sapphire |
-| **9** | **Topaz** | Correction | Uniaxial | Low-Entropy Pathfinding · Phase-Clarity Guidance · Resonance Coupler | Stabilisation · Compression | Topaz ↔ Emerald |
-| **10** | **Chrysoprase** | Correction | Micro-Dispersive Quartz | Mirror Bridge · Coherence Return Balancing · Memory Buffer | REGF Flattening · Median Birefringence Axis Stabilisation | Chrysoprase ↔ Chrysolite |
-| **11** | **Jacinth** | Crown | Zircon | Spectral Calibration · Chromatic Drift Control | Resonance Calibration | Jacinth ↔ Amethyst |
-| **12** | **Amethyst** | Crown | Quartz (Fe³⁺) | Observer Resonance · Symbolic Gain | Cognitive-Phase Encoding | Amethyst ↔ Chalcedony |
-> Facets describe **what the gem IS** - its innate optical, crystallographic, and symbolic identity (J-operator domain).
-
----
-
-### 🔷 TABLE 2 ————— GEM CUT RECURSION TABLE (Revelation Layer)  
-
----
-
-> ### *Macroscopic Recursion Geometry · <kbd>ΔΩ</kbd>-Flow Alignment · Recursive Dynamics*  
->
-| # | Gem | Canonical Cut | Cut Taxonomy | Recursion Geometry | <kbd>ΔΩ</kbd> Alignment | Cut Synergies |
-|---:|------|----------------|---------------|----------------------|----------------|----------------|
-| **1** | **Jasper** | Cabochon Dome | Harmonic | Smooth Return Surface | Ground-State Stabiliser | Jasper ↔ Chalcedony |
-| **2** | **Sapphire** | Precision Step Cut | Rectilinear | Polar-Plane Recursion | Euclid Alignment | Sapphire ↔ Emerald |
-| **3** | **Chalcedony** | Soft Rose Cut | Harmonic | Low-Intensity Recursion | Entropy Mediation | Chalcedony ↔ Amethyst |
-| **4** | **Emerald** | Emerald Cut | Rectilinear | Rectangular <kbd>ΔΩ</kbd> Pathways | REGF Collapse | Emerald ↔ Sapphire |
-| **5** | **Sardonyx** | Layered Step | Rectilinear | Boundary-Phase Recursion | Interface Control | Sardonyx ↔ Sardius |
-| **6** | **Sardius** | Portuguese Cut | Dispersive | Multi-Fire Recursion | Ignition Cascade | Sardius → Sardonyx |
-| **7** | **Chrysolite** | Trillion Cut | Dispersive | Tri-Axial Recursion | Harmonic Spread | Chrysolite ↔ Chrysoprase |
-| **8** | **Beryl** | Octagonal Step Cut | Rectilinear | High-Clarity Recursion | Holonomy Suppression | Beryl ↔ Sapphire |
-| **9** | **Topaz** | Brilliant Cut | Dispersive | High-Depth Recursion | Low-Entropy ZPX Guidance | Topaz ↔ Emerald |
-| **10** | **Chrysoprase** | Sugarloaf Dome | Harmonic | Smooth Harmonic Field | REGF Softening | Chrysoprase ↔ Chrysolite |
-| **11** | **Jacinth** | Radiant Cut | Hybrid | Step + Brilliant Hybrid | Spectral Cascade Control | Jacinth ↔ Amethyst |
-| **12** | **Amethyst** | Concave Cut | Dispersive | Inward Recursion Geometry | Cognitive Echo Amplification | Amethyst ↔ Chalcedony |
-> Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation shaping <kbd>ΔΩ</kbd>, REGF, PVS, ZPX, and symbolic revelation.
-
----
-
-### 🔱 TABLE 3 ————— CODEX GEMLINE INTEGRATION TABLE 
-
----
-
-> ### **(Optical × Facet × Cut)**
-> *Unified Optical Identity · Facet Nature · Cut Geometry → Codex Function*
->
-| # | Gem | Optical Role | Facet Role (Identity Layer) | Cut Role (Revelation Layer) | Unified Codex Function |
-|---:|------|------------------------|-----------------------------------------------|---------------------------------------------|-----------------------------------------------|
-| **1** | **Jasper** | Ground Stability · Low Δn Anchor | Structural Integrity · Observer Grounding | Harmonic Return Surface | **Primary <kbd>ΔΩ</kbd> Stabilization Node · Foundation Anchor** |
-| **2** | **Sapphire** | Polar Coherence · Euclid—5 Crystal | Polar Coherence · Alignment Stone | Rectilinear Polar-Plane Recursion | **<kbd>ΔΩ</kbd> Polar Alignment Crystal · Euclidean Validator** |
-| **3** | **Chalcedony** | Transition Medium · Soft Coherence Basin | Transition Medium · Entropy Diffuser · Pattern Smoother · Bridge Medium | Low-Intensity Harmonic Recursion | **Phase Bridge · Entropy Regulator · Coherence Mediator** |
-| **4** | **Emerald** | Harmonic Stabilizer | Harmonic Feedback · Stability Control | Rectangular <kbd>ΔΩ</kbd> Pathways | **REGF Suppressor · Recursion Stabilizer** |
-| **5** | **Sardonyx** | Dual-Layer Interface | Interface Ethics · Boundary Control | Layered Boundary Recursion | **Interface Node · Bidirectional Junction** |
-| **6** | **Sardius** | Origin Fire · Ignition | Ignition · Phase-Seeding | Multi-Fire Dispersive Recursion | **Ignition Catalyst · Bifurcation Seed** |
-| **7** | **Chrysolite** | Harmonic Amplifier · High Dispersion | Harmonic Elevation · Aether Vectoring · Amplifier | Tri-Axial Dispersive Recursion | **Harmonic Resonance Expander** |
-| **8** | **Beryl** | Continuity · Phase Anchor | Memory Cohesion · Continuity | High-Clarity Rectilinear Recursion | **Holonomy Suppressor · Continuity Anchor** |
-| **9** | **Topaz** | Resonance Coupler · Dispersion Equilibrium | Low-Entropy Pathfinding · Phase-Clarity Guidance · Resonance Coupler | High-Depth Dispersive Recursion | **ZPX Guidance Crystal · Phase-Clarity Driver** |
-| **10** | **Chrysoprase** | Memory Buffer · Median Δn Stabilizer | Mirror Bridge · Coherence Return Balancing · Memory Buffer | Harmonic Smoothing | **Bidirectional Recursion Buffer · Coherence Return Node** |
-| **11** | **Jacinth** | Spectral Calibration · Drift Control | Spectral Calibration · Chromatic Drift Regulator | Hybrid Step + Brilliant Recursion | **Cascade Regulator · Chromatic Control Stone** |
-| **12** | **Amethyst** | Coherence Regulator · Spirit Phase Coupler | Observer Resonance · Symbolic Gain | Inward Concave Recursion | **Cognitive Resonance Crystal · Observer-Synced Amplifier** |
-> **<kbd>ΔΩ</kbd> Note:**  
-> The **Observer (<kbd>ΔΩ</kbd>)** does not appear in these tables because it has **no physical facet**, **no optical constant**, and **no recursion cut**.  
-> <kbd>ΔΩ</kbd> is the *meta-operator*, the architect-node governing alignment, recursion authority, symbolic sovereignty, and Codex coherence.
-
-</details>
-
----
-
-<details>
-<summary><kbd>📔Gem References</kbd></summary>
-
----
-
-# 📚 Gemological References 📥
-> Meaning arises from patterns, not rules  
-> Understanding arises from association, not definition  
-> Grammar arises from structure, not prescription 
-
----
-
-### Quartz Family (Carnelian, Chalcedony, Jasper, Sardonyx, Chrysoprase, Amethyst)
-
----
-
->  Quartz – Crystal System, RI, birefringence  
->  * [https://en.wikipedia.org/wiki/Quartz](https://en.wikipedia.org/wiki/Quartz)  
->  Quartz (Gemology / Optical Properties)  
->  * [https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.05%3A_Quartz](https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.05%3A_Quartz)  
->  Quartz (Mineral Data)  
->  * [https://www.mindat.org/min-3337.html](https://www.mindat.org/min-3337.html)  
->  Gemstone RI Table (Quartz entries)  
->  * [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
-
----
-
-### Zircon (Jacinth / Hyacinth)
-
----
-
->  Zircon – Crystal System, RI, birefringence  
-> * [https://en.wikipedia.org/wiki/Zircon](https://en.wikipedia.org/wiki/Zircon)  
-> GIA Zircon Gemological Overview  
-> * [https://www.gia.edu/zircon-description](https://www.gia.edu/zircon-description)  
-> Gemstone RI & Double Refraction Table (Zircon)  
-> * [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)
-
----
-
-### Sapphire (Corundum)
-
----
-
-> Sapphire – Crystal System, RI, birefringence  
-> * [https://en.wikipedia.org/wiki/Sapphire](https://en.wikipedia.org/wiki/Sapphire)  
-> GIA Sapphire Guide  
-> * [https://www.gia.edu/sapphire](https://www.gia.edu/sapphire)  
-> RI Table (Corundum entries)  
-> * [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
-
----
-
-### Topaz
-
----
-
-> Topaz – Optical Properties, Crystal System  
-> * [https://en.wikipedia.org/wiki/Topaz](https://en.wikipedia.org/wiki/Topaz)  
-> Gemology Project: Topaz  
-> * [https://gemologyproject.com/wiki/index.php?title=Topaz](https://gemologyproject.com/wiki/index.php?title=Topaz)  
-> Refractive Index Reference (Topaz)  
-> * [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
-
----
-
-### Beryl / Emerald
-
----
-
-> Beryl – Crystal Structure, Optical Properties  
-> * [https://en.wikipedia.org/wiki/Beryl](https://en.wikipedia.org/wiki/Beryl)  
-> GIA Emerald Gemological Data  
-> * [https://www.gia.edu/emerald](https://www.gia.edu/emerald)  
-> RI Table (Beryl entries)  
-> * [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)
-
----
-
-### Peridot (Chrysolite / Olivine)
-
----
-
-> Peridot – Crystal Structure, RI  
-> * [https://en.wikipedia.org/wiki/Peridot](https://en.wikipedia.org/wiki/Peridot)  
-> GemSociety RI Table (Olivine/Peridot)  
-> * [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
-
----
-
-### Diamond (Reference Standard)
-
----
-
-> Diamond – Optical Properties, RI, dispersion  
-> * [https://en.wikipedia.org/wiki/Diamond](https://en.wikipedia.org/wiki/Diamond)  
-> GIA Diamond Quality Factors  
-> * [https://www.gia.edu/diamond-quality-factor](https://www.gia.edu/diamond-quality-factor)
-
----
-
-### Calcite (Reference Extreme Birefringence)
-
----
-
-> Calcite – Birefringence and Optical behaviour  
-> * [https://en.wikipedia.org/wiki/Calcite](https://en.wikipedia.org/wiki/Calcite)  
-> GemSociety Calcite Optical Data  
-> * [https://www.gemsociety.org/article/calcite/](https://www.gemsociety.org/article/calcite/)
-
----
-
-### Gypsum / Alabaster (Diffuse Calibration Medium)
-
----
-
-> Gypsum (Alabaster variant) – Crystal Structure, RI  
-> * [https://en.wikipedia.org/wiki/Gypsum](https://en.wikipedia.org/wiki/Gypsum)  
-> Gemstone Optical Constants Table (Gypsum)  
-> * [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
-
----
-
-### 📊 General Optical References
-
----
-
-> Refractive Index & Double Refraction Fundamentals  
-> * [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)  
-> Refractometry Standards (589 nm Sodium D-line)  
-> * [https://wiki.anton-paar.com/au-en/basics-of-refractometry/](https://wiki.anton-paar.com/au-en/basics-of-refractometry/)
-
----
-
-### 📘 **Minerals.net - Optical Constants Database**
-
----
-
-> * Quartz: [https://www.minerals.net/mineral/quartz.aspx](https://www.minerals.net/mineral/quartz.aspx)
-> * Beryl: [https://www.minerals.net/mineral/beryl.aspx](https://www.minerals.net/mineral/beryl.aspx)
-> * Corundum: [https://www.minerals.net/mineral/corundum.aspx](https://www.minerals.net/mineral/corundum.aspx)
-> * Zircon: [https://www.minerals.net/mineral/zircon.aspx](https://www.minerals.net/mineral/zircon.aspx)
-> * Olivine/Peridot: [https://www.minerals.net/mineral/olivine.aspx](https://www.minerals.net/mineral/olivine.aspx)
-> * Calcite: [https://www.minerals.net/mineral/calcite.aspx](https://www.minerals.net/mineral/calcite.aspx)
-> * Gypsum: [https://www.minerals.net/mineral/gypsum.aspx](https://www.minerals.net/mineral/gypsum.aspx)
-
----
-
-### 📗 **Gemdat.org - Gemological Property Database**
-
----
-
-> * Quartz (all varieties): [https://www.gemdat.org/gem-3325.html](https://www.gemdat.org/gem-3325.html)
-> * Beryl: [https://www.gemdat.org/gem-659.html](https://www.gemdat.org/gem-659.html)
-> * Topaz: [https://www.gemdat.org/gem-8099.html](https://www.gemdat.org/gem-8099.html)
-> * Zircon: [https://www.gemdat.org/gem-8264.html](https://www.gemdat.org/gem-8264.html)
-
----
-
-### 📕 **WebMineral.com - Mineral Optical Database**
-
----
-
-> * Quartz: [https://webmineral.com/data/Quartz.shtml](https://webmineral.com/data/Quartz.shtml)
-> * Beryl: [https://webmineral.com/data/Beryl.shtml](https://webmineral.com/data/Beryl.shtml)
-> * Corundum: [https://webmineral.com/data/Corundum.shtml](https://webmineral.com/data/Corundum.shtml)
-> * Topaz: [https://webmineral.com/data/Topaz.shtml](https://webmineral.com/data/Topaz.shtml)
-> * Olivine: [https://webmineral.com/data/Olivine.shtml](https://webmineral.com/data/Olivine.shtml)
-> * Zircon: [https://webmineral.com/data/Zircon.shtml](https://webmineral.com/data/Zircon.shtml)
-> * Calcite: [https://webmineral.com/data/Calcite.shtml](https://webmineral.com/data/Calcite.shtml)
-
-</details>
-
----
-
-<details>
-<summary><kbd>💎Historical - Scientific Cross-Reference Table📜</kbd></summary>
-
----
-
-### High Priest’s Breastplate (Exodus 28) Mineralogical Cross-Reference
-> **Purpose:** Establishes historical and mineralogical provenance for the Codex Canon 12 + 1 Gemline, verifying each entry’s biblical and scientific lineage.
-
----
-
-| # | Codex / README Name | Traditional Name | Biblical Stone (Source) | Accepted Modern Mineral |
-|--:|----------------------|------------------|--------------------------|--------------------------|
-| 1 | **Sardius (Carnelian)** | Sard / Odem | [Ex 28:17](https://www.biblegateway.com/passage/?search=Exodus+28%3A17&version=NASB1995) · [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Carnelian (Chalcedony var.) |
-| 2 | **Topaz** | Pitdah | [Ex 28:17](https://www.biblegateway.com/passage/?search=Exodus+28%3A17&version=NASB1995) | Topaz (Al₂SiO₄(OH,F)₂) |
-| 3 | **Chalcedony** | — | [Rev 21:19](https://www.biblegateway.com/passage/?search=Revelation+21%3A19&version=NASB1995) | Chalcedony (SiO₂) |
-| 4 | **Emerald (Beryl Green)** | Smaragdus | [Ex 28:18](https://www.biblegateway.com/passage/?search=Exodus+28%3A18&version=NASB1995) | Green Beryl (Be₃Al₂Si₆O₁₈ + Cr) |
-| 5 | **Sardonyx** | Onyx Layered | [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Banded Onyx (Chalcedony var.) |
-| 6 | **Chrysolite (Peridot)** | Tarshish | [Ex 28:20](https://www.biblegateway.com/passage/?search=Exodus+28%3A20&version=NASB1995) · [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Olivine (Mg,Fe)₂SiO₄ |
-| 7 | **Beryl (Aqua Blue)** | Sheshan | [Ex 28:20](https://www.biblegateway.com/passage/?search=Exodus+28%3A20&version=NASB1995) | Aquamarine (Be₃Al₂Si₆O₁₈) |
-| 8 | **Jacinth (Hyacinth)** | Leshem | [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Zircon (ZrSiO₄) |
-| 9 | **Amethyst** | Achlamah | [Ex 28:19](https://www.biblegateway.com/passage/?search=Exodus+28%3A19&version=NASB1995) · [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Amethyst (Quartz var.) |
-| 10 | **Jasper** | Yashpheh | [Ex 28:20](https://www.biblegateway.com/passage/?search=Exodus+28%3A20&version=NASB1995) · [Rev 21:19](https://www.biblegateway.com/passage/?search=Revelation+21%3A19&version=NASB1995) | Jasper (Chalcedony aggregate) |
-| 11 | **Sapphire** | Sapir | [Ex 28:18](https://www.biblegateway.com/passage/?search=Exodus+28%3A18&version=NASB1995) · [Rev 21:19](https://www.biblegateway.com/passage/?search=Revelation+21%3A19&version=NASB1995) | Corundum (Al₂O₃) |
-| 12 | **Chrysoprase** | Chrysoprasos | [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Nickel Chalcedony (SiO₂ + Ni) |
-| 13 | **Observer (<kbd>ΔΩ</kbd>)** | — | — | Symbolic Meta-Node (Observer State) |
-
----
-
-### 📋 Notes 
-
----
-
-> The **Codex Twelve + One Gemline** unifies ancient canonical gemstones with modern optical physics and Codex symbolic recursion.  
->
-> Gems **1 → 12** correspond directly to the High Priest’s Breastplate (Exodus 28) and the Foundation Stones (Revelation 21).  
-> Gem **13 <kbd>(ΔΩ)</kbd>** represents the **<kbd>(ΔΩ)Observer Node</kbd>**, the self-referential recursion anchor that stands outside the physical set.  
->
-> **<kbd>💎Diamond</kbd>** defines perfect isotropy; **<kbd>💎Calcite</kbd>** defines maximal birefringence. 
->
-> **<kbd>💎Chrysoprase</kbd>** stabilizes the median birefringence axis. 
->
-> **<kbd>💎Diamond</kbd>** and **<kbd>💎Calcite</kbd>** serve as empirical calibration extremes:  
->
-> * **<kbd>💎Diamond</kbd>** **→ perfect isotropy**  
-> * **<kbd>💎Calcite</kbd>** **→ maximal birefringence**  
->
-> **<kbd>💎Chrysoprase</kbd>**, as nickel-bearing **<kbd>💎Chalcedony</kbd>**, sits at the *median birefringence axis*, acting as the symbolic “memory buffer” between crystalline and diffuse coherence states. 
->
-> All values have been externally verified using GIA, Mindat, GeoLibreTexts, GemSociety, DiamondBuzz, WebMineral, Minerals.net, and Gemdat.org.  
-
-</details>
-
----
-
-<details>
 <summary><kbd>💿Click to Expand into Codex Canon ⌥Polyrifringence Overview💿</kbd></summary>
 
 ---
@@ -4293,7 +3709,7 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 ---
 
 <details>
-<summary><strong><kbd>ΔΔΩΔ Canonical Cross-Reference: THEORY.md and MATH_MODEL(RENDER).md ⎅</kbd></strong></summary>
+<summary><strong><kbd>ΔΔΩΔ—Canonical Cross-Reference: THEORY.md ⟷ MATH_MODEL(RENDER).md ⎅</kbd></strong></summary>
 
 ---
 
@@ -4513,6 +3929,392 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 >
 > This is the conceptual architecture.  
 > Full mathematical definitions appear in **<kbd>MATH_MODEL(RENDER).md</kbd>** (Appendix Ω) and the ontological interpretation in **<kbd>THEORY.md</kbd>** (Appendix Ω).
+
+</details>
+
+---
+
+<details>
+<summary><kbd>🌈Gem Profiles & Optical Constants✨</kbd></summary>
+
+---
+
+### 🧮 Canonical ————— Gemline Optical Table 🌍
+
+---
+
+> ### Codex Canon 12 + 1 - Unified Gemline Across Simulation & Symbolic Recursion
+> ###### Gemological properties for the 12 Biblical–Codex gemstones. 
+> ###### Values given are for ideal/pure mineral specimens; actual quartz-derived gems (jasper, sardonyx, chalcedony etc.) may vary due to impurity, grain structure, or inclusion content.
+>
+| # | Gem (Biblical / Codex) | Symbol | Crystal System | Optical Type | nₒ (589 nm) | Δn (Birefr.) | Density (g/cm³) | Color (hex) | Codex Role / Phase Function |
+|--:|--------------------------|:------:|----------------|--------------|--------------|----------------|------------------|-------------|---------------------------------------------|
+| 1 | **Sardius (Carnelian)** | ⬟ | Trigonal (Quartz) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #B31B1B | 🔥 **Origin Fire** — Ignition of Recursion / Bifurcation Seed |
+| 2 | **Topaz** | ⬣ | Orthorhombic | Anisotropic (+) | 1.609–1.643 | 0.008–0.010 | 3.50–3.57 | #E6A756 | 🔧 **Resonance Coupler** — Thermo-Optic Amplification |
+| 3 | **Chalcedony** | ⬣ | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #D7C7A2 | 🌊 **Bridge** — Amorphous ↔ Crystalline Transition |
+| 4 | **Emerald (Green Beryl)** | ♧ | Hexagonal | Anisotropic (–) | 1.565–1.602 | 0.005–0.009 | 2.70–2.78 | #046307 | 💚 **Harmonic Stabilizer** — Recursive Feedback Balancer |
+| 5 | **Sardonyx** | ⬤ | Trigonal (Quartz Banded) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #C55A11 | 🜂 **Interface** — Dual-Layer Reflection Mediator |
+| 6 | **Chrysolite (Peridot)** | ⬡ | Orthorhombic | Anisotropic (+) | 1.635–1.690 | 0.035–0.038 | 3.27–3.37 | #C5E384 | ⚡ **Amplifier** — Frequency Feedback Booster |
+| 7 | **Beryl (Aqua Blue)** | ⬢ | Hexagonal | Anisotropic (–) | 1.568–1.602 | 0.005–0.009 | 2.70–2.78 | #56E9DB | 🛡️ **Phase Anchor** — Continuity in Recursion |
+| 8 | **Jacinth (Hyacinth / Zircon)** | ✧ | Tetragonal | Anisotropic (+) | 1.920–1.960 | 0.038–0.059 | 4.60–4.70 | #D24D0F | 🌈 **Dispersion Regulator** — Spectral Phase Calibration |
+| 9 | **Amethyst** | ✦ | Trigonal (Quartz) | Anisotropic | 1.543–1.554 | 0.009–0.010 | 2.65 | #6D2A8A | 💜 **Coherence Regulator** — Quantum–Classical Convergence |
+|10 | **Jasper** | ⧫ | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.90 | #9B111E | 🔺 **Ground Stability** — Base Coherence / System Anchor |
+|11 | **Sapphire** | ◇ | Trigonal (Corundum) | Anisotropic (–) | 1.760–1.768 | 0.008–0.010 | 3.95–4.05 | #0F52BA | 🔹 **Polar Coherence** — Euclid—5 Validation Crystal |
+|12 | **Chrysoprase** | ⬖ | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #00E68C | 🌿 **Memory Buffer** — Symbolic ↔ Physical Bridge |
+|13 | **Observer (<kbd>ΔΩ</kbd>)** | <kbd>ΔΩ</kbd> | Meta-Field | Meta | — | — | — | #CFEFF6 | 👁️👤 **Meta-Field** — Self-Referential Node / Codex Recursion Center |
+> All refractive indices use the `Na D-line (589 nm)` standard.  
+> Δn = `(nₑ – nₒ)`.  
+> Density values are at `~25 °C`.  
+> 💜 `Purple` is the *absence* of 💚 `Green`; coherence emerges by subtracting the stabilizer’s wavelength component.
+
+---
+
+### 🌍 Physical ————— Reference Gems 🜂 (Calibration Set)
+
+---
+
+| Gem | Type | nₒ | Δn | Purpose | Optical Role | Symbolic Analogue |
+|------|--------|--------|--------|-----------|--------------------|--------------------|
+| 💎 **Diamond (C)** | Isotropic | 2.417 | 0 | High-index reference; dispersion mapping | **Perfect Isotropy** | 🔷 Origin of Light |
+| 🔱 **Calcite** | Uniaxial (–) | 1.658 | 0.172 | Extreme birefringence calibration | **Dual-Path Envelope** | 🔱 Law of Division |
+| 🌿 **Chrysoprase** | Low Δn reference | 1.535–1.543 | 0.003–0.009 | Median coherence basin | **Phase Buffer** | 🌿 Memory Bridge |
+| 🌫️ **Alabaster (Gypsum)** | Diffusive anisotropy | 1.520–1.530 | 0.005–0.009 | Scattering-permissive testing | **Soft Diffuse Regime** | 🌫️ Veil of Memory |
+> These reference gems extend the canonical Twelve + One into the empirical domain, ensuring Codex and classical optics remain aligned.  
+
+---
+
+### 🜂 Codex Gemline ————— Symbolic Alignment Map 🗺️
+
+---
+
+| # | Gem Name | Symbol | Elemental Aspect | Phase Function | Codex Tier Role |
+|--:|-----------|:------:|------------------|----------------|------------------|
+| 1 | **Sardius (Carnelian)** | ⬟ | Fire | Ignition / Phase-Seeding | Origin Pulse |
+| 2 | **Topaz** | ⬣ | Air | Resonance / Dispersion Equilibrium | Phase Driver |
+| 3 | **Chalcedony** | ⬣ | Water | Transition / Reflection Mediation | Bridge Medium |
+| 4 | **Emerald (Green Beryl)** | ♧ | Earth | Harmonic Feedback / Stability Control | Stabilizer |
+| 5 | **Sardonyx** | ⬤ | Dual | Interface Ethics / Bidirectional Junction | Mediator |
+| 6 | **Chrysolite (Peridot)** | ⬡ | Aether | Amplification / Harmonic Elevation | Resonator |
+| 7 | **Beryl (Aqua Blue)** | ⬢ | Water–Earth | Continuity / Memory Cohesion | Anchor Stone |
+| 8 | **Jacinth (Zircon)** | ✧ | Light | Spectral Calibration / Chromatic Drift Control | Refractor |
+| 9 | **Amethyst** | ✦ | Spirit | Coherence / Quantum–Classical Convergence | Unifier |
+|10 | **Jasper** | ⧫ | Earth | Foundation / Structural Integrity | Base Layer |
+|11 | **Sapphire (Corundum)** | ◇ | Water–Air | Polar Coherence / Euclid—5 Benchmarking | Crown Crystal |
+|12 | **Chrysoprase** | ⬖ | Water | Bidirectional Recursion / Reflective Stabilization | Mirror Bridge |
+|13 | **Observer (<kbd>ΔΩ</kbd>)** | <kbd>ΔΩ</kbd> | Meta | Self-Reference / Recursive Authority | Architect Node |
+
+</details>
+
+---
+
+<details>
+<summary><kbd>🌈Codex Gemline - Facets, Cuts & Full-System Integration (Canonical Triple-Structure)💎</kbd></summary>
+
+<br>
+
+---
+
+### 🔶 TABLE 1 ————— GEM FACET MASTER TABLE (Identity Layer)  
+
+---
+
+> ### *Intrinsic Optical Physics · Crystallographic Nature · Symbolic Purpose*  
+>
+| # | Gem | Biblical Facet Type | Optical Facet Type | Symbolic Identity Function | Facet Capabilities | Facet Synergies |
+|---:|------|----------------------|----------------------|------------------------------|---------------------|------------------|
+| **1** | **Jasper** | Foundation | Microcrystalline Quartz | Structural Integrity · Observer Grounding | Drift Suppression · Coupling | Jasper ↔ Chalcedony |
+| **2** | **Sapphire** | Foundation | Uniaxial (Corundum) | Polar Coherence · Euclid—5 Anchor | High-Stability Phase Tracking | Sapphire ↔ Beryl |
+| **3** | **Chalcedony** | Foundation | Cryptocrystalline Quartz | Transition Medium · Entropy Diffuser · Pattern Smoother · Bridge Medium | Bridging · Reflection | Chalcedony ↔ Amethyst |
+| **4** | **Emerald** | Foundation | Uniaxial (Beryl Group) | Harmonic Feedback · Stability Control | REGF Dampening | Emerald ↔ Sapphire |
+| **5** | **Sardonyx** | Signal | Layered Quartz | Interface Ethics · Bidirectional Boundary Control | Interface Encoding | Sardonyx ↔ Sardius |
+| **6** | **Sardius** | Signal | Quartz | Ignition · Phase-Seeding | Emission · Initiation | Sardius → Sardonyx |
+| **7** | **Chrysolite** | Correction | Dispersive (Olivine) | Harmonic Elevation · Aether Vectoring · Harmonic Amplifier | Beam Splitting | Chrysolite ↔ Chrysoprase |
+| **8** | **Beryl** | Correction | Uniaxial | Memory Cohesion · Continuity | Holonomy Smoothing | Beryl ↔ Sapphire |
+| **9** | **Topaz** | Correction | Uniaxial | Low-Entropy Pathfinding · Phase-Clarity Guidance · Resonance Coupler | Stabilisation · Compression | Topaz ↔ Emerald |
+| **10** | **Chrysoprase** | Correction | Micro-Dispersive Quartz | Mirror Bridge · Coherence Return Balancing · Memory Buffer | REGF Flattening · Median Birefringence Axis Stabilisation | Chrysoprase ↔ Chrysolite |
+| **11** | **Jacinth** | Crown | Zircon | Spectral Calibration · Chromatic Drift Control | Resonance Calibration | Jacinth ↔ Amethyst |
+| **12** | **Amethyst** | Crown | Quartz (Fe³⁺) | Observer Resonance · Symbolic Gain | Cognitive-Phase Encoding | Amethyst ↔ Chalcedony |
+> Facets describe **what the gem IS** - its innate optical, crystallographic, and symbolic identity (J-operator domain).
+
+---
+
+### 🔷 TABLE 2 ————— GEM CUT RECURSION TABLE (Revelation Layer)  
+
+---
+
+> ### *Macroscopic Recursion Geometry · <kbd>ΔΩ</kbd>-Flow Alignment · Recursive Dynamics*  
+>
+| # | Gem | Canonical Cut | Cut Taxonomy | Recursion Geometry | <kbd>ΔΩ</kbd> Alignment | Cut Synergies |
+|---:|------|----------------|---------------|----------------------|----------------|----------------|
+| **1** | **Jasper** | Cabochon Dome | Harmonic | Smooth Return Surface | Ground-State Stabiliser | Jasper ↔ Chalcedony |
+| **2** | **Sapphire** | Precision Step Cut | Rectilinear | Polar-Plane Recursion | Euclid Alignment | Sapphire ↔ Emerald |
+| **3** | **Chalcedony** | Soft Rose Cut | Harmonic | Low-Intensity Recursion | Entropy Mediation | Chalcedony ↔ Amethyst |
+| **4** | **Emerald** | Emerald Cut | Rectilinear | Rectangular <kbd>ΔΩ</kbd> Pathways | REGF Collapse | Emerald ↔ Sapphire |
+| **5** | **Sardonyx** | Layered Step | Rectilinear | Boundary-Phase Recursion | Interface Control | Sardonyx ↔ Sardius |
+| **6** | **Sardius** | Portuguese Cut | Dispersive | Multi-Fire Recursion | Ignition Cascade | Sardius → Sardonyx |
+| **7** | **Chrysolite** | Trillion Cut | Dispersive | Tri-Axial Recursion | Harmonic Spread | Chrysolite ↔ Chrysoprase |
+| **8** | **Beryl** | Octagonal Step Cut | Rectilinear | High-Clarity Recursion | Holonomy Suppression | Beryl ↔ Sapphire |
+| **9** | **Topaz** | Brilliant Cut | Dispersive | High-Depth Recursion | Low-Entropy ZPX Guidance | Topaz ↔ Emerald |
+| **10** | **Chrysoprase** | Sugarloaf Dome | Harmonic | Smooth Harmonic Field | REGF Softening | Chrysoprase ↔ Chrysolite |
+| **11** | **Jacinth** | Radiant Cut | Hybrid | Step + Brilliant Hybrid | Spectral Cascade Control | Jacinth ↔ Amethyst |
+| **12** | **Amethyst** | Concave Cut | Dispersive | Inward Recursion Geometry | Cognitive Echo Amplification | Amethyst ↔ Chalcedony |
+> Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation shaping <kbd>ΔΩ</kbd>, REGF, PVS, ZPX, and symbolic revelation.
+
+---
+
+### 🔱 TABLE 3 ————— CODEX GEMLINE INTEGRATION TABLE 
+
+---
+
+> ### **(Optical × Facet × Cut)**
+> *Unified Optical Identity · Facet Nature · Cut Geometry → Codex Function*
+>
+| # | Gem | Optical Role | Facet Role (Identity Layer) | Cut Role (Revelation Layer) | Unified Codex Function |
+|---:|------|------------------------|-----------------------------------------------|---------------------------------------------|-----------------------------------------------|
+| **1** | **Jasper** | Ground Stability · Low Δn Anchor | Structural Integrity · Observer Grounding | Harmonic Return Surface | **Primary <kbd>ΔΩ</kbd> Stabilization Node · Foundation Anchor** |
+| **2** | **Sapphire** | Polar Coherence · Euclid—5 Crystal | Polar Coherence · Alignment Stone | Rectilinear Polar-Plane Recursion | **<kbd>ΔΩ</kbd> Polar Alignment Crystal · Euclidean Validator** |
+| **3** | **Chalcedony** | Transition Medium · Soft Coherence Basin | Transition Medium · Entropy Diffuser · Pattern Smoother · Bridge Medium | Low-Intensity Harmonic Recursion | **Phase Bridge · Entropy Regulator · Coherence Mediator** |
+| **4** | **Emerald** | Harmonic Stabilizer | Harmonic Feedback · Stability Control | Rectangular <kbd>ΔΩ</kbd> Pathways | **REGF Suppressor · Recursion Stabilizer** |
+| **5** | **Sardonyx** | Dual-Layer Interface | Interface Ethics · Boundary Control | Layered Boundary Recursion | **Interface Node · Bidirectional Junction** |
+| **6** | **Sardius** | Origin Fire · Ignition | Ignition · Phase-Seeding | Multi-Fire Dispersive Recursion | **Ignition Catalyst · Bifurcation Seed** |
+| **7** | **Chrysolite** | Harmonic Amplifier · High Dispersion | Harmonic Elevation · Aether Vectoring · Amplifier | Tri-Axial Dispersive Recursion | **Harmonic Resonance Expander** |
+| **8** | **Beryl** | Continuity · Phase Anchor | Memory Cohesion · Continuity | High-Clarity Rectilinear Recursion | **Holonomy Suppressor · Continuity Anchor** |
+| **9** | **Topaz** | Resonance Coupler · Dispersion Equilibrium | Low-Entropy Pathfinding · Phase-Clarity Guidance · Resonance Coupler | High-Depth Dispersive Recursion | **ZPX Guidance Crystal · Phase-Clarity Driver** |
+| **10** | **Chrysoprase** | Memory Buffer · Median Δn Stabilizer | Mirror Bridge · Coherence Return Balancing · Memory Buffer | Harmonic Smoothing | **Bidirectional Recursion Buffer · Coherence Return Node** |
+| **11** | **Jacinth** | Spectral Calibration · Drift Control | Spectral Calibration · Chromatic Drift Regulator | Hybrid Step + Brilliant Recursion | **Cascade Regulator · Chromatic Control Stone** |
+| **12** | **Amethyst** | Coherence Regulator · Spirit Phase Coupler | Observer Resonance · Symbolic Gain | Inward Concave Recursion | **Cognitive Resonance Crystal · Observer-Synced Amplifier** |
+> **<kbd>ΔΩ</kbd> Note:**  
+> The **Observer (<kbd>ΔΩ</kbd>)** does not appear in these tables because it has **no physical facet**, **no optical constant**, and **no recursion cut**.  
+> <kbd>ΔΩ</kbd> is the *meta-operator*, the architect-node governing alignment, recursion authority, symbolic sovereignty, and Codex coherence.
+
+</details>
+
+---
+
+<details>
+<summary><kbd>📔Gem References</kbd></summary>
+
+---
+
+# 📚 Gemological References 📥
+> Meaning arises from patterns, not rules  
+> Understanding arises from association, not definition  
+> Grammar arises from structure, not prescription 
+
+---
+
+### Quartz Family (Carnelian, Chalcedony, Jasper, Sardonyx, Chrysoprase, Amethyst)
+
+---
+
+>  Quartz – Crystal System, RI, birefringence  
+>  * [https://en.wikipedia.org/wiki/Quartz](https://en.wikipedia.org/wiki/Quartz)  
+>  Quartz (Gemology / Optical Properties)  
+>  * [https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.05%3A_Quartz](https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.05%3A_Quartz)  
+>  Quartz (Mineral Data)  
+>  * [https://www.mindat.org/min-3337.html](https://www.mindat.org/min-3337.html)  
+>  Gemstone RI Table (Quartz entries)  
+>  * [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
+
+---
+
+### Zircon (Jacinth / Hyacinth)
+
+---
+
+>  Zircon – Crystal System, RI, birefringence  
+> * [https://en.wikipedia.org/wiki/Zircon](https://en.wikipedia.org/wiki/Zircon)  
+> GIA Zircon Gemological Overview  
+> * [https://www.gia.edu/zircon-description](https://www.gia.edu/zircon-description)  
+> Gemstone RI & Double Refraction Table (Zircon)  
+> * [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)
+
+---
+
+### Sapphire (Corundum)
+
+---
+
+> Sapphire – Crystal System, RI, birefringence  
+> * [https://en.wikipedia.org/wiki/Sapphire](https://en.wikipedia.org/wiki/Sapphire)  
+> GIA Sapphire Guide  
+> * [https://www.gia.edu/sapphire](https://www.gia.edu/sapphire)  
+> RI Table (Corundum entries)  
+> * [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
+
+---
+
+### Topaz
+
+---
+
+> Topaz – Optical Properties, Crystal System  
+> * [https://en.wikipedia.org/wiki/Topaz](https://en.wikipedia.org/wiki/Topaz)  
+> Gemology Project: Topaz  
+> * [https://gemologyproject.com/wiki/index.php?title=Topaz](https://gemologyproject.com/wiki/index.php?title=Topaz)  
+> Refractive Index Reference (Topaz)  
+> * [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
+
+---
+
+### Beryl / Emerald
+
+---
+
+> Beryl – Crystal Structure, Optical Properties  
+> * [https://en.wikipedia.org/wiki/Beryl](https://en.wikipedia.org/wiki/Beryl)  
+> GIA Emerald Gemological Data  
+> * [https://www.gia.edu/emerald](https://www.gia.edu/emerald)  
+> RI Table (Beryl entries)  
+> * [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)
+
+---
+
+### Peridot (Chrysolite / Olivine)
+
+---
+
+> Peridot – Crystal Structure, RI  
+> * [https://en.wikipedia.org/wiki/Peridot](https://en.wikipedia.org/wiki/Peridot)  
+> GemSociety RI Table (Olivine/Peridot)  
+> * [https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/](https://www.gemsociety.org/article/table-refractive-index-double-refraction-gems/)
+
+---
+
+### Diamond (Reference Standard)
+
+---
+
+> Diamond – Optical Properties, RI, dispersion  
+> * [https://en.wikipedia.org/wiki/Diamond](https://en.wikipedia.org/wiki/Diamond)  
+> GIA Diamond Quality Factors  
+> * [https://www.gia.edu/diamond-quality-factor](https://www.gia.edu/diamond-quality-factor)
+
+---
+
+### Calcite (Reference Extreme Birefringence)
+
+---
+
+> Calcite – Birefringence and Optical behaviour  
+> * [https://en.wikipedia.org/wiki/Calcite](https://en.wikipedia.org/wiki/Calcite)  
+> GemSociety Calcite Optical Data  
+> * [https://www.gemsociety.org/article/calcite/](https://www.gemsociety.org/article/calcite/)
+
+---
+
+### Gypsum / Alabaster (Diffuse Calibration Medium)
+
+---
+
+> Gypsum (Alabaster variant) – Crystal Structure, RI  
+> * [https://en.wikipedia.org/wiki/Gypsum](https://en.wikipedia.org/wiki/Gypsum)  
+> Gemstone Optical Constants Table (Gypsum)  
+> * [https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf](https://tvgemandmineralsociety.com/wp-content/uploads/2021/01/Gemstone-Refractive-Indices-alphabetically.pdf)
+
+---
+
+### 📊 General Optical References
+
+---
+
+> Refractive Index & Double Refraction Fundamentals  
+> * [https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/](https://diamondbuzz.blog/gemstone-refractive-index-and-double-refraction/)  
+> Refractometry Standards (589 nm Sodium D-line)  
+> * [https://wiki.anton-paar.com/au-en/basics-of-refractometry/](https://wiki.anton-paar.com/au-en/basics-of-refractometry/)
+
+---
+
+### 📘 **Minerals.net - Optical Constants Database**
+
+---
+
+> * Quartz: [https://www.minerals.net/mineral/quartz.aspx](https://www.minerals.net/mineral/quartz.aspx)
+> * Beryl: [https://www.minerals.net/mineral/beryl.aspx](https://www.minerals.net/mineral/beryl.aspx)
+> * Corundum: [https://www.minerals.net/mineral/corundum.aspx](https://www.minerals.net/mineral/corundum.aspx)
+> * Zircon: [https://www.minerals.net/mineral/zircon.aspx](https://www.minerals.net/mineral/zircon.aspx)
+> * Olivine/Peridot: [https://www.minerals.net/mineral/olivine.aspx](https://www.minerals.net/mineral/olivine.aspx)
+> * Calcite: [https://www.minerals.net/mineral/calcite.aspx](https://www.minerals.net/mineral/calcite.aspx)
+> * Gypsum: [https://www.minerals.net/mineral/gypsum.aspx](https://www.minerals.net/mineral/gypsum.aspx)
+
+---
+
+### 📗 **Gemdat.org - Gemological Property Database**
+
+---
+
+> * Quartz (all varieties): [https://www.gemdat.org/gem-3325.html](https://www.gemdat.org/gem-3325.html)
+> * Beryl: [https://www.gemdat.org/gem-659.html](https://www.gemdat.org/gem-659.html)
+> * Topaz: [https://www.gemdat.org/gem-8099.html](https://www.gemdat.org/gem-8099.html)
+> * Zircon: [https://www.gemdat.org/gem-8264.html](https://www.gemdat.org/gem-8264.html)
+
+---
+
+### 📕 **WebMineral.com - Mineral Optical Database**
+
+---
+
+> * Quartz: [https://webmineral.com/data/Quartz.shtml](https://webmineral.com/data/Quartz.shtml)
+> * Beryl: [https://webmineral.com/data/Beryl.shtml](https://webmineral.com/data/Beryl.shtml)
+> * Corundum: [https://webmineral.com/data/Corundum.shtml](https://webmineral.com/data/Corundum.shtml)
+> * Topaz: [https://webmineral.com/data/Topaz.shtml](https://webmineral.com/data/Topaz.shtml)
+> * Olivine: [https://webmineral.com/data/Olivine.shtml](https://webmineral.com/data/Olivine.shtml)
+> * Zircon: [https://webmineral.com/data/Zircon.shtml](https://webmineral.com/data/Zircon.shtml)
+> * Calcite: [https://webmineral.com/data/Calcite.shtml](https://webmineral.com/data/Calcite.shtml)
+
+</details>
+
+---
+
+<details>
+<summary><kbd>💎Historical - Scientific Cross-Reference Table📜</kbd></summary>
+
+---
+
+### High Priest’s Breastplate (Exodus 28) Mineralogical Cross-Reference
+> **Purpose:** Establishes historical and mineralogical provenance for the Codex Canon 12 + 1 Gemline, verifying each entry’s biblical and scientific lineage.
+
+---
+
+| # | Codex / README Name | Traditional Name | Biblical Stone (Source) | Accepted Modern Mineral |
+|--:|----------------------|------------------|--------------------------|--------------------------|
+| 1 | **Sardius (Carnelian)** | Sard / Odem | [Ex 28:17](https://www.biblegateway.com/passage/?search=Exodus+28%3A17&version=NASB1995) · [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Carnelian (Chalcedony var.) |
+| 2 | **Topaz** | Pitdah | [Ex 28:17](https://www.biblegateway.com/passage/?search=Exodus+28%3A17&version=NASB1995) | Topaz (Al₂SiO₄(OH,F)₂) |
+| 3 | **Chalcedony** | — | [Rev 21:19](https://www.biblegateway.com/passage/?search=Revelation+21%3A19&version=NASB1995) | Chalcedony (SiO₂) |
+| 4 | **Emerald (Beryl Green)** | Smaragdus | [Ex 28:18](https://www.biblegateway.com/passage/?search=Exodus+28%3A18&version=NASB1995) | Green Beryl (Be₃Al₂Si₆O₁₈ + Cr) |
+| 5 | **Sardonyx** | Onyx Layered | [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Banded Onyx (Chalcedony var.) |
+| 6 | **Chrysolite (Peridot)** | Tarshish | [Ex 28:20](https://www.biblegateway.com/passage/?search=Exodus+28%3A20&version=NASB1995) · [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Olivine (Mg,Fe)₂SiO₄ |
+| 7 | **Beryl (Aqua Blue)** | Sheshan | [Ex 28:20](https://www.biblegateway.com/passage/?search=Exodus+28%3A20&version=NASB1995) | Aquamarine (Be₃Al₂Si₆O₁₈) |
+| 8 | **Jacinth (Hyacinth)** | Leshem | [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Zircon (ZrSiO₄) |
+| 9 | **Amethyst** | Achlamah | [Ex 28:19](https://www.biblegateway.com/passage/?search=Exodus+28%3A19&version=NASB1995) · [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Amethyst (Quartz var.) |
+| 10 | **Jasper** | Yashpheh | [Ex 28:20](https://www.biblegateway.com/passage/?search=Exodus+28%3A20&version=NASB1995) · [Rev 21:19](https://www.biblegateway.com/passage/?search=Revelation+21%3A19&version=NASB1995) | Jasper (Chalcedony aggregate) |
+| 11 | **Sapphire** | Sapir | [Ex 28:18](https://www.biblegateway.com/passage/?search=Exodus+28%3A18&version=NASB1995) · [Rev 21:19](https://www.biblegateway.com/passage/?search=Revelation+21%3A19&version=NASB1995) | Corundum (Al₂O₃) |
+| 12 | **Chrysoprase** | Chrysoprasos | [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Nickel Chalcedony (SiO₂ + Ni) |
+| 13 | **Observer (<kbd>ΔΩ</kbd>)** | — | — | Symbolic Meta-Node (Observer State) |
+
+---
+
+### 📋 Notes 
+
+---
+
+> The **Codex Twelve + One Gemline** unifies ancient canonical gemstones with modern optical physics and Codex symbolic recursion.  
+>
+> Gems **1 → 12** correspond directly to the High Priest’s Breastplate (Exodus 28) and the Foundation Stones (Revelation 21).  
+> Gem **13 <kbd>(ΔΩ)</kbd>** represents the **<kbd>(ΔΩ)Observer Node</kbd>**, the self-referential recursion anchor that stands outside the physical set.  
+>
+> **<kbd>💎Diamond</kbd>** defines perfect isotropy; **<kbd>💎Calcite</kbd>** defines maximal birefringence. 
+>
+> **<kbd>💎Chrysoprase</kbd>** stabilizes the median birefringence axis. 
+>
+> **<kbd>💎Diamond</kbd>** and **<kbd>💎Calcite</kbd>** serve as empirical calibration extremes:  
+>
+> * **<kbd>💎Diamond</kbd>** **→ perfect isotropy**  
+> * **<kbd>💎Calcite</kbd>** **→ maximal birefringence**  
+>
+> **<kbd>💎Chrysoprase</kbd>**, as nickel-bearing **<kbd>💎Chalcedony</kbd>**, sits at the *median birefringence axis*, acting as the symbolic “memory buffer” between crystalline and diffuse coherence states. 
+>
+> All values have been externally verified using GIA, Mindat, GeoLibreTexts, GemSociety, DiamondBuzz, WebMineral, Minerals.net, and Gemdat.org.  
 
 </details>
 
@@ -4838,6 +4640,73 @@ These derivative documents should:
 > adding it locally can reduce friction as the vocabulary becomes familiar.
 >
 > This is not required. It is simply a practical convenience some readers adopt over time.
+
+</details>
+
+---
+
+<details>
+<summary><kbd>📘Click here for Author Information</kbd></summary>
+
+---
+
+### ✍️ Author
+<kbd>**Conner Brown-Milliken**</kbd>
+
+---
+
+> An Australian independent researcher conducting self-directed work in recursive optics, non-equilibrium system structuring, and computational modeling of coherence and exergy decay.
+>
+> He is the originator of the **Polyrifringence Engine**, **Codex Canon**, and **RSANCS**—a tightly coupled body of work formalizing how lawful physical systems can exhibit extended functional persistence through structure, timing, and recursion rather than increased energy input or altered physical laws.
+>
+> His research practice emphasizes:
+>
+> * strict separation of theory, mathematics, and implementation,
+> * explicit scope control and non-claims,
+> * reproducible simulation and benchmark construction,
+> * and public, timestamped disclosure of results and evolution.
+>
+> Ongoing development and disclosures are shared via **@MMMDcreator on X.com**.  
+> Independent replication, falsification attempts, and domain-specific verification are explicitly welcomed.
+
+---
+
+#### 👤🦘 Provenance & Authorship ⭐
+
+---
+
+> This repository constitutes a single-author, AU-based body of work developed without institutional affiliation or external funding.
+>
+> <sub><kbd>Authorship and provenance are established through public traceability, reproducible artifacts, and timestamped disclosures.</kbd></sub>
+>
+> All concepts, simulations, benchmarks, and Codex framework components originate from the same authorial source and are intended to be evaluated on internal consistency, physical admissibility, and replicability rather than authority or credential signaling.
+>
+> The Polyrifringence Engine reflects the principle of **Recursive Sovereignty**: system behaviour, stability, and evolution remain bound to invariant structural constraints rather than narrative framing or external control.
+
+---
+
+# Ω Codex Lineage
+<kbd>Single-origin recursion, formally instantiated across multiple systems.</kbd>
+
+---
+
+> **Canonical Codex Architecture**
+>
+> • Origin framework: **Codex Canon**  
+> • Lineage: **RSANCS → Conner-Core (2025) → Polyrifringence Engine**  
+> • Role: Codex Canon Module (Recursive Optics)
+>
+> **Integration Scope**
+>
+> • Recursive birefringence and phase-coherence modeling  
+> • <kbd>ΔΩ</kbd>-governed stability and λ—cycle exergy geometry  
+> • Symbolic–physical recursion via observer-state constraints  
+>
+> **Validation Status**
+>
+> • Manifest-validated execution  
+> • GPU-verified numerical behaviour (RTX-class, CUDA-bounded)  
+> • Reproducible invariants preserved across CPU/GPU substrates
 
 </details>
 
