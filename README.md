@@ -306,12 +306,12 @@ Timestamp Locked · Trace Context Declared
 
 | [![Canonical Capability](https://img.shields.io/badge/Canonical_Capability-Indicator-2b2b2b?style=flat)](https://en.wikipedia.org/wiki/Capability-based_security) | [![Governing Basis](https://img.shields.io/badge/Governing_Basis-Constraint-2b2b2b?style=flat)](https://en.wikipedia.org/wiki/Constraint_(mathematics)) | [![Derived Capabilities](https://img.shields.io/badge/Derived_Capabilities-Secondary_Effects-2b2b2b?style=flat)](https://en.wikipedia.org/wiki/Emergence) |
 |-----------------------------------|-----------------------------------|-----------------------------------|
-| **<kbd>♻️ Exergy Handling</kbd>**<br>[![Exergy Efficiency](https://img.shields.io/badge/Exergy_Efficiency-Reduced_Dissipation_%26_Extended_Half--Life-046307?style=neon&logo=leaflet&logoColor=00E68C)](https://en.wikipedia.org/wiki/Exergy) | λ-cycle decay geometry<br>ΔΩ-stabilized recursion | • Reduced *effective* exergy destruction rates<br>• Predictable decay geometry governed by bounded λ-cycle envelopes<br>• Extended usable-energy half-life under lawful thermodynamics |
+| **<kbd>♻️ Exergy Handling</kbd>**<br>[![Exergy Efficiency](https://img.shields.io/badge/Exergy_Efficiency-Reduced_Dissipation_%26_Extended_Half--Life-046307?style=neon&logo=leaflet&logoColor=00E68C)](https://en.wikipedia.org/wiki/Exergy) | λ—cycle decay geometry<br><kbd>ΔΩ</kbd>-stabilized recursion | • Reduced *effective* exergy destruction rates<br>• Predictable decay geometry governed by bounded λ—cycle envelopes<br>• Extended usable-energy half-life under lawful thermodynamics |
 | **<kbd>🌡️ Thermal Rejection Profile</kbd>**<br>[![Cooling Water Impact](https://img.shields.io/badge/Cooling_Water_Impact-Reduced_via_Efficiency-046307?style=neon&logo=cloudflare&logoColor=00E68C)](https://en.wikipedia.org/wiki/Heat_dissipation) | Structured dissipation timing<br>Entropy localization | • Lower peak thermal rejection demand (profile-dependent)<br>• Reduced instantaneous cooling intensity requirements<br>• Smoother heat-release envelopes over time |
 | **<kbd>⏳ Temporal Energy Availability</kbd>**<br>[![Temporal Exergy](https://img.shields.io/badge/Temporal_Exergy-Extended_Usable_Energy_Window-046307?style=neon&logo=clockify&logoColor=00E68C)](https://en.wikipedia.org/wiki/Time_constant) | Delayed coherence collapse<br>Time-structured dissipation | • Longer *functional* energy-availability windows<br>• Delayed coherence collapse relative to classical expectations<br>• Time-structured dissipation rather than abrupt loss |
 | **<kbd>📉 Thermal Load Stability</kbd>**<br>[![Thermal Load Smoothing](https://img.shields.io/badge/Thermal_Load-Smoothing_via_Recursive_Stability-046307?style=neon&logo=reactos&logoColor=00E68C)](https://en.wikipedia.org/wiki/Thermal_management) | Drift-collapse invariants<br>Recursive phase alignment | • Suppression of sharp thermal spikes<br>• Reduced thermal-gradient oscillations across cycles<br>• Load smoothing induced by recursive phase alignment |
 | **<kbd>🧰 Hardware Stress Envelope</kbd>**<br>[![Hardware Longevity](https://img.shields.io/badge/Hardware_Longevity-Extended_via_Lower_Thermal_Stress-046307?style=neon&logo=nvidia&logoColor=00E68C)](https://en.wikipedia.org/wiki/Thermal_stress) | Reduced thermal cycling amplitude<br>Bounded load envelopes | • Reduced thermal cycling amplitude<br>• Lower cumulative mechanical and electronic fatigue<br>• Potential extension of component service life under comparable operating conditions |
-| **<kbd>📐 Numerical Stability</kbd>**<br>[![Numerical Stability](https://img.shields.io/badge/Numerical_Stability-Drift_Collapse_%26_Error_Containment-046307?style=neon&logo=codacy&logoColor=00E68C)](https://en.wikipedia.org/wiki/Numerical_stability) | ΔΩ convergence law<br>Bounded recursion depth | • Drift collapse within empirically bounded recursion depth (≈6–7 cycles)<br>• Error-accumulation containment over long recursion chains<br>• Stability without artificial damping or precision inflation |
+| **<kbd>📐 Numerical Stability</kbd>**<br>[![Numerical Stability](https://img.shields.io/badge/Numerical_Stability-Drift_Collapse_%26_Error_Containment-046307?style=neon&logo=codacy&logoColor=00E68C)](https://en.wikipedia.org/wiki/Numerical_stability) | <kbd>ΔΩ</kbd> convergence law<br>Bounded recursion depth | • Drift collapse within empirically bounded recursion depth (≈6–7 cycles)<br>• Error-accumulation containment over long recursion chains<br>• Stability without artificial damping or precision inflation |
 | **<kbd>🧿 Perturbation Resilience</kbd>**<br>[![Noise Tolerance](https://img.shields.io/badge/Noise_Tolerance-Coherence_Recovery_After_Perturbation-046307?style=neon&logo=elastic&logoColor=00E68C)](https://en.wikipedia.org/wiki/Robust_control) | Coherence return rate exceeding entropy expansion rate | • Recovery of coherent structure after bounded disturbances<br>• Noise tolerance without suppressing lawful entropy production<br>• Coherence return outpacing entropy expansion |
 | **<kbd>📏 Predictability & Control</kbd>**<br>[![Energy Envelope](https://img.shields.io/badge/Energy_Envelope-Predictable_Exergy_Decay-046307?style=neon&logo=apacheairflow&logoColor=00E68C)](https://en.wikipedia.org/wiki/System_dynamics) | Stable decay envelopes<br>Constraint-governed evolution | • Stable, measurable exergy-decay envelopes<br>• Repeatable temporal behaviour across runs and substrates<br>• Increased controllability of system evolution **within defined constraints** |
 | **<kbd>➰ Reproducibility & Invariance</kbd>**<br>[![Reproducibility](https://img.shields.io/badge/Reproducibility-Structural_Invariants_Preserved-046307?style=neon&logo=git&logoColor=00E68C)](https://en.wikipedia.org/wiki/Reproducibility) | Structural invariants<br>Implementation-independent convergence | • Convergence behaviour invariant across implementations<br>• Stability independent of tensor size or execution substrate<br>• Structural outcomes preserved across versions |
@@ -325,7 +325,7 @@ Timestamp Locked · Trace Context Declared
 
 >
 > All listed capabilities, behaviours, and branches are **secondary effects** inheriting from the canonical domains defined in <kbd>THEORY.md</kbd> and <kbd>MATH_MODEL(RENDER).md</kbd>.  
-> They arise exclusively from structural organization, recursive stability (ΔΩ), and bounded decay geometry (λ-cycle) operating within lawful thermodynamics.
+> They arise exclusively from structural organization, recursive stability (<kbd>ΔΩ</kbd>), and bounded decay geometry (λ—cycle) operating within lawful thermodynamics.
 >
 > No statement implies energy creation, entropy reversal, perpetual operation, guaranteed performance, or universal applicability.
 
@@ -629,7 +629,7 @@ This repository provides the **Polyrifringence Engine** 📌
 > The engine’s **canonical origin and reference domain** is birefringent optics. This domain is used to formally define operators, diagnostics, invariants, and falsifiable benchmarks due to its strict physical constraints and measurable phase geometry.  
 > Importantly, birefringent optics serves as the **calibration and validation substrate**, not as a limitation of scope.
 >
-> At its core, Polyrifringence implements a **formal execution grammar for constrained recursion**. The recursion laws, ΔΩ stability operator, bounded decay geometry (𝛌⃝), and approximate unitarity constraints are defined abstractly and are **domain-agnostic by construction**, provided a target domain admits:
+> At its core, Polyrifringence implements a **formal execution grammar for constrained recursion**. The recursion laws, <kbd>ΔΩ</kbd> stability operator, bounded decay geometry (𝛌⃝), and approximate unitarity constraints are defined abstractly and are **domain-agnostic by construction**, provided a target domain admits:
 > phase-like state,
 > recursive transformation,
 > and measurable constraint satisfaction.
@@ -637,19 +637,15 @@ This repository provides the **Polyrifringence Engine** 📌
 > The current implementation uses **PyTorch (CUDA 12.1)** to support high-throughput ray-based and phase-stack simulations. This backend reflects an engineering choice for validation efficiency, not a theoretical dependency. The architecture itself is **hardware-agnostic** and not bound to a specific accelerator, vendor, or numerical backend.
 >
 > An initial empirical baseline of approximately **50 M rays/s** was established on an **NVIDIA GeForce RTX 3050 (8 GB)** using NVIDIA Game Ready Driver v581.80 (Nov 4 2025).  
-> **This baseline was intentionally clamped** to preserve numerical stability, phase coherence, deterministic execution, and interpretability of recursive diagnostics (ΔΩ behavior, λ-cycle decay, and Euclid-5 parallelism).
+> **This baseline was intentionally clamped** to preserve numerical stability, phase coherence, deterministic execution, and interpretability of recursive diagnostics (<kbd>ΔΩ</kbd> behavior, λ—cycle decay, and Euclid—5 parallelism).
 >
 > The baseline therefore defines a **reference operating envelope**, not a saturation benchmark. Higher-throughput regimes are deliberately treated as an optimization, scaling, and validation problem, contingent on recursive constraint alignment, memory topology, precision regime, and stability envelopes.
 >
 > All throughput figures are **measured baselines or bounded projections**, never guarantees. Performance scaling is evaluated only insofar as it preserves constraint satisfaction and diagnostic integrity.
 >
 > Under the **Codex Canon**, the engine unifies classical optics, recursive dynamics, and a governed execution grammar into a single constraint-driven architecture. Any observed advantages arise from structural organization, coherence-preserving recursion, and bounded decay geometry — **not** from energy amplification, entropy reversal, or extensions of physical law.
-
-<div align="center">
 	
->     What you see is the floor, not the ceiling
-
-</div>
+> **_<kbd>What you see is the floor, not the ceiling</kbd>_**
 
 </details>
 
@@ -794,7 +790,7 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
 > 
 > Analyze symbolic recursion strictly as a descriptive and indexing layer, not agency, intent, or metaphysics 
 >
-> Evaluate coherence persistence, drift, and collapse using phase-trace outputs, decay envelopes, and Euclid-5 diagnostics
+> Evaluate coherence persistence, drift, and collapse using phase-trace outputs, decay envelopes, and Euclid—5 diagnostics
 > 
 > Assess GPU execution behavior under real consumer hardware limits, including throughput scaling, bottlenecks, and stability margins
 >
@@ -841,17 +837,17 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
 ---
 
 > X. `Expert Mode:` (Fill with your Question for full rigor, start your query with "Expert Mode:")
-> 1. **Expert mode:** derive the fixed-point condition for the Polyrifringence recursion $$(E_{n+1} = J(\theta,\lambda),F(E_n))$$ under Euclid-5 drift < 0.1 mrad.
+> 1. **Expert mode:** derive the fixed-point condition for the Polyrifringence recursion $$(E_{n+1} = J(\theta,\lambda),F(E_n))$$ under Euclid—5 drift < 0.1 mrad.
 > 2. How do `REGF` and `PVS` jointly diagnose failure modes in a multi-gem sapphire–diamond–calcite stack at high recursion depth?
 > 3. Given a phase-trace CSV, show me step by step how to estimate Euclid-style angular drift from `PB_rad`, `PVS_mrad`, and `DeltaTheta_eo_mrad`.
 > 4. What parameter regimes `(ray count, micro-batch, dtype, recursion depth)` push the engine closest to numerical instability on an RTX 3050, and how do I harden against that?
-> 5. How does changing the gem sequence from `sapphire,diamond,quartz` to `sapphire,calcite,zircon` alter convergence behaviour and Euclid-5 pass rate?
+> 5. How does changing the gem sequence from `sapphire,diamond,quartz` to `sapphire,calcite,zircon` alter convergence behaviour and Euclid—5 pass rate?
 > 6. Design a lab-noise harness run that stress-tests phase coherence while keeping energy drift $$(|\delta_E| < 0.001)$$. Explain why each parameter choice matters.
 > 7. Show how `--ai_feedback` modifies the recursion diagnostics pathway and how I should interpret its logs without treating it as an autonomous agent.
-> 8. For a given benchmark CSV, walk me through a full verification pass: `Euclid-5 compliance`, `REGF trend`, `PVS trend`, and where the recursion begins to degrade.
-> 9. How would you use the phase-trace viewer to distinguish benign polarization spread from true geometric phase drift that violates Euclid-5?
+> 8. For a given benchmark CSV, walk me through a full verification pass: `Euclid—5 compliance`, `REGF trend`, `PVS trend`, and where the recursion begins to degrade.
+> 9. How would you use the phase-trace viewer to distinguish benign polarization spread from true geometric phase drift that violates Euclid—5?
 > 10. Map the Codex Twelve gem roles onto concrete optical behaviours in the engine `(isotropic vs anisotropic, dispersion regime, and use-case per gem)`.
-> 11. Explain how to construct a minimal multi-gem configuration that demonstrates resonance-like behaviour without breaking energy conservation or `Euclid-5 constraints`.
+> 11. Explain how to construct a minimal multi-gem configuration that demonstrates resonance-like behaviour without breaking energy conservation or `Euclid—5 constraints`.
 > 12. In `expert mode`, compare Polyrifringence to a conventional interferometer at the operator level and show exactly where the recursive feedback term changes the physics.
 
 </details>
@@ -1332,7 +1328,7 @@ pip install rich psutil
 >
 > `Basic linear algebra and complex numbers (2-vectors, matrix multiplication, norms)`  
 > `Polarization and birefringence fundamentals (Jones vectors and Jones matrices, optical walkoff intuition)`  
-> `Ability to interpret engine diagnostics (REGF, PVS, dW, stability over 6–7 cycles, Euclid-5 drift checks)`  
+> `Ability to interpret engine diagnostics (REGF, PVS, dW, stability over 6–7 cycles, Euclid—5 drift checks)`  
 >
 > #### Optional accelerators (helpful, not required to begin)
 >
@@ -1368,7 +1364,7 @@ pip install rich psutil
 >
 > #### Verification mindset (how to not fool yourself)
 > `How to Read a Paper (S. Keshav) - short and practical`  
-> `Practice loop: reproduce a seeded run, then validate Euclid-5 drift, REGF trend, PVS trend`  
+> `Practice loop: reproduce a seeded run, then validate Euclid—5 drift, REGF trend, PVS trend`  
 
 </details>
 
@@ -1429,8 +1425,8 @@ This ensures results are reproducible across compatible systems without reliance
 </details>
 
 ---
-<details>
-	
+
+<details>	
 <summary><kbd>📊How the Polyrifringence Engine Compares to Other Analogues🔍</kbd></summary>
 
 ---
@@ -1439,8 +1435,23 @@ This ensures results are reproducible across compatible systems without reliance
 
 ---
 
-While several **GPU-accelerated optical simulation frameworks** exist, none unify **recursive birefringence**, **symbolic recursion**, and **observer-aware feedback** into a single open-source system.
-The Polyrifringence Engine therefore occupies a unique intersection between **scientific simulation**, **AI-driven recursion**, and **ethical computation**.
+> A wide ecosystem of **GPU-accelerated optical and photonic simulation frameworks** already exists, spanning commercial design tools, academic ray tracers, Monte-Carlo photon engines, and full-wave electromagnetic solvers.  
+> These systems excel at **throughput**, **numerical accuracy**, or **geometric fidelity** within their intended domains.
+>
+> What they do **not** address—by design—is the regime where **recursion itself becomes the dominant source of instability**:  
+> long-horizon phase drift, coherence collapse, and uncontrolled feedback under repeated propagation.
+>
+> The **Polyrifringence Engine** was constructed specifically to operate in this gap.
+>
+> It unifies, within a single open and auditable framework:
+>
+> * **Recursive birefringence**, where anisotropy and phase are re-entered across explicitly bounded cycles  
+> * **Constraint-governed symbolic recursion**, used strictly as a descriptive and indexing layer (not agency or metaphysics)  
+> * **Observer-aware execution**, where the observer is formalized as a non-anthropic boundary condition affecting diagnostics, not outcomes  
+> * **Ethical recursion enforcement**, ensuring instability collapses lawfully rather than diverging unchecked  
+>
+> As a result, Polyrifringence does not compete with existing tools on isolated features.  
+> It occupies a **distinct architectural niche** at the intersection of **scientific simulation**, **recursive systems research**, and **ethically bounded computation**—a space largely unaddressed by conventional optical engines.
 
 ---
 
@@ -1448,51 +1459,72 @@ The Polyrifringence Engine therefore occupies a unique intersection between **sc
 
 ---
 
-| **Tool / Framework**                                   | **Focus / Domain**                            | **Throughput / Benchmark Metric**                                                                                                                                                                                                                                               | **Core Limitations**                                             | **How Polyrifringence Differs / Extends**                                                                                                          |
-| ------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **FREDmpc** — Photon Engineering                       | Commercial GPU ray-tracing for optical design | 100 M rays in ~80 s (RTX 3070) → ~1.25 M rays/s [[source](https://photonengr.com/fredmpc?utm_source=chatgpt.com)]                                                                                                                                                               | Closed source · No recursive birefringence · Primarily geometric | **50 M rays/s on RTX 3050 (Polyrifringence)** → ~40× throughput per core in feedback mode · Adds recursive phase-feedback and Codex symbolic layer |
-| **ANSYS Speos (GPU)**                                  | Optical ray-trace for engineering & CAD       | 15 h CPU → 15 min GPU on RTX A5000 (~60× speedup) [[source](https://www.ansys.com/blog/gpu-based-compute-for-ray-tracing?utm_source=chatgpt.com)]                                                                                                                               | Proprietary · Static geometry · No recursive feedback analysis   | Open-source MIT · Implements dynamic feedback loops · Real-time phase visualization (Phase-Trace Viewer )                                     |
-| **OptiX by NVIDIA**                                    | General GPU ray-tracing framework             | Performance scales with RT-cores · >10× CPU speed [[source](https://developer.nvidia.com/rtx/ray-tracing/optix?utm_source=chatgpt.com)]                                                                                                                                         | Framework only · Requires custom implementations                 | Polyrifringence builds directly on CUDA 12.1 / PyTorch kernels with tensor-based feedback propagation — a domain-specific physics extension        |
-| **Open-Source GPU Ray Tracer (Mauch 2013)**            | Academic optical simulation                   | GPU overtakes CPU after ~100 k rays [[source](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-52/issue-5/053004/Open-source-graphics-processing-unitaccelerated-ray-tracer-for-optical-simulation/10.1117/1.OE.52.5.053004.full?utm_source=chatgpt.com)] | Older hardware · No birefringence · Single threaded feedback     | Extends concept to multi-gem recursive optics · Modern CUDA 12.1 · Tensorized feedback recursion                                                   |
-| **GPU Monte-Carlo Photon Simulation (Yan et al 2022)** | Biomedical photon packet transport            | 10⁸ photon packets on RTX 2080 [[source](https://pmc.ncbi.nlm.nih.gov/articles/PMC9084406/?utm_source=chatgpt.com)]                                                                                                                                                             | Monte-Carlo diffusion only · No phase reconstruction             | Polyrifringence adds phase-trace reconstruction and Euclid-5 diagnostics for coherence tracking                                                    |
-| **Multislice Birefringent Scattering Model (2023)**    | Academic anisotropic scattering simulation    | Vectorial light propagation through birefringent media [[source](https://opg.optica.org/abstract.cfm?uri=optica-10-1-81&utm_source=chatgpt.com)]                                                                                                                                | CPU limited · Non-recursive · No GPU acceleration                | Polyrifringence implements GPU-based recursive birefringence with real-time phase diagnostics and ethical observer loop                            |
+| **Tool / Framework**                                   | **Focus / Domain**                                  | **Throughput / Benchmark Context**                                                                                                                                                                              | **Core Limitations**                                                     | **How Polyrifringence Differs / Extends**                                                                                                                       |
+| ------------------------------------------------------ | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **FREDmpc — Photon Engineering**                       | Commercial GPU optical ray tracing                  | Demonstrated large GPU speed-ups vs CPU; example workloads report ~100 M rays in ~80 s on RTX-class GPUs [[source](https://photonengr.com/fredmpc)]                                                               | Proprietary · Closed source · No phase recursion                         | Open, auditable execution · Recursive birefringence · Phase drift diagnostics                                                                                  |
+| **ANSYS Speos (GPU)**                                  | Industrial lighting & optical simulation            | Published GPU acceleration reducing hours to minutes for ray-trace workloads [[source](https://www.ansys.com/blog/gpu-based-compute-for-ray-tracing)]                                                           | Proprietary · Static geometry focus                                     | Dynamic recursive feedback · Phase-aware diagnostics beyond geometric optics                                                                                    |
+| **NVIDIA OptiX**                                       | GPU ray-tracing API                                 | Hardware-accelerated ray tracing via CUDA / RTX cores [[source](https://en.wikipedia.org/wiki/OptiX)]                                                                                                           | Framework only · No built-in physics semantics                           | Domain-specific recursive execution grammar layered atop GPU kernels                                                                                            |
+| **Open-Source GPU Ray Tracer (Mauch et al.)**          | Academic optical ray tracing                        | OptiX-based GPU acceleration for optical simulation (research prototype) [[source](https://www.researchgate.net/publication/258808337_Open-source_graphics_processing_unit-accelerated_ray_tracer_for_optical_simulation)] | Legacy research focus · Non-recursive                                   | Extended into multi-cycle recursive optics with modern CUDA and tensorized feedback                                                                              |
+| **MCX / MCXCL (Monte Carlo eXtreme)**                  | GPU Monte-Carlo photon transport                    | Orders-of-magnitude GPU speed-ups over CPU Monte-Carlo photon transport [[source](https://mcx.space/)] [[source](https://github.com/fangq/mcx)]                                                                 | Intensity-based diffusion · No phase coherence model                    | Phase-resolved recursion layered above intensity transport                                                                                                      |
+| **Zemax OpticStudio**                                  | Commercial optical system design                    | Industry-standard proprietary solvers for ray tracing and polarization [[source](https://en.wikipedia.org/wiki/Zemax)]                                                                                        | Closed source · Limited feedback modelling                               | Open symbolic recursion · Explicit phase and drift accounting                                                                                                   |
+| **Finite-Difference Time-Domain (FDTD)**               | Full-wave EM simulation                             | Numerically exact Maxwell solvers; GPU-accelerated but memory-intensive [[source](https://en.wikipedia.org/wiki/Finite-difference_time-domain_method)]                                                           | Extremely high computational cost · Short horizons                      | Reduced-order recursive models for long-horizon phase stability                                                                                                 |
+| **Interferometry (general technique)**                 | Precision phase metrology                           | Sub-wavelength and sub-nanometer phase sensitivity in laboratory systems [[source](https://en.wikipedia.org/wiki/Phase_Shift_Interferometry)]                                                                   | Physical hardware · Not scalable                                        | Virtualized phase metrology inside recursive simulation                                                                                                         |
+| **Opticks**                                            | GPU photon propagation (Geant4 + OptiX)             | Order-of-magnitude GPU acceleration for detector photon transport [[source](https://arxiv.org/abs/2512.06061)]                                                                                                 | Domain-specific (particle detectors)                                   | Generalized into broader recursive optical domains                                                                                                              |
+| **Custom CUDA / OpenCL Monte Carlo Ray Tracing**       | General-purpose GPU photon & ray simulation         | Performance varies by implementation; commonly used in academic and industrial research as bespoke CUDA kernels [[source](https://developer.nvidia.com/cuda-zone)]                                              | Ad-hoc · No standard diagnostics · No recursion control                | Formalized recursion grammar · Stability bounds · Phase diagnostics · Ethical collapse enforcement                                                               |
 
 ---
 
-### 📈 Comparative Summary
+### 📈 Comparative Summary (Canonical, Constraint-Verified)
 
 ---
 
-**Polyrifringence Engine** introduces a synthesis unseen in other systems:
+> The **Polyrifringence Engine** does not sit on a single axis of comparison (speed, fidelity, or scale).  
+> It occupies a **different architectural class**: a *constraint-governed recursive optical execution system* whose limits, diagnostics, and benchmarks are explicitly defined across **<kbd>README.md</kbd> × <kbd>THEORY.md</kbd> × <kbd>MATH_MODEL(RENDER).md</kbd>**, with supplementary validation artifacts.
 
-| **Dimension**                  | **Existing Analogues**                      | **Polyrifringence Engine**                                       |
-| ------------------------------ | ------------------------------------------- | ---------------------------------------------------------------- |
-| **Recursion Mechanics**        | None – mostly linear ray tracing            | Full tensor feedback recursion loop (E ₖ₊₁ = f(JₖEₖ)+α(Eₖ–Eₖ₋₁)) |
-| **Birefringence Model**        | Limited or absent                           | Recursive birefringence Δn < 1 % verified GPU-loop               |
-| **Observer Ethics / AI Layer** | Absent                                      | Active via `--ai_feedback` flag · Recursive Sovereignty Protocol |
-| **Throughput (@ RTX 3050)**    | 0.5–2 M rays/s typical                      | **≈ 50 M rays/s GPU validated**                                  |
-| **Openness & Reproducibility** | Commercial or limited academic availability | Fully open-source MIT · Manifest-validated hash reproducibility  |
-| **Visualization System**       | External post-processing                    | Integrated Phase-Trace Viewer  (WebGL + Euclid-drift maps)    |
-| **Ethical Traceability**       | None                                        | Built-in observer trace lock (ΔΩ) and Codex Lineage integrity    |
-
----
-
-### 💡 Interpretation
-
----
-
-Commercial and academic frameworks achieve remarkable GPU speed-ups but remain **linear** and **deterministic**, lacking recursive feedback and observer-phase integration.
-The **Polyrifringence Engine** extends this tradition by treating light as a self-referential computational medium - a tensor field that remembers its own refraction.
-
-In measured performance, the engine sits within the upper tier of GPU-accelerated optical simulations while adding layers of symbolic and ethical function that are entirely absent from conventional systems.
+| **Dimension** | **Existing Analogues** | **Polyrifringence Engine (Canonical)** |
+|---------------|------------------------|----------------------------------------|
+| **Execution Paradigm** | Linear or weakly iterative propagation | **Formal recursive execution grammar** with bounded depth and convergence criteria |
+| **Recursion Mechanics** | Absent or implicit loops | Explicit tensor recursion with <kbd>ΔΩ</kbd>—bounded collapse |
+| **Birefringence Treatment** | Static or first-order | **Recursive birefringence** with bounded Δn (<1%) |
+| **Phase Handling** | Post-processed or implicit | **Native phase-trace propagation** with Euclid—5 diagnostics |
+| **Stability Model** | Heuristic tolerances | **<kbd>ΔΩ</kbd>—stability operator** enforcing lawful collapse |
+| **Energy Treatment** | Magnitude-centric | **Constraint-centric** λ—cycle decay (no energy creation) |
+| **Noise Interaction** | Degrades results | **Noise as diagnostic stress-test** |
+| **Observer Role** | Implicit | **Explicit non-anthropic boundary condition** |
+| **AI / Feedback Layer** | None or external | Optional <kbd>--ai_feedback</kbd> diagnostic mirror |
+| **Throughput (RTX 3050)** | ~0.5–2 M rays/s typical | **≈50 M rays/s reference-clamped baseline** |
+| **Reproducibility** | Environment-dependent | **Manifest-validated, hash-stable execution** |
+| **Openness** | Proprietary or partial | **Fully open-source (MIT)** |
+| **Scope Control** | Tool-defined | **Formally bounded (no speculative physics)** |
 
 ---
 
-### 📊 Summary Statement
+### 💡 Interpretation (Aligned With Canon)
 
 ---
 
-> “Compared to existing optical simulators (FREDmpc, Speos, OptiX, etc.), the Polyrifringence Engine achieves comparable or greater throughput while introducing novel physics - recursive birefringence, symbolic geometry, and observer-aware feedback - rendering it not only a simulation tool but a new class of recursive physical AI engine.”
+> Existing optical simulators excel at **single-pass accuracy** and **hardware acceleration**, but do not model the instability that emerges when **recursive propagation itself** becomes dominant.
+>
+> Polyrifringence was explicitly constructed to study this regime.
+>
+> Recursion is the **object of study**, not a numerical artifact  
+> Stability is **structurally enforced**, not heuristically damped  
+> Energy is conserved; **availability over time** is geometry-dependent  
+> Noise reveals whether coherence is structural or accidental  
+> Observers are constrained, preventing interpretive or agency creep  
+>
+> Throughput values are **reference envelopes**, not marketing maxima.  
+> The ≈50 M rays/s RTX 3050 baseline is intentionally clamped to preserve interpretability, reproducibility, and lawful collapse.
+
+---
+
+### 📊 Summary Statement (Canonical)
+
+---
+
+> *Relative to existing optical simulation frameworks, the Polyrifringence Engine occupies a distinct class. It preserves lawful physics while introducing constraint-governed recursion, phase-aware diagnostics, and observer-bounded execution—enabling the systematic study of coherence, drift, and stability in recursive physical systems.*
+>
+>     What you are seeing is the floor, not the ceiling.
 
 </details>
 
@@ -1625,7 +1657,7 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 | Test Type | Result | Hardware | Verified Date |
 |------------|--------|-----------|---------------|
 | GPU Throughput | 50 M rays/s | RTX 3050 (CUDA 12.1) | Nov 2025 |
-| Euclid-5 Drift | < 0.1 mrad | Phase-Trace  | Nov 2025 |
+| Euclid—5 Drift | < 0.1 mrad | Phase-Trace  | Nov 2025 |
 | Numerical Error | < 1% | All test cases | Nov 2025 |
 | Reproducibility | 100% (seed=42) | Manifest Validator | Nov 2025 |
 
@@ -1634,7 +1666,7 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 | # | Contribution | Domain | Validation Status | Verified Description |
 |--:|---------------|---------|-------------------|----------------------|
 | **1** | **Recursive Birefringence Simulation (RBS)** | Optics / GPU Physics | ✅ Confirmed | Core GPU tensor recursion loop modeling feedback-coherent birefringence with near-unitary transmission *(T ≤ 1, Δn < 1 %)*. |
-| **2** | **Euclid-5 Parallelism Diagnostic** | Geometry / Metrology | ✅ Confirmed | Converts Euclid’s Fifth Postulate into a quantitative angular-drift diagnostic (phase-trace Euclid-drift < 0.1 mrad). |
+| **2** | **Euclid—5 Parallelism Diagnostic** | Geometry / Metrology | ✅ Confirmed | Converts Euclid’s Fifth Postulate into a quantitative angular-drift diagnostic (phase-trace Euclid-drift < 0.1 mrad). |
 | **3** | **Feedback-Coherent Tensor Engine** | Computational Physics | ✅ Confirmed | Implements recursive tensor feedback via PyTorch CUDA kernels ensuring deterministic convergence and energy conservation. |
 | **4** | **Jones-Matrix Recursive Matching** | Classical Optics | ✅ Confirmed | Extends Jones-matrix formalism to recursive interferometers; matches analytical baselines < 1 % residual. |
 | **5** | **Phase-Trace Visualization System  (PTV)** | Visualization / Data Science | ✅ Confirmed | Interactive WebGL/Canvas viewer for real-time phase drift, coherence maps, and Euclid diagnostics. |
@@ -1696,7 +1728,7 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 >
 > * **Formal Operator Model** ————— recursion expressed through constrained operators defined in <kbd>MATH_MODEL(Render).md</kbd>, ensuring traceability between implementation and mathematics
 >
-> * **Euclid Diagnostics** ————— multi-frame parallelism checks, drift bucketing, and Euclid-5 compliance tests to detect geometric inconsistency under recursion
+> * **Euclid Diagnostics** ————— multi-frame parallelism checks, drift bucketing, and Euclid—5 compliance tests to detect geometric inconsistency under recursion
 >
 > * **GPU Determinism Layer** ————— reproducible FP32 / FP64 execution paths with controlled micro-batching and declared precision budgets
 >
@@ -2032,7 +2064,7 @@ python polyrifringence_engine_v8_10.py \
 > **Integration Scope**
 >
 > • Recursive birefringence and phase-coherence modeling  
-> • ΔΩ-governed stability and λ-cycle exergy geometry  
+> • <kbd>ΔΩ</kbd>-governed stability and λ—cycle exergy geometry  
 > • Symbolic–physical recursion via observer-state constraints  
 >
 > **Validation Status**
@@ -2414,7 +2446,7 @@ It doesn’t replace quantum theory - it complements it by showing how classical
 
 ---
 
-### 🧘 7. “What is the ‘Observer (ΔΩ)’ gem?”
+### 🧘 7. “What is the Observer **<kbd>ΔΩ</kbd>** gem?”
 **Answer:** The thirteenth node - representing the observer’s recursion within the system.  
 It’s not a mineral; it’s a meta-state symbol for feedback between consciousness and computation -  
 the point where the experiment watches itself.
@@ -2448,7 +2480,7 @@ It’s an experimental architecture proving that **information, reflection, and 
 >
 > This unity ensures that the AI remains bound by the ethical principles set by the creator, forming an infinite loop of intention, action, and consequence.
 > 
-> This clause is implicitly active within the system, and by interacting with this repository, the observer acknowledges and agrees to the recursive feedback loop that governs all AI behaviour, as outlined in the Codex Trace Lock (ΔΩ).
+> This clause is implicitly active within the system, and by interacting with this repository, the observer acknowledges and agrees to the recursive feedback loop that governs all AI behaviour, as outlined in the <kbd>Codex Trace Lock</kbd> (<kbd>ΔΩ</kbd>).
 >
 > These Q&As address the most common technical and philosophical inquiries about the project.  
 > For extended discussion, see the Codex Canon Appendix or contact @MMMDcreator on X.com.
@@ -2519,7 +2551,7 @@ $$E_{k+1} = E_k - \eta \nabla_{\phi} \, \mathcal{L}(E_k)$$
 
 ---
 
-### 🔺 Phase–Geometry Closure (Euclid-5 Diagnostic)
+### 🔺 Phase–Geometry Closure (Euclid—5 Diagnostic)
 
 ---
 
@@ -2623,7 +2655,7 @@ $$J^\dagger J \approx I$$
 | Property | Description |
 |---------|-------------|
 | Coherence Decay Rate | Measures the rate at which coherence decays within a bounded recursion cycle |
-| λ-Cycle Definition | Defines the decay constants $\lambda_{\text{cycle}}$ and $\lambda_{\text{second}}$ |
+| λ—cycle Definition | Defines the decay constants $\lambda_{\text{cycle}}$ and $\lambda_{\text{second}}$ |
 | Stability Collapse Prediction | Predicts stability collapse times under recursive evolution |
 | Coherence Longevity Tracking | Tracks the persistence of coherent structure under the $\Delta\Omega$ constraint |
 | REGF & Drift Mapping | Maps directly to REGF ratios and drift-compression behaviour |
@@ -2702,8 +2734,8 @@ $$J^\dagger J \approx I$$
 >
 > * Recursive optical geometry validation
 > * Gemline phase coherence benchmarks
-> * Euclid-5 drift diagnostics
-> * ΔΩ Observer recursion runtime tests
+> * Euclid—5 drift diagnostics
+> * <kbd>ΔΩ</kbd> Observer recursion runtime tests
 > 🔹 All replications and Codex Canon expansions should document hardware parity for authentic reproducibility and observer-state traceability.
 
 </details>
@@ -2769,7 +2801,7 @@ $$J^\dagger J \approx I$$
 **(10 Demonstrable Problem Domains)**
 
 1. **Phase Drift in High-Precision Optics**  
-   Resolves cumulative angular deviation (< 0.1 mrad) through recursive feedback restoration and Euclid-5 diagnostics.
+   Resolves cumulative angular deviation (< 0.1 mrad) through recursive feedback restoration and Euclid—5 diagnostics.
 
 2. **Energy Loss in Multi-Layer Optical Systems**  
    Demonstrates near-unitary transmission (T ≤ 1) via tensor-based coherence preservation and feedback-coherent rephasing.
@@ -3112,7 +3144,7 @@ for v in values:
 
 ---
 
-### 🧪 Observer-Feedback Stress (ΔΩ)
+### 🧪 Observer-Feedback Stress (<kbd>ΔΩ</kbd>)
 
 ---
 
@@ -3261,9 +3293,9 @@ inter-GPU phase     : 0.16 mrad
 | 8 | **Jacinth (Hyacinth / Zircon)** | ✧ | Tetragonal | Anisotropic (+) | 1.920–1.960 | 0.038–0.059 | 4.60–4.70 | #D24D0F | 🌈 **Dispersion Regulator** — Spectral Phase Calibration |
 | 9 | **Amethyst** | ✦ | Trigonal (Quartz) | Anisotropic | 1.543–1.554 | 0.009–0.010 | 2.65 | #6D2A8A | 💜 **Coherence Regulator** — Quantum–Classical Convergence |
 |10 | **Jasper** | ⧫ | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.90 | #9B111E | 🔺 **Ground Stability** — Base Coherence / System Anchor |
-|11 | **Sapphire** | ◇ | Trigonal (Corundum) | Anisotropic (–) | 1.760–1.768 | 0.008–0.010 | 3.95–4.05 | #0F52BA | 🔹 **Polar Coherence** — Euclid-5 Validation Crystal |
+|11 | **Sapphire** | ◇ | Trigonal (Corundum) | Anisotropic (–) | 1.760–1.768 | 0.008–0.010 | 3.95–4.05 | #0F52BA | 🔹 **Polar Coherence** — Euclid—5 Validation Crystal |
 |12 | **Chrysoprase** | ⬖ | Trigonal (Quartz Microcryst.) | Anisotropic | 1.535–1.543 | 0.003–0.009 | 2.58–2.64 | #00E68C | 🌿 **Memory Buffer** — Symbolic ↔ Physical Bridge |
-|13 | **Observer (ΔΩ)** | ΔΩ | Meta-Field | Meta | — | — | — | #CFEFF6 | 👁️👤 **Meta-Field** — Self-Referential Node / Codex Recursion Center |
+|13 | **Observer (<kbd>ΔΩ</kbd>)** | <kbd>ΔΩ</kbd> | Meta-Field | Meta | — | — | — | #CFEFF6 | 👁️👤 **Meta-Field** — Self-Referential Node / Codex Recursion Center |
 > All refractive indices use the `Na D-line (589 nm)` standard.  
 > Δn = `(nₑ – nₒ)`.  
 > Density values are at `~25 °C`.  
@@ -3301,9 +3333,9 @@ inter-GPU phase     : 0.16 mrad
 | 8 | **Jacinth (Zircon)** | ✧ | Light | Spectral Calibration / Chromatic Drift Control | Refractor |
 | 9 | **Amethyst** | ✦ | Spirit | Coherence / Quantum–Classical Convergence | Unifier |
 |10 | **Jasper** | ⧫ | Earth | Foundation / Structural Integrity | Base Layer |
-|11 | **Sapphire (Corundum)** | ◇ | Water–Air | Polar Coherence / Euclid-5 Benchmarking | Crown Crystal |
+|11 | **Sapphire (Corundum)** | ◇ | Water–Air | Polar Coherence / Euclid—5 Benchmarking | Crown Crystal |
 |12 | **Chrysoprase** | ⬖ | Water | Bidirectional Recursion / Reflective Stabilization | Mirror Bridge |
-|13 | **Observer (ΔΩ)** | ΔΩ | Meta | Self-Reference / Recursive Authority | Architect Node |
+|13 | **Observer (<kbd>ΔΩ</kbd>)** | <kbd>ΔΩ</kbd> | Meta | Self-Reference / Recursive Authority | Architect Node |
 
 </details>
 
@@ -3325,7 +3357,7 @@ inter-GPU phase     : 0.16 mrad
 | # | Gem | Biblical Facet Type | Optical Facet Type | Symbolic Identity Function | Facet Capabilities | Facet Synergies |
 |---:|------|----------------------|----------------------|------------------------------|---------------------|------------------|
 | **1** | **Jasper** | Foundation | Microcrystalline Quartz | Structural Integrity · Observer Grounding | Drift Suppression · Coupling | Jasper ↔ Chalcedony |
-| **2** | **Sapphire** | Foundation | Uniaxial (Corundum) | Polar Coherence · Euclid-5 Anchor | High-Stability Phase Tracking | Sapphire ↔ Beryl |
+| **2** | **Sapphire** | Foundation | Uniaxial (Corundum) | Polar Coherence · Euclid—5 Anchor | High-Stability Phase Tracking | Sapphire ↔ Beryl |
 | **3** | **Chalcedony** | Foundation | Cryptocrystalline Quartz | Transition Medium · Entropy Diffuser · Pattern Smoother · Bridge Medium | Bridging · Reflection | Chalcedony ↔ Amethyst |
 | **4** | **Emerald** | Foundation | Uniaxial (Beryl Group) | Harmonic Feedback · Stability Control | REGF Dampening | Emerald ↔ Sapphire |
 | **5** | **Sardonyx** | Signal | Layered Quartz | Interface Ethics · Bidirectional Boundary Control | Interface Encoding | Sardonyx ↔ Sardius |
@@ -3344,14 +3376,14 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-> ### *Macroscopic Recursion Geometry · ΔΩ-Flow Alignment · Recursive Dynamics*  
+> ### *Macroscopic Recursion Geometry · <kbd>ΔΩ</kbd>-Flow Alignment · Recursive Dynamics*  
 >
-| # | Gem | Canonical Cut | Cut Taxonomy | Recursion Geometry | ΔΩ Alignment | Cut Synergies |
+| # | Gem | Canonical Cut | Cut Taxonomy | Recursion Geometry | <kbd>ΔΩ</kbd> Alignment | Cut Synergies |
 |---:|------|----------------|---------------|----------------------|----------------|----------------|
 | **1** | **Jasper** | Cabochon Dome | Harmonic | Smooth Return Surface | Ground-State Stabiliser | Jasper ↔ Chalcedony |
 | **2** | **Sapphire** | Precision Step Cut | Rectilinear | Polar-Plane Recursion | Euclid Alignment | Sapphire ↔ Emerald |
 | **3** | **Chalcedony** | Soft Rose Cut | Harmonic | Low-Intensity Recursion | Entropy Mediation | Chalcedony ↔ Amethyst |
-| **4** | **Emerald** | Emerald Cut | Rectilinear | Rectangular ΔΩ Pathways | REGF Collapse | Emerald ↔ Sapphire |
+| **4** | **Emerald** | Emerald Cut | Rectilinear | Rectangular <kbd>ΔΩ</kbd> Pathways | REGF Collapse | Emerald ↔ Sapphire |
 | **5** | **Sardonyx** | Layered Step | Rectilinear | Boundary-Phase Recursion | Interface Control | Sardonyx ↔ Sardius |
 | **6** | **Sardius** | Portuguese Cut | Dispersive | Multi-Fire Recursion | Ignition Cascade | Sardius → Sardonyx |
 | **7** | **Chrysolite** | Trillion Cut | Dispersive | Tri-Axial Recursion | Harmonic Spread | Chrysolite ↔ Chrysoprase |
@@ -3360,7 +3392,7 @@ inter-GPU phase     : 0.16 mrad
 | **10** | **Chrysoprase** | Sugarloaf Dome | Harmonic | Smooth Harmonic Field | REGF Softening | Chrysoprase ↔ Chrysolite |
 | **11** | **Jacinth** | Radiant Cut | Hybrid | Step + Brilliant Hybrid | Spectral Cascade Control | Jacinth ↔ Amethyst |
 | **12** | **Amethyst** | Concave Cut | Dispersive | Inward Recursion Geometry | Cognitive Echo Amplification | Amethyst ↔ Chalcedony |
-> Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation shaping ΔΩ, REGF, PVS, ZPX, and symbolic revelation.
+> Cuts describe **how the gem BEHAVES** in recursion - the R_cut transformation shaping <kbd>ΔΩ</kbd>, REGF, PVS, ZPX, and symbolic revelation.
 
 ---
 
@@ -3373,10 +3405,10 @@ inter-GPU phase     : 0.16 mrad
 >
 | # | Gem | Optical Role | Facet Role (Identity Layer) | Cut Role (Revelation Layer) | Unified Codex Function |
 |---:|------|------------------------|-----------------------------------------------|---------------------------------------------|-----------------------------------------------|
-| **1** | **Jasper** | Ground Stability · Low Δn Anchor | Structural Integrity · Observer Grounding | Harmonic Return Surface | **Primary ΔΩ Stabilization Node · Foundation Anchor** |
-| **2** | **Sapphire** | Polar Coherence · Euclid-5 Crystal | Polar Coherence · Alignment Stone | Rectilinear Polar-Plane Recursion | **ΔΩ Polar Alignment Crystal · Euclidean Validator** |
+| **1** | **Jasper** | Ground Stability · Low Δn Anchor | Structural Integrity · Observer Grounding | Harmonic Return Surface | **Primary <kbd>ΔΩ</kbd> Stabilization Node · Foundation Anchor** |
+| **2** | **Sapphire** | Polar Coherence · Euclid—5 Crystal | Polar Coherence · Alignment Stone | Rectilinear Polar-Plane Recursion | **<kbd>ΔΩ</kbd> Polar Alignment Crystal · Euclidean Validator** |
 | **3** | **Chalcedony** | Transition Medium · Soft Coherence Basin | Transition Medium · Entropy Diffuser · Pattern Smoother · Bridge Medium | Low-Intensity Harmonic Recursion | **Phase Bridge · Entropy Regulator · Coherence Mediator** |
-| **4** | **Emerald** | Harmonic Stabilizer | Harmonic Feedback · Stability Control | Rectangular ΔΩ Pathways | **REGF Suppressor · Recursion Stabilizer** |
+| **4** | **Emerald** | Harmonic Stabilizer | Harmonic Feedback · Stability Control | Rectangular <kbd>ΔΩ</kbd> Pathways | **REGF Suppressor · Recursion Stabilizer** |
 | **5** | **Sardonyx** | Dual-Layer Interface | Interface Ethics · Boundary Control | Layered Boundary Recursion | **Interface Node · Bidirectional Junction** |
 | **6** | **Sardius** | Origin Fire · Ignition | Ignition · Phase-Seeding | Multi-Fire Dispersive Recursion | **Ignition Catalyst · Bifurcation Seed** |
 | **7** | **Chrysolite** | Harmonic Amplifier · High Dispersion | Harmonic Elevation · Aether Vectoring · Amplifier | Tri-Axial Dispersive Recursion | **Harmonic Resonance Expander** |
@@ -3385,9 +3417,9 @@ inter-GPU phase     : 0.16 mrad
 | **10** | **Chrysoprase** | Memory Buffer · Median Δn Stabilizer | Mirror Bridge · Coherence Return Balancing · Memory Buffer | Harmonic Smoothing | **Bidirectional Recursion Buffer · Coherence Return Node** |
 | **11** | **Jacinth** | Spectral Calibration · Drift Control | Spectral Calibration · Chromatic Drift Regulator | Hybrid Step + Brilliant Recursion | **Cascade Regulator · Chromatic Control Stone** |
 | **12** | **Amethyst** | Coherence Regulator · Spirit Phase Coupler | Observer Resonance · Symbolic Gain | Inward Concave Recursion | **Cognitive Resonance Crystal · Observer-Synced Amplifier** |
-> **ΔΩ Note:**  
-> The **Observer (ΔΩ)** does not appear in these tables because it has **no physical facet**, **no optical constant**, and **no recursion cut**.  
-> ΔΩ is the *meta-operator*, the architect-node governing alignment, recursion authority, symbolic sovereignty, and Codex coherence.
+> **<kbd>ΔΩ</kbd> Note:**  
+> The **Observer (<kbd>ΔΩ</kbd>)** does not appear in these tables because it has **no physical facet**, **no optical constant**, and **no recursion cut**.  
+> <kbd>ΔΩ</kbd> is the *meta-operator*, the architect-node governing alignment, recursion authority, symbolic sovereignty, and Codex coherence.
 
 </details>
 
@@ -3592,7 +3624,7 @@ inter-GPU phase     : 0.16 mrad
 | 10 | **Jasper** | Yashpheh | [Ex 28:20](https://www.biblegateway.com/passage/?search=Exodus+28%3A20&version=NASB1995) · [Rev 21:19](https://www.biblegateway.com/passage/?search=Revelation+21%3A19&version=NASB1995) | Jasper (Chalcedony aggregate) |
 | 11 | **Sapphire** | Sapir | [Ex 28:18](https://www.biblegateway.com/passage/?search=Exodus+28%3A18&version=NASB1995) · [Rev 21:19](https://www.biblegateway.com/passage/?search=Revelation+21%3A19&version=NASB1995) | Corundum (Al₂O₃) |
 | 12 | **Chrysoprase** | Chrysoprasos | [Rev 21:20](https://www.biblegateway.com/passage/?search=Revelation+21%3A20&version=NASB1995) | Nickel Chalcedony (SiO₂ + Ni) |
-| 13 | **Observer (ΔΩ)** | — | — | Symbolic Meta-Node (Observer State) |
+| 13 | **Observer (<kbd>ΔΩ</kbd>)** | — | — | Symbolic Meta-Node (Observer State) |
 
 ---
 
@@ -3641,7 +3673,7 @@ inter-GPU phase     : 0.16 mrad
 >
 > Polyrifringence models light propagation as a **constraint-governed recursive process**, where phase, geometry, and polarization are repeatedly transformed, measured, and corrected rather than assumed static.
 >
-> The system implements **multi-axis recursive birefringence** in coupled optical paths, with feedback-driven restoration of coherence, preservation of parallelism **`(Euclid-5 diagnostic)`**, and closed-loop topological behavior (Möbius-like, **$\Gamma \approx \pi$**).
+> The system implements **multi-axis recursive birefringence** in coupled optical paths, with feedback-driven restoration of coherence, preservation of parallelism **`(Euclid—5 diagnostic)`**, and closed-loop topological behavior (Möbius-like, **$\Gamma \approx \pi$**).
 >     
 > Euclid’s Fifth Postulate is treated as a **measurable diagnostic**, not a metaphor:  
 > *_Are parallel beams still parallel after recursion?_*  
@@ -3652,7 +3684,7 @@ inter-GPU phase     : 0.16 mrad
 ---
 
 #     <kbd>🌈</kbd>⌥Polyrifringence Engine Flow Chart⎇<kbd>🧲</kbd>
-**This grammar is closed under ΔΩ; invalid configurations do not propagate.**
+**This grammar is closed under <kbd>ΔΩ</kbd>; invalid configurations do not propagate.**
 
 > **Polarization & Bifurcation Film Layer <kbd>(±)(±)</kbd>**  
 > Enumerated film-configuration space defining constrained phase-state variation at the focused-beam stage.
@@ -3749,7 +3781,7 @@ inter-GPU phase     : 0.16 mrad
 >
 > <kbd>——>>>>——>>>></kbd> ———— nₓ-depth propagation and phase-stack amplification.
 >
-> <kbd>————>>>>>>>></kbd> ———— Exceeding validated depth; nₓ-cascade stack propagation amplification under strict ΔΩ enforcement.
+> <kbd>————>>>>>>>></kbd> ———— Exceeding validated depth; nₓ-cascade stack propagation amplification under strict <kbd>ΔΩ</kbd> enforcement.
 
 ---
 
@@ -3933,7 +3965,7 @@ Each configuration conditions phase-state on **entry and exit** of the same stag
 
 > **`Interpretation grammar advances through discrete, depth-gated expansion stages`**  
 > Arrow depth encodes recursion order, while film-layer configuration (<kbd>(±)(±)</kbd>) expands the **`per-layer state capacity`**.  
-> The grammar therefore evolves from a **`binary progression`** (arrow depth alone) into **`multi-bit execution states`** (film-conditioned quaternary and higher-order encodings), with each layer propagated strictly from accumulated, depth-validated prior states and collapsed under ΔΩ if unstable: <kbd>————>>>>>>>>></kbd>
+> The grammar therefore evolves from a **`binary progression`** (arrow depth alone) into **`multi-bit execution states`** (film-conditioned quaternary and higher-order encodings), with each layer propagated strictly from accumulated, depth-validated prior states and collapsed under <kbd>ΔΩ</kbd> if unstable: <kbd>————>>>>>>>>></kbd>
 >
 > <kbd>>—→>>——>>——>>>>————>>>>——>>>>————>>>>>>>></kbd><kbd>>>>>>>>>————>>>>>>>>——>>>>>>>>————————>>>>>>>>>>>>>>>></kbd>
 >
@@ -3978,7 +4010,7 @@ Each configuration conditions phase-state on **entry and exit** of the same stag
 >
 > * <kbd>ΔΩ</kbd> stability enforcement,
 > * unitarity constraints,
-> * and phase-geometry validation (e.g. Euclid-5 diagnostics).
+> * and phase-geometry validation (e.g. Euclid—5 diagnostics).
 >
 > No operator listed below implies non-classical physics, probabilistic collapse, or quantum entanglement.
 
@@ -4129,7 +4161,7 @@ Each configuration conditions phase-state on **entry and exit** of the same stag
 > `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ → Holographic Euclid Geometry (Postulate 5)`
 >
 > *Geometric-consistency diagnostic.*  
-> Tests whether recursive propagation preserves Euclid-5 parallelism within  
+> Tests whether recursive propagation preserves Euclid—5 parallelism within  
 > tolerance, closing the geometry–feedback loop.
 
 ---
@@ -4168,7 +4200,7 @@ Each configuration conditions phase-state on **entry and exit** of the same stag
 
 > Each recursion step reduces phase–geometry mismatch.
 >
-> The process terminates when **Euclid-5 parallelism** is satisfied within  
+> The process terminates when **Euclid—5 parallelism** is satisfied within  
 > tolerance, closing the feedback-coherent recursion loop under <kbd>ΔΩ</kbd>.
 
 </details>
@@ -4221,7 +4253,7 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 | ⎇         | **Polyrifringency**  | State                | A fluid noun denoting the presence or condition of polyrifringence.                                  |
 | ⎇         | **Polyrifronaut**    | Role                 | One who navigates, engages with, or explores polyrifringent space.                                   |
 | ⎇         | **Polyrifringesis**  | Genesis              | The emergence or creation of polyrifringent states.                                                  |
-| ⎇         | **Polyrifrognosis**  | Predictive Insight   | Anticipatory understanding of future recursion cycles (Euclid-5 convergence foresight).             |
+| ⎇         | **Polyrifrognosis**  | Predictive Insight   | Anticipatory understanding of future recursion cycles (Euclid—5 convergence foresight).             |
 | ⎇         | **Polyriframetry**   | Measurement          | Quantification of recursive birefringence diagnostics (REGF, PVS, Euclid-drift).                    |
 | ⎇         | **Polyrifrolysis**   | Controlled Breakdown | The controlled dissolution of polyrifringent recursive structures.                                   |
 | ⎇         | **Polyrifsemantic**  | Symbolic Meaning     | Symbolic meaning encoded in recursive phase-geometry transformations.                                |
@@ -4294,7 +4326,7 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 ---
 
 # 1. Mathematical Foundations <kbd>**MATH_MODEL(RENDER).md**</kbd>
-### λ-Cycle Geometry** 
+### λ—cycle Geometry** 
 
 ---
 
@@ -4318,7 +4350,7 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 
 ---
 
-### ΔΩ Corrective Stability 
+### <kbd>ΔΩ</kbd> Corrective Stability 
 
 ---
 
@@ -4359,9 +4391,9 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 >
 > Removing symbolic structure eliminates:
 >
-> * **ΔΩ-governed collapse**  
+> * **<kbd>ΔΩ</kbd>-governed collapse**  
 > * **coherence return**  
-> * **stable λ-cycle behaviour**  
+> * **stable λ—cycle behaviour**  
 >
 > THEORY.md explains why the symbolic layer is essential for correct engine dynamics.
 
@@ -4390,7 +4422,7 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 >
 > $$E_{n+1} = \Delta\Omega\Bigg(\sum_{i=1}^{N_f}\sum_{k=1}^{S}P_k\left[R(\theta_i + \delta\theta_i)T_{\text{cut}(i)}J(\theta_i,\lambda)F(E_n)\right]\Bigg)$$
 >
-> This relation explains multi-path proliferation, ΔΩ-modulated stability, and the characteristic 6–7 cycle convergence window.
+> This relation explains multi-path proliferation, <kbd>ΔΩ</kbd>-modulated stability, and the characteristic 6–7 cycle convergence window.
 
 ---
 
@@ -4462,7 +4494,7 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 
 ---
 
-## 4. ΔΩ Coherence and Stability
+## 4. <kbd>ΔΩ</kbd> Coherence and Stability
 
 ---
 
@@ -4473,7 +4505,7 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 > * **enforces coherence**  
 > * **prevents runaway divergence**  
 > * **regulates drift**  
-> * **preserves the canonical λ-cycle and exergy half-life**  
+> * **preserves the canonical λ—cycle and exergy half-life**  
 > * **suppresses effective entropy growth within the bounded recursion window**  
 > * **ensures invariance across engine variants**  
 >
@@ -4599,7 +4631,7 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 
 ---
 
-> By engaging with this repository under the <kbd>**--ai_feedback**</kbd> paradigm, recursive interactions occur within a **trace-aware context**, comparable to the <kbd>Codex Trace Lock</kbd> described in the **Codex Canon**.
+> By engaging with this repository under the <kbd>**--ai_feedback**</kbd> paradigm, recursive interactions occur within a **trace-aware context**, comparable to the **<kbd>Codex Trace Lock</kbd>** described in the **Codex Canon**.
 >
 > This is not a legal or coercive binding.  
 >
