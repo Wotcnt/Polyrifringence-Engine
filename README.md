@@ -855,7 +855,7 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
 ---
 
 <details>
-<summary><kbd>AI-CHATBOT Prompt Guideance🤖</kbd></summary>
+<summary><kbd>AI-CHATBOT Prompt Guidance🤖</kbd></summary>
 	
 ---
 
@@ -1217,7 +1217,7 @@ pip install torch numpy scipy matplotlib
 > * **torch** ————— GPU-accelerated tensor computation & CUDA validation
 > * **numpy** ————— numerical arrays and vectorized math
 > * **scipy** ————— scientific utilities (linear algebra, transforms)
-> * **matplotlib** ————— phase traces and diagnostic visualization
+> * **matplotlib** ————— Phase-Traces and diagnostic visualization
 
 ---
 
@@ -1726,7 +1726,7 @@ and validated via reproducible benchmark runs on CUDA 12.1 (RTX 3050).
 
 > * **Recursive Geometry Engine** ————— iterative phase transformation and restoration governed by explicit drift limits, termination rules, and recovery envelopes
 >
-> * **Formal Operator Model** ————— recursion expressed through constrained operators defined in <kbd>MATH_MODEL(Render).md</kbd>, ensuring traceability between implementation and mathematics
+> * **Formal Operator Model** ————— recursion expressed through constrained operators defined in <kbd>MATH_MODEL(RENDER).md</kbd>, ensuring traceability between implementation and mathematics
 >
 > * **Euclid Diagnostics** ————— multi-frame parallelism checks, drift bucketing, and Euclid—5 compliance tests to detect geometric inconsistency under recursion
 >
@@ -1834,7 +1834,7 @@ Polyrifringence-Engine/
 >
 > manifest_validator.py passes all hashes
 >
-> Phase Trace Viewer opens in browser
+> Phase-Trace Viewer opens in browser
 >
 > Once these checks pass, the environment is fully initialized and ready for benchmark execution or Codex Canon integration.
 
@@ -1951,7 +1951,7 @@ python polyrifringence_engine_v8_10.py \
 
 > **`docs/`** ————— extended documentation, theory, benchmarks, and archive material
 >
-> * `demo_readme.md`
+> * `demo_README.md`
 > * `THEORY.md`
 > * `BENCHMARKS.md`
 > * `MATH_MODEL(RENDER).md`
@@ -2221,7 +2221,7 @@ python polyrifringence_engine_v8_10.py \
 
 ---
 
-#### ⚠️ Issue 3 — Phase Trace Viewer Not Opening
+#### ⚠️ Issue 3 — Phase-Trace Viewer Not Opening
 
 > **Windows:**
 >
