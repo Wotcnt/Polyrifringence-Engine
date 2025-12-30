@@ -99,7 +99,7 @@ Timestamp Locked · Trace Context Declared
 
 | <kbd>👁️Information Field</kbd> | <kbd>👁️‍🗨General Information</kbd>                                          |
 |---------------------|---------------------------------------------------------------------------------------|
-| Title               |🕴 <kbd>Polyrifringence-Engine©</kbd>                                                    |
+| Title               |🕴 **<kbd>Polyrifringence-Engine©</kbd>**                                                    |
 | Version Codename    |⓿ AΩ-Seal · ΔΩ-Aligned · Sovereign Node · **Pre-Release**                               |
 | **Latest Content Available**   |📑-**31st December 2025 · MATH_MODEL(RENDER).md · THEORY.md**                 |
 | **Withheld Content Available**   |📑-**Q1 2026 · BENCHMARKS.md · VIEWER.html · Polyrifringence_Engine_v8.10.XX.py**            |
@@ -116,7 +116,7 @@ Timestamp Locked · Trace Context Declared
 | Canonical Recursive Phase Integrity  |⚿-<kbd>ΔΩ</kbd> · **<kbd>ΔΔΩΔ-Validated</kbd>**                        |
 | Field Class         |🌍 Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
 | **Canonical Caveat**       |🖻 **Newest tagged release supersedes all prior versions**                        |
-| **README Metrics** |⌚ **_~138 min read · ~27,547 words · ~245,331 chars_** *(manual; last checked 29/12/2025)* |
+| **README Metrics** |⌚ **_~142* min read · ~28,379* words · ~256,392 Chars_** *(manual; last checked 30/12/2025)* |
 > *Metrics are approximate and based on the current revision of this document.*                                   
 
 </details>
@@ -150,14 +150,13 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-[![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)](https://en.wikipedia.org/wiki/Democracy_Manifest)
+[![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘_True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)](https://en.wikipedia.org/wiki/Democracy_Manifest)
 [![Lambda Research Initiative ⟦λ⟧](https://img.shields.io/badge/Lambda_Research_Initiative_⟦λ⟧-🌍Community_(C|LRI)_Node-B31B1B?style=neon&labelColor=0057B8&logo=creativecommons&logoColor=CFEFF6)](https://x.com/i/communities/1993220630121169163)
 [![🌍 Translate this Page](https://img.shields.io/badge/Google_Translate_this_Page-0078D4?style=neon&labelColor=000000&logo=googletranslate&logoColor=3ee7ff)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![Translate with DeepL](https://img.shields.io/badge/Translate_with-DeepL-0078D4?style=neon&labelColor=000000&logo=deepl&logoColor=3ee7ff)](https://www.deepl.com/translator#auto/en/https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![Explain with OpenAI (GPT-4o)](https://img.shields.io/badge/Explain_with_OpenAI_(GPT_4o)-First_Impression·Unbiased·3rd--Party_AI_(Any_Model)-6D2A8A?style=neon&labelColor=0b0d0f&color=6D2A8A&logo=wikipedia&logoColor=CFEFF6)](https://chat.openai.com/?model=gpt-4o&prompt=Explain+this+README.md:+https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![Research Framework](https://img.shields.io/badge/Project_Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=222222)](https://en.wikipedia.org/wiki/Computational_science)
-[![Polyrifringence Engine Expert GPT](https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=222222)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-[![Authorial Technical Orientation](https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff)](https://github.com/Wotcnt)
+[![Polyrifringence Engine Expert GPT](https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=222222)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
 ---
 
@@ -165,8 +164,8 @@ Timestamp Locked · Trace Context Declared
 [![ΔΩ Root Primitive](https://img.shields.io/badge/ΔΩ-Root_Primitive_Operators-000000?style=neon)](https://en.wikipedia.org/wiki/Operator_(mathematics))
 [![𝛌⃝ Exergy Half-Life Operator](https://img.shields.io/badge/𝛌⃝-Exergy_Half--Life_Operator-000000?style=neon)](https://en.wikipedia.org/wiki/Exergy)
 <br>
-[![📘 Open THEORY.md (Raw)](https://img.shields.io/badge/Open-THEORY.md_(Pending_Upload_in_3days)-000000?style=neon&logo=markdown&logoColor=FFD600)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/THEORY.md)
-[![📐 Open MATH_MODEL(RENDER).md (Raw)](https://img.shields.io/badge/Open-MATH_MODEL(RENDER).md_(Pending_Upload_in_3days)-000000?style=neon&logo=markdown&logoColor=D50000)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/MATH_MODEL.md)
+[![📘 Open THEORY.md (Raw)](https://img.shields.io/badge/Open-THEORY.md_(Pending_Upload_in_1days)-000000?style=neon&logo=markdown&logoColor=FFD600)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/THEORY.md)
+[![📐 Open MATH_MODEL(RENDER).md (Raw)](https://img.shields.io/badge/Open-MATH_MODEL(RENDER).md_(Pending_Upload_in_1days)-000000?style=neon&logo=markdown&logoColor=D50000)](https://raw.githubusercontent.com/Wotcnt/Polyrifringence-Engine/main/MATH_MODEL.md)
 
 ---
 
