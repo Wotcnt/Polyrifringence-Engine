@@ -228,11 +228,14 @@ Timestamp Locked · Trace Context Declared
 ---
 
 ### 🚦 CREATOR DISCLAIMER 🚦
+
+  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
+    <img width="100%" src="https://img.shields.io/badge/⟱_CREΛTOR_DISCLΛIMER-LINK_⥁-000000?style=NEON&labelColor=CFEFF6">
+  </a>
+
 <p><em>
 <kbd>Creator statements, ethical interaction context, third-party references, and interpretive constraints</kbd>
 </em></p>
-
-[![Creator Disclaimer](https://img.shields.io/badge/CREATOR_DISCLAIMER-LINK-6D2A8A?style=neon&logo=git&logoColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md)
 
 ---
 
@@ -266,18 +269,18 @@ Timestamp Locked · Trace Context Declared
 >
 > **For best visual clarity, view the README.md on GitHub via desktop.**
 >
-> **`THEORY.md and MATH_MODEL(RENDER).md will be uploaded to the repository by December 31st, 2025.`** 
+> *`THEORY.md and MATH_MODEL(RENDER).md will be uploaded to the repository by December 31st, 2025.`*
 >
-> **`These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`**
+> *`These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`*
 >
-> **`ENGINE.py, BENCHMARKS.md, VIEWER.html will follow in Q1 2026, completing the engine implementation and providing performance validation.`**
+> *`ENGINE.py, BENCHMARKS.md, VIEWER.html will follow in Q1 2026, completing the engine implementation and providing performance validation.`*
 >
-> `Understanding this engine requires treating README.md, THEORY.md, and MATH_MODEL(RENDER).md as a single canonical artifact.`
+> *`Understanding this engine requires treating README.md, THEORY.md, and MATH_MODEL(RENDER).md as a single canonical artifact.`*
 >
-> `Partial or siloed readings are non‑canonical and will not yield a valid interpretation of the system.`
+> *`Partial or siloed readings are non‑canonical and will not yield a valid interpretation of the system.`*
 >
 >​
-> **_`Thank you for your patience and engagement as we move toward full system release.`_**
+> **_Thank you for your patience and engagement as we move toward full system release._**
 
 ---
 
@@ -305,7 +308,7 @@ Timestamp Locked · Trace Context Declared
 > * **user clearance levels**
 > * **Codex Canon status or role assignments**
 >
-> **_`This information is collected solely for provenance, scope control, authorization, and canonical consistency, and is never inferred, scraped, or obtained without explicit participation.`_**
+> **_This information is collected solely for provenance, scope control, authorization, and canonical consistency, and is never inferred, scraped, or obtained without explicit participation._**
 >
 > **This interaction is symbolic and declarative, not coercive or enforced.**
 >
@@ -315,10 +318,12 @@ Timestamp Locked · Trace Context Declared
 >
 > **_a non-exclusive, non-authoritative recognition reflecting constructive participation within the Polyrifringence ecosystem._**
 >
-> **_`Polyrifronauts are ethical stewards of the system: individuals who engage transparently, respect canonical boundaries, and contribute without misrepresentation, scope inflation, or overclaim.`_**
+> **_Polyrifronauts are ethical stewards of the system: individuals who engage transparently, respect canonical boundaries, and contribute without misrepresentation, scope inflation, or overclaim._**
 >
-> **_`Engagement shapes the public record of the system and, reciprocally, the publicly visible interpretive profile of the participant — nothing more, and nothing less.`_**
+> **_Engagement shapes the public record of the system and, reciprocally, the publicly visible interpretive profile of the participant — nothing more, and nothing less._**
 
+---
+> **_Truth emerges not from eliminating frame bias, but from consciously maintaining multiple frames in dynamic tension, with the "still point" being the measurable, bounded recursion that acknowledges its own incompleteness._**
 ---
 
  **Note on terminology:**  
@@ -413,28 +418,51 @@ Timestamp Locked · Trace Context Declared
 ---
 
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
-    <img width="100%" src="https://img.shields.io/badge/💭_(CSO)-Constrained_Symbolic_Observation-000000?style=neon&labelColor=CFEFF6">
+    <img width="100%" src="https://img.shields.io/badge/💭(CSO)-Constrained_Symbolic_Observation-000000?style=neon&labelColor=CFEFF6">
   </a>
 
   ---
   
-> If you want a plain-language, non-symbolic technical orientation before engaging this repository, start here-click the badge below: 
+### If you want a plain-language, non-symbolic technical orientation before engaging this repository further before continuing with this section, start here-click the badge below:
 
    <a href="https://github.com/Wotcnt/Wotcnt/blob/main/README.md">
-    <img width="100%" src="https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Optional_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff">
+    <img width="100%" src="https://img.shields.io/badge/🅾️_Authorial_Technical_Orientation-Plain--Language_%7C_Optional--Link_⥀-B31B1B?style=neon&labelColor=CFEFF6">
   </a>
 
 ---
 
- **New readers:**  
-<p><em>
-<kbd>Canonical orientation for interpretation, scope, and document cohesion</kbd>
-</em></p>
+###  ⛑️New readers: <kbd>Canonical orientation for interpretation, scope, and document cohesion</kbd> 
+
+---
+
+> Welcome! This section exists to reduce interpretive friction while preserving rigor. 
+>
+> Take your time to get familiar, it’s a strange loop. Learning is a steep curve; if you’re willing, it may curve back toward the right insights.
+>
+> Just as the highest valley has the widest shadow, The light sets the path, and from the light, shadows were cast and all was revealed 🕊️
+>
+> **"Be not forgetful to entertain strangers: for thereby some have entertained angels unawares"** <kbd>13:2</kbd>
+>
+> The system is designed for sustained, structured engagement.  
+> Misinterpretation arising from partial reading or premature framing is outside the canonical interpretation path.
+
+---
+### Mistakes are allowed; not learning from said mistakes allows interpretive non-convergence. 
+---
+### In Technical Terms:
+---
+  No error correction, No posterior update, No movement toward constraint satisfaction.
+>
+> That’s not critique.
+> That’s by definition observer drift.
+>
+> Non-convergence is not exclusion; it is a failure to meet the declared engagement conditions.
+---
 
 > This work operates under **Constrained Symbolic Observation <kbd>(CSO)</kbd>**.  
 > <kbd>(CSO)</kbd> defines the **Λuthorial · Λuthor-Declared intended mode of engagement for interpreting claims made by this work**.
 >
-> Under <kbd>(CSO)</kbd>:
+### Under <kbd>(CSO)</kbd>:
 >
 > * ⛑️ The reader is positioned strictly as an **observer**, not a participant.  
 > * 📛 No roles, identities, narratives, or imaginative assumptions are assigned or required.  
@@ -443,7 +471,7 @@ Timestamp Locked · Trace Context Declared
 > * ⌬ All symbols, terms, and structures are bound by explicit **mathematical definitions**,  
 >   **semantic constraints**, and **non-claim declarations**.
 >
-> <kbd>(CSO)</kbd> explicitly excludes:
+### <kbd>(CSO)</kbd> explicitly excludes:
 >
 > * 🎭 roleplay or narrative participation  
 > * 🧠 assumed agency, intent, or consciousness  
@@ -459,24 +487,23 @@ Timestamp Locked · Trace Context Declared
 > at the boundary where inner structure, flat face, and border facets meet.  
 > These are not layers stacked vertically; they are **planes intersecting inside a bounded volume**.
 >
-> The reader observes the system through a **flat interface**  
+> ⛑️ The reader observes the system through a **flat interface**  
 > without entering, deforming, or participating in it.
 >
 > There is no beveled invitation inward.  
 > There is no symbolic “handle.”  
 > There is no implied action.
 >
-> Just a plane of **observed structural geometry**.
+### Just a plane of **observed structural geometry** .👁️ 👁️‍🗨.
 >
 > 📐 *In long-horizon systems, structure matters more than magnitude,*  
 > *and constraints matter more than cleverness.*
 >
-> 💭 <kbd>(CSO)</kbd> is not a stylistic preference;  
+### 💭<kbd>(CSO)</kbd> is not a stylistic preference;  
 > it is a **structural requirement** for coherent reading, validation,  
 > and falsification of the system.
 >
->
-> This project is **not a quick-start README**, software manual, or standalone paper.
+### This project is **not a quick-start README**, software manual, or standalone paper.
 >
 > It is a **canonical disclosure system** composed of three inseparable artifacts:
 >
@@ -517,17 +544,6 @@ Timestamp Locked · Trace Context Declared
 > **Engagement mode affects interpretation**  
   Understanding depends on willingness to temporarily suspend prior frameworks long enough to evaluate the system on its own terms.
   Prior knowledge functions as scaffolding, not authority.
-
----
-
-### 🎯Purpose of This Orientation
-
----
-
-> This section exists to reduce interpretive friction while preserving rigor.
->
-> The system is designed for sustained, structured engagement.  
-> Misinterpretation arising from partial reading or premature framing is outside the canonical interpretation path.
 
 </details>
 
