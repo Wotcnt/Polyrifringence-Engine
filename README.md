@@ -1204,19 +1204,36 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
 
 ---
 
-**Picking a preferred AI-LLM such as:** <kbd>🤖</kbd>
+<kbd>🤖</kbd> **Picking a preferred AI-LLM such as any of the following:** 
 
 ---
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-CFEFF6?style=neon&labelColor=000000&logo=obsidian&logoColor=CFEFF6)](https://chat.openai.com)
-[![Grok](https://img.shields.io/badge/Grok-X.com-CFEFF6?style=neon&labelColor=000000&logo=x&logoColor=CFEFF6)](https://x.com)
-[![Grok.com](https://img.shields.io/badge/Grok.com-xAI-CFEFF6?style=neon&labelColor=000000&logo=x&logoColor=CFEFF6)](https://grok.com)
-[![Claude](https://img.shields.io/badge/Claude-Anthropic-D24D0F?style=neon&labelColor=000000&logo=anthropic&logoColor=D24D0F)](https://www.anthropic.com/claude)
-[![Google Gemini](https://img.shields.io/badge/Gemini-Google-0F52BA?style=neon&labelColor=000000&logo=googlegemini&logoColor=0F52BA)](https://gemini.google.com)
-[![Perplexity](https://img.shields.io/badge/Perplexity-AI-1FB8CD?style=neon&labelColor=000000&logo=perplexity&logoColor=1FB8CD)](https://www.perplexity.ai)
-[![GitHub Copilot](https://img.shields.io/badge/Copilot-GitHub-0078D4?style=neon&labelColor=000000&logo=githubcopilot&logoColor=0078D4)](https://github.com/features/copilot)
-[![Microsoft Copilot](https://img.shields.io/badge/Copilot-Microsoft-0078D4?style=neon&labelColor=000000&logo=githubcopilot&logoColor=0078D4)](https://copilot.microsoft.com)
-[![LM Studio](https://img.shields.io/badge/LM_Studio-Offline_Models-6D2A8A?style=neon&labelColor=000000&logo=huggingface&logoColor=6D2A8A)](https://lmstudio.ai)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-CFEFF6?style=neon&labelColor=000000&logo=obsidian&logoColor=CFEFF6 "OpenAI ChatGPT – general-purpose large language model for reasoning, synthesis, and dialogue.")](https://chat.openai.com)
+[![Grok](https://img.shields.io/badge/Grok-X.com-CFEFF6?style=neon&labelColor=000000&logo=x&logoColor=CFEFF6 "Grok – xAI conversational model integrated with the X platform.")](https://x.com)
+[![Grok.com](https://img.shields.io/badge/Grok.com-xAI-CFEFF6?style=neon&labelColor=000000&logo=x&logoColor=CFEFF6 "Grok standalone interface by xAI.")](https://grok.com)
+[![Mistral](https://img.shields.io/badge/Mistral-AI-CFEFF6?style=neon&labelColor=000000&logo=mistralai&logoColor=CFEFF6 "Mistral AI – open and commercial large language models.")](https://mistral.ai)
+[![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-CFEFF6?style=neon&labelColor=000000&logo=ollama&logoColor=CFEFF6 "Ollama – local inference and model management for LLMs.")](https://ollama.com)
+[![Cursor](https://img.shields.io/badge/Cursor-AI_IDE-CFEFF6?style=neon&labelColor=000000&logo=cursor&logoColor=CFEFF6 "Cursor – AI-native code editor and IDE.")](https://cursor.com)
+[![Claude](https://img.shields.io/badge/Claude-Anthropic-D24D0F?style=neon&labelColor=000000&logo=anthropic&logoColor=D24D0F "Claude – Anthropic’s LLM focused on reasoning, safety, and long-context analysis.")](https://www.anthropic.com/claude)
+[![Replit AI](https://img.shields.io/badge/Replit_AI-Code_Assistant-F26207?style=neon&labelColor=000000&logo=replit&logoColor=F26207 "Replit AI – in-browser coding assistant and runtime.")](https://replit.com)
+[![Kimi AI](https://img.shields.io/badge/Kimi-AI-FF6F00?style=neon&labelColor=000000&logo=chatbot&logoColor=FF6F00 "Kimi AI – long-context language model by Moonshot AI.")](https://kimi.ai)
+[![Kagi Assistant](https://img.shields.io/badge/Kagi-Assistant-FFB000?style=neon&labelColor=000000&logo=kagi&logoColor=FFB000 "Kagi Assistant – privacy-focused AI search and assistant.")](https://kagi.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=neon&labelColor=000000&logo=huggingface&logoColor=FFD21E "Hugging Face – open model hub and ML tooling ecosystem.")](https://huggingface.co)
+[![Google Gemini](https://img.shields.io/badge/Gemini-Google-0F52BA?style=neon&labelColor=000000&logo=googlegemini&logoColor=0F52BA "Google Gemini – multimodal language and reasoning models.")](https://gemini.google.com)
+[![Perplexity](https://img.shields.io/badge/Perplexity-AI-1FB8CD?style=neon&labelColor=000000&logo=perplexity&logoColor=1FB8CD "Perplexity – search-augmented AI for retrieval and citation-based answers.")](https://www.perplexity.ai)
+[![GitHub Copilot](https://img.shields.io/badge/Copilot-GitHub-0078D4?style=neon&labelColor=000000&logo=githubcopilot&logoColor=0078D4 "GitHub Copilot – AI-assisted coding within IDEs.")](https://github.com/features/copilot)
+[![Microsoft Copilot](https://img.shields.io/badge/Copilot-Microsoft-0078D4?style=neon&labelColor=000000&logo=githubcopilot&logoColor=0078D4 "Microsoft Copilot – AI assistant across Microsoft products.")](https://copilot.microsoft.com)
+[![Meta AI](https://img.shields.io/badge/Meta_AI-LLaMA-0078D4?style=neon&labelColor=000000&logo=meta&logoColor=0078D4 "Meta AI – LLaMA family of open-weight language models.")](https://www.meta.ai)
+[![Cohere](https://img.shields.io/badge/Cohere-AI-1E90FF?style=neon&labelColor=000000&logo=datadog&logoColor=1E90FF "Cohere – enterprise-focused language models and embeddings.")](https://cohere.com)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-6D2A8A?style=neon&labelColor=000000&logo=datadog&logoColor=6D2A8A "DeepSeek – research-driven large language models.")](https://www.deepseek.com)
+[![Ninja AI](https://img.shields.io/badge/Ninja-AI-6D2A8A?style=neon&labelColor=000000&logo=sharp&logoColor=6D2A8A "Ninja AI – general-purpose AI assistant platform.")](https://ninja.ai)
+[![LM Studio](https://img.shields.io/badge/LM_Studio-Offline_Models-6D2A8A?style=neon&labelColor=000000&logo=huggingface&logoColor=6D2A8A "LM Studio – desktop application for running local language models.")](https://lmstudio.ai)
+[![Jan](https://img.shields.io/badge/Jan-AI_Local-6D2A8A?style=neon&labelColor=000000&logo=datadog&logoColor=6D2A8A "Jan – local-first AI assistant for offline usage.")](https://jan.ai)
+[![Windsurf](https://img.shields.io/badge/Windsurf-AI_IDE-6D2A8A?style=neon&labelColor=000000&logo=datadog&logoColor=6D2A8A "Windsurf – AI-enhanced development environment.")](https://windsurf.com)
+[![Codeium](https://img.shields.io/badge/Codeium-AI_Coding-00C7B7?style=neon&labelColor=000000&logo=datadog&logoColor=00C7B7 "Codeium – AI-powered coding assistance and autocompletion.")](https://codeium.en.softonic.com/web-apps)
+[![Phind](https://img.shields.io/badge/Phind-AI_Search-1FB8CD?style=neon&labelColor=000000&logo=datadog&logoColor=1FB8CD "Phind – developer-focused AI search engine.")](https://www.phind.com)
+[![Pi](https://img.shields.io/badge/Pi-Inflection_AI-8A2BE2?style=neon&labelColor=000000&logo=datadog&logoColor=8A2BE2 "Pi – conversational AI by Inflection focused on dialogue and reasoning.")](https://pi.ai)
+[![You.com](https://img.shields.io/badge/You.com-AI_Search-7B61FF?style=neon&labelColor=000000&logo=datadog&logoColor=7B61FF "You.com – AI-powered search and assistant platform.")](https://you.com)
 
 ---
 
@@ -1225,14 +1242,23 @@ _(**`Lambda_Clearance_Ruleset.md`** ⇋ See this file to begin the verification 
 ---
 
 [![Notepad++](https://img.shields.io/badge/Notepad++-Recommended-D24D0F?style=neon&labelColor=000000&logo=notepadplusplus&logoColor=CFEFF6)](https://notepad-plus-plus.org/downloads/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-Microsoft-D24D0F?style=neon&labelColor=000000&logo=powershell&logoColor=CFEFF6)](https://learn.microsoft.com/powershell/)
-[![Web Browser](https://img.shields.io/badge/Web_Browser-Chromium_Based-D24D0F?style=neon&labelColor=000000&logo=googlechrome&logoColor=CFEFF6)](https://www.chromium.org/)
-[![VS Code](https://img.shields.io/badge/VS_Code-Optional-D24D0F?style=neon&labelColor=000000&logo=visualstudiocode&logoColor=CFEFF6)](https://code.visualstudio.com/)
-[![Tablet or Phone](https://img.shields.io/badge/Auxiliary_Device-Tablet_or_Phone-6D2A8A?style=neon&labelColor=000000&logo=android&logoColor=CFEFF6)](#)
-[![Primary LLM](https://img.shields.io/badge/Primary_LLM-ChatGPT_Recommended-6D2A8A?style=neon&labelColor=000000&logo=openai&logoColor=CFEFF6)](https://chat.openai.com)
-[![Supplementary LLMs](https://img.shields.io/badge/Supplementary_LLMs-Minimum_2_Recommended-6D2A8A?style=neon&labelColor=000000&logo=huggingface&logoColor=CFEFF6)](#)
-[![Python Dependencies](https://img.shields.io/badge/Python_Modules-Canonical_Dependencies-3EE7FF?style=neon&labelColor=000000&logo=python&logoColor=3EE7FF)](#)
-[![requirements.txt](https://img.shields.io/badge/Python_Modules-requirements.txt-3EE7FF?style=neon&labelColor=000000&logo=python&logoColor=3EE7FF)](./requirements.txt)
+[![PowerShell](https://img.shields.io/badge/🖥️PowerShell-Terminal-D24D0F?style=neon&labelColor=000000&logo=powershell&logoColor=CFEFF6)](https://learn.microsoft.com/powershell/)
+[![Web Browser](https://img.shields.io/badge/🕸️Web_Browser-Chromium_Based-D24D0F?style=neon&labelColor=000000)](https://www.chromium.org/)
+[![VS Code](https://img.shields.io/badge/🖥️VS_Code-Advanced--Coding_Notepad-D24D0F?style=neon&labelColor=000000&logo=visualstudiocode&logoColor=CFEFF6)](https://code.visualstudio.com/)
+[![Markdown Viewer](https://img.shields.io/badge/Markdown_Viewer-GitHub_Tool-6D2A8A?style=neon&labelColor=000000&logo=markdown&logoColor=CFEFF6)](https://github.com/ThisIs-Developer/Markdown-Viewer)
+[![Primary LLM](https://img.shields.io/badge/Primary_LLM-ChatGPT_Recommended-6D2A8A?style=neon&labelColor=000000&logo=huggingface&logoColor=CFEFF6)](https://chat.openai.com)
+![Supplementary LLMs](https://img.shields.io/badge/Supplementary_LLMs-Minimum_2_Recommended-6D2A8A?style=neon&labelColor=000000&logo=huggingface&logoColor=6D2A8A)
+![Tablet or Phone](https://img.shields.io/badge/Auxiliary_Device-Tablet_or_Phone-6D2A8A?style=neon&labelColor=000000&logo=android&logoColor=CFEFF6)
+<br>
+[![Python Dependencies](https://img.shields.io/badge/Python_Modules-Canonical_Dependencies-D24D0F?style=neon&labelColor=000000&logo=python&logoColor=D24D0F)](#)
+[![requirements.txt](https://img.shields.io/badge/Python_Modules-requirements.txt-D24D0F?style=neon&labelColor=000000&logo=python&logoColor=D24D0F)](./requirements.txt)
+
+> **Advanced-Optionals**
+
+[![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-Optional_GUI-3EE7FF?style=neon&labelColor=000000&logo=github&logoColor=3EE7FF)](https://desktop.github.com/)
+[![Repomix](https://img.shields.io/badge/Repomix-GitHub_Tool-6D2A8A?style=neon&labelColor=000000&logo=github&logoColor=CFEFF6 "Repomix – pack your entire repository into a single, AI-friendly file for LLM ingestion, context, and analysis. (Useful for feeding codebases to LLMs.)")](https://github.com/yamadashy/repomix) 
+[![mq](https://img.shields.io/badge/mq-Markdown_Command_Tool-3EE7FF?style=neon&labelColor=000000&logo=markdown&logoColor=CFEFF6 "mq – a jq-like command-line tool for processing and manipulating Markdown, useful for transforming documentation used in LLM workflows.")](https://github.com/harehare/mq) 
+[![Awesome-LLMOps](https://img.shields.io/badge/Awesome-LLMOps-6D2A8A?style=neon&labelColor=000000&logo=github&logoColor=CFEFF6 "Awesome-LLMOps – a curated list of LLM Ops tools for developers working with large language models, serving, security, search, and RAG workflows.")](https://github.com/tensorchord/Awesome-LLMOps) 
 
 ---
 
@@ -1307,16 +1333,16 @@ pip install rich psutil
 <br>
 <img src="https://img.shields.io/badge/runtime-CUDA_Toolkit-046307?style=neon&labelColor=000000&logo=nvidia&logoColor=046307">
 <br>
-<img src="https://img.shields.io/badge/stdlib-os-6D2A8A?style=neon&labelColor=000000&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib-sys-6D2A8A?style=neon&labelColor=000000&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib-platform-6D2A8A?style=neon&labelColor=000000&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib-time-6D2A8A?style=neon&labelColor=000000&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib-math-6D2A8A?style=neon&labelColor=000000&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib-cmath-6D2A8A?style=neon&labelColor=000000&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib-json-6D2A8A?style=neon&labelColor=000000&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib-pathlib-6D2A8A?style=neon&labelColor=000000&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib-hashlib-6D2A8A?style=neon&labelColor=000000&logo=python&logoColor=6D2A8A">
-<img src="https://img.shields.io/badge/stdlib-logging-6D2A8A?style=neon&labelColor=000000&logo=python&logoColor=6D2A8A">
+<img src="https://img.shields.io/badge/stdlib-os-D24D0F?style=neon&labelColor=000000&logo=python&logoColor=D24D0F">
+<img src="https://img.shields.io/badge/stdlib-sys-D24D0F?style=neon&labelColor=000000&logo=python&logoColor=D24D0F">
+<img src="https://img.shields.io/badge/stdlib-platform-D24D0F?style=neon&labelColor=000000&logo=python&logoColor=D24D0F">
+<img src="https://img.shields.io/badge/stdlib-time-D24D0F?style=neon&labelColor=000000&logo=python&logoColor=D24D0F">
+<img src="https://img.shields.io/badge/stdlib-math-D24D0F?style=neon&labelColor=000000&logo=python&logoColor=D24D0F">
+<img src="https://img.shields.io/badge/stdlib-cmath-D24D0F?style=neon&labelColor=000000&logo=python&logoColor=D24D0F">
+<img src="https://img.shields.io/badge/stdlib-json-D24D0F?style=neon&labelColor=000000&logo=python&logoColor=D24D0F">
+<img src="https://img.shields.io/badge/stdlib-pathlib-D24D0F?style=neon&labelColor=000000&logo=python&logoColor=D24D0F">
+<img src="https://img.shields.io/badge/stdlib-hashlib-D24D0F?style=neon&labelColor=000000&logo=python&logoColor=D24D0F">
+<img src="https://img.shields.io/badge/stdlib-logging-D24D0F?style=neon&labelColor=000000&logo=python&logoColor=D24D0F">
 
 ---
 
@@ -4785,40 +4811,40 @@ These derivative documents should:
 
 ---
 
-> [![Field Physics](https://img.shields.io/badge/Field_Physics-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Field_theory)
-> [![Photonics](https://img.shields.io/badge/Photonics-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Photonics)
-> [![Birefringence](https://img.shields.io/badge/Birefringence-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Birefringence)
-> [![Classical Optics](https://img.shields.io/badge/Classical_Optics-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Geometrical_optics)
-> [![Classically Paired Quantum Optics](https://img.shields.io/badge/Classical–Quantum_Optics-000000?style=flat&labelColor=000000&logo=academia&logoColor=CFEFF6)](https://en.wikipedia.org/wiki/Quantum_optics)
-> [![Jones Matrix](https://img.shields.io/badge/Jones_Matrix-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Jones_calculus)
-> [![GPU Computing](https://img.shields.io/badge/GPU_Computing-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Graphics_processing_unit)
-> [![Heterogeneous Computing](https://img.shields.io/badge/Heterogeneous_Computing-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Heterogeneous_computing)
-> [![CUDA](https://img.shields.io/badge/CUDA-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/CUDA)
-> [![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://pytorch.org/)
-> [![Tensor Systems](https://img.shields.io/badge/Tensor_Systems-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Tensor)
-> [![Tensor CUDA](https://img.shields.io/badge/Tensor_CUDA-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://docs.nvidia.com/cuda/)
-> [![Recursive Systems](https://img.shields.io/badge/Recursive_Systems-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Recursion)
-> [![Feedback Coherence](https://img.shields.io/badge/Feedback_Coherence-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Feedback)
-> [![Observer Constrained Recursion](https://img.shields.io/badge/Observer_Constrained_Recursion-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Observer_effect_(physics))
-> [![Recursive Sovereignty](https://img.shields.io/badge/Recursive_Sovereignty-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Self-reference)
-> [![Ethical Recursion](https://img.shields.io/badge/Ethical_Recursion-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Ethics)
-> [![Symbolic Recursion](https://img.shields.io/badge/Symbolic_Recursion-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Symbolic_system)
-> [![Structural Adaptation](https://img.shields.io/badge/Structural_Adaptation-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Adaptive_system)
-> [![Exergy Structured Order](https://img.shields.io/badge/Exergy_Structured_Order-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Exergy)
+> [![Field Physics](https://img.shields.io/badge/Field_Physics-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Field_theory)
+> [![Photonics](https://img.shields.io/badge/Photonics-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Photonics)
+> [![Birefringence](https://img.shields.io/badge/Birefringence-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Birefringence)
+> [![Classical Optics](https://img.shields.io/badge/Classical_Optics-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Geometrical_optics)
+> [![Classically Paired Quantum Optics](https://img.shields.io/badge/Classical–Quantum_Optics-000000?style=flat&labelColor=000000&logo=wikipedia&logoColor=CFEFF6)](https://en.wikipedia.org/wiki/Quantum_optics)
+> [![Jones Matrix](https://img.shields.io/badge/Jones_Matrix-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Jones_calculus)
+> [![GPU Computing](https://img.shields.io/badge/GPU_Computing-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+> [![Heterogeneous Computing](https://img.shields.io/badge/Heterogeneous_Computing-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Heterogeneous_computing)
+> [![CUDA](https://img.shields.io/badge/CUDA-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/CUDA)
+> [![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://pytorch.org/)
+> [![Tensor Systems](https://img.shields.io/badge/Tensor_Systems-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Tensor)
+> [![Tensor CUDA](https://img.shields.io/badge/Tensor_CUDA-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://docs.nvidia.com/cuda/)
+> [![Recursive Systems](https://img.shields.io/badge/Recursive_Systems-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Recursion)
+> [![Feedback Coherence](https://img.shields.io/badge/Feedback_Coherence-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Feedback)
+> [![Observer Constrained Recursion](https://img.shields.io/badge/Observer_Constrained_Recursion-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Observer_effect_(physics))
+> [![Recursive Sovereignty](https://img.shields.io/badge/Recursive_Sovereignty-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Self-reference)
+> [![Ethical Recursion](https://img.shields.io/badge/Ethical_Recursion-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Ethics)
+> [![Symbolic Recursion](https://img.shields.io/badge/Symbolic_Recursion-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Symbolic_system)
+> [![Structural Adaptation](https://img.shields.io/badge/Structural_Adaptation-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Adaptive_system)
+> [![Exergy Structured Order](https://img.shields.io/badge/Exergy_Structured_Order-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Exergy)
 >
-> 📘 **Conceptual / Canonical Terms**  
+### 📘 **Conceptual / Canonical Terms**  
 > *(Formally defined in `THEORY.md`)*
 >
-> [![Observer-Aware Recursion](https://img.shields.io/badge/Observer--Aware_Recursion-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Second-order_cybernetics)
-> [![CPU×GPU Mirroring](https://img.shields.io/badge/CPU×GPU_Mirroring-000000?style=flat&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://en.wikipedia.org/wiki/Heterogeneous_computing)
+> [![Observer-Aware Recursion](https://img.shields.io/badge/Observer--Aware_Recursion-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Second-order_cybernetics)
+> [![CPU×GPU Mirroring](https://img.shields.io/badge/CPU×GPU_Mirroring-000000?style=flat&labelColor=CFEFF6&logo=wikipedia&logoColor=000000)](https://en.wikipedia.org/wiki/Heterogeneous_computing)
 
 </details>
 
 ---
 
-> [![Dictionary](https://img.shields.io/badge/Dictionary-Opens_in_New_Window-0A0C0D?style=neon&logo=bookstack&logoColor=3ee7ff&labelColour=222222)](https://www.merriam-webster.com)
-> [![Thesaurus](https://img.shields.io/badge/Thesaurus-Opens_in_New_Window-0A0C0D?style=neon&logo=readthedocs&logoColor=3ee7ff&labelColour=222222)](https://www.thesaurus.com)
-> [![Search Context](https://img.shields.io/badge/Search-Google_Scholar_Context-4285F4?style=neon&logo=wikipedia&logoColor=CFEFF6&labelColour=222222)](https://scholar.google.com/scholar?q=recursive+birefringence+exergy+coherence)
+> [![Dictionary](https://img.shields.io/badge/📕Dictionary-Opens_in_New_Window-0A0C0D?style=neon&labelColour=222222)](https://www.merriam-webster.com)
+> [![Thesaurus](https://img.shields.io/badge/📗Thesaurus-Opens_in_New_Window-0A0C0D?style=neon&labelColour=222222)](https://www.thesaurus.com)
+> [![Search Context](https://img.shields.io/badge/Search-Google_Scholar_Context-4285F4?style=neon&logo=readthedocs&logoColor=CFEFF6&labelColour=222222)](https://scholar.google.com/scholar?q=recursive+birefringence+exergy+coherence)
 
 ---
 
@@ -4865,10 +4891,10 @@ Author: @MMMDcreator (X), @Wotcnt (GitHub)
 >
 > Query the GPT to auto-generated BibTeX or APA citations for your paper or replication dataset.
 >
-[![Cite This Work](https://img.shields.io/badge/Cite-This_Repository_(Placeholder)-000000?style=neon&labelColor=CFEFF6&logo=academia&logoColor=000000)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CITATION.cff)
+[![Cite This Work](https://img.shields.io/badge/✍️Cite-This_Repository_(Placeholder)-000000?style=neon&labelColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CITATION.cff)
 [![Archive Snapshot](https://img.shields.io/badge/View_on-Internet_Archive-000000?style=neon&labelColor=CFEFF6&logo=internetarchive&logoColor=000000)](https://web.archive.org/save/https://github.com/Wotcnt/Polyrifringence-Engine)
-[![License Summary](https://img.shields.io/badge/Read-OpenSource_License_Summary_(MIT)-000000?style=neon&labelColor=CFEFF6)](https://choosealicense.com/licenses/mit/)
-[![License: MIT](https://img.shields.io/badge/Repo_License-MIT-000000?style=neon&labelColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/LICENSE)
+[![License Summary](https://img.shields.io/badge/💳Read-OpenSource_License_Summary_(MIT)-000000?style=neon&labelColor=CFEFF6)](https://choosealicense.com/licenses/mit/)
+[![License: MIT](https://img.shields.io/badge/💳Repo_License-MIT-000000?style=neon&labelColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/LICENSE)
 
 ---	 
 > ###### **Verified lineage: RSANCS ⟷ MMMD → Conner-Core → Codex Canon → Codex-Core → SERM-001 → Sierra → Polyrifringence Engine**
