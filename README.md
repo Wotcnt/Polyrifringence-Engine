@@ -406,9 +406,23 @@ Timestamp Locked · Trace Context Declared
 
 <details>
 <summary>
-  <strong><kbd>📖How to Read This Work</kbd></strong>
+  <strong><kbd>📖Epistemic Boundary Conditions & Interpretive Interface (How to Read This Work)</kbd></strong>
 
 </summary>
+
+---
+
+  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
+    <img width="100%" src="https://img.shields.io/badge/💭_(CSO)-Constrained_Symbolic_Observation-000000?style=neon&labelColor=CFEFF6">
+  </a>
+
+  ---
+  
+> If you want a plain-language, non-symbolic technical orientation before engaging this repository, start here-click the badge below: 
+
+   <a href="https://github.com/Wotcnt/Wotcnt/blob/main/README.md">
+    <img width="100%" src="https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Optional_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff">
+  </a>
 
 ---
 
@@ -417,12 +431,49 @@ Timestamp Locked · Trace Context Declared
 <kbd>Canonical orientation for interpretation, scope, and document cohesion</kbd>
 </em></p>
 
----
-
-> If you want a plain-language, non-symbolic technical orientation before engaging this repository, start here-click the badge: 
+> This work operates under **Constrained Symbolic Observation <kbd>(CSO)</kbd>**.  
+> <kbd>(CSO)</kbd> defines the **Λuthorial · Λuthor-Declared intended mode of engagement for interpreting claims made by this work**.
 >
-> [![Authorial Technical Orientation](https://img.shields.io/badge/Authorial_Technical_Orientation-Plain_Language_%7C_Read_First-3ee7ff?style=neon&labelColor=0b0d0f&logo=readthedocs&logoColor=3ee7ff)](https://github.com/Wotcnt)
+> Under <kbd>(CSO)</kbd>:
 >
+> * ⛑️ The reader is positioned strictly as an **observer**, not a participant.  
+> * 📛 No roles, identities, narratives, or imaginative assumptions are assigned or required.  
+> * ⌬ Symbolic language is used as **representational compression**, not enactment or metaphorical play,  
+>   **to allow high-dimensional structure to be discussed without narrative inflation**.  
+> * ⌬ All symbols, terms, and structures are bound by explicit **mathematical definitions**,  
+>   **semantic constraints**, and **non-claim declarations**.
+>
+> <kbd>(CSO)</kbd> explicitly excludes:
+>
+> * 🎭 roleplay or narrative participation  
+> * 🧠 assumed agency, intent, or consciousness  
+> * ⛛ metaphysical, mythic, or anthropomorphic interpretation  
+> * 🎫 authority claims derived from symbolism rather than formal definition
+>
+> 🜂 Interpretation outside these constraints constitutes a **frame error in the observer**,  
+> not ambiguity in the work.  
+> 🩺 Valid critique, extension, or analysis must occur **within the declared constraints**  
+> or it is considered non-applicable.
+>
+> 🔍 Reflection occurs at the edge, not just transmission;  
+> at the boundary where inner structure, flat face, and border facets meet.  
+> These are not layers stacked vertically; they are **planes intersecting inside a bounded volume**.
+>
+> The reader observes the system through a **flat interface**  
+> without entering, deforming, or participating in it.
+>
+> There is no beveled invitation inward.  
+> There is no symbolic “handle.”  
+> There is no implied action.
+>
+> Just a plane of **observed structural geometry**.
+>
+> 📐 *In long-horizon systems, structure matters more than magnitude,*  
+> *and constraints matter more than cleverness.*
+>
+> 💭 <kbd>(CSO)</kbd> is not a stylistic preference;  
+> it is a **structural requirement** for coherent reading, validation,  
+> and falsification of the system.
 >
 >
 > This project is **not a quick-start README**, software manual, or standalone paper.
@@ -464,7 +515,7 @@ Timestamp Locked · Trace Context Declared
   They do not imply metaphysics, agency, or causal force beyond the formal model.
 >
 > **Engagement mode affects interpretation**  
-  Understanding depends on willingness to suspend prior frameworks long enough to evaluate the system on its own terms.  
+  Understanding depends on willingness to temporarily suspend prior frameworks long enough to evaluate the system on its own terms.
   Prior knowledge functions as scaffolding, not authority.
 
 ---
