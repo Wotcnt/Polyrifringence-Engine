@@ -104,7 +104,7 @@ The **Polyrifringence Engine** is founded on the principle that **geometry, ligh
 Together these generate a system where coherence returns, entropy redirects, drift compresses, and exergy persists longer than classical assumptions predict.
 Nothing violates physics; only outdated models.
 
-From the mathematical side (see `MATH_MODEL(RENDER)md`), all of this is encoded in a **triad of core operators**:
+From the mathematical side (see `MATH_MODEL(RENDER).md`), all of this is encoded in a **triad of core operators**:
 
 * **ΔΩ** — maps $$((dW,\mathrm{REGF},\mathrm{PVS}))$$ to coherence correction and drift collapse
 * **𝛌⃝** — defines $$(\lambda_{\text{cycle}})$$ $$(R_n)$$ and the exergy half-life $$(t_{1/2})$$
@@ -3382,7 +3382,7 @@ The Ω-tier governs it.
 ### (Ontological Interpretation of the Child-Beam Learning Law)
 
 This section gives the **theoretical / ontological reading** of the
-child-beam cascade formalised in `MATH_MODEL(RENDER)md` Ω.7.
+child-beam cascade formalised in `MATH_MODEL(RENDER).md` Ω.7.
 
 The core idea:
 
@@ -3400,7 +3400,7 @@ introduced in RSANCS.
 
 > $$ \mathcal{F} = \Delta\Omega \circ \mathcal{C}_{\text{agg}} \circ \mathcal{R} $$  
 
-> is exactly the child-beam cascade operator defined in `MATH_MODEL(RENDER)md` Ω.7.  
+> is exactly the child-beam cascade operator defined in `MATH_MODEL(RENDER).md` Ω.7.  
 > The present section gives its Codex / RSANCS interpretation.
 
 ---
@@ -3576,7 +3576,7 @@ Under this Ω.8 interpretation:
 ### 8.6 Canonical Diagram — Topological Cascade (Variation 1)
 
 The following diagram represents **one discovered canonical projection** of the
-child-beam cascade defined in `MATH_MODEL(RENDER)md` Ω.7.
+child-beam cascade defined in `MATH_MODEL(RENDER).md` Ω.7.
 
 Because the Polyrifringence Engine admits **interchangeable and sequentially
 reusable phase-beam paths**—including film ordering, film polarity symmetry,
@@ -3769,7 +3769,7 @@ $$
 E_{n+1} = \mathcal{F}(E_n)
 $$
 
-as defined in `MATH_MODEL(RENDER)md` Ω.7.
+as defined in `MATH_MODEL(RENDER).md` Ω.7.
 
 ---
 
@@ -3819,7 +3819,7 @@ The loop is then considered complete for that run.
 ### 8.7 Canonical Diagram — Higher-Manifold Projection (2.5D)
 
 The following diagram is a **canonical 2.5D projection** of the child-beam
-learning cascade defined formally in `MATH_MODEL(RENDER)md` Ω.7 and interpreted
+learning cascade defined formally in `MATH_MODEL(RENDER).md` Ω.7 and interpreted
 ontologically in Ω.8.
 
 It represents **one discovered projection** of a higher-dimensional recursive
@@ -3996,7 +3996,7 @@ contraction**.
 
 This section defines the **Self-Calibrating Geometric Optimizer (SGO)**, which
 formalizes learning and autonomy as intrinsic geometric phenomena. The
-corresponding mathematical formalism is defined in **MATH_MODEL(RENDER)md · Ω.SGO**.
+corresponding mathematical formalism is defined in **MATH_MODEL(RENDER).md · Ω.SGO**.
 
 ---
 
@@ -4187,7 +4187,7 @@ It delays and localises entropy production.
 
 The system permits indefinite operation **only under continuous external exergy supply**. Performance gains arise from reduced exergy destruction rates and faster organisation of incoming energy, not from energy creation, entropy reversal, or self-sustaining operation.
 
-The analytical representation of this geometry is formalised in the Ω–℧ section of MATH_MODEL(RENDER)md.
+The analytical representation of this geometry is formalised in the Ω–℧ section of MATH_MODEL(RENDER).md.
 
 ---
 
