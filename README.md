@@ -99,25 +99,24 @@ Timestamp Locked · Trace Context Declared
 
 | <kbd>👁️Information Field</kbd> | <kbd>👁️‍🗨General Information</kbd>                                          |
 |---------------------|---------------------------------------------------------------------------------------|
-| Title               |🕴 **<kbd>Polyrifringence-Engine©</kbd>**                                                    |
+| Title               |🕴 **<kbd>Polyrifringence-Engine©</kbd>**                                                |
 | Version Codename    |⓿ AΩ-Seal · ΔΩ-Aligned · Sovereign Node · **Pre-Release**                               |
-| **Latest Content Available**   |📑-**31st December 2025 · MATH_MODEL(RENDER).md · THEORY.md**                 |
-| **Withheld Content Available**   |📑-**Q1 2026 · BENCHMARKS.md · VIEWER.html · Polyrifringence_Engine_v8.10.XX.py**            |
+| **Withheld Content Available**   |📑-**Q1 2026 · BENCHMARKS.md · VIEWER.html · Polyrifringence_Engine_v8.10.XX.py** |
 | Λuthor              |🆔-Conner Brown-Milliken · @MMMDcreator - X.com · @Wotcnt - GitHub                       |
 | Country             |🌏-Λustralia-🇦🇺                                                                         |
-| Manual Anchor Date  |📅-30/12/2025 · Checkpoint                                                               |
+| Manual Anchor Date  |📅-31/12/2025 · Checkpoint                                                               |
 | License             |💳-MIT                                                                                   |
 | 𝛌⃝ambda Ⓛimited─Ⓛicense |📘 **Canon-Bound-Extension ·  Ⓛ**                                                  |
 | Lambda Clearance    |🎫 **Λuthorial ·  Λuthor-Approved** · 🅾️                                                 |
-| DOI Notice          |📑-Pending Submission - _repository serves as preprint reference & repository for Codex Canon Series_  |
+| DOI Notice          |📑-Pending Submission - _repository serves as preprint reference & repository for Codex Canon Series_ |
 | Word Keys           |📟-Recursive Birefringence; GPU optics; Codex Canon; RSANCS; symbolic recursion          |
 | Latest Version Tag  |🧬 _v8.10.xx-prerelease-2025-11-18_                                                      |
 | Hardware Validator  |🧰 RTX 3050 (CUDA 12.1) · i5-4690K · Validated                                           |
 | Canonical Recursive Phase Integrity  |⚿-<kbd>ΔΩ</kbd> · **<kbd>ΔΔΩΔ-Validated</kbd>**                        |
 | Field Class         |🌍 Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
 | **Canonical Caveat**       |🖻 **Newest tagged release supersedes all prior versions**                        |
-| **README Metrics** |⌚ **_~142* min read · ~28,379* words · ~256,392 Chars_** *(manual; last checked 30/12/2025)* |
-> *Metrics are approximate and based on the current revision of this document.*                                   
+| **README Metrics** |⌚ **_~142* min read · ~28,369* words · ~256,081 Chars_** *(manual; last checked 31/12/2025)* |
+> *Metrics are approximate, manually updated at latest convenience and based on the current revision of this document.*                                   
 
 </details>
 
