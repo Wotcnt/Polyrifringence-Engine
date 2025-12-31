@@ -587,7 +587,7 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-# **<strong>—————♻️|What a strange loop it’s been, Möbius|♻️—————</strong>**
+# **<strong>———♻️|What a strange loop it’s been, Möbius|♻️———</strong>**
 
 ---
 
