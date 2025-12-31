@@ -67,7 +67,13 @@ class Gem:
 # -------------------------------------------------------------------------
 # Load / write registry JSON
 # -------------------------------------------------------------------------
-REG_PATH = (Path(__file__).resolve().parent / "../docs/gem_registry.json").resolve()
+REG_PATH = (Path(__file__).resolve().parent / "gem_registry.json").resolve()
+
+if not REG_PATH.exists():
+    raise RuntimeError(
+        f"Canonical gem registry not found at {REG_PATH}. "
+        "This repository requires gem_registry.json at the project root."
+    )
 
 # Meta is stored as top-level keys starting with "_"
 REGISTRY_META: Dict[str, Any] = {}
