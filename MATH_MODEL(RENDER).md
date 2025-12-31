@@ -778,7 +778,7 @@ It restructures recursion geometry.
 |----------|----------|
 | λ small | Slow decay, long exergy persistence |
 | λ large | Fast decay, coherence loss |
-| ΔΩ > λ | Regenerative coherence regime |
+| ΔΩ > λ | Coherence recovery regime |
 | ΔΩ = λ | Coherence freeze |
 | ΔΩ < λ | Classical irreversible decay |
 
