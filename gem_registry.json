@@ -1,0 +1,650 @@
+{
+  "_registry_version": "2.0.0",
+  "_updated": "2025-11-16",
+
+  "jasper": {
+    "A": 1.540,
+    "B": 0.0040,
+    "delta_n": 0.000,
+    "anisotropic": false,
+    "class": "amorphous",
+    "foundation": 1,
+    "symbol": "⬢",
+    "color": "#A0522D",
+    "label": "Jasper (Micro-Quartz)",
+
+    "biblical_name": "Jasper",
+    "modern_name": "Jasper",
+    "aliases": ["Yashpheh"],
+    "notes": "Earth foundation stone; base stability and coherence anchor in Codex recursion.",
+    "tags": ["codex", "foundation", "earth", "stability", "symbolic"],
+    "source": {
+      "domain": "Codex",
+      "origin_epoch": "Ancient",
+      "canonical": true
+    },
+
+    "birefringence_type": "isotropic",
+    "n_486": null,
+    "n_589": 1.540,
+    "n_656": null,
+
+    "x_function": "Mediator",
+    "z_layer": "Symbolic",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "sapphire": {
+    "A": 1.728,
+    "B": 0.0283,
+    "delta_n": 0.008,
+    "anisotropic": true,
+    "class": "anisotropic",
+    "foundation": 2,
+    "symbol": "◇",
+    "color": "#7CC7FF",
+    "label": "Sapphire (Corundum)",
+
+    "biblical_name": "Sapphire",
+    "modern_name": "Corundum (Sapphire)",
+    "aliases": ["Sapir"],
+    "notes": "Water–Air crown crystal; defines polar coherence and Euclid-5 validation axis.",
+    "tags": ["codex", "foundation", "crown", "coherence", "symbolic", "physical"],
+    "source": {
+      "domain": "Codex",
+      "origin_epoch": "Ancient",
+      "canonical": true
+    },
+
+    "birefringence_type": "uniaxial",
+    "n_486": null,
+    "n_589": 1.728,
+    "n_656": null,
+
+    "x_function": "Mediator",
+    "z_layer": "Physical",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "chalcedony": {
+    "A": 1.535,
+    "B": 0.004,
+    "delta_n": 0.000,
+    "anisotropic": false,
+    "class": "isotropic",
+    "foundation": 3,
+    "symbol": "⬣",
+    "color": "#6AA9C9",
+    "label": "Chalcedony",
+
+    "biblical_name": "Chalcedony",
+    "modern_name": "Chalcedony",
+    "aliases": [],
+    "notes": "Water bridge; acts as transition medium between amorphous and crystalline recursion domains.",
+    "tags": ["codex", "foundation", "bridge", "water", "symbolic"],
+    "source": {
+      "domain": "Codex",
+      "origin_epoch": "Ancient",
+      "canonical": true
+    },
+
+    "birefringence_type": "isotropic",
+    "n_486": null,
+    "n_589": 1.535,
+    "n_656": null,
+
+    "x_function": "Mediator",
+    "z_layer": "Symbolic",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "emerald": {
+    "A": 1.577,
+    "B": 0.008,
+    "delta_n": 0.007,
+    "anisotropic": true,
+    "class": "anisotropic",
+    "foundation": 4,
+    "symbol": "♧",
+    "color": "#00E0A4",
+    "label": "Emerald (Beryl)",
+
+    "biblical_name": "Emerald",
+    "modern_name": "Green Beryl (Emerald)",
+    "aliases": ["Smaragdus"],
+    "notes": "Earth harmonic stabilizer; feedback control and recursion balancing node.",
+    "tags": ["codex", "foundation", "earth", "stabilizer", "symbolic"],
+    "source": {
+      "domain": "Codex",
+      "origin_epoch": "Ancient",
+      "canonical": true
+    },
+
+    "birefringence_type": "uniaxial",
+    "n_486": null,
+    "n_589": 1.577,
+    "n_656": null,
+
+    "x_function": "Mediator",
+    "z_layer": "Symbolic",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "sardonyx": {
+    "A": 1.543,
+    "B": 0.004,
+    "delta_n": 0.000,
+    "anisotropic": false,
+    "class": "isotropic",
+    "foundation": 5,
+    "symbol": "⬤",
+    "color": "#C46B50",
+    "label": "Sardonyx",
+
+    "biblical_name": "Sardonyx",
+    "modern_name": "Banded Onyx (Chalcedony var.)",
+    "aliases": ["Onyx Layered"],
+    "notes": "Dual-interface stone; mediates reflection ethics and layer boundaries.",
+    "tags": ["codex", "foundation", "dual", "mediator", "symbolic"],
+    "source": {
+      "domain": "Codex",
+      "origin_epoch": "Ancient",
+      "canonical": true
+    },
+
+    "birefringence_type": "isotropic",
+    "n_486": null,
+    "n_589": 1.543,
+    "n_656": null,
+
+    "x_function": "Mediator",
+    "z_layer": "Symbolic",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "sardius": {
+    "A": 1.543,
+    "B": 0.004,
+    "delta_n": 0.000,
+    "anisotropic": false,
+    "class": "isotropic",
+    "foundation": 6,
+    "symbol": "⬟",
+    "color": "#B22222",
+    "label": "Sardius (Carnelian)",
+
+    "biblical_name": "Sardius",
+    "modern_name": "Carnelian",
+    "aliases": ["Sard", "Odem"],
+    "notes": "Fire origin stone; ignition of recursion and bifurcation seed.",
+    "tags": ["codex", "foundation", "fire", "origin", "symbolic"],
+    "source": {
+      "domain": "Codex",
+      "origin_epoch": "Ancient",
+      "canonical": true
+    },
+
+    "birefringence_type": "isotropic",
+    "n_486": null,
+    "n_589": 1.543,
+    "n_656": null,
+
+    "x_function": "Origin",
+    "z_layer": "Symbolic",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "chrysolite": {
+    "A": 1.650,
+    "B": 0.008,
+    "delta_n": 0.007,
+    "anisotropic": true,
+    "class": "anisotropic",
+    "foundation": 7,
+    "symbol": "⬡",
+    "color": "#B6E75B",
+    "label": "Chrysolite (Peridot)",
+
+    "biblical_name": "Chrysolite",
+    "modern_name": "Peridot (Olivine)",
+    "aliases": ["Tarshish"],
+    "notes": "Aetheral amplifier; harmonic elevation and frequency feedback booster.",
+    "tags": ["codex", "foundation", "aether", "amplifier", "symbolic"],
+    "source": {
+      "domain": "Codex",
+      "origin_epoch": "Ancient",
+      "canonical": true
+    },
+
+    "birefringence_type": "biaxial",
+    "n_486": null,
+    "n_589": 1.650,
+    "n_656": null,
+
+    "x_function": "Transformer",
+    "z_layer": "Symbolic",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "beryl": {
+    "A": 1.578,
+    "B": 0.007,
+    "delta_n": 0.008,
+    "anisotropic": true,
+    "class": "anisotropic",
+    "foundation": 8,
+    "symbol": "⬢",
+    "color": "#50C878",
+    "label": "Beryl (Aquamarine)",
+
+    "biblical_name": "Beryl",
+    "modern_name": "Aquamarine (Blue Beryl)",
+    "aliases": ["Sheshan"],
+    "notes": "Water–Earth anchor; continuity and memory retention in recursive stacks.",
+    "tags": ["codex", "foundation", "anchor", "memory", "symbolic"],
+    "source": {
+      "domain": "Codex",
+      "origin_epoch": "Ancient",
+      "canonical": true
+    },
+
+    "birefringence_type": "uniaxial",
+    "n_486": null,
+    "n_589": 1.578,
+    "n_656": null,
+
+    "x_function": "Transformer",
+    "z_layer": "Symbolic",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "topaz": {
+    "A": 1.620,
+    "B": 0.009,
+    "delta_n": 0.008,
+    "anisotropic": true,
+    "class": "anisotropic",
+    "foundation": 9,
+    "symbol": "⬣",
+    "color": "#FFB347",
+    "label": "Topaz",
+
+    "biblical_name": "Topaz",
+    "modern_name": "Topaz",
+    "aliases": ["Pitdah"],
+    "notes": "Air resonance coupler; dispersion driver and thermo-optic amplifier.",
+    "tags": ["codex", "foundation", "air", "transformer", "symbolic"],
+    "source": {
+      "domain": "Codex",
+      "origin_epoch": "Ancient",
+      "canonical": true
+    },
+
+    "birefringence_type": "biaxial",
+    "n_486": null,
+    "n_589": 1.620,
+    "n_656": null,
+
+    "x_function": "Transformer",
+    "z_layer": "Symbolic",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "chrysoprase": {
+    "A": 1.540,
+    "B": 0.004,
+    "delta_n": 0.000,
+    "anisotropic": false,
+    "class": "amorphous",
+    "foundation": 10,
+    "symbol": "⬢",
+    "color": "#7FFF80",
+    "label": "Chrysoprase",
+
+    "biblical_name": "Chrysoprase",
+    "modern_name": "Chrysoprase (Nickel Chalcedony)",
+    "aliases": ["Chrysoprasos"],
+    "notes": "Water memory buffer; symbolic ↔ physical bridge and bidirectional recursion loop.",
+    "tags": ["codex", "foundation", "memory", "bridge", "symbolic"],
+    "source": {
+      "domain": "Codex",
+      "origin_epoch": "Ancient",
+      "canonical": true
+    },
+
+    "birefringence_type": "isotropic",
+    "n_486": null,
+    "n_589": 1.540,
+    "n_656": null,
+
+    "x_function": "Mediator",
+    "z_layer": "Symbolic",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "jacinth": {
+    "A": 1.923,
+    "B": 0.0135,
+    "delta_n": 0.010,
+    "anisotropic": true,
+    "class": "anisotropic",
+    "foundation": 11,
+    "symbol": "✧",
+    "color": "#FF92DF",
+    "label": "Jacinth (Zircon)",
+
+    "biblical_name": "Jacinth",
+    "modern_name": "Zircon (Hyacinth)",
+    "aliases": ["Hyacinth", "Leshem"],
+    "notes": "Light refractor; spectral calibration and color drift control in Codex stacks.",
+    "tags": ["codex", "foundation", "light", "refractor", "symbolic"],
+    "source": {
+      "domain": "Codex",
+      "origin_epoch": "Ancient",
+      "canonical": true
+    },
+
+    "birefringence_type": "uniaxial",
+    "n_486": null,
+    "n_589": 1.923,
+    "n_656": null,
+
+    "x_function": "Transformer",
+    "z_layer": "Symbolic",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "amethyst": {
+    "A": 1.5426,
+    "B": 0.0041,
+    "delta_n": 0.009,
+    "anisotropic": true,
+    "class": "anisotropic",
+    "foundation": 12,
+    "symbol": "✦",
+    "color": "#B19CD9",
+    "label": "Amethyst (Quartz)",
+
+    "biblical_name": "Amethyst",
+    "modern_name": "Amethyst (Quartz var.)",
+    "aliases": ["Achlamah"],
+    "notes": "Spirit unifier; coherence regulator for quantum–classical convergence.",
+    "tags": ["codex", "foundation", "spirit", "coherence", "symbolic"],
+    "source": {
+      "domain": "Codex",
+      "origin_epoch": "Ancient",
+      "canonical": true
+    },
+
+    "birefringence_type": "uniaxial",
+    "n_486": null,
+    "n_589": 1.5426,
+    "n_656": null,
+
+    "x_function": "Mediator",
+    "z_layer": "Symbolic",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "observer": {
+    "A": 0.000,
+    "B": 0.000,
+    "delta_n": 0.000,
+    "anisotropic": false,
+    "class": "meta",
+    "foundation": 13,
+    "symbol": "ΔΩ",
+    "color": "#FFFFFF",
+    "label": "Observer (ΔΩ Anchor)",
+
+    "biblical_name": "Observer",
+    "modern_name": "ΔΩ Meta-Node",
+    "aliases": [],
+    "notes": "Meta-field architect node; observer-state anchor for recursion and sovereignty enforcement.",
+    "tags": ["codex", "foundation", "meta", "observer", "governance"],
+    "source": {
+      "domain": "Meta",
+      "origin_epoch": "ΔΩ",
+      "canonical": true
+    },
+
+    "birefringence_type": "meta",
+    "n_486": null,
+    "n_589": null,
+    "n_656": null,
+
+    "x_function": "Observer",
+    "z_layer": "Observer",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "diamond": {
+    "A": 2.407,
+    "B": 0.017,
+    "delta_n": 0.000,
+    "anisotropic": false,
+    "class": "isotropic",
+    "foundation": null,
+    "symbol": "⬡",
+    "color": "#7AE582",
+    "label": "Diamond",
+
+    "biblical_name": null,
+    "modern_name": "Diamond",
+    "aliases": [],
+    "notes": "Defines isotropic high-index bound; clarity and dispersion reference.",
+    "tags": ["physical", "calibration", "isotropic", "reference"],
+    "source": {
+      "domain": "Physical",
+      "origin_epoch": "Scientific",
+      "canonical": true
+    },
+
+    "birefringence_type": "isotropic",
+    "n_486": null,
+    "n_589": 2.407,
+    "n_656": null,
+
+    "x_function": "Mediator",
+    "z_layer": "Physical",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "calcite": {
+    "A": 1.6584,
+    "B": 0.0104,
+    "delta_n": 0.172,
+    "anisotropic": true,
+    "class": "anisotropic",
+    "foundation": null,
+    "symbol": "◈",
+    "color": "#A78BFA",
+    "label": "Calcite",
+
+    "biblical_name": null,
+    "modern_name": "Calcite",
+    "aliases": [],
+    "notes": "Maximal birefringence exemplar; phase separator and schism diagnostics.",
+    "tags": ["physical", "calibration", "high_delta_n"],
+    "source": {
+      "domain": "Physical",
+      "origin_epoch": "Scientific",
+      "canonical": true
+    },
+
+    "birefringence_type": "uniaxial",
+    "n_486": null,
+    "n_589": 1.6584,
+    "n_656": null,
+
+    "x_function": "Transformer",
+    "z_layer": "Physical",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "tourmaline": {
+    "A": 1.635,
+    "B": 0.009,
+    "delta_n": 0.020,
+    "anisotropic": true,
+    "class": "anisotropic",
+    "foundation": null,
+    "symbol": "✩",
+    "color": "#FF69B4",
+    "label": "Tourmaline",
+
+    "biblical_name": null,
+    "modern_name": "Tourmaline",
+    "aliases": [],
+    "notes": "High-birefringence polarizer; strong walkoff and nonlinear response testing.",
+    "tags": ["physical", "calibration", "birefringent"],
+    "source": {
+      "domain": "Physical",
+      "origin_epoch": "Scientific",
+      "canonical": true
+    },
+
+    "birefringence_type": "uniaxial",
+    "n_486": null,
+    "n_589": 1.635,
+    "n_656": null,
+
+    "x_function": "Transformer",
+    "z_layer": "Physical",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "fluorite": {
+    "A": 1.433,
+    "B": 0.005,
+    "delta_n": 0.009,
+    "anisotropic": true,
+    "class": "anisotropic",
+    "foundation": null,
+    "symbol": "⬣",
+    "color": "#89CFF0",
+    "label": "Fluorite",
+
+    "biblical_name": null,
+    "modern_name": "Fluorite",
+    "aliases": [],
+    "notes": "Moderate birefringence test gem; dispersion and walkoff behaviour reference.",
+    "tags": ["physical", "calibration", "dispersion"],
+    "source": {
+      "domain": "Physical",
+      "origin_epoch": "Scientific",
+      "canonical": true
+    },
+
+    "birefringence_type": "biaxial",
+    "n_486": null,
+    "n_589": 1.433,
+    "n_656": null,
+
+    "x_function": "Mediator",
+    "z_layer": "Physical",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "obsidian": {
+    "A": 1.490,
+    "B": 0.000,
+    "delta_n": 0.000,
+    "anisotropic": false,
+    "class": "amorphous",
+    "foundation": null,
+    "symbol": "⬟",
+    "color": "#444444",
+    "label": "Obsidian",
+
+    "biblical_name": null,
+    "modern_name": "Obsidian",
+    "aliases": [],
+    "notes": "Amorphous volcanic glass; dark isotropic reference and origin analogue in the physical domain.",
+    "tags": ["physical", "amorphous", "origin_analogue"],
+    "source": {
+      "domain": "Physical",
+      "origin_epoch": "Scientific",
+      "canonical": true
+    },
+
+    "birefringence_type": "isotropic",
+    "n_486": null,
+    "n_589": 1.490,
+    "n_656": null,
+
+    "x_function": "Origin",
+    "z_layer": "Physical",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  },
+
+  "opal": {
+    "A": 1.440,
+    "B": 0.008,
+    "delta_n": 0.020,
+    "anisotropic": true,
+    "class": "anisotropic",
+    "foundation": null,
+    "symbol": "⬢",
+    "color": "#FFFFFF",
+    "label": "Opal",
+
+    "biblical_name": null,
+    "modern_name": "Opal",
+    "aliases": [],
+    "notes": "Hydrated silica with internal structure; chaotic shimmer, used for hybrid Codex–physical recursion tests.",
+    "tags": ["physical", "hybrid", "chaos"],
+    "source": {
+      "domain": "Physical",
+      "origin_epoch": "Scientific",
+      "canonical": true
+    },
+
+    "birefringence_type": "complex",
+    "n_486": null,
+    "n_589": 1.440,
+    "n_656": null,
+
+    "x_function": "Mediator",
+    "z_layer": "Physical",
+    "y_stability_score": null,
+    "y_stability_tier": null,
+    "stability_history": []
+  }
+}
