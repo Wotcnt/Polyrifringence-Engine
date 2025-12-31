@@ -15,7 +15,7 @@ and you explicitly call maybe_auto_compute_stability(...)
 with PVS/REGF/damping data from your benchmark pipeline.
 
 Canonical Codex foundation materials and physical calibration references
-are defined in docs/gem_registry.json and loaded by this module.
+are defined in gem_registry.json at the project root and loaded by this module.
 """
 
 import json
