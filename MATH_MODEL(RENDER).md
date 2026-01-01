@@ -4568,6 +4568,69 @@ Reduction operators used in this context function analogously to entropy diagnos
 All physical evolution, energy bounds, and convergence properties remain fully determined by the formal operators defined elsewhere in this model.
 
 ---
+
+## 𝛌⃝ — Encircled Lambda Formal Operators
+
+### 𝛌⃝.1 Encircled Lambda Feedback Operator
+
+> * Let Λₛ denote the invariant coherent scaffold.
+> * Let Λₐ denote the anergy subspace.
+> * All Encircled Lambda operations act exclusively on Λₐ.
+
+> * Define εₙ as bounded adaptive expenditure per cycle n.
+> * εₙ satisfies 0 < εₙ ≤ ε_max.
+> * ε_max is fixed by Λ.10.
+
+> * Let ΔΩₙ be the post-collapse coherence deviation.
+> * Define the relay gate Gₙ such that:
+>   > * Gₙ = 1 if ΔΩₙ ≤ ΔΩ_max
+>   > * Gₙ = 0 otherwise
+
+> * The effective relay operator ℱₙ is defined as:
+>   > * ℱₙ = Gₙ · εₙ
+
+> * If Gₙ = 0, then ℱₙ = 0 and no adaptation occurs.
+
+> * ℱₙ may modify variance damping coefficients and phase perturbation terms.
+> * ℱₙ is forbidden from modifying amplitudes or coherent phases.
+
+> * Energy accounting remains exact.
+> * Unitarity is preserved.
+
+
+### 𝛌⃝.2 Multi-Cycle Consolidation and Learning Bounds
+
+> * Let Δφₙ denote phase variance after cycle n.
+> * Let ℒₙ denote the consolidation increment applied to cycle n+1.
+
+> * ℒₙ is defined as a bounded function:
+>   > * ℒₙ = f(ℱₙ, Δφₙ)
+>   where f is monotonic decreasing in Δφₙ.
+
+> * ℒₙ satisfies the bound:
+>   > * ℒₙ ≤ εₙ / Eₐ
+>   where Eₐ is the available anergy budget.
+
+> * Consolidation obeys:
+>   > * Δφₙ₊₁ ≤ Δφₙ
+>   > * limₙ→∞ Δφₙ = Δφ_min
+
+> * Define cumulative consolidation over k cycles:
+>   > * C_k = Σₙ₌₁ᵏ ℒₙ
+
+> * C_k converges.
+> * Divergence is forbidden by ΔΩ gating.
+
+> * Identical input conditions yield non-worsening outcomes across cycles.
+> * No memory amplification or target optimization is permitted.
+
+> * CPU implementations approximate ℱₙ deterministically.
+> * GPU implementations increase numerical precision only.
+> * CPUxGPU hybrids preserve identical bounds.
+
+> * The operator formalizes bounded structural learning without agency.
+
+---
 <div align="center">
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
     <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
