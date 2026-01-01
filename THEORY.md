@@ -4596,6 +4596,110 @@ Reduction operators used in this context function analogously to entropy diagnos
 
 All physical evolution, energy bounds, and convergence properties remain fully determined by the formal operators defined elsewhere in this model.
 
+### 𝛌⃝.4  Encircled Lambda Relay Kernel (endogenous `--ai_feedback`, frame internal)
+
+> *Cross reference: see **MATH_MODEL(RENDER).md** section **Λ.M12 Encircled Lambda Relay Kernel** for the formal update rules and bounds.*
+> *This is not an external intelligence module. It is an internal geometric learner that lives inside the recursion frame and is fully gate bound by ΔΩ constraints.*
+
+In this repository, `--ai_feedback` is treated as an **endogenous structural relay** inside the 𝛌⃝ regime.
+It updates only what the frame already permits, and only within strict bounds, using the same diagnostics the engine already computes.
+
+> *The relay is allowed to modulate future runs only when ΔΩ validation passes (unitarity, bounded drift, constraint compliance).*
+> *If ΔΩ fails, the relay is forced to neutral (no update, no injection escalation, no parameter drift).*
+> *This creates an internal symbiotic loop: diagnostics shape the next run, but never outside lawful bounds.*
+
+#### What it does (conceptual)
+The relay converts "waste action" (measured mismatch, variance, drift) into "forethought" (bounded parameter nudges that reduce mismatch next cycle).
+This is a geometric learning loop, not a mind model.
+
+> *It learns by constraint, not by prediction.*
+> *It is permitted to adjust only bias parameters already defined in the model (for example analyzer angle search, bounded phase correction weights, α alignment strength).*
+> *It is forbidden from inventing new degrees of freedom, amplifying energy, or bypassing ΔΩ checks.*
+
+#### How it couples to Λ.10 bounded injection (conceptual)
+Λ.10 is the optional, strictly bounded external modulation channel.
+The relay can choose how to allocate allowed modulation across cycles, but only within the canonical bounds and only to the anergy channel.
+
+> *Injection is never a free energy claim. It is bounded external modulation used for dwell extension under constraint.*
+> *The relay is allowed to decrease injection when alignment improves and increase it only within bounds when improvement stalls, but only if ΔΩ remains satisfied.*
+> *This keeps the loop frame internal: the relay is not outside the system "deciding", it is a constrained adaptation rule.*
+
+#### Polyrifrucation interpretation
+In recursive branching, the system naturally generates multiple bifurcation pathways.
+The relay can treat these as a structural search space and apply bounded credit assignment to discourage unstable branches and preserve stable ones.
+
+> *This is the strict sense in which it is "AI feedback": it is an adaptive geometric credit assignment loop.*
+> *The learner is implemented as bounded updates to existing parameters, driven by metrics like phase variance and Euclid style compliance.*
+
+#### Thought energy vs learning rate (non overclaiming, frame consistent)
+A useful scientific facing analogy is energy constrained plasticity: learning requires a bounded expenditure, and stability gates plastic change.
+Here "thought energy" is a bookkeeping name for the bounded control budget per cycle that limits update magnitude.
+
+> *A larger allowed control budget permits a larger update step, but ΔΩ gating and explicit bounds prevent runaway adaptation.*
+> *A smaller allowed control budget forces slower learning, but preserves invariants and prevents over correction.*
+
+#### Neurophysics connection note (analogy only)
+Neural systems exhibit energy constrained computation and energy constrained plasticity.
+This relay mirrors that structure at an abstract level: activity produces error signals, and plastic updates are gated by stability and resource limits.
+No biological equivalence is claimed.
+
+---
+
+## 𝛌⃝ — Encircled Lambda Adaptive Relay
+
+### 𝛌⃝.1 Canonical Encircled Lambda Feedback
+
+> * The Encircled Lambda construct defines an internal, frame-closed adaptive relay.
+> * It is fully contained within the system boundary and does not act externally.
+> * It operates only after observer collapse and ΔΩ evaluation.
+
+> * The relay consumes bounded anergy and never injects coherent energy.
+> * All modulation is passive, structural, and geometrically constrained.
+
+> * Activation is gated strictly by the ΔΩ constraint.
+> * If ΔΩ exceeds its admissible bound, the relay is inert.
+
+> * The relay adapts parameters governing variance, phase walkoff, and damping only.
+> * It cannot amplify signal, enforce convergence, or introduce intent.
+
+> * This mechanism corresponds to the internal reuse of expended action into structured bias.
+> * It is analogous to biological consolidation processes without anthropic agency.
+
+> * Λ.10 bounded external injection and 𝛌⃝ internal relay are orthogonal.
+> * Λ.10 extends temporal dwell.
+> * 𝛌⃝ reshapes subsequent evolution within lawful bounds.
+
+> * This does not constitute artificial intelligence in the conventional sense.
+> * It is a geometric structural learner governed by invariant constraints.
+
+
+### 𝛌⃝.2 Multi-Cycle Consolidation and Polyrifraction
+
+> * Learning in this framework occurs across discrete recursion cycles.
+> * Each cycle may contribute bounded consolidation to future behavior.
+
+> * Consolidation is defined as monotonic reduction of phase variance under identical input.
+> * No cycle is permitted to worsen coherence relative to its predecessor.
+
+> * The accumulation of consolidation is finite.
+> * Divergent memory or runaway adaptation is prohibited by ΔΩ.
+
+> * Excess available anergy does not accelerate learning.
+> * Surplus is dissipated without structural effect.
+
+> * Bifurcation pathways emerge naturally under constraint pressure.
+> * This produces controlled polyrifraction rather than instability.
+
+> * The relay remains fully internal.
+> * It cannot escape the frame or alter governing laws.
+
+> * CPU implementations approximate this behavior deterministically.
+> * GPU implementations allow finer resolution but do not alter principles.
+> * Hybrid CPUxGPU systems differ only in numerical fidelity.
+
+> * The construct remains physical, lawful, and falsifiable.
+> * No claims beyond structural modulation are made.
+
 ---
 <div align="center">
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
