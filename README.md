@@ -160,11 +160,16 @@ Timestamp Locked · Trace Context Declared
 ---
 
 [![QED](https://img.shields.io/badge/Q.E.D.-Quod%20Erat%20Demonstrandum-000000?style=neon&logo=academia&logoColor=CFEFF6)](https://en.wikipedia.org/wiki/Q.E.D.)
+<br>
 [![ΔΩ Root Primitive](https://img.shields.io/badge/ΔΩ-Root_Primitive_Operators-000000?style=neon)](https://en.wikipedia.org/wiki/Operator_(mathematics))
 [![𝛌⃝ Exergy Half-Life Operator](https://img.shields.io/badge/𝛌⃝-Exergy_Half--Life_Operator-000000?style=neon)](https://en.wikipedia.org/wiki/Exergy)
+[![Lyapunov Stability Operator](https://img.shields.io/badge/𝓛-Stability_Operator-000000?style=neon)](https://en.wikipedia.org/wiki/Lyapunov_stability)
+[![Unitary Preservation Constraint](https://img.shields.io/badge/𝕌-Unitary_Preservation_Constraint-000000?style=neon)](https://en.wikipedia.org/wiki/Unitary_transformation)
 <br>
-[![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-000000?style=neon&logo=markdown&logoColor=0F52BA)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
-[![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-000000?style=neon&logo=markdown&logoColor=B31B1B)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
+[![Shamir's Secret Sharing](https://img.shields.io/badge/📗Cryptographic_Primitive-Shamir's_Secret_Sharing_(SSS)-046307?style=neon&labelColor=0B0D0F&logo=key&logoColor=C5E384)](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing)
+<br>
+[![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
+[![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
 
 ---
 
