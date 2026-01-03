@@ -4027,6 +4027,319 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 ---
 
 <details>
+<summary><strong><kbd>🕵️ Independent Verification & Canonical Behaviour</kbd></strong></summary>
+
+---
+
+## 🅾️ Purpose and Scope
+
+This section defines **how 🌈Polyrifringence is independently verified** and what constitutes **canonical behaviour**.
+
+> 📜Canonical status is **not** conferred by any engine, benchmark, plot, or codebase.  
+> The system is defined *only* by the following three files:
+>
+> **<kbd>📗 README.md (Current File)</kbd>** 
+>
+> [![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-000000?style=neon&logo=markdown&logoColor=0F52BA)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
+> [![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-000000?style=neon&logo=markdown&logoColor=B31B1B)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
+>
+> 🩺 All other artefacts in this repository exist solely to **instantiate, probe, and observe** the canonical structure.  
+> 🚫 They do not redefine, extend, or override it.
+
+---
+
+## 🅾️ What "Canonical" Means in This Project
+
+In this context, *canonical* refers **exclusively** to behaviour that is:
+
+> * 🅾️ derived from the system’s **execution grammar** (ordering + arrow-depth semantics),  
+> * 🅾️ constrained by **admissibility and stability rules** (λ and ΔΩ),  
+> * 🅾️ interpretable through the three primary files listed above.  
+>
+> 📜Canonical status is determined **by behaviour**, not by implementation pedigree.
+>
+> * 🅾️ If an independent implementation preserves ordering, arrow-depth semantics, and λ/ΔΩ constraint logic, then its observed behaviour is canonical - regardless of tooling, language, runtime, hardware, or numeric representation.
+
+---
+
+## 🕵️ Independent Verification
+
+⛑️ Independent verification concerns the **observation of canonical behaviour under constraint**, not agreement with any specific benchmark.
+
+> ☑️ Verification may be performed using any suitable method, including:
+>
+> * 🔲 custom implementations (any language),  
+> * 🔲 numerical or analytical models,  
+> * 🔲 external simulators,  
+> * 🔲 LLM-assisted iterative simulations **with transparent logging**.  
+
+<p align="center">
+  <a href="https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert"
+     target="_blank"
+     rel="noopener noreferrer">
+    <strong>👉 Click to Launch the Polyrifringence Engine Expert(Gem-Line AI-CHATBOT) in a new window</strong>
+  </a>
+</p>
+
+> ✅ A valid verification run includes:
+>
+> * 🔲 explicit ordered recursion or iteration,  
+> * 🔲 injected noise, perturbation, or stress,  
+> * 🔲 sufficient runtime to probe long-horizon behaviour (including multi-seed runs),  
+> * 🔲 reporting of coherence, decay, divergence, recovery, and termination - not just end-state metrics.  
+>
+> 🚫 Exact numeric agreement is neither expected nor required.  
+> ☑️ Agreement in **structural response** and **behavioural signature** is sufficient.
+
+---
+
+## 🅾️ Canonical Behavioural Signature
+
+ ☑️ When the canonical structure is instantiated, independent simulations converge on invariant traits:
+
+> * 🅾️ bounded degradation under stress,  
+> * 🅾️ condition-dependent (regime-linked) response rather than time-based collapse,  
+> * 🅾️ smooth regime entry and exit,  
+> * 🅾️ finite, predictable decay only beyond admissible bounds,  
+> * 🅾️ variance compression preceding mean recovery,  
+> * 🅾️ recovery without reset or reinitialization,  
+> * 🅾️ no cumulative "stress memory" beyond lawful state updates,  
+> * 🅾️ structural consistency across random seeds and perturbations.  
+>
+> 🅾️ These traits are **structural**, not artefacts of tuning or enforcement.  
+> ☑️ They persist because the same execution grammar and constraints are in effect.
+
+---
+
+## 🅾️ Canonical Execution Grammar (Conceptual)
+
+> 🅾️ The execution grammar specifies the **minimal structural conditions** under which the canonical behavioural signature emerges.
+>
+> ☑️ It constrains interpretation and validation - **not** tooling, language, or hardware.
+>
+> ☑️ A single recursion cycle proceeds conceptually as:
+>
+> * 🅾️ parent state → branching exploration → aggregation / recombination → ΔΩ contraction → updated parent state  
+> * 🅾️ Child-beams are exploratory projections, not independent entities.  
+> * 🅾️ All admissible excursions return through aggregation and ΔΩ contraction before the next cycle proceeds.
+>
+> 📜Canonical diagrams and phase-beam graphs are **discovered emergent representations** of admissible structure, not predefined or exhaustively enumerated schematics.
+
+---
+
+## 📋 Explanatory Note → Apparent Acceleration & Structural Recall *(Non-Operative)*
+
+> 🔍 Across repeated cycles, the system may appear to "accelerate" or become more effective.
+>
+> 🚫 This effect does **not** arise from learning, memory, adaptation, stored trajectories, or hidden optimization.
+>
+> 💡 It arises from repeated **ΔΩ contraction**, which progressively eliminates invalid regions of configuration space.  
+> 💡 As inadmissible geometry is removed, admissible structure is re-encountered with fewer exploratory excursions.
+>
+> * ⛔ No parameters are updated  
+> * ⛔ No trajectories are retained  
+> * ⛔ No state is remembered  
+> * ⛔ No optimization process is present  
+>
+> 🔍 What may appear as *learning* is, canonically, **geometric refinement through elimination**, not accumulation.
+>
+> ⛑️ To an external observer, this can resemble intelligence or optimization.  
+> 🐒 This is a **frame error**.
+>
+> * The system does not improve.  
+> * The space collapses.
+
+---
+
+## 📋 Note on Recombination and Variation (Commutativity)
+
+Although <kbd>∳ / <⇄></kbd> (recombination) and <kbd>x⧉</kbd> (variation) are **distinct grammatical operators**, they are **operationally commutable** under <kbd>λ</kbd> and <kbd>ΔΩ</kbd>.
+
+> 💡 Their relative ordering does **not** alter canonical behaviour, provided that:
+>
+> * ☑️  recombination returns admissible structure,  
+> * ☑️  variation remains depth-neutral,  
+> * ☑️  and all continuation, collapse, and termination remain governed by λ and ΔΩ.
+>
+> 💡 The distinction is **grammatical**, not behavioural.
+
+---
+
+## 🅾️ Canonical Constraints (Non-Negotiable)
+
+> * 🅾️ Arrow-depth advances **only** via ordered recursion *<kbd>(∮ → ∱ → ∯ → ∰)</kbd>*  
+> * 🅾️ Film wrapping and gemline permutations expand **configuration space only** (depth-neutral)  
+> *  <kbd><⇄></kbd> is a decision gate, not a recursion stage  
+> *  <kbd>x⧉</kbd> is a variation junction, not recombination  
+> *  **<kbd>λ</kbd>** governs admissible continuation paths  
+> *  **<kbd>ΔΩ</kbd>** enforces stability, collapse, and termination  
+> *  <kbd>Euclid–5</kbd> / EuclidScore are **measured diagnostics**, not assumptions  
+
+---
+
+## 💎 Gem Registry Context
+
+The gem registry defines a canonical **structural abstraction** for organizing phase-beam containers and variation families.
+
+> ✨ Gems bind together:
+>
+> * **<kbd>films</kbd>** ————— single and double wrapping contexts,  
+> * **<kbd>facets</kbd>** ————— orientational partitioning of phase behaviour,  
+> * **<kbd>cuts</kbd>** ————— admissible slicing and constraint surfaces within configuration space.  
+
+> ✨ Gems organize traversal, partitioning, and interaction precedence along phase-beam paths.  
+> 🚫 They do **not** introduce new dynamics, memory, enforcement, or recursion control.
+>
+> 🅾️ All gem structure operates strictly within **<kbd>λ and ΔΩ</kbd>** admissibility logic.  
+> ✨ Ordering and wrapping expand configuration space without altering arrow-depth semantics.
+
+> 💡 Gems function as **configuration equivalence classes** over admissible variation families, not as stateful or dynamic objects.
+> 
+> ☑️ The registry’s optical constants are measurable.  
+> ☑️ Its symbolic structure is organizational.  
+> 🅾️ Its structural role is canonical.
+
+---
+
+## 💡 Interpretation
+
+If the behavioural signature above is observed under the execution grammar and constraints defined here, the following conclusions are warranted:
+
+> * ❎ stability is enforced structurally, not through parameter tuning,  
+> * ❎ degradation is lawful and bounded, not cumulative,  
+> * ❎ recovery behaves as an attractor under ΔΩ contraction, not a repair mechanism,  
+> * ❎ behaviour is domain-agnostic and history-independent **within admissible bounds**.  
+
+🔍 At that point, explanatory detail becomes secondary.
+
+> **_The behaviour itself is the verification._** ☑️
+
+---
+
+## 🅾️ Non-Claims
+
+📜Canonical verification does **not** imply:
+
+> * ⛔ absolute or perfect stability (only lawful, bounded temporal stability),
+> * ⛔ absence of decay or loss (only constrained, admissible decay),
+> * ⛔ identical numerical trajectories across implementations,
+> * ⛔ hidden constants, tuning parameters, or calibration artefacts,
+> * ⛔ the introduction of new physics or exotic mechanisms.
+
+> ⛑️ To observers without the execution grammar, the system may *appear* perfectly stable, lossless, calibrated, or optimized.
+> 🐒 This appearance is a **frame effect** arising from structural constraint and ΔΩ contraction - not from enforcement, memory, or special mechanisms.
+>
+> 🧬 Any emergent regularities or discoveries arise **from the structure itself**, not from the creation of new entities, laws, or assumptions.
+>
+> This work concerns the **structural behaviour of recursive systems under stress**, and nothing beyond that scope.
+
+## 📑Author Note
+> There is no good without the bad - not as a metaphor, but as a structural necessity.
+> Stability is only defined relative to instability; coherence only exists in contrast to dispersion.
+>
+> What observers may interpret as “perfect” behaviour arises precisely because loss, decay, and constraint are present and bounded.
+> Remove those oppositions, and the system ceases to be meaningful.
+>
+> Two sides of the same coin are not alternatives.
+> They are two sides of the same whole.
+>
+> ⚠️ **Summary Rule:**
+>
+> 🅾️ Benchmarks instantiate.  
+> 🅾️ Structure constrains.  
+> 🅾️ Behaviour verifies.
+>
+> _**<kbd>👁️ If you observe the behaviour, you have verified the system ☑️</kbd>**_
+
+---
+
+### 📎 Reference Tables (Canonical)
+### 🌈 Table 1 - Execution Grammar: Process & Configuration   
+### <kbd>∮ ❯ ∱ ❯❯ ∯ ❯❯❯ ∰ ❯❯❯❯ ∳  ❯ { x⧉ , <⇄> }</kbd> <kbd>(±)(±)</kbd> <kbd>🌈 ⟷ 🧲 ⟷ 💎 ⟷ 🎼 ⟷ ⚡ ⟷ ✨</kbd>
+
+---
+
+| Order | Operator | Emoji | Stage               | Primary Role               | Semantic Role (Concise)                             | Arrow-Depth | Film Conditioning | Gem Interaction                                   | Configuration Effect    | Notes               |
+| ----: | :------: | :---: | ------------------- | -------------------------- | --------------------------------------------------- | :---------: | :---------------: | ----------------------------------------------- | ----------------------- | ------------------- |
+| 1 | ∮ | 🌈 | Beam Injection | Entry-state initialization | Totalized phase integration / spectral multiplicity | +1 | (±)(±) | Implicit by structure (explicit by differentiation) | Seeds configuration | Boundary conditions |
+| 2 | ∱ | 🧲 | Focused Beam | Bounded propagation | Bounded circulation / constraint & alignment | +1 | (±)(±) | Implicit by structure (explicit by differentiation) | Expands configuration | No branching |
+| 3 | ∯ | 💎 | Dual / n-Beam Split | Branching surface | Multi-surface coupling / invariant lattice | +1 | (±)(±) | Implicit by structure (explicit by differentiation) | Phase partitioning | Fan-out |
+| 4 | ∰ | 🎼 | Multi-Phase Field | nₓ expansion | Harmonic normalization / phase coherence | +1 | (±)(±) | Implicit by structure (explicit by differentiation) | Multiplicative growth | Later contracted |
+| 5 | ∳ | ⚡ | Recombination Basin | Collection locus | Active modular variation / divergence-with-memory* | -0 | (±)(±) | Implicit by structure (explicit by differentiation) | Aggregation | Mandatory return |
+| 6 | <⇄> | 🔂 | Recombination Gate | Continue / converge | Conditional continuation / collapse decision | -0 | Inherited (constraint-evaluated) | Inherited (gate over gem-conditioned state) | No expansion | λ / ΔΩ |
+| 7 | x⧉ | ✨ | Variation Node | Stage-local variation | Junction recomposition / emergent recombination | -0 | (±)(±) | Implicit by structure (explicit by differentiation) | Configuration expansion | Depth-neutral |
+
+📋 **Note on Gem Interaction**  
+> * 🚫 Gem interaction is never optional. It is **implicit by structure** whenever films, facets, and cuts are present.  
+> * 🅾️ The only conditional aspect is whether gemlines are made **explicit by differentiation** during traversal.  
+> * 🅾️ This explicit resolution expands configuration space but does **not** alter arrow-depth, admissibility, or ΔΩ-governed behaviour.
+
+📋 **Tables Notes**
+> * 🅾️ Arrow-depth advances only through *<kbd>∮ ❯ ∱ ❯❯ ∯ ❯❯❯ ∰ ❯❯❯❯</kbd>* 
+> * 🅾️ Values marked −0 denote dipole-neutral contraction stages: they do not advance depth, but act in opposition to prior positive depth through aggregation, gating, or variation under λ and ΔΩ. This encodes collapse without reversal.
+> * 🅾️ Recombination and variation never advance depth  
+> * 🅾️ All configuration growth is later contracted under ΔΩ  
+> * Although <kbd>∳ / <⇄></kbd> (recombination) and <kbd>x⧉</kbd> (variation)are distinct grammatical operators, 
+> * Their relative ordering does not alter canonical behaviour.
+
+ **Provided that:**
+> * ☑️ Recombination returns admissible structure, variation remains depth-neutral, and all continuation is governed by λ and ΔΩ.
+> * 🅾️ After ∳, variation (<kbd>x⧉</kbd>) and recombination gating (<kbd><⇄></kbd>) may occur in either order and are **operationally commutable** under <kbd>λ</kbd> and <kbd>ΔΩ</kbd>, without affecting canonical behaviour.
+> * ☑️ The distinction is grammatical, not behavioural.
+>
+> * 💡 The phrase **_"divergence-with-memory"_** is semantic shorthand only; no state memory, learning, or retention is implied.
+
+---
+
+### 💎 Table 2 - Film–Gem Configuration Canon
+
+| Film Wrapping | Entry Film(s) | Gem Type | Exit Film(s) | Configuration Effect |
+|---|---|---|---|---|
+| Single-Wrapped | (+) | Anisotropic | (−) | Birefringent conditioning |
+| Single-Wrapped | (+) | Isotropic | (−) | Baseline reference |
+| Single-Wrapped (Swapped) | (−) | Anisotropic | (+) | Inverted ordering |
+| Single-Wrapped (Asymmetric) | (−)/(+) | Mixed | (+)/(−) | Mixed conditioning |
+| Double-Wrapped | (+)(−) | Any | (+)(−) | Symmetric |
+| Double-Wrapped (Order-Preserved) | (+)(+) / (−)(−) | Any | Same | Preserved |
+| Double-Wrapped (Asymmetric) | (−)(+) / (+)(−) | Any | Inverted | Asymmetric |
+
+📋 **Table Notes**
+> * 🔍 <kbd>(±)(±)</kbd> denotes the full symmetry family  
+> * 🔍 Film wrapping conditions **phase only**  
+> * 🔍 Film order never advances arrow-depth  
+> * 🔍 All wrapping is stage-local  
+> * 🔍 Film effects persist as **inherited phase-conditioning** until altered by a subsequent wrapping stage or evaluated by a gate (<kbd><⇄></kbd>); films are never implicitly reset  
+
+---
+
+### 📐 Table 3 - Execution Grammar ⟷ Math Model Mapping
+
+| Grammar Element | Symbol | Mathematical Representation | Role | Notes |
+|---|:---:|---|---|---|
+| Beam Injection | ∮ | ψ₀ | Boundary condition | Entry state |
+| Focused Beam | ∱ | Constrained operator | Bounded evolution | No branching |
+| Beam Split | ∯ | {ψᵢ} | Partition | Phase-space |
+| Phase Field | ∰ | nₓ family | Expansion | Dimensionality |
+| Basin | ∳ | Aggregation | Collection | No decision |
+| Gate | <⇄> | Conditional projection | Continuation / collapse | Evaluates inherited film- and gem-conditioned state under λ / ΔΩ |
+| Variation | x⧉ | Transform family | Variation | Depth-neutral |
+| Film | (+)/(−) | Boundary operators | Phase conditioning | Stage-local application; effects persist by inheritance |
+| Arrow-Depth | >, >> | Index *n* | Ordering | Not magnitude |
+| λ | λ | Constraint | Admissibility | Path validity |
+| ΔΩ | ΔΩ | Contraction | Stability | Collapse |
+| Euclid–5 | — | Diagnostic | Geometry | Measurement |
+
+📋 **Table Notes**
+> * 💡 Tables define correspondence, not implementation  
+> * 💡 Grammar elements describe **evaluation roles**, not operational mechanisms  
+> * ⛔ No row implies state storage, learning, enforcement, or optimization  
+> * 🚫 Diagnostics never govern evolution  
+
+</details>
+
+---
+
+<details>
 <summary><kbd>🌈Gem Profiles & Optical Constants✨</kbd></summary>
 
 ---
