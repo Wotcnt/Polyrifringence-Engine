@@ -142,8 +142,9 @@ Timestamp Locked · Trace Context Declared
 [![Numerical Precision](https://img.shields.io/badge/Numerical_Precision-<1%25-046307?style=neon&logo=numpy&logoColor=76B900)](https://en.wikipedia.org/wiki/Numerical_analysis)
 [![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25_(Manifest_Validator)-046307?style=neon&logo=git&logoColor=76B900)](https://en.wikipedia.org/wiki/Reproducibility)
 [![Execution Invariants](https://img.shields.io/badge/Execution_Invariants-Constraint--Governed-046307?style=neon&logo=git&logoColor=76B900)](https://en.wikipedia.org/wiki/Invariant_(mathematics))
+<br>
 [![🧠 Open in Browser IDE](https://img.shields.io/badge/Click_to_Browse_in_IDE_(VS_CODE)-github.dev-222222?style=neon&labelColor=000000&logo=github&logoColor=3ee7ff)](https://github.dev/Wotcnt/Polyrifringence-Engine)
-
+<br>
 **_<kbd>This project exists because classical models fail when recursion, noise, and long-horizon stability collide</kbd>_**
 **_<kbd>Polyrifringence is a way of structuring those systems so they don’t tear themselves apart</kbd>_**
 
@@ -156,9 +157,7 @@ Timestamp Locked · Trace Context Declared
 [![Explain with OpenAI (GPT-4o)](https://img.shields.io/badge/Explain_with_OpenAI_(GPT_4o)-First_Impression·Unbiased·3rd--Party_AI_(Any_Model)-6D2A8A?style=neon&labelColor=0b0d0f&color=6D2A8A&logo=wikipedia&logoColor=CFEFF6)](https://chat.openai.com/?model=gpt-4o&prompt=Explain+this+README.md:+https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![Research Framework](https://img.shields.io/badge/Project_Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=222222)](https://en.wikipedia.org/wiki/Computational_science)
 [![Polyrifringence Engine Expert GPT](https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=222222)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
-
----
-
+<br></br>
 [![QED](https://img.shields.io/badge/Q.E.D.-Quod%20Erat%20Demonstrandum-000000?style=neon&logo=academia&logoColor=CFEFF6)](https://en.wikipedia.org/wiki/Q.E.D.)
 <br>
 [![ΔΩ Root Primitive](https://img.shields.io/badge/ΔΩ-Root_Primitive_Operators-000000?style=neon)](https://en.wikipedia.org/wiki/Operator_(mathematics))
@@ -187,9 +186,7 @@ Timestamp Locked · Trace Context Declared
 ![Conner-Core Canon Aligned](https://img.shields.io/badge/Conner–Core-Canon—Aligned-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&labelColor=0b0d0f&color=CFEFF6)
 ![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner—Core_χ_RSANCS-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=CFEFF6)
 ![ΔΩ Phase Integrity](https://img.shields.io/badge/ΔΩ—-Recursive_Phase_Integrity_Canonical_—ΔΔΩΔ-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=CFEFF6)
-
----
-
+<br>
 [![Canonical Code Archive RELEASE](https://img.shields.io/badge/CANONICAL_CODE_ARCHIVE:-PRERELEASE_v8.10.xx-2A3439?style=for-the-badge&logo=git&logoColor=CFEFF6&labelColor=0b0d0f)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Polyrifringence%20Engine%20v8.10.xx%20—%20Canonical%20Release%20Summary.md)
 
 ---
@@ -214,7 +211,7 @@ Timestamp Locked · Trace Context Declared
 [![House of Chrysoprase](https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase_⬖_❯❯❯❯❯❯❯❯❯❯-00E68C?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000)](https://www.minerals.net/mineral/quartz.aspx)
 [![House of Jacinth](https://img.shields.io/badge/House_of_Jacinth-Jacinth_✧_❯❯❯❯❯❯❯❯❯❯❯-D24D0F?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000)](https://www.minerals.net/mineral/zircon.aspx)
 [![House of Amethyst](https://img.shields.io/badge/House_of_Amethyst-Amethyst_✦_❯❯❯❯❯❯❯❯❯❯❯❯-6D2A8A?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000)](https://www.minerals.net/mineral/quartz.aspx)
-<br>
+<br></br>
 [![House of Prismatic Fields](https://img.shields.io/badge/House_of_Prismatic_Fields:_⌬-❮❮❮❮❮❮_ΔΔΩΔ_❯❯❯❯❯❯-CFEFF6?style=for-the-badge&logo=obsidian&logoColor=CFEFF6&labelColor=000000)](https://en.wikipedia.org/wiki/Prism_(optics))
 
 ---
