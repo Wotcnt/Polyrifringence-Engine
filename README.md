@@ -4042,8 +4042,8 @@ This section defines **how 🌈Polyrifringence is independently verified** and w
 >
 > **<kbd>📗 README.md (Current File)</kbd>** 
 >
-> [![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-000000?style=neon&logo=markdown&logoColor=0F52BA)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
-> [![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-000000?style=neon&logo=markdown&logoColor=B31B1B)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
+> [![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
+> [![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
 >
 > 🩺 All other artefacts in this repository exist solely to **instantiate, probe, and observe** the canonical structure.  
 > 🚫 They do not redefine, extend, or override it.
