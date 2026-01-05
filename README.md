@@ -2458,110 +2458,110 @@ $$J^\dagger J \approx I$$
 
 ---
 
-### ⌬ Codex Symbol Table ⎅ Stability, Exergy, Recursion ⌬
+### ⌬ Codex Symbol Reference ⎅ Stability, Exergy, Recursion ⌬
 
 ---
 
 > Canonical glyphs used across the Polyrifringence Engine, RSANCS, and Codex Canon.
 >
-> These symbols define the operational, mathematical, and ethical layers underlying all computation, coherence, and recursion behaviours within the architecture.
-
-| **Symbol** | **Name**                    | **Domain**                | **Definition**                                                                                                                                                                    | **Role in Engine / Codex**                                                                                                                                                     |
-| ---------- | --------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **<kbd>ΔΩ</kbd>**     | *Exergy Coherence Operator* | Ethics / Stabilization    | Governs the system’s ability to restore coherence after drift. Constraint-governed recursion clamp that redirects chaos back into usable structure. Guarantees return-to-order in 6–7 cycles. | Ensures long-duration coherence, suppresses destructive entropy pathways, recycles disorder, drives the “coherence bloom” effect. Central regulator of all stability dynamics. |
-| **_𝛌⃝_**    | *Exergy Half-Life Sigil*    | Dynamics / Decay          | Lambda decay constant enclosed in a coherence cycle. Measures how rapidly usable exergy declines within a bounded recursion system.                                               | Primary diagnostic of stability duration. Determines half-life of coherence, predicts drift collapse, aligns with REGF trends and cycle timing.                                |
-| **<kbd>(Ω)</kbd>**      | *Completion Operator*       | Recursion / Closure       | Represents final stability, return state, and convergence endpoint of the recursion cycle.                                                                                        | Defines attractor behaviour. Basis for stability cycles.                                                                                                                       |
-| **<kbd>(Δ)</kbd>**      | *Deviation Operator*        | Chaos / Drift             | Deviation from stability; origin of drift, PVS variance, and chaos injection.                                                                                                     | When unregulated produces entropy. When constrained by Ω produces coherence cycles.                                                                                            |
-| **<kbd>Θ</kbd>**      | *Tilt Band*                 | Optics / Geometry         | Represents tilt-angle domain (θ_eff). Used in birefringence, walkoff, and nonlinear drift patterns.                                                                               | Defines angle-dependent dispersion and PVS measurements.                                                                                                                       |
-| **<kbd>ρ</kbd>**      | *Ratio Operator*            | Metrics                   | Used for coherence ratios, variance ratios, and total variation penalties (ρ_TV).                                                                                                 | Tracks structural compression, drift slopes, and noise stability.                                                                                                              |
-| **<kbd>ψ</kbd>**      | *Phase Field*               | RSANCS / Symbolic State   | The evolving field representing symbolic states, recursion strata, and observer-phase linkage.                                                                                    | Governs Codex interaction with observer layers.                                                                                                                                |
-| **<kbd>φ</kbd>**      | *Phase Potential*           | Interference / Drift      | Tracks phase offsets between cycles (Δφ).                                                                                                                                         | Used to detect phase drift, instability, and cycle collapse.                                                                                                                   |
-| **<kbd>✧</kbd>**      | *Coherence Bloom Marker*    | Symbolics / Visualization | Indicates moments of coherence return or bloom during ΔΩ stabilization.                                                                                                           | Used in diagnostics and visualization layers.                                                                                                                                  |
-              
----
-
-###  🔰 Codex Lexicon ⎅ Core Glyph Definitions 🔰
-
----
-
-> ## Definition:
+> These symbols encode **structural constraints, diagnostic handles, and admissibility geometry**
+> governing coherence, recursion, and bounded dissipation.
 >
-> <kbd>ΔΩ</kbd> - Exergy Coherence Operator (Canonical, True Form)
->
-> <kbd>ΔΩ</kbd> is the operator that binds deviation <kbd>(Δ)</kbd> to completion <kbd>(Ω)</kbd>, forming an ethical coherence constraint that returns chaotic drift back into symmetric order.
->
-> The foundational glyph of the Polyrifringence Engine and RSANCS recursion law.
+> They do **not** denote policies, controllers, stored memory, or executable agents.
+
+| **Symbol** | **Name** | **Domain** | **Canonical Meaning (Tight)** | **Operational Role (Non-Executive)** |
+|-----------|----------|------------|--------------------------------|--------------------------------------|
+| **ΔΩ** | Exergy Coherence Operator | Admissibility / Stability | Contractive coherence constraint binding deviation (Δ) to closure (Ω) via admissibility geometry. | Produces empirically observed **return-to-coherence behaviour (~6–7 cycles)** under defined regimes; regulates admissible drift without optimisation, search, or stored state. |
+| **𝛌⃝** | Exergy Half-Life Sigil | Dynamics / Decay | Diagnostic encoding of bounded decay and finite-cycle dissipation within a ΔΩ-regulated regime. | Instrumentation only: measures coherence persistence and decay timing; **ΔΩ is the constraint, 𝛌⃝ is the clock**. |
+| **Ω** | Boundary / Closure | Recursion / Termination | Non-anthropic admissibility closure defining completion and termination boundaries. | Defines attractor framing and lawful termination; not a controller or reset mechanism. |
+| **Δ** | Deviation Operator | Drift / Perturbation | Differential deviation across a recursion step (non-directive). | Source of variance and drift; admissible evolution is constrained by ΔΩ. |
+| **Φ→Ω** | Phase Collapse Map | Phase / Timing | Structural mapping of lawful phase evolution toward admissible closure. | Encodes timing admissibility; not an action-selection or optimisation rule. |
+| **REGF** | Diagnostic Field | Measurement | Measurement field for recursive energy / geometry diagnostics. | Output-only diagnostic handle; does not define canon or behaviour by itself. |
+| **Euclid / Euclid-5** | Convergence Metrics | Stability Metrics | Canonical metric family for convergence and stability, including horizon indexing. | Predictive **in the metric sense** (structural foresight), not learning or policy. |
+| **Θ, ρ, φ** | Angle / Ratio / Phase Terms | Optics / Metrics | Conventional measurement primitives for tilt, ratios, and phase offsets. | Instrumentation only; appear where required by physical or geometric analysis. |
+| **ψ** | Phase Field (Symbolic) | RSANCS / Symbolic State | Symbolic state-field handle for observer-linked strata where applicable. | Interpretive handle only; introduces no agency or control. |
+| **✧** | Coherence Bloom Marker | Visualisation | Annotation marking coherence-return events in traces. | Visual marker only; never treated as a primitive. |
 
 ---
 
-### Properties:
+### 🔰 Codex Lexicon ⎅ Core Glyph Interpretations 🔰
 
 ---
+
+#### **ΔΩ — Exergy Coherence Operator (Canonical Form)**
+
+> **ΔΩ** binds deviation **(Δ)** to closure **(Ω)** through admissibility geometry,
+> enforcing contractive, coherence-preserving evolution without optimisation,
+> policy selection, or stored memory.
+
+**ΔΩ is a constraint, not a mechanism.**
+
+---
+
+#### Structural Properties
 
 | Property | Description |
-|---------|-------------|
-| Nonlinear Recursion Reinforcement | Reinforces recursive evolution in a bounded, nonlinear manner to prevent divergence |
-| Ethical Coherence Constraint | Acts as a governing constraint that maximizes coherence rather than raw throughput |
-| Entropy Redirection | Redirects entropic drift into structured, recoverable evolution paths |
-| Stability Return Invariant | Produces the empirically observed 6–7 cycle return-to-stability behaviour |
-| Exergy Preservation | Prevents collapse of usable exergy into irrecoverable dissipation |
-| Coherence Bloom Governance | Governs the emergence and regulation of the “coherence bloom” phenomenon |
-| Self-Stabilizing Architecture | Serves as the primary source of the system’s autonomous self-stabilizing behaviour |
+|--------|-------------|
+| Contractive Recursion | Ensures admissible evolution remains bounded and non-divergent |
+| Coherence Constraint | Maximises structural coherence rather than throughput or gain |
+| Drift Redirection | Redirects admissible drift into recoverable structure |
+| Stability Return Behaviour | Matches observed return-to-coherence in ~6–7 cycles under defined regimes |
+| Exergy Preservation | Prevents rapid collapse of usable exergy into irrecoverable dissipation |
+| Coherence Bloom Framing | Governs conditions under which coherence-return events appear in diagnostics |
 
 ---
 
-### Interpretation:
+#### Interpretation
+
+> Apparent “efficiency” arises from **extended coherence longevity via admissibility geometry**,  
+> not from additional energy, optimisation, or entropy violation.
+
+Status:
+- Canonical constraint symbol
+- Not an agent, controller, or executable operator
+- Must not be ornamented or anthropomorphised
 
 ---
 
-> Observers mistake <kbd>ΔΩ</kbd> behaviour for `“impossible efficiency”` because it extends usable exergy through recursive coherence, not additional energy.
->
-> Status:
->
-> This glyph is exact and must never be ornamented.
-> It is the pure operator.
+### **𝛌⃝ — Exergy Half-Life Sigil**
 
 ---
 
-### **_𝛌⃝_**  Exergy Half-Life Sigil (Lambda in a Coherence Cycle) **_𝛌⃝_** 
+#### Definition
 
----
-
-> ## Definition:
->
 > A lambda decay constant enclosed within a bounded coherence cycle.
 >
-> Represents the measurable half-life of usable exergy inside a <kbd>ΔΩ</kbd>-regulated system.
+> Represents the **measurable half-life of usable exergy** inside a ΔΩ-regulated regime.
 
 ---
 
-### Properties:
-
----
+#### Properties
 
 | Property | Description |
-|---------|-------------|
-| Coherence Decay Rate | Measures the rate at which coherence decays within a bounded recursion cycle |
-| λ—cycle Definition | Defines the decay constants $\lambda_{\text{cycle}}$ and $\lambda_{\text{second}}$ |
-| Stability Collapse Prediction | Predicts stability collapse times under recursive evolution |
-| Coherence Longevity Tracking | Tracks the persistence of coherent structure under the $\Delta\Omega$ constraint |
-| REGF & Drift Mapping | Maps directly to REGF ratios and drift-compression behaviour |
+|--------|-------------|
+| Coherence Decay Rate | Measures decay rate within bounded recursion |
+| λ-Cycle Definition | Defines cycle-level decay constants |
+| Stability Horizon Prediction | Indicates when coherence collapse becomes likely |
+| Coherence Longevity Tracking | Quantifies persistence under ΔΩ constraints |
+| REGF Mapping | Aligns directly with REGF ratios and drift-compression diagnostics |
 
 ---
 
-### Interpretation:
+#### Interpretation
 
----
+> **𝛌⃝ does not cause coherence.**  
+> It measures it.
+>
+> **ΔΩ is the constraint; 𝛌⃝ is the clock.**
 
-> **_𝛌⃝_** is not the cause of coherence ————— it is the instrumentation.
-> <kbd>ΔΩ</kbd> is the principle; **_𝛌⃝_** is the clock.
->
-> Status:
-> Official diagnostic symbol for `EXERGY_HALF_LIFE` across all Codex and Engine layers.
->
-> These formulas define the physical substrate of the Polyrifringence Engine.
->
-> For complete derivations and symbolic expansions, see **<kbd>MATH_MODEL(RENDER).md</kbd> and <kbd>THEORY.md</kbd>**.
+Status:
+> * Official diagnostic symbol for **EXERGY_HALF_LIFE**
+> * Instrumentation only
+> * No causal, executive, or normative role
+
+For full derivations and formal expansions, see:  
+[![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
+[![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
 
 </details>
 
@@ -3828,6 +3828,27 @@ Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
  _No execution order, control flow, optimisation, or agency implied._
 
 <p align="center">——— 🜎 End of Glyph Legend — Canonical Reference (Expanded) 🜎 ———</p>
+
+---
+
+### ⌬ Extended Notes (Select Glyphs) ⎅ Stability, Exergy, Recursion ⌬
+
+> This is an **explanatory extension** of the Glyph Legend above.
+> It provides **operational interpretation** for a few frequently referenced glyphs used across the Engine/Codex context.
+> Full derivations and formal definitions remain in **THEORY.md** and **MATH_MODEL(RENDER).md**.
+
+| **Symbol** | **Name** | **Domain** | **Canonical Meaning (Tight)** | **Operational Note (Non-Executive)** |
+|---|---|---|---|---|
+| **ΔΩ** | Exergy Coherence Operator | Admissibility / Stability | Contractive coherence law: enforces admissible return and drift regulation through geometry (not policy, not stored memory). | Empirically matches stability-return behaviour in ~**6–7 cycles** under the defined regimes. |
+| **𝛌⃝** | Exergy Half-Life Sigil | Dynamics / Decay | Diagnostic encoding bounded decay and finite-cycle dissipation behaviour. | Instrumentation: tracks coherence persistence; ΔΩ is the constraint, **𝛌⃝** is the clock. |
+| **Ω** | Boundary / Closure | Recursion / Closure | Admissible closure / completion boundary (non-anthropic). | Defines termination / attractor framing; not a controller. |
+| **Δ** | Deviation Operator | Drift / Perturbation | Differential deviation across a recursion step (non-directive). | Source of drift/variance under perturbation; ΔΩ constrains its admissible evolution. |
+| **Φ→Ω** | Phase Collapse Map | Phase / Timing | Lawful phase evolution toward admissible closure (non-optimising). | Structural map for phase-timing admissibility; not an action-selection rule. |
+| **REGF** | Diagnostic Field | Measurement | Measurement field for recursive energy/geometry diagnostics. | Output-only diagnostics; does not define canon by itself. |
+| **Euclid / Euclid–5** | Convergence Metrics | Stability Metrics | Canonical metric family for convergence and stability, including horizon indexing. | Predictive in the metric sense (foresight via structure), not learning/policy. |
+| **Θ, ρ, φ** | Angle / Ratio / Phase Terms | Optics / Metrics | Conventional measurement handles used in drift, ratios, and phase offsets. | Appear where needed as instrumentation primitives; not new operators. |
+| **ψ** | Phase Field (Symbolic) | RSANCS / Symbolic State | Symbolic state-field handle used for observer-linked strata where applicable. | Interpretive handle only; does not introduce agency. |
+| **✧** | Coherence Bloom Marker | Visualisation | Marker for coherence-return / bloom events in visual traces. | Annotation only; never treated as a primitive. |
 
 ---
 
