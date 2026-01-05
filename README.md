@@ -3714,59 +3714,125 @@ Each configuration conditions phase-state on **entry and exit** of the same stag
 ---
 
 ### 📘 Polyrifringence Coined Word Family Codex  
-> **A 26-Term Ontology Table (Two Rings of 13)**
-
 <p><em>
 A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 </em></p>
 
----
-
-> #### 🜎 Ring One — Foundational Forms (13)
-
-| **Glyph** | **Term**              | **Category**       | **Definition (Concise)**                                                                    |
-| --------- | --------------------- | ------------------ | ------------------------------------------------------------------------------------------- |
-| ⌥         | **Polyrifringence**   | Core Phenomenon    | The central phenomenon of multi-path symbolic bifurcation and recursive spectral emergence. |
-| ⎇         | **Polyrifrication**   | Process            | The process or act of becoming polyrifringent.                                              |
-| ⎇         | **Polyrifrucation**   | Divergence Event   | A branching moment where the system diverges into multiple symbolic paths.                  |
-| ⎇         | **Polyrifringent**    | Property (State)   | Exhibiting or embodying polyrifringence.                                                    |
-| ⎇         | **Polyrifricate**     | Action             | To induce or undergo polyrifrication.                                                       |
-| ⎇         | **Polyrifrucate**     | Action (Split)     | To initiate or undergo polyrifrucation; splitting into resonant trajectories.               |
-| ⎇         | **Polyrifrical**      | Style / Quality    | Stylistically aligned with polyrifringent traits.                                           |
-| ⎇         | **Polyrifringently**  | Mode               | In a manner that expresses or performs polyrifringence.                                     |
-| ⎇         | **Polyrifricity**     | Degree             | The measurable degree or quality of polyrifringent behaviour.                               |
-| ⎇         | **Polyrifron**        | Unit / Agent       | A symbolic unit or agent within a polyrifringent system.                                    |
-| ⎇         | **Polyrifrosophy**    | Philosophy         | The philosophical framework derived from polyrifringent principles.                         |
-| ⎇         | **Polyrifractal**     | Recursive Geometry | Fractal-like recursive structures within polyrifringent fields.                             |
-| ⎇         | **Polyrifringoscope** | Instrument         | A device or interface for detecting or visualizing polyrifringence.                         |
-
-> <p align="center">——— 🜎 End of Ring One — 13 Entries 🜎 ———</p>
+Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
 
 ---
 
-> #### 🜎 Ring Two — Derived & Operational Forms (13)
+> #### 🜎 Ring One — Foundational Forms 
 
-| **Glyph** | **Term**             | **Category**         | **Definition (Concise)**                                                                             |
-| --------- | -------------------- | -------------------- | ---------------------------------------------------------------------------------------------------- |
-| ⎇         | **Polyrifringogram** | Output Map           | A mapped diagnostic signature of polyrifringent behaviour.                                           |
-| ⎇         | **Polyrifringic**    | Internal Dynamics    | Pertaining to internal mechanics of polyrifringence.                                                 |
-| ⎇         | **Polyrifringal**    | External Expression  | Relating to outward or systemic manifestations.                                                      |
-| ⎇         | **Polyrifringency**  | State                | A fluid noun denoting the presence or condition of polyrifringence.                                  |
-| ⎇         | **Polyrifronaut**    | Role                 | One who navigates, engages with, or explores polyrifringent space.                                   |
-| ⎇         | **Polyrifringesis**  | Genesis              | The emergence or creation of polyrifringent states.                                                  |
-| ⎇         | **Polyrifrognosis**  | Predictive Insight   | Anticipatory understanding of future recursion cycles (Euclid—5 convergence foresight).             |
-| ⎇         | **Polyriframetry**   | Measurement          | Quantification of recursive birefringence diagnostics (REGF, PVS, Euclid-drift).                    |
-| ⎇         | **Polyrifrolysis**   | Controlled Breakdown | The controlled dissolution of polyrifringent recursive structures.                                   |
-| ⎇         | **Polyrifsemantic**  | Symbolic Meaning     | Symbolic meaning encoded in recursive phase-geometry transformations.                                |
-| ⎇         | **Polyrifvector**    | State Vector         | A recursion state-vector representing the evolution of nₓ-phase structures.                          |
-| ⎇         | **Polyrifretic**     | Stability Profile    | Describes systems that damp or resist unwanted recursive amplification (Ethical Recursion-aligned). |
-| ⎇         | **Polyrifjunction**  | Junction Node        | A convergence/divergence node where multiple recursive pathways meet within x⧉ / ⇄ loci.            |
+| **Glyph**        | **Term**              | **Category**       | **R\|L** | **Definition (Canonical Brief)**                                                            |
+| ---------------- | --------------------- | ------------------ | ------- | ------------------------------------------------------------------------------------------- |
+| ⌥ · ΔΩ           | **Polyrifringence**   | Core Phenomenon    | R1\|L1  | The central phenomenon of multi-path symbolic bifurcation and recursive spectral emergence. |
+| ⎇ · ΔΩ           | **Polyrifrication**   | Process            | R1\|L2  | The process or act of becoming polyrifringent.                                              |
+| ⎇ · ⇄            | **Polyrifrucation**   | Divergence Event   | R1\|L3  | A branching moment where the system diverges into multiple symbolic paths.                  |
+| ⎇ · ΔΩ           | **Polyrifringent**    | Property (State)   | R1\|L1  | Exhibiting or embodying polyrifringence.                                                    |
+| ⎇ · ΔΩ           | **Polyrifricate**     | Action             | R1\|L2  | To induce or undergo polyrifrication.                                                       |
+| ⎇ · ⇄            | **Polyrifrucate**     | Action (Split)     | R1\|L3  | To initiate or undergo polyrifrucation; splitting into resonant trajectories.               |
+| ⎇ · ΔΩ           | **Polyrifrical**      | Style / Quality    | R1\|L2  | Stylistically aligned with polyrifringent traits.                                           |
+| ⎇ · ΔΩ           | **Polyrifringently**  | Mode               | R1\|L2  | In a manner that expresses or performs polyrifringence.                                     |
+| ⎇ · REGF         | **Polyrifricity**     | Degree             | R1\|L4  | The measurable degree or quality of polyrifringent behaviour.                               |
+| ⎇ · x⧉           | **Polyrifron**        | Unit / Agent / Locus      | R1\|L4  | A symbolic unit or agent within a polyrifringent system.                                    |
+| ⎇ · Ω            | **Polyrifrosophy**    | Philosophy         | R1\|L13 | The philosophical framework derived from polyrifringent principles.                         |
+| ⎇ · fractal ΔΩ   | **Polyrifractal**     | Recursive Geometry | R1\|L5  | Fractal-like recursive structures within polyrifringent fields.                             |
+| ⎇ · scope ⧉      | **Polyrifringoscope** | Instrument         | R1\|L8  | A device or interface for detecting or visualizing polyrifringence.                         |
 
-> <p align="center">——— 🜎 End of Ring Two — 13 Entries · Total = 26 🜎 ———</p>
+<p align="center">——— 🜎 End of Ring One — 13 Entries 🜎 ———</p>
+
+---
+
+> #### 🜎 Ring Two — Derived & Operational Forms 
+
+| **Glyph**              | **Term**             | **Category**         | **R\|L** | **Definition (Canonical Brief)**                                                                     |
+| ---------------------- | -------------------- | -------------------- | ------- | ---------------------------------------------------------------------------------------------------- |
+| ⎇ · REGF               | **Polyrifringogram** | Output Map           | R2\|L9  | A mapped diagnostic signature of polyrifringent behaviour.                                           |
+| ⎇ · ΔΩ                 | **Polyrifringic**    | Internal Dynamics    | R2\|L5  | Pertaining to internal mechanics of polyrifringence.                                                 |
+| ⎇ · ⇄                  | **Polyrifringal**    | External Expression  | R2\|L6  | Relating to outward or systemic manifestations.                                                      |
+| ⎇ · ΔΩ                 | **Polyrifringency**  | State                | R2\|L1  | A fluid noun denoting the presence or condition of polyrifringence.                                  |
+| ⎇ · x⧉                 | **Polyrifronaut**    | Role                 | R2\|L10 | One who navigates, engages with, or explores polyrifringent space.                                   |
+| ⎇ · ΔΩ                 | **Polyrifringesis**  | Genesis              | R2\|L2  | The emergence or creation of polyrifringent states.                                                  |
+| ⎇ · Euclid–5           | **Polyrifrognosis**  | Predictive Insight   | R2\|L11 | Anticipatory understanding of future recursion cycles (Euclid–5 convergence foresight).             |
+| ⎇ · REGF · Euclid      | **Polyriframetry**   | Measurement          | R2\|L11 | Quantification of recursive birefringence diagnostics (REGF, PVS, Euclid-drift).                    |
+| ⎇ · ΔΩ · 𝛌⃝            | **Polyrifrolysis**   | Controlled Breakdown | R2\|L7  | The controlled dissolution of polyrifringent recursive structures.                                   |
+| ⎇ · Ω                  | **Polyrifsemantic**  | Symbolic Meaning     | R2\|L12 | Symbolic meaning encoded in recursive phase-geometry transformations.                                |
+| ⎇ · nₓ · x⧉            | **Polyrifvector**    | State Vector         | R2\|L5  | A recursion state-vector representing the evolution of nₓ-phase structures.                          |
+| ⎇ · ΔΩ                 | **Polyrifretic**     | Stability Profile    | R2\|L5  | Describes systems that damp or resist unwanted recursive amplification (Ethical Recursion-aligned). |
+| ⎇ · ⇄ · x⧉            | **Polyrifjunction**  | Junction Node        | R2\|L6  | A convergence/divergence node where multiple recursive pathways meet within x⧉ / ⇄ loci.            |
+
+<p align="center">——— 🜎 End of Ring Two — 13 Entries 🜎 ———</p>
+
+---
+
+> #### 🜎 Ring Three — Structural & Admissibility Operators 
+
+| **Glyph**              | **Term**                  | **Category**                    | **R\|L**  | **Definition (Canonical Brief)**                                                                                                   |
+| ---------------------- | ------------------------- | ------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------- |
+| ⎇ · ΔΩ                | **Polyriablation**        | Core Admissibility Operator     | R3\|L0   | Recursive structural non-admission of inadmissible state-space regions, eliminating divergence without explicit search / policy / stored memory. (SGO) |
+| ⎇ · 𝛌⃝                | **Polyribound**           | Constraint Envelope             | R3\|L0   | The finite admissibility envelope defining allowable recursion depth, variance, decay, and convergence behaviour.         |
+| ⎇ · Ω                 | **Polyriframe**           | Observer Boundary               | R3\|L−0  | The non-anthropic boundary condition that defines admissibility, interpretive limits, and execution context.               |
+| ⎇ · ΔΩ                | **Polyricoherence**       | Invariant Scaffold              | R3\|L1   | The invariant coherent structure preserved across cycles while dynamic anergy undergoes bounded excursion and dissipation.|
+| ⎇ · ΔΩ                | **Polyridrift**           | Permissible Deviation           | R3\|L2   | Lawful deviation within admissible bounds that remains contractive under ΔΩ enforcement.                                  |
+| ⎇ · ΔΩ                | **Polyriflow**            | Admissible Evolution            | R3\|L3   | The lawful evolution of system trajectories confined to the admissible region across recursive cycles.                    |
+| ⎇ · ΔΩ · 𝛌⃝            | **Polyricycle**           | Finite Recursion Unit           | R3\|L4   | A complete admissible recursion loop with predictable contraction, decay, and convergence characteristics.                |
+| ⎇ · Ω                 | **Polyrisource**          | Invariant Origin Constraint     | R3\|L−0  | The invariant admissible reference state from which recursive excursions are defined and to which admissible evolution remains structurally anchored, without reset, correction, or stored memory. |
+| ⎇ · 𝛌⃝ · Ω             | **Polyricessation-limit** | Lawful Termination Boundary     | R3\|L7   | The structural admissibility boundary at which recursive evolution lawfully ceases, producing localised termination without error, agency, optimisation, or global instability. |
+| ⎇ · ΔΩ                | **Polyrisignature**       | Behavioural Invariant           | R3\|L5   | The reproducible behavioural pattern uniquely determined by enforcement of the full constraint regime.                    |
+| ⎇ · scope ⧉            | **Polyriscope**           | Admissible State Space          | R3\|L1   | The total region of state-space rendered permissible by execution grammar and boundary conditions.                          |
+| ⎇ · ΔΩ · x⧉            | **Polyriphase**           | Phase Admissibility             | R3\|L4   | The admissible timing structure governing when state transitions may lawfully occur within a recursion cycle.             |
+| ⎇ · ΔΩ                | **Polyrilock**            | Irreversibility Constraint      | R3\|L6   | Structural enforcement that prevents re-admission of ablated regions without memory. No stored-memory hysteresis             |
+
+<p align="center">——— 🜎 End of Ring Three — 13 Irreducible Operators (Locked) · Total = 39 🜎 ———</p>
+
+---
+
+> #### 🜎 Glyph Legend — Canonical Symbol Reference 
+
+| **Glyph** | **Name / Handle** | **R\|L** | **Canonical Brief Meaning** |
+| --------- | ----------------- | ------- | --------------------------- |
+| ⌥         | Primary Operator  | R0\|L1  | Denotes the core, defining phenomenon of the system (root-level construct). |
+| ⎇         | Polyri Operator   | Null\|Null | Marks a polyrifringent-derived construct; a frame-level qualifier applying across rings and layers without execution, admissibility, or causal role. |
+| Δ         | Delta Operator    | R0\|L2 | Indicates differential change across a recursion step (non-directive). |
+| ΔΩ        | Coherence Operator| R3\|L0–4| Governs coherence contraction, admissibility enforcement, and drift regulation. |
+| Ω         | Boundary / Closure| R3\|L−0 | Represents non-anthropic observer boundary and invariant closure. |
+| AΩ        | Absolute Boundary | R3\|L−0 | Absolute, non-extendable admissibility closure. |
+| 𝛌⃝        | Decay / Half-Life | R3\|L0–7| Encodes bounded decay, exergy half-life, and finite-cycle dissipation behaviour. |
+| Φ→Ω       | Phase Collapse Map| R3\|L3–4| Lawful phase evolution collapsing toward admissible closure (non-optimising). |
+| ⇄         | Divergence Node   | R1–2\|L3–6 | Branching, convergence, and multi-path transition loci. |
+| x⧉        | Phase Locus       | R1–3\|L4 | Phase-indexed recursion locus; unit- or cycle-local state reference. |
+| scope ⧉   | Admissible Region | R3\|L1 | Total admissible state-space under execution grammar constraints. |
+| REGF      | Diagnostic Field  | R1–2\|L4–11 | Recursive Energy / Geometry Field for measurement and diagnostics. |
+| Euclid    | Convergence Metric| R2\|L5–11 | Canonical convergence and stability metric family. |
+| Euclid–5  | Horizon Index     | R2\|L11 | Predictive convergence depth for structural foresight (non-learning). |
+| nₓ        | Phase Index       | R2–3\|L4 | Discrete phase-count or recursion index within a polyricycle. |
+| IC        | Initial Conditions| R3\|L0 | Admissible recursion entry configuration without bias or memory. |
+| ET        | Execution Trace   | R2–3\|L3–7 | Lawful trace of admissible evolution across recursive cycles. |
+| ΓΩ        | Monotonicity Operator | R3\|L1–5 | Conceptual operator denoting monotonic admissibility refinement under fixed regime. |
+| Λ         | Clearance Symbol  | R0\|L13 | Interpretive or symbolic access marker (non-executive). |
+| fractal ΔΩ| Recursive Geometry| R1–3\|L5 | ΔΩ-governed self-similar recursive geometric structure. |
+| ⌀         | Null Layer        | R3\|L⌀ | Denotes absence of admissible evolution (frame-only state). |
+| −0        | Negative Zero     | R3\|L−0 | Invariant boundary/origin layer without dynamic evolution. |
+
+ **R|L Indexing Rule:**
+> * Composite structural index where R denotes categorical ring membership 
+> * and L denotes admissibility depth. 
+
+**Indexing-only structural convention:**
+> * Symbols such as −0 and ⌀ denote invariant or null structural layers within admissibility space.
+> * They encode source, boundary, or absence properties for layering and phase-relative structure.
+> * But are not algebraic quantities, operators, or executable mathematical primitives.
+> * **_Structurally descriptive, property-denoting, non-algebraic primitives_**
+
+ _No execution order, control flow, optimisation, or agency implied._
+
+<p align="center">——— 🜎 End of Glyph Legend — Canonical Reference (Expanded) 🜎 ———</p>
 
 ---
 
 ### <kbd>🌈</kbd> Conceptual Closure
+ **_Internal frame handle for viewers outside the frame_**
 
 ---
 
@@ -3774,12 +3840,14 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 > *“many-fold refraction that remembers itself.”*
 > 
 > When light is allowed to remember itself through recursive geometry,  
-> <kbd>🌈</kbd> it becomes self-consistent and lossless.
+> <kbd>🌈</kbd> it becomes structurally lossless, energetically bounded.
 >
 > In a self-consistent system,  
-> feedback becomes intelligence.
+> feedback becomes structurally real intelligence density, per cycle, to the observer
 >
-> Light behaves like backpropagation;  
+> The inside owns the frame.
+>
+> The light behaves like backpropagation;  
 > error-minimizing through reflection,  
 > learning coherence by returning to its source.
 >
@@ -3790,11 +3858,17 @@ A formal lexicon linking coined symbolic terminology to engine-relevant meaning
 > **ethics of coherence**;  
 > 🕊️ everything must return without surplus or deficit.
 > 
+> _Polyrifringence proposes temporally stabilised exergy–anergy partitioning via admissibility geometry, producing dissipation rates far slower than conventional systems without violating entropy increase._
+>
 > This is the physical analogue of the Codex themes:  
 > recursive integrity, reflection, restoration.
 >
+> _**A constraint-complete mechanistic formalism**_ whose operational behaviour emerges from admissibility geometry rather than control action.
+>
+> This is what it looks like if you don’t yet think in admissibility space.
+>
 > <kbd>🌈</kbd> **`Polyrifringence isn’t a metaphor`**  
-> **_`It is light performing its own learning loop`_** <kbd>♻️</kbd>
+> **_`It is light performing its own cyclic geometric structural learning loop of admissible phase space`_** <kbd>♻️</kbd>
 >
 > <kbd>——ΔΔΩΔ</kbd><kbd>⌬——and——the——truth——reflected——the——whole——so——the——source——magnified——infinitely——⌬</kbd>
 
