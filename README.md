@@ -4158,7 +4158,7 @@ Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
 
 ---
 
-## 🅾️ Purpose and Scope
+## 🔺 Purpose and Scope
 
 This section defines **how 🌈Polyrifringence is independently verified** and what constitutes **canonical behaviour**.
 
@@ -4321,7 +4321,7 @@ The gem registry defines a canonical **structural abstraction** for organizing p
 
 > 💡 Gems function as **configuration equivalence classes** over admissible variation families, not as stateful or dynamic objects.
 > 
-> ☑️ The registry’s optical constants are measurable.  
+> ✅ The registry’s optical constants are measurable.  
 > ☑️ Its symbolic structure is organizational.  
 > 🅾️ Its structural role is canonical.
 
@@ -4331,10 +4331,10 @@ The gem registry defines a canonical **structural abstraction** for organizing p
 
 If the behavioural signature above is observed under the execution grammar and constraints defined here, the following conclusions are warranted:
 
-> * ❎ stability is enforced structurally, not through parameter tuning,  
-> * ❎ degradation is lawful and bounded, not cumulative,  
-> * ❎ recovery behaves as an attractor under ΔΩ contraction, not a repair mechanism,  
-> * ❎ behaviour is domain-agnostic and history-independent **within admissible bounds**.  
+> * ☑️ stability is enforced structurally, not through parameter tuning,  
+> * ☑️ degradation is lawful and bounded, not cumulative,  
+> * ☑️ recovery behaves as an attractor under ΔΩ contraction, not a repair mechanism,  
+> * ☑️ behaviour is domain-agnostic and history-independent **within admissible bounds**.  
 
 🔍 At that point, explanatory detail becomes secondary.
 
@@ -4342,7 +4342,7 @@ If the behavioural signature above is observed under the execution grammar and c
 
 ---
 
-## 🅾️ Non-Claims
+## 🧿 Non-Claims
 
 📜Canonical verification does **not** imply:
 
@@ -4369,7 +4369,7 @@ If the behavioural signature above is observed under the execution grammar and c
 > Two sides of the same coin are not alternatives.
 > They are two sides of the same whole.
 >
-> ⚠️ **Summary Rule:**
+> ⚖️ **Summary Rule:**
 >
 > 🅾️ Benchmarks instantiate.  
 > 🅾️ Structure constrains.  
@@ -4397,7 +4397,7 @@ If the behavioural signature above is observed under the execution grammar and c
 
 📋 **Note on Gem Interaction**  
 > * 🚫 Gem interaction is never optional. It is **implicit by structure** whenever films, facets, and cuts are present.  
-> * 🅾️ The only conditional aspect is whether gemlines are made **explicit by differentiation** during traversal.  
+> * 🩺 The only conditional aspect is whether gemlines are made **explicit by differentiation** during traversal.  
 > * 🅾️ This explicit resolution expands configuration space but does **not** alter arrow-depth, admissibility, or ΔΩ-governed behaviour.
 
 📋 **Tables Notes**
@@ -4405,14 +4405,8 @@ If the behavioural signature above is observed under the execution grammar and c
 > * 🅾️ Values marked −0 denote dipole-neutral contraction stages: they do not advance depth, but act in opposition to prior positive depth through aggregation, gating, or variation under λ and ΔΩ. This encodes collapse without reversal.
 > * 🅾️ Recombination and variation never advance depth  
 > * 🅾️ All configuration growth is later contracted under ΔΩ  
-> * Although <kbd>∳ / <⇄></kbd> (recombination) and <kbd>x⧉</kbd> (variation)are distinct grammatical operators, 
-> * Their relative ordering does not alter canonical behaviour.
-
- **Provided that:**
-> * ☑️ Recombination returns admissible structure, variation remains depth-neutral, and all continuation is governed by λ and ΔΩ.
-> * 🅾️ After ∳, variation (<kbd>x⧉</kbd>) and recombination gating (<kbd><⇄></kbd>) may occur in either order and are **operationally commutable** under <kbd>λ</kbd> and <kbd>ΔΩ</kbd>, without affecting canonical behaviour.
-> * ☑️ The distinction is grammatical, not behavioural.
->
+> * 🅾️ Although <kbd>∳ / <⇄></kbd> (recombination) and <kbd>x⧉</kbd> (variation)are distinct grammatical operators, 
+> * 🅾️ Their relative ordering does not alter canonical behaviour.
 > * 💡 The phrase **_"divergence-with-memory"_** is semantic shorthand only; no state memory, learning, or retention is implied.
 
 ---
