@@ -261,26 +261,55 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-> **View the README.md on GitHub in the REPO or in a Markdown Viewer:**
+> * **View the README.md on GitHub in the REPO or in a full Markdown Viewer:**
 >
-> **Offering an interactive experience with drop-down section titles, clickable badges and links for added interactivity, qol enhancement and information referencing with provided links.**
+> * **This README is designed as an interactive document**, making use of drop-down sections, linked badges, reference anchors, and rendered mathematical notation to reduce cognitive load while preserving rigor.
 >
-> **On certain devices and web-browsers, this readme's mathematical notation may not render as intended;**
+> * **On certain devices or web browsers, mathematical notation and collapsible sections may not render as intended.**
 >
-> **For best visual clarity, view the README.md on GitHub via desktop.**
+> * **For best visual clarity and structural fidelity, view this README.md on GitHub via desktop.**
+
+**Canonical documents**
+
+[![📗 Open README.md (This File)](https://img.shields.io/badge/📗Open-README.md_(Main)-046307?style=neon&logo=markdown&logoColor=046307&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
+[![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
+[![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
+> *`These documents provide the formal theoretical framework, constraints, and mathematical models underpinning the Polyrifringence Engine.`*
 >
-> *`THEORY.md and MATH_MODEL(RENDER).md will be uploaded to the repository by December 31st, 2025.`*
+> *`All three canonical documents are already present in the repository and constitute the complete formal disclosure of the framework.`*
+
+**Canonical reading requirement**
+
+> *`Understanding this system requires treating README.md, THEORY.md, and MATH_MODEL(RENDER).md as a single canonical artifact.`*
 >
-> *`These documents provide the formal theoretical framework and mathematical models underpinning the Polyrifringence Engine.`*
+> *`Partial, excerpted, or siloed readings are non-canonical and will not yield a valid interpretation of the system.`*
+
+**On implementations and benchmarks**
+
+> *`Engine implementations, benchmarks, viewers, and execution tooling are supporting research artifacts.`*
 >
-> *`ENGINE.py, BENCHMARKS.md, VIEWER.html will follow in Q1 2026, completing the engine implementation and providing performance validation.`*
+> *`They demonstrate how canonical behaviour manifests under particular constraints, substrates, and execution regimes.`*
 >
-> *`Understanding this engine requires treating README.md, THEORY.md, and MATH_MODEL(RENDER).md as a single canonical artifact.`*
+> *`Their presence, absence, or future revision does not alter the underlying theoretical or mathematical claims.`*
 >
-> *`Partial or siloed readings are non‑canonical and will not yield a valid interpretation of the system.`*
+> *`Benchmarks are provided as falsification templates and reproducible probes, not as performance claims or proof.`*
+
+**Release posture**
+
+> *`This repository is in pre-release; however, the canonical framework itself is complete and stable.`*
 >
->​
-> **_Thank you for your patience and engagement as we move toward full system release._**
+> *`Future additions (e.g. ENGINE.py, BENCHMARKS.md, VIEWER.html) extend verification and exploration only — not scope.`*
+>
+> *`No new physical laws are proposed.`*
+>
+> *`No energy is created.`*
+>
+> *`No entropy is reversed.`*
+>
+> *`All behaviour remains bounded by the constraints defined in the canonical documents.`*
+
+>
+> **_Thank you for your patience, careful reading, and good-faith engagement as this work continues to undergo independent scrutiny and falsification._**
 
 ---
 
@@ -1350,9 +1379,9 @@ pip install rich psutil
 
 ---
 
-[![📗 Open README.md (Main)](https://img.shields.io/badge/📗Open-README.md_(Main)-000000?style=neon&logo=markdown&logoColor=046307)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
-[![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-000000?style=neon&logo=markdown&logoColor=0F52BA)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
-[![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-000000?style=neon&logo=markdown&logoColor=B31B1B)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
+[![📗 Open README.md (This File)](https://img.shields.io/badge/📗Open-README.md_(Main)-046307?style=neon&logo=markdown&logoColor=046307&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
+[![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
+[![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
 
 ---
 
@@ -2560,6 +2589,7 @@ Status:
 > * No causal, executive, or normative role
 
 For full derivations and formal expansions, see:  
+[![📗 Open README.md (This File)](https://img.shields.io/badge/📗Open-README.md_(Main)-046307?style=neon&logo=markdown&logoColor=046307&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
 [![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
 
@@ -4135,10 +4165,9 @@ This section defines **how 🌈Polyrifringence is independently verified** and w
 > 📜Canonical status is **not** conferred by any engine, benchmark, plot, or codebase.  
 > The system is defined *only* by the following three files:
 >
-> **<kbd>📗 README.md (Current File)</kbd>** 
->
-> [![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
-> [![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
+[![📗 Open README.md (This File)](https://img.shields.io/badge/📗Open-README.md_(Main)-046307?style=neon&logo=markdown&logoColor=046307&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
+[![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
+[![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
 >
 > 🩺 All other artefacts in this repository exist solely to **instantiate, probe, and observe** the canonical structure.  
 > 🚫 They do not redefine, extend, or override it.
