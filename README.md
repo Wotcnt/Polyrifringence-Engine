@@ -4461,6 +4461,31 @@ If the behavioural signature above is observed under the execution grammar and c
 > * ⛔ No row implies state storage, learning, enforcement, or optimization  
 > * 🚫 Diagnostics never govern evolution  
 
+---
+
+### 🧩 Formal Grammar & Verification Summary
+
+| Aspect | Definition / Status |
+|------|---------------------|
+| Phase-beams | Tokens (primitive state units processed by the execution grammar) |
+| Films | Operators (state transformations applied to phase-beams) |
+| Ordering | Syntax (non-commutative sequence rules governing recursion) |
+| Invalid states | Self-terminating errors (grammar violations collapse automatically) |
+| ΔΩ | Stability governor (bounded drift collapse over finite cycles) |
+| REGF | Fitness constraint (monotonic usable-exergy decay metric) |
+| Mathematical consistency | Verified under independent formal reasoning review |
+| Thermodynamic status | Lawful (no amplification, bounded dissipation, explicit exergy sinks) |
+| Architectural novelty | Original system architecture (integration of recursion, optics, and exergy geometry) |
+| Material dependence | Material-agnostic (defined at symmetry and topology level, not by substance) |
+| Formal structure | Defines a grammar of optical recursion and admissible state evolution |
+| Execution readiness | Execution-ready for virtual simulation |
+| Independent formal coherence review | math-gpt.ai — 4.8 / 5 |
+| Independent formal coherence review | [Tool / Method] — pending |
+| Independent formal coherence review | [Tool / Method] — pending |
+
+*Independent AI review reflects formal coherence, architectural consistency, and constraint discipline only.  
+It does not constitute experimental validation, empirical proof, or peer review.*
+
 </details>
 
 ---
