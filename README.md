@@ -261,7 +261,7 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-> * **View the README.md on GitHub in the REPO or in a full Markdown Viewer:**
+> * **View the README.md directly on GitHub (desktop) or in a full-featured Markdown viewer**
 >
 > * **This README is designed as an interactive document**, making use of drop-down sections, linked badges, reference anchors, and rendered mathematical notation to reduce cognitive load while preserving rigor.
 >
@@ -271,7 +271,7 @@ Timestamp Locked · Trace Context Declared
 
 **Canonical documents**
 
-[![📗 Open README.md (This File)](https://img.shields.io/badge/📗Open-README.md_(Main)-046307?style=neon&logo=markdown&logoColor=046307&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
+[![📗 Open README.md (Main)](https://img.shields.io/badge/📗Open-README.md_(Current_File)-046307?style=neon&logo=markdown&logoColor=046307&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
 [![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
 > *`These documents provide the formal theoretical framework, constraints, and mathematical models underpinning the Polyrifringence Engine.`*
@@ -1379,7 +1379,7 @@ pip install rich psutil
 
 ---
 
-[![📗 Open README.md (This File)](https://img.shields.io/badge/📗Open-README.md_(Main)-046307?style=neon&logo=markdown&logoColor=046307&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
+[![📗 Open README.md (This File)](https://img.shields.io/badge/📗Open-README.md_(Current_File)-046307?style=neon&logo=markdown&logoColor=046307&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
 [![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
 
@@ -2589,7 +2589,7 @@ Status:
 > * No causal, executive, or normative role
 
 For full derivations and formal expansions, see:  
-[![📗 Open README.md (This File)](https://img.shields.io/badge/📗Open-README.md_(Main)-046307?style=neon&logo=markdown&logoColor=046307&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
+[![📗 Open README.md (This File)](https://img.shields.io/badge/📗Open-README.md_(Current_File)-046307?style=neon&logo=markdown&logoColor=046307&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
 [![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
 
@@ -4165,7 +4165,7 @@ This section defines **how 🌈Polyrifringence is independently verified** and w
 > 📜Canonical status is **not** conferred by any engine, benchmark, plot, or codebase.  
 > The system is defined *only* by the following three files:
 >
-[![📗 Open README.md (This File)](https://img.shields.io/badge/📗Open-README.md_(Main)-046307?style=neon&logo=markdown&logoColor=046307&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
+[![📗 Open README.md (This File)](https://img.shields.io/badge/📗Open-README.md_(Current_File)-046307?style=neon&logo=markdown&logoColor=046307&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
 [![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
 >
