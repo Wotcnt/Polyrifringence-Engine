@@ -4169,7 +4169,7 @@ This section defines **how 🌈Polyrifringence is independently verified** and w
 [![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
 [![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
 >
-> 🩺 All other artefacts in this repository exist solely to **instantiate, probe, and observe** the canonical structure.  
+> **🜉** All other artefacts in this repository exist solely to **instantiate, probe, and observe** the canonical structure.  
 > 🚫 They do not redefine, extend, or override it.
 
 ---
@@ -4379,7 +4379,7 @@ If the behavioural signature above is observed under the execution grammar and c
 
 ---
 
-### 📎 Reference Tables (Canonical)
+### 🧮 Reference Tables (Canonical)
 ### 🌈 Table 1 - Execution Grammar: Process & Configuration   
 ### <kbd>∮ ❯ ∱ ❯❯ ∯ ❯❯❯ ∰ ❯❯❯❯ ∳  ❯ { x⧉ , <⇄> }</kbd> <kbd>(±)(±)</kbd> <kbd>🌈 ⟷ 🧲 ⟷ 💎 ⟷ 🎼 ⟷ ⚡ ⟷ ✨</kbd>
 
@@ -4438,7 +4438,7 @@ If the behavioural signature above is observed under the execution grammar and c
 
 ---
 
-### 📐 Table 3 - Execution Grammar ⟷ Math Model Mapping
+### ⎅ Table 3 - Execution Grammar ⟷ Math Model Mapping
 
 | Grammar Element | Symbol | Mathematical Representation | Role | Notes |
 |---|:---:|---|---|---|
@@ -4463,7 +4463,7 @@ If the behavioural signature above is observed under the execution grammar and c
 
 ---
 
-### 🧩 Formal Grammar & Verification Summary
+### ⎅ Formal Grammar & Verification Summary
 
 | Aspect | Definition / Status |
 |------|---------------------|
@@ -4479,36 +4479,45 @@ If the behavioural signature above is observed under the execution grammar and c
 | Material dependence | Material-agnostic (defined at symmetry and topology level, not by substance) |
 | Formal structure | Defines a grammar of optical recursion and admissible state evolution |
 | Execution readiness | Execution-ready for virtual simulation under defined constraints |
-| Execution evidence | Produces invariant behaviour across stochastic ensembles |
+| Execution evidence | Produces invariant behaviour across stochastic ensembles under χ¹/χ³ and ΔΩ sweep |
 | Independent formal coherence review | math-gpt.ai — 4.8 / 5 |
 | Independent formal coherence review | [Tool / Method] — pending |
 | Independent formal coherence review | [Tool / Method] — pending |
 
-*Independent AI review reflects formal coherence, architectural consistency, and constraint discipline only.  
-It does not constitute experimental validation, empirical proof, or peer review.*
+**Independent AI review reflects formal coherence, architectural consistency, and constraint discipline only, under abstract evaluation.**  
+_It does not constitute experimental validation, empirical proof, or peer review._
 
-## 🧪 Execution Evidence (Canonical)
+---
 
-The canonical execution grammar has been instantiated and evaluated numerically under stochastic perturbation.
+## 📓 Execution Evidence (Canonical)
 
-A reference execution (200 cycles) and a multi-seed Monte Carlo ensemble (50 seeds) were run using the execution grammar defined in this repository. Each run included injected phase and amplitude noise and enforced ΔΩ, λ, REGF, and Γ exactly as specified.
+> The canonical execution grammar has been instantiated and evaluated numerically under stochastic perturbation.
+>
+> A reference execution (200 cycles) and a multi-seed Monte Carlo ensemble (50 seeds) were run using the execution grammar defined in this repository. Each run included injected phase and amplitude noise and enforced ΔΩ, λ, REGF, and Γ exactly as specified.
 
-### Observed Behaviour (Invariant Across Seeds)
+### 👁️‍🗨 Observed Behaviour (Invariant Across Seeds)
 
-Across all runs, the following invariant traits were observed:
+> Across all runs, the following invariant traits were observed:
+>
+> bounded energy evolution with no amplification,
+> REGF remaining strictly less than 1 at every cycle,
+> variance-rich phase exploration followed by bounded compression,
+> stable non-zero geometric structure (no attractor collapse),
+> invariant qualitative behaviour across stochastic ensembles,
+> self-termination only upon explicit admissibility violation.
+>
+> Increasing noise amplitude widens the geometric envelope but does not induce divergence, runaway decay, or collapse. This demonstrates that stability is enforced structurally by the execution grammar and ΔΩ, not by tuning, learning, or memory.
 
-- bounded energy evolution with no amplification,
-- REGF remaining strictly less than 1 at every cycle,
-- variance-rich phase exploration followed by bounded compression,
-- stable non-zero geometric structure (no attractor collapse),
-- invariant qualitative behaviour across stochastic ensembles,
-- self-termination only upon explicit admissibility violation.
+**The behaviour itself constitutes the verification.**
 
-Increasing noise amplitude widens the geometric envelope but does not induce divergence, runaway decay, or collapse. This demonstrates that stability is enforced structurally by the execution grammar and ΔΩ, not by tuning, learning, or memory.
+*No optimization, calibration, memory, or adaptive mechanism is present. All observed regularities arise solely from the execution grammar and its constraints.*
 
-> **The behaviour itself constitutes the verification.**
+> **🜉** Quantitative artefacts (execution logs and JSON outputs) can be provided for independent inspection or comparative tooling if requested.
+> They are not required for verification, as canonical validity is determined by structural behaviour under the execution grammar, not by numerical agreement.
 
-No optimization, calibration, memory, or adaptive mechanism is present. All observed regularities arise solely from the execution grammar and its constraints.
+*If, from the three primary files, an independent implementation reproduces the same behavioural signatures under admissible conditions, then the structure is thereby validated and the work verified.*
+
+**🜉 Quantitative artefacts are optional; verification is structural.**
 
 </details>
 
