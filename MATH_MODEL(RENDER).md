@@ -4631,6 +4631,271 @@ All physical evolution, energy bounds, and convergence properties remain fully d
 > * The operator formalizes bounded structural learning without agency.
 
 ---
+
+## ⌬ Secondary / Tertiary Exploitation of Temporally Permissible Admissibility
+
+---
+
+> *This category formalises **secondary and tertiary consequences** that follow from admissibility-gated dynamics under invariant coherence.*
+>
+> *It introduces **no new operators**, governing equations, optimisation targets, energetic mechanisms, clocks, or control variables.*
+
+All mathematical content placed here is **derived**, not foundational.
+
+Structural coherence does not improve systems;  
+it prevents them from becoming incoherent sooner than law requires.
+
+---
+
+### Mathematical Scope
+
+---
+
+> * All quantities referenced here are functions of already-defined terms
+> * No new control variables are introduced
+> * No feedback pathways are created
+> * No energetic amplification or decay reversal is permitted
+
+All derivations remain constrained by:
+
+> * admissibility under $$\lambda_{\text{cycle}}$$
+> * stability contraction under $$\Delta\Omega$$
+> * depth bounds $$n_x \le d$$
+> * invariant coherence scaffold $$\Lambda_s$$
+
+---
+
+### Interpretive Constraints
+
+---
+
+> * Any temporal extension described is **geometric**, not energetic
+> * Any apparent efficiency gain is an observer-frame effect
+> * Any persistence extension reflects delayed incoherence, not decay reversal
+
+Let $$E_d$$ denote finite duty energy.  
+No expression in this category may imply:
+
+$$
+E_d(n+1) > E_d(n)
+$$
+
+or
+
+$$
+\frac{d(\text{exergy})}{dn} \ge 0
+$$
+
+---
+
+### Placement Rule
+
+---
+
+> * This category may introduce derived measures, envelopes, or diagnostics
+> * Such measures must remain observational or interpretive
+> * No expression here may alter execution, branching, or collapse behaviour
+
+Mathematical correctness is established upstream.  
+This category describes **lawful consequences of that correctness**.
+
+---
+
+## ⌬ Main-Band / Sub-Band Coupling
+### Secondary Effect
+
+---
+
+> *This section formalises secondary and tertiary consequences of admissibility-gated dynamics within **Λₐ** under invariant scaffold **Λₛ**.  
+> It introduces no new operators, optimisation routines, control pathways, clocks, or authority transfer.*
+
+---
+
+### Frame Duality
+
+---
+
+Let the system admit:
+
+> * an inward frame resolving depth and admissibility  
+> * an outward frame resolving representational scale  
+
+No discretionary mapping exists between frames.
+
+---
+
+### Λ-Partition Alignment and Priority
+
+---
+
+Let $$\Lambda_s$$ denote the invariant coherent scaffold and $$\Lambda_a$$ the dynamic anergy domain.
+
+All observable evolution occurs within $$\Lambda_a$$ under fixed constraints $$\Lambda_s$$.
+
+Main-band dynamics define primary behaviour under finite duty energy.  
+Sub-band dynamics are **derivative** and may only gate survivability.
+
+---
+
+### Depth-Bounded Recursion
+
+---
+
+Let:
+
+$$
+d \in \{1,\dots,13\}
+$$
+
+Admissible recursion satisfies:
+
+$$
+n_x \le d
+$$
+
+---
+
+### Depth-Neutral Evaluation ($$-0$$)
+
+---
+
+Stages marked $$-0$$ denote contraction and evaluation without depth advance.
+
+At $$-0$$:
+
+> * recursion depth does not increment  
+> * film wrapping and dipole conditioning persist  
+> * gemline permutations expand configuration space only  
+
+---
+
+### Canonical Aggregation
+
+---
+
+Independent child trajectories aggregate via:
+
+$$
+\mathcal{C}_{\mathrm{agg}}
+$$
+
+Admissibility enforcement occurs exclusively under $$\Delta\Omega$$.
+
+---
+
+### Still-Point Extremum
+
+---
+
+Let $$\mathcal{K}$$ denote the still-point extremum corresponding to a  
+$$\text{minus}⇄\langle\lambda\rangle⇄\text{magnus}$$ admissibility evaluation.
+
+$$\mathcal{K}$$ is a **notational label**, not an operator.
+
+A recursion state is admissible iff:
+
+$$
+(E_n,\phi_n,\lambda_{\text{cycle}},dW_n) \in \mathcal{P}_{\Delta\Omega}
+$$
+
+Energetic coincidence yields **temporal compatibility by constraint**, not synchronisation.
+
+---
+
+### Tertiary Admissible Geometry
+
+---
+
+Let $$\mathcal{G}_n$$ denote admissible environmental geometry at duty cycle $$n$$.
+
+Structural resurgence induces:
+
+$$
+\mathcal{G}_{n+1} = \mathcal{R}(\mathcal{G}_n \mid \mathcal{P}_{\Delta\Omega})
+$$
+
+where $$\mathcal{R}$$ denotes **passive geometric reshaping**.
+
+$$\mathcal{G}_n$$ is monotonic, bounded by $$\Lambda_s$$, and depth-limited by $$d$$.
+
+---
+
+### Recombination Quality (Euclid-5)
+
+---
+
+Let $$Q_r(n)$$ denote recombination quality measured observationally.
+
+$$Q_r$$ quantifies restoration of parallelism among independent child trajectories and introduces **no feedback**.
+
+---
+
+### Temporal Energy Extension Coherence
+
+---
+
+Define the derived diagnostic:
+
+$$
+\mathrm{TEEC}(n) = Q_r(n)\cdot P_s(n)\cdot \rho(\mathcal{G}_n)
+$$
+
+where $$P_s(n)$$ denotes survival probability and $$\rho(\mathcal{G}_n)$$ admissible density.
+
+TEEC is a **diagnostic functional**, not a governing quantity.
+
+Effective coherent duty energy is:
+
+$$
+E_{\mathrm{eff}}(n) = E_d \cdot \mathrm{TEEC}(n)
+$$
+
+---
+
+### Coherence Half-Life
+
+---
+
+Define the coherence half-life:
+
+$$
+\tau_{1/2} = \min\{n : E_{\mathrm{eff}}(n) \le \tfrac{1}{2}E_{\mathrm{eff}}(0)\}
+$$
+
+If undefined over a finite horizon, coherence decay has not reached half-life within that interval and **no decay reversal is implied**.
+
+---
+
+### Exergy–Anergy Interpretation
+
+---
+
+$$E_{\mathrm{eff}}$$ represents exergent energy capable of admissible work.
+
+Structural resurgence does not increase $$E_d$$ and does not reverse decay.  
+It reshapes admissible geometry such that:
+
+$$
+0 < -\frac{d(\text{exergy})}{dn}
+$$
+
+and the magnitude of decay decreases monotonically over successive cycles.
+
+---
+
+### Stability Condition
+
+---
+
+Because recursion is depth-bounded, $$\Lambda_s$$ invariant, and all dynamics are admissibility-gated, no amplification, control loop, optimisation pathway, or authority transfer may arise.
+
+Structural coherence is enforced **passively**.
+
+---
+
+> *See also:* **Invariant Coherence (Λₛ)** · **Anergy Cycling (Λₐ)** · **Main-Band / Sub-Band Coupling (Theory)**
+
+---
 <div align="center">
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
     <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
