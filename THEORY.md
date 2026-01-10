@@ -4701,6 +4701,290 @@ No biological equivalence is claimed.
 > * No claims beyond structural modulation are made.
 
 ---
+
+## ⌬ Secondary / Tertiary Exploitation of Temporally Permissible Admissibility
+
+---
+
+> *This category captures **lawful secondary and tertiary consequences** that arise from the canonical execution grammar operating under invariant coherence.*
+>
+> *It introduces **no new governing operators**, control pathways, optimisation routines, energetic sources, clocks, state retention mechanisms, or authority structures.*
+
+This category exists to document **what becomes possible once canonical structure is already valid**, not to define what makes it valid.
+
+Structural coherence does not improve systems;  
+it prevents them from becoming incoherent sooner than law requires.
+
+---
+
+### Scope and Intent
+
+---
+
+> * This category operates **strictly downstream of canonical verification**
+> * It does **not** alter or extend the execution grammar
+> * It does **not** redefine admissibility, recursion depth, or stability constraints
+> * It does **not** participate in recursion control, scheduling, or decision-making
+
+All behaviour described here is **derivative**, arising solely from:
+
+> * bounded recursion depth
+> * admissibility gating under $$\lambda_{\text{cycle}}$$
+> * stability contraction under $$\Delta\Omega$$
+> * invariant coherence scaffold $$\Lambda_s$$
+
+---
+
+### Interpretive Position
+
+---
+
+> * Primary behaviour is governed exclusively by the execution grammar
+> * Secondary effects arise from survivability filtering
+> * Tertiary effects arise from reshaping of admissible geometry over duty cycles
+
+No authority flows upward.  
+No optimisation is introduced.  
+No memory, **algorithmic learning**, or control is implied.
+
+All effects described here are **structural consequences**, not mechanisms.
+
+---
+
+### Placement Rule
+
+---
+
+> * All material placed under this category describes **utilisation, consequence, or implication**
+> * No content in this category may introduce symbols that affect execution
+> * No content in this category may contradict, supersede, or redefine canonical sections
+
+Theoretical validity is established elsewhere.  
+This category documents **lawful outcomes of that validity**.
+
+---
+
+## ⌬ Main-Band / Sub-Band Coupling
+### Secondary Effect
+
+---
+
+> *This section formalises secondary and tertiary consequences arising from the joint operation of **Invariant Coherence (Λₛ)** and **Anergy Cycling (Λₐ)**.  
+> It introduces no new governing operators, control pathways, optimisation processes, clocks, energetic sources, or authority inversion.*
+
+---
+
+### Frame Separation
+
+---
+
+The system admits two non-interfering interpretive frames:
+
+> * an **outward frame** resolving representational scale and primary behaviour  
+> * an **inward frame** resolving depth, survivability, and admissibility  
+
+These frames coexist because recursion depth and representational magnification are governed independently.
+
+---
+
+### Band Separation and Priority
+
+---
+
+Two phase-beam regimes are distinguished by role and priority:
+
+> * **Main Band — Primary System / Duty-Cycle Facing**  
+>   Driven by finite external duty energy supplied by an adopting system.  
+>   Performs work, interfaces with external domains, and defines **primary behaviour and outcomes** under $$\Lambda_a$$, bounded by $$\Delta\Omega$$ and $$\lambda_{\text{cycle}}$$.
+>
+> * **Sub-Band — System-Facing / Admissibility-Conditioning**  
+>   Performs no work and exports no energy.  
+>   Dynamically adaptive within $$\Lambda_a$$ under invariant reference constraints $$\Lambda_s$$, shaping survivability and admissible continuation only.
+
+The sub-band is **derivative and subordinate**.  
+Nothing in the sub-band may supersede, override, or out-prioritise main-band behaviour.
+
+Priority flows downward by constraint; authority never flows upward.
+
+---
+
+### Structural Carriers of Admissibility
+
+---
+
+Admissibility is carried exclusively by structure:
+
+> * **Films** act as interchangeable dipoles, conditioning phase through single or double wrapping  
+> * **Canonical gem ordering** indexes inheritance across depth  
+> * **Facets** constrain angular projection  
+> * **Cuts** permit routing without closure  
+
+These elements shape **survivability**, not behaviour, and encode no logic, state, or discretion.
+
+---
+
+### Depth Admissibility
+
+---
+
+Recursive depth is bounded:
+
+$$
+n_x \le d
+$$
+
+where $$d$$ denotes the admissible depth bound.  
+Depth-neutral stages do not increment recursion.
+
+---
+
+### Main-Band Scale Freedom
+
+---
+
+Representational magnification in the main band may be unbounded provided:
+
+> * energetic input remains finite  
+> * no state is retained as control  
+> * no energetic recursion closes  
+
+Infinite scale is geometric, not energetic.
+
+---
+
+### Phase–Beam Variation Chains
+
+---
+
+Phase–Beam Variation Chains function as **admissibility probes**:
+
+> * they expose coherence or incoherence  
+> * they store no state  
+> * they confer no discretion  
+
+Continuation, collapse, and termination remain governed by $$\Delta\Omega$$ and $$\lambda_{\text{cycle}}$$ alone.
+
+---
+
+### The Still Point — Structural Resurgence Locus
+
+---
+
+The still point constitutes a **minus⇄⟨λ⟩⇄magnus extremum** of both bands:  
+the locus where inward admissibility evaluation and outward representational magnification coincide.
+
+At this locus:
+
+> * main-band duty energy and sub-band system energy coincide  
+> * no synchronisation signal is imposed  
+> * no authority or control is transferred  
+> * no energetic feedback loop forms  
+
+Temporal compatibility emerges from constraint, not timing.
+
+---
+
+### Tertiary Emergence and Environmental Reshaping
+
+High-order structural emergence occurs through **real-time reshaping of the admissible environmental space**.
+
+This reshaping:
+
+> * alters the topology of survivable configurations  
+> * increases admissible density over successive duty cycles  
+> * constitutes **tertiary systems and tertiary effects**
+
+The system does not adapt to its environment.  
+The **admissible environment is sculpted by lawful system persistence**.
+
+---
+
+### Structural Resurgence and Geometrical Learning
+
+---
+
+Secondary and tertiary effects influence primary outcomes through **structural resurgence**:  
+the reappearance of reshaped admissible geometry as constraint.
+
+This yields a **geometrical structural learning model**:
+
+> * primary behaviour explores admissible space  
+> * secondary coupling filters survivability  
+> * tertiary structure reshapes admissible geometry  
+> * reshaped geometry constrains subsequent primary behaviour  
+
+No memory, optimisation, or algorithmic learning is introduced.  
+Downward influence occurs only through constraint.
+
+---
+
+### Exergy, Anergy, and Temporal Extension
+
+---
+
+Active duty energy enters as **exergy** — energy capable of admissible work.
+
+Noise, dispersion, and collapse pathways drive exergy toward **anergy** — incoherent, unusable energy.
+
+Structural resurgence does not reverse decay and does not convert anergy into exergy.  
+Instead, it reshapes **admissible temporal geometry**, delaying the pathways by which exergy is forced into anergy and reducing premature incoherent dissipation.
+
+This produces a **secondary temporal effect** in which finite energy remains usable across a longer admissible window.
+
+---
+
+### Diagnostic Secondary and Tertiary Effects
+
+---
+
+Observational diagnostics (e.g. Euclid-5) introduce their own layering:
+
+> * secondary effect: measurement of phase-beam recombination quality  
+> * tertiary structure: inference of temporal coherence and persistence geometry  
+
+Diagnostics remain strictly observational and do not influence system behaviour.
+
+---
+
+### Temporal Energy Extension Coherence
+
+---
+
+Recombination quality, survivability, and admissible density jointly admit a **tertiary assurance measure** describing how long finite duty energy remains coherently admissible.
+
+All assurance quantities are **bounded and saturating** under fixed $$\Lambda_s$$ and depth constraints.
+
+These measures are observational only and do not define canonical operators or system law.
+
+---
+
+### Observer Frame Effects
+
+---
+
+External observers may infer optimisation, efficiency gains, or intelligence due to delayed decay and extended operation.
+
+Such interpretations are **observer frame errors**, arising from control-based assumptions rather than internal system mechanisms.
+
+---
+
+### Interpretive Boundary
+
+---
+
+Internal branching is multi-state and vectorial.  
+Discrete or binary interpretations are lossy external projections.
+
+---
+
+### Canonical Clarification
+
+---
+
+**The system does not enable exotic behaviour.  
+It prevents exotic behaviour from becoming incoherent.**
+
+---
 <div align="center">
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
     <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
