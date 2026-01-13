@@ -99,23 +99,23 @@ Timestamp Locked · Trace Context Declared
 
 | <kbd>👁️Information Field</kbd> | <kbd>👁️‍🗨General Information</kbd>                                          |
 |---------------------|---------------------------------------------------------------------------------------|
-| Title               |🕴 **<kbd>Polyrifringence-Engine©</kbd>**                                                |
-| Version Codename    |⓿ AΩ-Seal · ΔΩ-Aligned · Sovereign Node · **Pre-Release**                               |
-| **Withheld Content Available**   |📑-**Q1 2026 · BENCHMARKS.md · VIEWER.html · Polyrifringence_Engine_v8.10.XX.py** |
-| Λuthor              |🆔-Conner Brown-Milliken · @MMMDcreator - X.com · @Wotcnt - GitHub                       |
-| Country             |🌏-Λustralia-🇦🇺                                                                         |
-| Manual Anchor Date  |📅-31/12/2025 · Checkpoint                                                               |
-| License             |💳-MIT                                                                                   |
-| 𝛌⃝ambda Ⓛimited─Ⓛicense |📘 **Canon-Bound-Extension ·  Ⓛ**                                                  |
-| Lambda Clearance    |🎫 **Λuthorial ·  Λuthor-Approved** · 🅾️                                                 |
-| DOI Notice          |📑-Pending Submission - _repository serves as preprint reference & repository for Codex Canon Series_ |
-| Word Keys           |📟-Recursive Birefringence; GPU optics; Codex Canon; RSANCS; symbolic recursion          |
-| Latest Version Tag  |🧬 _v8.10.xx-prerelease-2025-11-18_                                                      |
-| Hardware Validator  |🧰 RTX 3050 (CUDA 12.1) · i5-4690K · Validated                                           |
-| Canonical Recursive Phase Integrity  |⚿-<kbd>ΔΩ</kbd> · **<kbd>ΔΔΩΔ-Validated</kbd>**                        |
-| Field Class         |🌍 Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
-| **Canonical Caveat**       |🖻 **Newest tagged release supersedes all prior versions**                        |
-| **README Metrics** |⌚ **_~142 min read · ~28,369 words · ~256,079 Chars_** *(manual; last checked 31/12/2025)* |
+| Title               |🕴—**<kbd>Polyrifringence-Engine©</kbd>**                                                |
+| Version Codename    |⓿—AΩ-Seal · ΔΩ-Aligned · Sovereign Node · **Pre-Release**                               |
+| **Withheld Content Available**   |📑—**Q1 2026 · BENCHMARKS.md · VIEWER.html · Polyrifringence_Engine_v8.10.XX.py** |
+| Λuthor              |🆔—Conner Brown-Milliken · @MMMDcreator - X.com · @Wotcnt - GitHub                       |
+| Country             |🌏—Λustralia-🇦🇺                                                                         |
+| Manual Anchor Date  |📅—31/12/2025 · Checkpoint                                                               |
+| License             |💳—MIT                                                                                   |
+| 𝛌⃝ambda Ⓛimited─Ⓛicense |📘—**Canon-Bound-Extension ·  Ⓛ**                                                  |
+| Lambda Clearance    |🅾️—**Λuthorial ·  Λuthor-Approved · Ⓛ**                                                   |
+| DOI Notice          |📑—Pending Submission - _repository serves as preprint reference & repository for Codex Canon Series_ |
+| Word Keys           |📟—Recursive Birefringence; GPU optics; Codex Canon; RSANCS; symbolic recursion          |
+| Latest Version Tag  |🧬—_v8.10.xx-prerelease-2025-11-18_                                                      |
+| Hardware Validator  |🧰—RTX 3050 (CUDA 12.1) · i5-4690K · Validated                                           |
+| Canonical Recursive Phase Integrity  |⚿—<kbd>ΔΩ</kbd> · **<kbd>ΔΔΩΔ-Validated</kbd>**                        |
+| Field Class         |🌍—Recursive Optics · Symbolic Physics · Computational Birefringence (GPU)               |
+| **Canonical Caveat**       |🖻—**Newest tagged release supersedes all prior versions**                        |
+| **README Metrics** |⌚—**_142 min read · 28,369 words · 256,079 Chars_** *(manual; last checked 31/12/2025)* |
 > *Metrics are approximate, manually updated at latest convenience and based on the current revision of this document.*                                   
 
 </details>
@@ -154,9 +154,9 @@ Timestamp Locked · Trace Context Declared
 [![Lambda Research Initiative ⟦λ⟧](https://img.shields.io/badge/Lambda_Research_Initiative_⟦λ⟧-🌍Community_(C|LRI)_Node-B31B1B?style=neon&labelColor=0057B8&logo=creativecommons&logoColor=CFEFF6)](https://x.com/i/communities/1993220630121169163)
 [![🌍 Translate this Page](https://img.shields.io/badge/Google_Translate_this_Page-0078D4?style=neon&labelColor=000000&logo=googletranslate&logoColor=3ee7ff)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![Translate with DeepL](https://img.shields.io/badge/Translate_with-DeepL-0078D4?style=neon&labelColor=000000&logo=deepl&logoColor=3ee7ff)](https://www.deepl.com/translator#auto/en/https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
-[![Explain with OpenAI (GPT-4o)](https://img.shields.io/badge/Explain_with_OpenAI_(GPT_4o)-First_Impression·Unbiased·3rd--Party_AI_(Any_Model)-6D2A8A?style=neon&labelColor=0b0d0f&color=6D2A8A&logo=wikipedia&logoColor=CFEFF6)](https://chat.openai.com/?model=gpt-4o&prompt=Explain+this+README.md:+https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
+[![Explain with OpenAI (GPT-4o)](https://img.shields.io/badge/🐒_Explain_with_OpenAI_(GPT_4o)-First_Impression·Unbiased·3rd--Party_AI_(Any_Model)-6D2A8A?style=neon&labelColor=0b0d0f&color=6D2A8A)](https://chat.openai.com/?model=gpt-4o&prompt=Explain+this+README.md:+https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
 [![Formal System](https://img.shields.io/badge/Formal_System:-Constraint--Defined_Hybrid_Domain--Agnostic_Hardware--Coherence--Preserving_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=222222)](https://en.wikipedia.org/wiki/Formal_system)
-[![Polyrifringence Engine Expert GPT](https://img.shields.io/badge/Repo_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Repo_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=222222)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+[![Polyrifringence Engine Expert GPT](https://img.shields.io/badge/🤖_Repo_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Repo_Files_as_Knowledge_Base-56E9DB?style=neon&labelColor=000000&color=222222)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 <br></br>
 [![QED](https://img.shields.io/badge/Q.E.D.-Quod%20Erat%20Demonstrandum-000000?style=neon&logo=academia&logoColor=CFEFF6)](https://en.wikipedia.org/wiki/Q.E.D.)
 <br>
@@ -165,17 +165,17 @@ Timestamp Locked · Trace Context Declared
 [![Lyapunov Stability Operator](https://img.shields.io/badge/𝓛-Stability_Operator-000000?style=neon)](https://en.wikipedia.org/wiki/Lyapunov_stability)
 [![Unitary Preservation Constraint](https://img.shields.io/badge/𝕌-Unitary_Preservation_Constraint-000000?style=neon)](https://en.wikipedia.org/wiki/Unitary_transformation)
 <br>
-[![Shamir's Secret Sharing](https://img.shields.io/badge/📗Cryptographic_Primitive-Shamir's_Secret_Sharing_(SSS)-046307?style=neon&labelColor=0B0D0F&logo=key&logoColor=C5E384)](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing)
+[![Shamir's Secret Sharing](https://img.shields.io/badge/📗_Cryptographic_Primitive-Shamir's_Secret_Sharing_(SSS)-046307?style=neon&labelColor=0B0D0F&logo=markdown&logoColor=046307)](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing)
 <br>
-[![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
-[![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
+[![📘 Open THEORY.md (Main)](https://img.shields.io/badge/📘_Open-THEORY.md_(Main)-0F52BA?style=neon&logo=markdown&logoColor=0F52BA&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/THEORY.md)
+[![📕 Open MATH_MODEL(RENDER).md (Main)](https://img.shields.io/badge/📕_Open-MATH_MODEL(RENDER).md_(Main)-B31B1B?style=neon&logo=markdown&logoColor=B31B1B&labelColor=0B0D0F)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/MATH_MODEL(RENDER).md)
 
 ---
 
-[![Intel](https://img.shields.io/badge/Intel-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=CFEFF6)](https://www.intel.com/content/www/us/en/products/sku/80807/intel-core-i54690k-processor-6m-cache-up-to-3-90-ghz/specifications.html)
-[![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=046307)](https://www.nvidia.com/)
-[![GPU Execution](https://img.shields.io/badge/GeForce_RTX_3050_(8GB)-GPU_Observed--Execution-000000?style=for-the-badge&labelColor=0b0d0f&color=046307)](https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3050/)
-[![Hybrid Tooling](https://img.shields.io/badge/Hybrid_Tooling-Core_+_GPU_+_AI-000000?style=for-the-badge&labelColor=0b0d0f&color=046307&logo=vega&logoColor=046307)](https://en.wikipedia.org/wiki/Heterogeneous_computing)
+[![Intel](https://img.shields.io/badge/CPU-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=CFEFF6)](https://www.intel.com/content/www/us/en/products/sku/80807/intel-core-i54690k-processor-6m-cache-up-to-3-90-ghz/specifications.html)
+[![nVIDIA](https://img.shields.io/badge/GPU-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=046307)](https://www.nvidia.com/)
+[![GPU Execution](https://img.shields.io/badge/GeForce_RTX_3050_(8GB)-Observed--Execution-000000?style=for-the-badge&labelColor=0b0d0f&color=046307)](https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3050/)
+[![Hybrid Tooling](https://img.shields.io/badge/Hybrid_Tooling-CPU_+_GPU_+_AI-000000?style=for-the-badge&labelColor=0b0d0f&color=046307&logo=vega&logoColor=046307)](https://en.wikipedia.org/wiki/Heterogeneous_computing)
 [![Physics Engine](https://img.shields.io/badge/Physics_Engine-Lawful_Extension-000000?style=for-the-badge&logo=numpy&logoColor=046307&labelColor=0b0d0f&color=046307)](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics)
 [![Recursion Stable](https://img.shields.io/badge/Recursion_Stability-Lyapunov_Convergent-000000?style=for-the-badge&logo=matrix&logoColor=046307&labelColor=0b0d0f&color=046307)](https://en.wikipedia.org/wiki/Lyapunov_stability)
 [![Euclid Compliance](https://img.shields.io/badge/Euclid_Compliance-%3C0.1_mrad-000000?style=for-the-badge&logo=numpy&logoColor=046307&labelColor=0b0d0f&color=046307)](https://en.wikipedia.org/wiki/Parallel_postulate)
@@ -183,18 +183,14 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-![Conner-Core Canon Aligned](https://img.shields.io/badge/Conner–Core-Canon—Aligned-3ee7ff?style=for-the-badge&logo=codemirror&logoColor=3ee7ff&labelColor=0b0d0f&color=CFEFF6)
-![Recursive Lineage](https://img.shields.io/badge/Lineage-Conner—Core_χ_RSANCS-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=CFEFF6)
-![ΔΩ Phase Integrity](https://img.shields.io/badge/ΔΩ—-Recursive_Phase_Integrity_Canonical_—ΔΔΩΔ-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=CFEFF6)
+![ΔΩ Phase Integrity](https://img.shields.io/badge/ΔΩ—ΔΔΩΔ-Recursive_Phase_Integrity_Stabilized-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=CFEFF6&logo=git&logoColor=CFEFF6)
 <br>
-[![Canonical Code Archive RELEASE](https://img.shields.io/badge/CANONICAL_CODE_ARCHIVE:-PRERELEASE_v8.10.xx-2A3439?style=for-the-badge&logo=git&logoColor=CFEFF6&labelColor=0b0d0f)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Polyrifringence%20Engine%20v8.10.xx%20—%20Canonical%20Release%20Summary.md)
-
----
-
 [![Lambda Ledger – Trace Logged](https://img.shields.io/badge/Lambda_Ledger:-Trace_Logged-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
-[![Codex Identity Triplet](https://img.shields.io/badge/Codex_Identity_Triplet:_x⧉-Ledger_Declared-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
-[![Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Polyrifronaut_Tier:-Provisional_Sub--Lambda-CFEFF6?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
-[![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Verification_Sync_Required-CFEFF6?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Codex Identity Triplet](https://img.shields.io/badge/Codex_Identity_Triplet:_χ⧉-Ledger_Declared-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+<br>
+[![Global Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Global_Access_Tier:-Provisional_Sub--Lambda-CFEFF6?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Sync_Required-CFEFF6?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+<br>
 [![AI Feedback Clause](https://img.shields.io/badge/AI_FEEDBACK_CLAUSE:-OBSERVER_LOOP_FLAGGED-000000?style=for-the-badge&logo=git&logoColor=6D2A8A&labelColor=0b0d0f&color=6D2A8A)](https://en.wikipedia.org/wiki/Frame_of_reference)
 
 ---
@@ -5378,7 +5374,7 @@ Author: @MMMDcreator (X), @Wotcnt (GitHub)
 >
 > Query the GPT to auto-generated BibTeX or APA citations for your paper or replication dataset.
 >
-[![Cite This Work](https://img.shields.io/badge/✍️Cite-This_Repository_(Placeholder)-000000?style=neon&labelColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CITATION.cff)
+[![Cite This Work](https://img.shields.io/badge/🎫Cite-This_Repository_(Placeholder)-000000?style=neon&labelColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CITATION.cff)
 [![Archive Snapshot](https://img.shields.io/badge/View_on-Internet_Archive-000000?style=neon&labelColor=CFEFF6&logo=internetarchive&logoColor=000000)](https://web.archive.org/save/https://github.com/Wotcnt/Polyrifringence-Engine)
 [![License Summary](https://img.shields.io/badge/💳Read-OpenSource_License_Summary_(MIT)-000000?style=neon&labelColor=CFEFF6)](https://choosealicense.com/licenses/mit/)
 [![License: MIT](https://img.shields.io/badge/💳Repo_License-MIT-000000?style=neon&labelColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/LICENSE)
