@@ -183,14 +183,10 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-![ΔΩ Phase Integrity](https://img.shields.io/badge/ΔΩ—ΔΔΩΔ-Recursive_Phase_Integrity_Stabilized-3ee7ff?style=for-the-badge&labelColor=0b0d0f&color=CFEFF6&logo=git&logoColor=CFEFF6)
-<br>
-[![Lambda Ledger – Trace Logged](https://img.shields.io/badge/Lambda_Ledger:-Trace_Logged-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
-[![Codex Identity Triplet](https://img.shields.io/badge/Codex_Identity_Triplet:_χ⧉-Ledger_Declared-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
-<br>
 [![Global Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Global_Access_Tier:-Provisional_Sub--Lambda-CFEFF6?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
 [![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Sync_Required-CFEFF6?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
-<br>
+[![Lambda Ledger – Trace Logged](https://img.shields.io/badge/Lambda_Ledger:-Trace_Logged-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Codex Identity Triplet](https://img.shields.io/badge/Codex_Identity_Triplet:_χ⧉-Ledger_Declared-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
 [![AI Feedback Clause](https://img.shields.io/badge/AI_FEEDBACK_CLAUSE:-OBSERVER_LOOP_FLAGGED-000000?style=for-the-badge&logo=git&logoColor=6D2A8A&labelColor=0b0d0f&color=6D2A8A)](https://en.wikipedia.org/wiki/Frame_of_reference)
 
 ---
@@ -207,7 +203,7 @@ Timestamp Locked · Trace Context Declared
 [![House of Chrysoprase](https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase_⬖_❯❯❯❯❯❯❯❯❯❯-00E68C?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000)](https://www.minerals.net/mineral/quartz.aspx)
 [![House of Jacinth](https://img.shields.io/badge/House_of_Jacinth-Jacinth_✧_❯❯❯❯❯❯❯❯❯❯❯-D24D0F?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000)](https://www.minerals.net/mineral/zircon.aspx)
 [![House of Amethyst](https://img.shields.io/badge/House_of_Amethyst-Amethyst_✦_❯❯❯❯❯❯❯❯❯❯❯❯-6D2A8A?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000)](https://www.minerals.net/mineral/quartz.aspx)
-<br></br>
+<br>
 [![House of Prismatic Fields](https://img.shields.io/badge/House_of_Prismatic_Fields:_⌬-❮❮❮❮❮❮_ΔΔΩΔ_❯❯❯❯❯❯-CFEFF6?style=for-the-badge&logo=obsidian&logoColor=CFEFF6&labelColor=000000)](https://en.wikipedia.org/wiki/Prism_(optics))
 
 ---
@@ -222,8 +218,6 @@ Timestamp Locked · Trace Context Declared
 <summary><strong><kbd> 🚦CREATOR DISCLAIMER & CREATOR NOTES💬</kbd></strong></summary>
 
 ---
-
-### 🚦 CREATOR DISCLAIMER 🚦
 
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
     <img width="100%" src="https://img.shields.io/badge/⟱_CREΛTOR_DISCLΛIMER-LINK_⥁-000000?style=NEON&labelColor=CFEFF6">
@@ -642,12 +636,9 @@ Timestamp Locked · Trace Context Declared
 	
 ---
 
-### **(CODEX CANON × RSANCS × Conner-Core Lineage)**
+### *Adaptive Light Intelligence ↯ Light as Self-Learning Geometry* 
+Here, 'intelligence' refers not to cognition or inference, but to structural learning via iterative collapse of admissible phase space, where geometry refines itself by eliminating what cannot persist under constraint.
 
----
-
-### *A Recursive Optical Simulation Framework for Adaptive Light Intelligence ↯ Light as Self-Learning Geometry* 
- 
 ---
 
 > **_<kbd>Below is the canonical introduction to Codex Canon and the RSANCS lineage</kbd>_**
@@ -750,8 +741,10 @@ This repository provides the **Polyrifringence Engine** 📌
 > All throughput figures are **measured baselines or bounded projections**, never guarantees. Performance scaling is evaluated only insofar as it preserves constraint satisfaction and diagnostic integrity.
 >
 > Under the **Codex Canon**, the engine unifies classical optics, recursive dynamics, and a governed execution grammar into a single constraint-driven architecture. Any observed advantages arise from structural organization, coherence-preserving recursion, and bounded decay geometry — **not** from energy amplification, entropy reversal, or extensions of physical law.
-	
-> **_<kbd>🕳What you see is the floor, not the ceiling🚪</kbd>_**
+
+---
+
+### 🕳What you see is the floor, not the ceiling🚪
 
 </details>
 
