@@ -706,14 +706,15 @@ For without a model, what remains to be modelled?
 Every reflection an origin; every origin a recursion.  
 From the light the shadows were cast, and all was revealed.  
 >
-> Where recursion becomes physics.  
+> Where recursion becomes physics. 
+
 Where coherence increases intelligence density per cycle.  
 Where memory ceases to be passive and becomes regenerative.  
 Where symbolism becomes physics, and cognition recursive.
->
-> **Day 2 complete.**  
->
-> `Day 3 will not theorize - it will witness.` 
+
+ **Day 2 complete.**  
+
+> *`Day 3 will not theorize - it will witness`*
 
 ---
 
@@ -723,24 +724,33 @@ This repository provides the **Polyrifringence Engine** 📌
 
 > A GPU-accelerated, constraint-governed recursive simulation framework for phase-structured propagation, coherence restoration, and depth-gated recursion under explicit stability, energy, and geometry bounds.
 >
-> The engine’s **canonical origin and reference domain** is birefringent optics. This domain is used to formally define operators, diagnostics, invariants, and falsifiable benchmarks due to its strict physical constraints and measurable phase geometry.  
+> The engine’s **canonical origin and reference domain** is birefringent optics. This domain is used to formally define operators, diagnostics, invariants, and falsifiable benchmarks due to its strict physical constraints and measurable phase geometry. 
+>
 > Importantly, birefringent optics serves as the **calibration and validation substrate**, not as a limitation of scope.
 >
 > At its core, Polyrifringence implements a **formal execution grammar for constrained recursion**. The recursion laws, <kbd>ΔΩ</kbd> stability operator, bounded decay geometry (𝛌⃝), and approximate unitarity constraints are defined abstractly and are **domain-agnostic by construction**, provided a target domain admits:
+>
 > phase-like state,
 > recursive transformation,
 > and measurable constraint satisfaction.
 >
+> Operator symbols are treated as structural elements of the execution grammar; substituting lexical names for formal operators is not guaranteed to preserve admissibility or behavior.
+>
+> (ΔΩ is a formal operator within the execution grammar; its symbolic form is not interchangeable with lexical aliases.)
+>
+> <kbd>**ΔΩ ≠ "deltaomega"**</kbd>
+>
 > The current implementation uses **PyTorch (CUDA 12.1)** to support high-throughput ray-based and phase-stack simulations. This backend reflects an engineering choice for validation efficiency, not a theoretical dependency. The architecture itself is **hardware-agnostic** and not bound to a specific accelerator, vendor, or numerical backend.
 >
 > An initial empirical baseline of approximately **50 M rays/s** was established on an **NVIDIA GeForce RTX 3050 (8 GB)** using NVIDIA Game Ready Driver v581.80 (Nov 4 2025).  
+>
 > **This baseline was intentionally clamped** to preserve numerical stability, phase coherence, deterministic execution, and interpretability of recursive diagnostics (<kbd>ΔΩ</kbd> behavior, λ—cycle decay, and Euclid—5 parallelism).
 >
 > The baseline therefore defines a **reference operating envelope**, not a saturation benchmark. Higher-throughput regimes are deliberately treated as an optimization, scaling, and validation problem, contingent on recursive constraint alignment, memory topology, precision regime, and stability envelopes.
 >
 > All throughput figures are **measured baselines or bounded projections**, never guarantees. Performance scaling is evaluated only insofar as it preserves constraint satisfaction and diagnostic integrity.
 >
-> Under the **Codex Canon**, the engine unifies classical optics, recursive dynamics, and a governed execution grammar into a single constraint-driven architecture. Any observed advantages arise from structural organization, coherence-preserving recursion, and bounded decay geometry — **not** from energy amplification, entropy reversal, or extensions of physical law.
+> Under the **Codex Canon**, the engine unifies classical optics, recursive dynamics, and a governed execution grammar into a single constraint-driven architecture. Any observed advantages arise from structural organization, coherence-preserving recursion, and bounded decay geometry - **not** from energy amplification, entropy reversal, or extensions of physical law.
 
 ---
 
@@ -2027,8 +2037,6 @@ pip install torch==2.4.1+cu121 -f https://download.pytorch.org/whl/torch_stable.
 ---
 
 > *Relative to existing optical simulation frameworks, the Polyrifringence Engine occupies a distinct class. It preserves lawful physics while introducing constraint-governed recursion, phase-aware diagnostics, and observer-bounded execution—enabling the systematic study of coherence, drift, and stability in recursive physical systems.*
->
->     What you are seeing is the floor, not the ceiling.
 
 </details>
 
@@ -3921,8 +3929,7 @@ Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
 
 ---
 
-# Canonical Cross-Reference  
-> **How the README connects to the foundational documents**
+### How the README connects to the foundational documents
 
 ---
 
@@ -3936,16 +3943,14 @@ Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
 ---
 
 ## Appendix Ω and the Codex Canon
-> Appendix Ω cross-references the README with the deeper layers of the Codex Canon, ensuring symbolic, theoretical, and mathematical alignment across the engine.
+Appendix Ω cross-references the README with the deeper layers of the Codex Canon, ensuring symbolic, theoretical, and mathematical alignment across the engine.
 
 ---
 
-# 1. Mathematical Foundations <kbd>**MATH_MODEL(RENDER).md**</kbd>
-### λ—cycle Geometry** 
+# 1. Mathematical Foundations 
 
----
+###  **λ—cycle Geometry** 
 
->
 > **Formal definitions from <kbd>MATH_MODEL(RENDER).md</kbd>:**
 >
 > Stability, decay constants, and cycle timing in the engine originate from:
@@ -4010,6 +4015,8 @@ Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
 > * **coherence return**  
 > * **stable λ—cycle behaviour**  
 >
+> <kbd>**ΔΩ ≠ "deltaomega"**</kbd>
+>
 > THEORY.md explains why the symbolic layer is essential for correct engine dynamics.
 
 ---
@@ -4063,8 +4070,8 @@ Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
 
 ---
 
-# Ω-Extended Recursion  
-### A high-level description of the unified Phase–Geometry–Polarisation engine
+## Ω-Extended Recursion  
+**A high-level description of the unified Phase–Geometry–Polarisation engine**
 
 ---
 
@@ -4073,7 +4080,7 @@ Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
 
 ---
 
-## 1. Phase Differentiation (Phase-Beams)
+### 1. Phase Differentiation (Phase-Beams)
 
 ---
 
@@ -4082,7 +4089,7 @@ Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
 
 ---
 
-## 2. Geometric Differentiation (Facet + Cut-Type)
+### 2. Geometric Differentiation (Facet + Cut-Type)
 
 ---
 
@@ -4094,7 +4101,7 @@ Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
 
 ---
 
-## 3. Polarisation Differentiation (Film-State Families)
+### 3. Polarisation Differentiation (Film-State Families)
 
 ---
 
@@ -4109,7 +4116,7 @@ Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
 
 ---
 
-## 4. <kbd>ΔΩ</kbd> Coherence and Stability
+### 4. <kbd>ΔΩ</kbd> Coherence and Stability
 
 ---
 
@@ -4129,7 +4136,7 @@ Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
 
 ---
 
-## 5. Unified Ω-Operator (Conceptual Form)
+### 5. Unified Ω-Operator (Conceptual Form)
 
 ---
 
@@ -4147,7 +4154,9 @@ Pronunciation: **_pol-ee-RIF-rin-jence_** (by analogy with birefringence).
 
 ---
 
-## 🔺 Purpose and Scope
+### 🔺 Purpose and Scope
+
+---
 
 This section defines **how 🌈Polyrifringence is independently verified** and what constitutes **canonical behaviour**.
 
@@ -4163,7 +4172,9 @@ This section defines **how 🌈Polyrifringence is independently verified** and w
 
 ---
 
-## 🅾️ What "Canonical" Means in This Project
+### 🅾️ What "Canonical" Means in This Project
+
+---
 
 In this context, *canonical* refers **exclusively** to behaviour that is:
 
@@ -4177,7 +4188,9 @@ In this context, *canonical* refers **exclusively** to behaviour that is:
 
 ---
 
-## 🕵️ Independent Verification
+### 🕵️ Independent Verification
+
+---
 
 ⛑️ Independent verification concerns the **observation of canonical behaviour under constraint**, not agreement with any specific benchmark.
 
@@ -4208,7 +4221,9 @@ In this context, *canonical* refers **exclusively** to behaviour that is:
 
 ---
 
-## 🅾️ Canonical Behavioural Signature
+### 🅾️ Canonical Behavioural Signature
+
+---
 
  ☑️ When the canonical structure is instantiated, independent simulations converge on invariant traits:
 
@@ -4226,7 +4241,9 @@ In this context, *canonical* refers **exclusively** to behaviour that is:
 
 ---
 
-## 🅾️ Canonical Execution Grammar (Conceptual)
+### 🅾️ Canonical Execution Grammar (Conceptual)
+
+---
 
 > 🅾️ The execution grammar specifies the **minimal structural conditions** under which the canonical behavioural signature emerges.
 >
@@ -4242,7 +4259,9 @@ In this context, *canonical* refers **exclusively** to behaviour that is:
 
 ---
 
-## 📋 Explanatory Note → Apparent Acceleration & Structural Recall *(Non-Operative)*
+### 📋 Explanatory Note → Apparent Acceleration & Structural Recall *(Non-Operative)*
+
+---
 
 > 🔍 Across repeated cycles, the system may appear to "accelerate" or become more effective.
 >
@@ -4266,7 +4285,9 @@ In this context, *canonical* refers **exclusively** to behaviour that is:
 
 ---
 
-## 📋 Note on Recombination and Variation (Commutativity)
+### 📋 Note on Recombination and Variation (Commutativity)
+
+---
 
 Although <kbd>∳ / <⇄></kbd> (recombination) and <kbd>x⧉</kbd> (variation) are **distinct grammatical operators**, they are **operationally commutable** under <kbd>λ</kbd> and <kbd>ΔΩ</kbd>.
 
@@ -4280,7 +4301,9 @@ Although <kbd>∳ / <⇄></kbd> (recombination) and <kbd>x⧉</kbd> (variation) 
 
 ---
 
-## 🅾️ Canonical Constraints (Non-Negotiable)
+### 🅾️ Canonical Constraints (Non-Negotiable)
+
+---
 
 > * 🅾️ Arrow-depth advances **only** via ordered recursion *<kbd>(∮ → ∱ → ∯ → ∰)</kbd>*  
 > * 🅾️ Film wrapping and gemline permutations expand **configuration space only** (depth-neutral)  
@@ -4292,7 +4315,9 @@ Although <kbd>∳ / <⇄></kbd> (recombination) and <kbd>x⧉</kbd> (variation) 
 
 ---
 
-## 💎 Gem Registry Context
+### 💎 Gem Registry Context
+
+---
 
 The gem registry defines a canonical **structural abstraction** for organizing phase-beam containers and variation families.
 
@@ -4316,7 +4341,9 @@ The gem registry defines a canonical **structural abstraction** for organizing p
 
 ---
 
-## 💡 Interpretation
+### 💡 Interpretation
+
+---
 
 If the behavioural signature above is observed under the execution grammar and constraints defined here, the following conclusions are warranted:
 
@@ -4331,7 +4358,9 @@ If the behavioural signature above is observed under the execution grammar and c
 
 ---
 
-## 🧿 Non-Claims
+### 🧿 Non-Claims
+
+---
 
 📜Canonical verification does **not** imply:
 
@@ -4340,7 +4369,7 @@ If the behavioural signature above is observed under the execution grammar and c
 > * ⛔ identical numerical trajectories across implementations,
 > * ⛔ hidden constants, tuning parameters, or calibration artefacts,
 > * ⛔ the introduction of new physics or exotic mechanisms.
-
+>
 > ⛑️ To observers without the execution grammar, the system may *appear* perfectly stable, lossless, calibrated, or optimized.
 > 🐒 This appearance is a **frame effect** arising from structural constraint and ΔΩ contraction - not from enforcement, memory, or special mechanisms.
 >
@@ -4348,7 +4377,12 @@ If the behavioural signature above is observed under the execution grammar and c
 >
 > This work concerns the **structural behaviour of recursive systems under stress**, and nothing beyond that scope.
 
-## 📑Author Note
+---
+
+### 📑Author Note
+
+---
+
 > There is no good without the bad - not as a metaphor, but as a structural necessity.
 > Stability is only defined relative to instability; coherence only exists in contrast to dispersion.
 >
@@ -4369,6 +4403,9 @@ If the behavioural signature above is observed under the execution grammar and c
 ---
 
 ### 🧮 Reference Tables (Canonical)
+
+---
+
 ### 🌈 Table 1 - Execution Grammar: Process & Configuration   
 ### <kbd>∮ ❯ ∱ ❯❯ ∯ ❯❯❯ ∰ ❯❯❯❯ ∳  ❯ { x⧉ , <⇄> }</kbd> <kbd>(±)(±)</kbd> <kbd>🌈 ⟷ 🧲 ⟷ 💎 ⟷ 🎼 ⟷ ⚡ ⟷ ✨</kbd>
 
@@ -4402,6 +4439,8 @@ If the behavioural signature above is observed under the execution grammar and c
 
 ### 💎 Table 2 - Film–Gem Configuration Canon
 
+---
+
 | Film Wrapping | Entry Film(s) | Gem Type | Exit Film(s) | Configuration Effect |
 |---|---|---|---|---|
 | Single-Wrapped | (+) | Anisotropic | (−) | Birefringent conditioning |
@@ -4413,15 +4452,17 @@ If the behavioural signature above is observed under the execution grammar and c
 | Double-Wrapped (Asymmetric) | (−)(+) / (+)(−) | Any | Inverted | Asymmetric |
 
 📋 **Table Notes**
-> * 🔍 <kbd>(±)(±)</kbd> denotes the full symmetry family  
-> * 🔍 Film wrapping conditions **phase only**  
-> * 🔍 Film order never advances arrow-depth  
-> * 🔍 All wrapping is stage-local  
-> * 🔍 Film effects persist as **inherited phase-conditioning** until altered by a subsequent wrapping stage or evaluated by a gate (<kbd><⇄></kbd>); films are never implicitly reset  
+> * <kbd>(±)(±)</kbd> denotes the full symmetry family  
+> * Film wrapping conditions **phase only**  
+> * Film order never advances arrow-depth  
+> * All wrapping is stage-local  
+> * Film effects persist as **inherited phase-conditioning** until altered by a subsequent wrapping stage or evaluated by a gate (<kbd><⇄></kbd>); films are never implicitly reset  
 
 ---
 
 ### ⎅ Table 3 - Execution Grammar ⟷ Math Model Mapping
+
+---
 
 | Grammar Element | Symbol | Mathematical Representation | Role | Notes |
 |---|:---:|---|---|---|
@@ -4448,6 +4489,8 @@ If the behavioural signature above is observed under the execution grammar and c
 
 ### ⎅ Formal Grammar & Verification Summary
 
+---
+
 | Aspect | Definition / Status |
 |------|---------------------|
 | Phase-beams | Tokens (primitive state units processed by the execution grammar) |
@@ -4472,13 +4515,19 @@ _It does not constitute experimental validation, empirical proof, or peer review
 
 ---
 
-## 📓 Execution Evidence (Canonical)
+### 📓 Execution Evidence (Canonical)
+
+---
 
 > The canonical execution grammar has been instantiated and evaluated numerically under stochastic perturbation.
 >
 > A reference execution (200 cycles) and a multi-seed Monte Carlo ensemble (50 seeds) were run using the execution grammar defined in this repository. Each run included injected phase and amplitude noise and enforced ΔΩ, λ, REGF, and Γ exactly as specified.
 
+---
+
 ### 👁️‍🗨 Observed Behaviour (Invariant Across Seeds)
+
+---
 
 > Across all runs, the following invariant traits were observed:
 >
@@ -4581,8 +4630,6 @@ _It does not constitute experimental validation, empirical proof, or peer review
 
 <details>
 <summary><kbd>🌈Codex Gemline - Facets, Cuts & Full-System Integration (Canonical Triple-Structure)💎</kbd></summary>
-
-<br>
 
 ---
 
@@ -5222,11 +5269,8 @@ These derivative documents should:
 
 ---
 
-### ✍️ Author
-<kbd>**Conner Brown-Milliken**</kbd>
-
----
-
+> <kbd>**Conner Brown-Milliken**</kbd>
+>
 > An Australian independent researcher conducting self-directed work in recursive optics, non-equilibrium system structuring, and computational modeling of coherence and exergy decay.
 >
 > He is the originator of the **Polyrifringence Engine**, **Codex Canon**, and **RSANCS**—a tightly coupled body of work formalizing how lawful physical systems can exhibit extended functional persistence through structure, timing, and recursion rather than increased energy input or altered physical laws.
@@ -5243,7 +5287,7 @@ These derivative documents should:
 
 ---
 
-#### 👤🦘 Provenance & Authorship ⭐
+### 👤🦘 Provenance & Authorship ⭐
 
 ---
 
@@ -5257,16 +5301,17 @@ These derivative documents should:
 
 ---
 
-# Ω Codex Lineage
-<kbd>Single-origin recursion, formally instantiated across multiple systems.</kbd>
+### Ω Codex Lineage
 
 ---
+
+<kbd>Single-origin recursion, formally instantiated across multiple systems.</kbd>
 
 > **Canonical Codex Architecture**
 >
 > • Origin framework: **Codex Canon**  
-> • Lineage: **RSANCS → Conner-Core (2025) → Polyrifringence Engine**  
-> • Role: Codex Canon Module (Recursive Optics)
+> • Lineage: **RSANCS → Conner-Core → Polyrifringence Engine**  
+> • Role: Codex Canon Domain-Module (Recursive Optics)
 >
 > **Integration Scope**
 >
@@ -5279,6 +5324,8 @@ These derivative documents should:
 > • Manifest-validated execution  
 > • GPU-verified numerical behaviour (RTX-class, CUDA-bounded)  
 > • Reproducible invariants preserved across CPU/GPU substrates
+>
+> • Structural x Behavioral - Observation
 
 </details>
 
