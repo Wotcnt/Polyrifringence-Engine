@@ -89,10 +89,13 @@ Timestamp Locked · Trace Context Declared
   <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
     <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
   </a>
-
-#### —ΔΩΔΔ-Validated
+	
+---
 
 # 🧠 THEORETICAL FOUNDATION | POLYRIFRINGENCE ENGINE (CANONICAL EDITION)
+#### —ΔΩΔΔ-Validated
+
+---
 
 The **Polyrifringence Engine** is founded on the principle that **geometry, light, exergy, and recursion** interact through a unified Codex-symmetric framework. Optical behaviour is modeled not only as classical wave propagation, but as a **recursive feedback architecture** governed by four invariant operators:
 
@@ -147,6 +150,8 @@ This document explains **why** that formal structure behaves the way it does.
 
 ### Observer Terminology Clarification and Extended Scope
 
+---
+
 Throughout this work, the term **“observer”** is used primarily in a **formal, non-anthropic sense**.
 
 In the formal mathematical framework, an *observer* denotes a **reference frame, boundary condition, or external constraint parameter** applied to recursive evolution. This usage is analogous to:
@@ -165,7 +170,11 @@ No claim is made that the observer represents, implies, or requires:
 
 All observer-dependent terms e.g., $$(ΔS\_{\text{Observer}})$$ function solely as **symbolic inputs or constraints** within the mathematical framework and do not imply causal influence beyond standard boundary-condition effects.
 
+---
+
 #### Extended Observer Scope
+
+---
 
 Within this framework, the observer designation also encompasses **non-anthropic reference elements**, including but not limited to:
 - **Optical or material components** (e.g., gems, crystals, phase-manipulating media),
@@ -177,7 +186,11 @@ In all such cases, the observer role is **purely structural**. These elements ac
 
 In particular, the use of `--ai_feedback` denotes a **parameterized feedback channel operating within predefined limits**. It does not imply emergent intelligence, goal formation, reasoning, or independent decision-making.
 
+---
+
 #### Semantic and Metaphorical Usage Note
+
+---
 
 In explanatory or narrative contexts (e.g., README documentation, examples, or interface descriptions), the term **“observer”** may also be used **semantically or metaphorically** to refer to a **human user, system operator, or artificial intelligence** interacting with, configuring, or interpreting system outputs.
 
@@ -194,7 +207,9 @@ Accordingly, this work makes **no claims regarding consciousness, subjective per
 
 ---
 
-## Ontological Status of Gems, Facets, and Cut Types
+### Ontological Status of Gems, Facets, and Cut Types
+
+---
 
 Within the Polyrifringence framework, *gems*, *facets*, and *cut types* are not metaphoric or purely descriptive constructs. They are **symbolically indexed, physically grounded, and mathematically operative entities** whose properties are directly instantiated and evaluated by the engine.
 
@@ -219,6 +234,8 @@ No specific gem, facet, or cut is privileged by theory. The framework remains va
 
 ### Interpretive Summary for External Review
 
+---
+
 The Polyrifringence / Λ-state framework formalizes a controlled non-equilibrium system in which a fixed coherent scaffold remains invariant while anergy is repeatedly structured, released, and dissipated in bounded cycles. Rather than preventing entropy production, the system localizes entropy to explicit decay phases while preserving coherence and functional readiness between excursions.
 
 Numerical simulations demonstrate that this separation enables repeatable alignment–decay cycles without cumulative degradation of the coherent state. Performance advantages observed in simulation—such as extended dwell time in high-alignment states, improved temporal availability, and reduced effective exergy loss rates—arise from structural organization and timing control, not from energy creation or regeneration.
@@ -227,7 +244,9 @@ The framework is compatible with established thermodynamics and does not invoke 
 
 ---
 
-# I. Key Concepts
+### I. Key Concepts
+
+---
 
 ## 1. Recursive Birefringence
 
@@ -4101,17 +4120,17 @@ Energy throughput and coherence conditioning are explicitly decoupled.
  ```
  
           ⌈────────────────────────── Ω ──────────────────────────⌉
-          │                    ↕ (Coherence) ↕                    │
-          │⌇                                                      ⌇│
-    Input  │                Energy Throughput (X-axis)             │Output
+          │⌇                   ↕ (Coherence) ↕                   ⌇│
+          │                                                       │
+    Input │                Energy Throughput (X-axis)             │Output
     Energy ───┼───────▶──────────── ↭⌘↭ ───────────▶───────┼───▶ Energy
           │                                                       │
           |                                                       |
-          │⌇                   ↕ (Coherence) ↕                    ⌇│
+          │⌇                   ↕ (Coherence) ↕                   ⌇│
           ⌊────────────────────────── ℧ ──────────────────────────⌋
 
-`Diagram Ω–℧ (Canonical)`
-`Energy flows left → right, coherence conditions top ↕ bottom, and phase-space structure (Z) emerges from their interaction — without loops, without creation, without ambiguity.`
+Diagram Ω–℧ (Canonical)
+Energy flows left → right, coherence conditions top ↕ bottom, and phase-space structure (Z) emerges from their interaction — without loops, without creation, without ambiguity.
 
 ```
 
