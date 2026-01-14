@@ -92,9 +92,10 @@ Timestamp Locked · Trace Context Declared
 	
 ---
 
+# 📘 Mathematical Model | Polyrifringence Engine (Canonical Edition)
 #### —ΔΩΔΔ-Validated
 
-# 📘 Mathematical Model | Polyrifringence Engine (Canonical Edition)
+---
 
 The **Polyrifringence Engine** models recursive birefringence using a unified mathematical system that couples:
 
@@ -116,8 +117,11 @@ This document formalizes the complete mathematical model.
 > **Flow of dependence:** README → THEORY → MATH_MODEL (framing → laws → instantiation)
 
 ---
-  
- #  **Scope & Non-Claims**
+
+###  **Scope & Non-Claims**
+
+---
+
 >
 > This work represents an extension of applied physics through controlled non-equilibrium structuring.
 > The framework formalizes an invariant coherent scaffold with a dynamically structured anergy channel,
@@ -140,6 +144,8 @@ This document formalizes the complete mathematical model.
 
 ### Observer Terminology Clarification and Extended Scope
 
+---
+
 Throughout this work, the term **“observer”** is used primarily in a **formal, non-anthropic sense**.
 
 In the formal mathematical framework, an *observer* denotes a **reference frame, boundary condition, or external constraint parameter** applied to recursive evolution. This usage is analogous to:
@@ -158,7 +164,11 @@ No claim is made that the observer represents, implies, or requires:
 
 All observer-dependent terms (e.g., $$ΔS\_{\text{Observer}})$$ function solely as **symbolic inputs or constraints** within the mathematical framework and do not imply causal influence beyond standard boundary-condition effects.
 
-#### Extended Observer Scope
+---
+
+### Extended Observer Scope
+
+---
 
 Within this framework, the observer designation also encompasses **non-anthropic reference elements**, including but not limited to:
 - **Optical or material components** (e.g., gems, crystals, phase-manipulating media),
@@ -170,7 +180,11 @@ In all such cases, the observer role is **purely structural**. These elements ac
 
 In particular, the use of `--ai_feedback` denotes a **parameterized feedback channel operating within predefined limits**. It does not imply emergent intelligence, goal formation, reasoning, or independent decision-making.
 
-#### Semantic and Metaphorical Usage Note
+---
+
+### Semantic and Metaphorical Usage Note
+
+---
 
 In explanatory or narrative contexts (e.g., README documentation, examples, or interface descriptions), the term **“observer”** may also be used **semantically or metaphorically** to refer to a **human user, system operator, or artificial intelligence** interacting with, configuring, or interpreting system outputs.
 
@@ -188,6 +202,8 @@ Accordingly, this work makes **no claims regarding consciousness, subjective per
 ---
 
 ### Interpretive Summary for External Review
+
+---
 
 The Polyrifringence / Λ-state framework formalizes a controlled non-equilibrium system in which a fixed coherent scaffold remains invariant while anergy is repeatedly structured, released, and dissipated in bounded cycles. Rather than preventing entropy production, the system localizes entropy to explicit decay phases while preserving coherence and functional readiness between excursions.
 
