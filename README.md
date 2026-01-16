@@ -452,6 +452,9 @@ The system is not presented as a debate against external priors; it is presented
     <img width="100%" src="https://img.shields.io/badge/🅾️_Authorial_Technical_Orientation-Plain--Language_%7C_Optional--Link_⥀-B31B1B?style=neon&labelColor=CFEFF6">
   </a>
 
+### All paths offered share a geometry defined by the work.
+### No paths are directed; only the space is defined.
+
 ---
 
 ###  ⛑️New readers: <kbd>Canonical orientation for interpretation, scope, and document cohesion</kbd> 
