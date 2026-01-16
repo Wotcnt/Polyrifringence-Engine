@@ -227,6 +227,10 @@ Timestamp Locked · Trace Context Declared
 <kbd>Creator statements, ethical interaction context, third-party references, and interpretive constraints</kbd>
 </em></p>
 
+<kbd>This document is a constrained formal frame. If you are unwilling to read it on its own terms (definitions, non-claims, invariants), stop here.
+The canonical system consists of README.md, THEORY.md, and MATH_MODEL(Render).md and must be evaluated as a unified whole.
+The system is not presented as a debate against external priors; it is presented as an internal model with explicit scope limits.</kbd>
+
 ---
 
  🔲 Third-Party References & Visual Markers 🔲
