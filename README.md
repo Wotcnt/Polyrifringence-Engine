@@ -3194,11 +3194,12 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-#  ⚞Polyrifringence⚟
 ### 🜎 Codex Canon Appendix - Drop Down Section 🜎
 > <kbd>⌥Conceptual Foundation; An extended overview from the Codex Canon Series ⎇</kbd>
 
 ---
+
+#  ⚞Polyrifringence⚟
 
 > **_What if light could condition its own propagation?_**
 >  
@@ -3255,7 +3256,7 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-## **Symbolic–Mathematical Interpretation Grammar**
+### **Symbolic–Mathematical Interpretation Grammar**
 
 ---
 
@@ -3284,7 +3285,7 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-#### **Mathematical Symbol & Execution Notation Legend**
+### **Mathematical Symbol & Execution Notation Legend**
 
 ---
 
@@ -3320,7 +3321,7 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-#### **Stage-Local Beam–Film–Gem Execution Map** *(enumerated execution configurations)*
+### **Stage-Local Beam–Film–Gem Execution Map** *(enumerated execution configurations)*
 
 ---
 
@@ -3334,7 +3335,9 @@ inter-GPU phase     : 0.16 mrad
 
 ---
 
-## **Film–Gem Interaction Canon (Stage-Invariant, Entry/Gem/Exit)**
+### **Film–Gem Interaction Canon (Stage-Invariant, Entry/Gem/Exit)**
+
+---
 
 This section enumerates the **canonical film-wrapping configurations** applied at any execution stage  
 (<kbd>∮</kbd>, <kbd>∱</kbd>, <kbd>∯</kbd>, <kbd>∰</kbd>, <kbd>∳</kbd>, <kbd>x⧉</kbd>).  
@@ -3492,7 +3495,11 @@ Each configuration conditions phase-state on **entry and exit** of the same stag
 >
 ><kbd>🌈</kbd> Each branch below represents a potential sub-recursion or coupled state acting on the <kbd>∳</kbd>`nₓ-Phase-Beam` <kbd>x⧉</kbd>.
 
-## **Template Path** *(updated, scope-complete)*
+---
+
+### **Template Path** *(updated, scope-complete)*
+
+---
 
 > **`∮Beam—>±±∱Beam±±—>>——>>—∯n-Beam——>>>>——∰nₓ-Beam——>>>>——>>>>∳nₓ-Phase-Beam*x⧉<⇄>`**
 >
@@ -3513,13 +3520,13 @@ Each configuration conditions phase-state on **entry and exit** of the same stag
  
 ---
 
-## **Base recursion chain**
+### **Base recursion chain**
+
+---
 
 > `——>>>>——>>>> ∳nₓ-Phase-Beam *x⧉ →`
 >
 > *Sequential beam bifurcation and phase-state expansion; establishes the primary recursive stack.*
-
----
 
 ---
 
@@ -4897,7 +4904,7 @@ _It does not constitute experimental validation, empirical proof, or peer review
 
 ---
 
-### High Priest’s Breastplate (Exodus 28) Mineralogical Cross-Reference
+### ♗ High Priest’s Breastplate (Exodus 28) Mineralogical Cross-Reference 🧮
 > **Purpose:** Establishes historical and mineralogical provenance for the Codex Canon 12 + 1 Gemline, verifying each entry’s biblical and scientific lineage.
 
 ---
@@ -5108,7 +5115,7 @@ _It does not constitute experimental validation, empirical proof, or peer review
 ---
 
 <p><em>
-Communication norms, contribution pathways, and observer-aligned modes of interaction
+📋 Communication norms, contribution pathways, and observer-aligned modes of interaction
 </em></p>
 
 ---
@@ -5118,7 +5125,9 @@ Communication norms, contribution pathways, and observer-aligned modes of intera
 > Engagement is defined first by **observation**, **intent**, and **coherence**, not by code submission alone.
 >
 > Participation may take many valid forms, including but not limited to:
->
+
+---
+
 > **Analytical discourse**  
   * Deep reading, interpretation, critique, and discussion of the `README.md`, `MATH_MODEL(RENDER).md`, and `THEORY.md`, including observer-lenses perspectives and cross-domain synthesis.
 >
@@ -5126,7 +5135,7 @@ Communication norms, contribution pathways, and observer-aligned modes of intera
   * Running simulations, generating plots, visualisations, or datasets derived from the canonical models, and sharing results with clear attribution and parameter disclosure.
 >
 > **Real-time or hybrid experiments**  
-  * Explorations that combine `MATH_MODEL(RENDER).md` and `THEORY.md` into live or iterative simulations, GPU-accelerated runs, or comparative studies against classical or alternative frameworks.
+  * Explorations that combine `README.md`, `THEORY.md` and `MATH_MODEL(RENDER).md` into live or iterative simulations, GPU-accelerated runs, or comparative studies against classical or alternative frameworks.
 
 > **Observer-based interpretation**  
   * Documenting how understanding evolves across repeated passes, including reverse-reading, structural reframing, or symbolic alignment analysis.
@@ -5145,7 +5154,7 @@ Communication norms, contribution pathways, and observer-aligned modes of intera
 
 ---
 
-### 🔰 Contribution & Review Protocol
+### 🔰 Preferred Contribution Path & Review Protocol 
 
 ---
 
@@ -5164,9 +5173,14 @@ Communication norms, contribution pathways, and observer-aligned modes of intera
 > Submit work for **review and discussion**  
   Contributions may be reviewed by the Creator, fellow **Polyrifronauts**, and the wider public, with emphasis on transparency, traceability, and ethical consistency.
 
+These derivative documents should:
+> * explore extensions, interpretations, or applications,
+> * preserve symbolic and ethical coherence,
+> * and clearly distinguish personal hypotheses from canonical claims.
+
 ---
 
-#### Important Notes
+#### 🅾️ Important Notes 
 
 ---
 
@@ -5187,37 +5201,7 @@ Communication norms, contribution pathways, and observer-aligned modes of intera
 
 ---
 
-#### 🧭 Preferred Contribution Path
-
----
-
-> Instead of editing the canonical files directly, contributors are encouraged to:
->
-> Create their own:
->
-> * `USER_MATH_MODEL(RENDER).md`
-> * `USER_THEORY.md`
->
-> Built openly on top of the original:
->
-> * `MATH_MODEL(RENDER).md`
-> * `THEORY.md`
-> * `README.md`
-
-These derivative documents should:
-> * explore extensions, interpretations, or applications,
-> * preserve symbolic and ethical coherence,
-> * and clearly distinguish personal hypotheses from canonical claims.
->
-> Submissions may be shared for **review, discussion, and validation** by:
->
-> * the creator,
-> * fellow *Polyrifronauts*,
-> * and the wider public research community.
-
----
-
-#### 🧪 Other Valid Forms of Contribution
+#### ✅ Other Valid Forms of Contribution
 
 ---
 
@@ -5227,7 +5211,7 @@ These derivative documents should:
 >
 > * Technical or philosophical discourse and discussion
 > * Simulation outputs, plots, or visualizations
-> * Real-time or offline simulations combining `MATH_MODEL(RENDER).md` and `THEORY.md`
+> * Real-time or offline simulations combining `README.md`, `THEORY.md` and `MATH_MODEL(RENDER).md`
 > * Comparative analysis against known physical, optical, or computational models
 > * Experimental notebooks, reproducibility logs, or benchmark runs
 > * Thoughtful critiques that improve clarity, rigor, or interpretability
@@ -5236,7 +5220,7 @@ These derivative documents should:
 
 ---
 
-#### 🌐 Community & Communication
+#### 🌏 Community & Communication
 
 ---
 
@@ -5308,7 +5292,7 @@ These derivative documents should:
 
 ---
 
-### Ω Codex Lineage
+### Ω Codex Lineage ℧
 
 ---
 
